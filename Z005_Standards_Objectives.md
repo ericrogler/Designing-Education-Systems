@@ -17,12 +17,12 @@ nav_order: 11
 
 *Notice: This chapter is catered more towards teachers.*
 
-Standards for learning depend on what, where, and how you teach. There may be many standards or few standards to follow, so decide where to be flexible on topics to enhance learning. You may also need to make concessions on content and time due to unexpected events or to stay within deadlines.
+Standards for learning depend on what, where, and how you teach. There may be many standards or few standards to follow, so decide where to be flexible on topics to enhance learning. You may also need to make concessions on content and time due to unexpected events or to stay within budget and deadlines.
 
-**Your main goal with standards is to sufficiently meet them and go into the appropriate depth on each relevant topic.**
+**Your main goal with standards is to sufficiently meet (or exceed) all of the relevant items imposed in them.**
 - Despite this goal, sometimes what matters more is not the material in the curriculum, but how you present the material in the curriculum.
 
-Another lesser known reality, which should be common knowledge in my opinion, is teachers have a widely varying range of autonomy when deciding standards and their curriculum. Some teachers have a nonexistent level of autonomy which means they follow a chosen curriculum as is, without significant modification, including dotting all the i's and crossing the t's. Other teachers have near 100% professional autonomy and are free to do what they need/want so long as it satisfies any established standards. Teacher autonomy goes anywhere from nonexistent to ever present.
+What should be common knowledge, if it is not already, is teachers have a widely varying range of autonomy on which standards to follow and how they implement their curricula. Some teachers have a nonexistent level of autonomy which means they follow a chosen curriculum as is, without significant modification, including dotting all the i's and crossing the t's. Other teachers have near 100% professional autonomy and are free to do what they need/want so long as it satisfies any established standards (i.e. "meets the baseline"). Teacher autonomy goes anywhere from nonexistent to ever present.
 - This isn't to say all standardization is *bad*, but it does trade off differentiation.
 
 If you're transitioning or changing into new standards or curricula, be aware you typically cannot solve every problem by doing so. Any change, however, should solve at least *some* of your major pain points.
@@ -34,11 +34,9 @@ If you're transitioning or changing into new standards or curricula, be aware yo
 
 Can you question and go against established standards? Of course.
 
-*Should* you? If you have the time, effort, and money required to see it through, or there's a legitimate concern about said standards, then maybe so. You could further develop a case doing it *your* way is more effective, but that requires data collection and convincing other people to adhere to that viewpoint.
+*Should* you? If you have the time, effort, and resources (like money) required to see it through, or there's a legitimate concern about said standards, then maybe so. You could further develop a case doing it *your* way is more effective, but that requires data collection and convincing other people to adhere to that viewpoint.
 
-Regardless, **do not cut corners with standards and objectives for any education system!** Core subjects and concepts are important.
-
-There are several reasons why:
+Regardless, **do not cut corners with standards and objectives for any education system!** Having *some* expectations and covering the core subjects and concepts are important. There are several reasons why:
 
 - It's hard to build a good curriculum, or learning experience in general, without standards
 - Some educational materials may not align with standards, which adds noise when you need signals
@@ -70,11 +68,11 @@ For colleges and universities, a similar search process may occur in your specia
 From there, you may find various items, such as grade-level expectations (GLEs), evidence outcomes, connections and contexts, concepts, as well as elaborations.
 
 You may come across other sets of standards (not to be confused with curricula!) such as NGSS and Common Core as well (NextGenScience, n.d.)(Common Core State Standards Initiative, n.d.). They include collaboration with organizations spanning across the nation or some select state(s), but contributing towards school curriculums (National Science Teaching Association, n.d.). Initiatives like these may also receive federal grants, but it is not always the case. States may choose to partially adopt, or adapt, standards rather than fully accepting or rejecting them.
-- One example is the Race to the Top initiative (2012)
+- One example is the Race to the Top initiative (2012) from the United States White House.
 
 **Let me emphasize four critical points:**
 
-- States and districts, in the United States, may "require" teachers to cover the appropriate standards. Even if everything is done correctly, you may need to shorten or summarize certain standards to stay on schedule. That's not always a failure on your part, but a reality of teaching and managing high numbers of students.
+- States and districts may "require" teachers to cover the appropriate standards. Even if everything is done correctly, you may need to shorten or summarize certain standards to stay on schedule. That's not always a failure on your part, but a reality of teaching and managing high numbers of students.
 - A good set of standards can still make a poor curriculum.
 - The same set of standards and how they're implemented can vary widely from system to system, school to school, district to district, and state to state.
 - Sometimes standards are not solely based on what is best for learning, but as a response to the cultural and political environments they're developed in.
@@ -83,18 +81,17 @@ You may come across other sets of standards (not to be confused with curricula!)
 Though you may have a good curriculum or set of standards to work with, the other part is the educator creating and delivering learning content based on them. It's a two part ordeal; the standards should be good and the person/method should also be good. If the teacher isn't good either, the students may get unduly passed through and thrust into an environment they're unprepared for in the future. If both good teachers and curricula are present, there is still the risk of systemic pressure passing along students in the case of failure.
 - Sadly, I find teacher quality notoriously hard to regulate. You can check for indicators and signals, like passing certain exams or having targeted degrees, but they often measure compliance and meeting requirements more than actual effectiveness in education.
 
-### **How Do I Design Something?**
+### **How Do I Design Curricula?**
 
-You can make this as complicated or as simple as you want. I'll try and opt for a simple process here.
+You can make this as complicated or as simple as you want. I'll try and opt for a simple process here, but that also means massively oversimplifying things.
 
-As a caution: if your goal is to make something *original* and showcase competency, avoid anything AI (or existing automation technology) can easily replicate, because it won't showcase as well what *you*, the human, can do.
-- You could still argue utilizing AI is OK, but let's pretend you're not allowed to use it.
+As a caution: if your goal is to make something *original* and showcase competency, avoid anything AI (or any other existing automation technology) can easily replicate, because it won't showcase as well what *you*, the human, can do.
 
 Let's say I want to map out a curriculum within an education system or design a system I want students to interact with. Establishing that requires several steps *before* sorting out details, such as:
 1. Pick a domain
     - e.g. Science, Math, Language Arts, etc.
 2. Pick a topic (or topics) in that domain.
-    - e.g. Calculus, Algebra, Nuclear Astrophysics, etc.
+    - e.g. Calculus, Algebra, Applied Ballistics, etc.
 3. Figure out what standards (i.e. requirements) you need to meet.
     - e.g. In Calculus, you need to cover derivatives and integrals.
 4. Design ways for students to interface with the content.
@@ -107,19 +104,18 @@ The process stays *mostly* consistent outside education systems too, but may dif
 
 ### **What About Standardized Tests?**
 
-*They're a necessary evil,* but they're also "the devil you know" which you can work with toward a shared goal. They're not useless, but they should be limited.
+*They're a necessary evil,* but they're also "the devil you know" which you can work with toward a shared goal. They're not useless, but they should be carefully implemented.
 
 This is especially true on standardized tests hosted by third parties or enforced within your own education system. A test like this loses its importance if students can differentiate, opt out of it, and have no stakes if they fail.
 - Yes, not having any stakes counts as cutting corners.
 
-To give an example that applies, but isn't related to education for neutral context: Medical checkups.
+To give an example that applies, but isn't related to education for neutral context: physical checkups at your doctor.
 
-Imagine you go to the doctor's office for a physical checkup, and they decide to prescribe you a blood test. There might not be anything *wrong* with you, but there may be something they saw and they're making sure to rule out possibilities and uncover hidden issues. After you take the blood test, you'll get results and may see items like Albumin, Hemoglobin, MCV, and more (Cleveland Clinic, 2022). Medical professionals generally know what the values on these metrics mean and how they're measured. They *could* be subjective on how they interpret and evaluate blood work results, which may cause a Type I or II error (i.e. a false positive or false negative) if severe enough, but there's a known, verified baseline they can reference from and double check any results.
+Imagine you go to the doctor's office for a physical checkup, and they decide to prescribe you a blood test. There might not be anything *wrong* with you, but there may be something they saw and they're making sure to rule out possibilities and uncover hidden issues. After you take the blood test, you'll get results and may see items like Albumin, Hemoglobin, MCV, and more (Cleveland Clinic, 2022). Medical professionals generally know what the values on these metrics mean and how they're measured. They *could* be subjective on how they interpret and evaluate blood work results, which may cause a Type I or II error (i.e. a false positive or false negative) if severe enough, but there's a known, verified "objective" baseline they can reference from and double check any results.
 
-Scores and metrics are a thing in about every field, major, study, or area of expertise; a baseline level to determine good vs bad, big vs small, etc. If that isn't there, or cannot be agreed upon, you get multiple competing standards and increase confusion on which standard(s) actually are valuable.
-- Or you might see there's 6 different standards, want to make your own, and now people have 7 different standards competing against each other.
+Scores and metrics are a thing in about every field, major, study, or area of expertise; a baseline level to determine good vs bad, big vs small, etc. If that isn't there, or cannot be agreed upon, you only add to the pool of already existing, multiple competing standards and increase confusion on which standard(s) actually are valuable.
 
-Put another way, you need a consistent way *people can agree on* to measure competency. Standardized test scores are one of many metrics, which means they're diagnostic and used *as part of an evaluation* (more on metrics in a later chapter). You can easily set your own standards at a micro level (personal/school), but not as easily at a macro level (organization/coalition). Some consistent way to verify actual ability and is not subject to easy manipulation is, in my opinion, far more trustworthy.
+Put another way, you need a consistent way *people can agree on* to measure competency. Standardized test scores are one of many metrics, which means they're diagnostic and used *as part of an evaluation* (more on metrics in a later chapter). You can easily set your own separate standards at a micro level (e.g. personal/school), but not as easily at a macro level (e.g. organization/coalition). Some consistent way to verify actual ability and is not subject to easy manipulation is, in my opinion, far more trustworthy.
 
 The ideal system would prioritize evaluating many different traits from someone, but that may not be feasible due to the testing organization's own bias, resources and time available, or political/social pressures. It may also not be prioritized simply because society, as a whole, doesn't value a particular skillset or traits, so sees no need to evaluate based on them.
 
@@ -127,7 +123,7 @@ Some people may be against standardized tests because it's a potential case of e
 
 Standardized tests counter multiple issues with adhering to metrics (more on metrics in later chapters). For example, they can highlight discrepancies and issues such as a student getting padded scores/grades at their local school, but failing horribly on the standard test at the state/national level. It could also establish probable cause and prompt investigation into teachers, schools, etc. to ensure the curriculum students were supposed to get is what they're actually getting. In this case, a high-stakes standardized test as part of an admission process into a specialized program or university may be acceptable because it intentionally sets a strict baseline to reduce the likelihood incoming students won't have knowledge gaps, suffer problems, fall behind, fail, and waste their time, effort, and money.
 
-At the same time, it is also possible to have *too* many standardized tests where the only thing educators can do is teach the "test" rather than teach the content. At the classroom level, educators need to focus on *instruction* over evaluation. You can still do standardized tests to check progression, but they need to be either low-stakes and frequently occurring (about once a year) or high-stakes and less frequent (once every two to three years). **Over-testing risks eliminating assessments that support learning and take away weeks, if not months or years, of instruction and supports students actually need to succeed.**
+At the same time, you can have *too* many standardized tests where the only thing educators can do with their already limited resources is teach to the "test" rather than teach to understand the content. At the classroom level, educators need to focus on *instruction* over evaluation. You can still do standardized tests to check progression, but they need to be either low-stakes and frequently occurring (about once a year) or high-stakes and less frequent (once every two to three years). **Overusing standardized tests risks eliminating assessments that support learning and take away weeks, if not months or years, of instruction and supports from students.**
 
 ### **Grades & Grading System**
 
@@ -141,7 +137,7 @@ There's several things you'll need to create a functional grading system:
 - Transparency
 - Proportionality
 
-Consistency is similar to idempotence. One student submitting work and getting a bad grade should have a similar effect to if 1000+ students submit that same work and *also* get that same bad grade. Consistent also includes reliability; if you had someone else grading work using the same standards as you, they should also reach the same conclusion as you.
+Consistency is similar to idempotence. One student submitting work and getting a bad grade should have a similar effect to if 1000+ students submit that same work and *also* get that same bad grade. Consistency also includes reliability, where if you had someone else grading work using the same standards as you, they should also reach a similar conclusion like you.
 
 Objectivity is relatively straightforward. Determining the grade of a student should not involve factors irrelevant to their work, such as the grader's or student's disposition towards each other, when reasonable and feasible. There may be leniency in emergencies and other severe circumstances, but it shouldn't affect *how* the work is viewed too much. As an example, a famous person you respect should not be graded higher vs a non-famous person you may not respect if they submitted the same work.
 - To put it briefly: standardization mitigates subjectivity.
@@ -154,9 +150,9 @@ Transparency matters as criteria should be communicated and understood by the st
 
 Proportionality is how grades are divided amongst work for students. For example, you may see this as weights on how much quizzes, tests, homework, etc. affect the final grade. As a general advice for systems utilizing weights: the weight of an assessment should scale with the significance towards a particular goal.
 
-With those parts stated earlier, let's order them. Validity issues should be solved first, followed by proportionality issues second. Consistency should be figured out after those two, followed by transparency. You get the right standard, the right ways to weigh how learning is achieved, how to consistently and fairly grade students, and finally the way to communicate it all towards those same students. 
+Validity issues should be solved first, followed by proportionality issues second. Consistency should be figured out after those two, followed by transparency. You get the right standard, the right ways to weigh how learning is achieved and measured, how to consistently and fairly grade students, and finally the way to communicate it all towards those same students. 
 
-Feedback and objectivity are ongoing measures running parallel to the other aspects. You'll figure these out near the beginning, but monitor and maintain throughout the entire learning journey. It's how you figure out if things are going right and wrong from start to finish and what avoids rose-tinted glasses when reviewing all the data and metrics you're tracking along the way.
+Feedback and objectivity are ongoing measures running parallel to the other aspects. You'll figure these out near the beginning, but monitor and maintain throughout the entire learning journey. It's how you see if things are going right and wrong from start to finish and what mitigates the "rose-tinted glasses" effect when reviewing all the data and metrics you're tracking along the way.
 
 ### **Formative & Summative Assessments**
 
@@ -185,15 +181,27 @@ These assessments are not things to be completely avoided. It's expected to find
 
 Generally speaking, **yes.**
 
-For a business, if their products and services don't meet the standards of their users and/or other metrics they define, the company needs to meet these standards and figure out ways to either recoup losses, cut costs, or risk going bankrupt and out of business.
+For a business, if their products and services don't meet the standards of their users and/or other metrics they define, the company needs to meet these standards and figure out ways to either recoup losses or cut costs. Their users not giving money to purchase inadequate products/services means a business may not generate profits and likely go bankrupt and out of business.
 
 You may think it's harsh, but I'll ask a question of the reader: Would you knowingly and willingly stick with a brand or product that wasn't good by your own standards?
 - What about if there were no alternatives?
 - What about if you *had* to use it despite whatever issues it had?
 
-The same parallel applies to education systems. Investors, donators, and local, state, and federal governments consider how a school performs through its ability to meet, or exceed, standards. Parents, students, and families may support education and schools they feel are valuable, but could be forced to accept whatever education is available regardless of its quality. 
+The same parallel applies to education systems. Many groups and individuals, like investors, donators, local governments, state governments, and federal governments, consider how a school performs through its ability to meet, or exceed, certain standards. Parents, students, and families may support education and schools they feel are valuable (i.e. meet *their* standards), but could be forced to accept whatever education is available regardless of its quality. 
 
 If a school is performing well and has a reputable track record, perhaps you're more likely to contribute toward it because its ROI (Return on Investment) is higher. If a school doesn't have those qualities, then you're less likely to invest into it. How this may play out in policy is through two key examples, No Child Left Behind and Every Student Succeeds Act, which I'll cover more in the Metrics chapter.
+
+### **The "Gifted" Student Problem**
+
+If you're in a situation where a student refuses to do any work because they're a "gifted" student and they believe that work too easy or beneath them, consider the following.
+
+You, the educator, need *evidence* students know this stuff and meet the standards you're following. This is done by showcasing proof, like completing work samples, classroom engagement and participation, and finishing said work to a sufficient quality.
+
+Without this proof, an educator cannot reasonably give a student more challenging material without undue harm and risk to their education. For example, why would I trust someone to cook Duck Pâté en Croûte right when they cannot even do scrambled eggs right? Boredom, or thinking the work is a "waste of time," is not an excuse for task avoidance and missing/late assignments.
+
+Even if the better method is self-studying, self-studying *still* requires evidence and proof of their competence to showcase they learned! Bored people are boring people, so finish up the work *now* so you get more time to explore what you're curious about.
+
+Send this message to the student. Send it to their parent/guardian too if they're relevant here. Send it to any other party that needs to explicitly understand this concept. You can reasonably believe a student is gifted if they *show* they're gifted. Accountability doesn't go away.
 
 ## **Bibliography**
 

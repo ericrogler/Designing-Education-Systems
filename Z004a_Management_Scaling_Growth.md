@@ -39,19 +39,18 @@ The typical ratio of manager to direct reports I can reasonably assume is around
 
 ## **Long Answer**
 
-While you're reading this, I will ask you to temporarily imagine yourself in the role of an entrepreneur.
-
-I'm going to draw parallels from two places you may not expect to see in a book on education systems: project/product management and military organization and communications in milsim (military simulation) environments. This is split into separate chapters to distinguish certain information and covers the former reference (project/product management).
+While you're reading this chapter, I will ask you to temporarily imagine yourself in the role of an entrepreneur. I will also ask that you remember people skills and being likeable are important.
 
 This chapter covers organizational structures and how businesses may bring on new people and shuffle around internal employees to meet the needs of a company.
 
-According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. These breakpoints aren't a new idea here; the next chapter ("Operations At Scale") showcases similar breakpoints in a different context and application. I'm going to use these values as my own breakpoints and attempt to illustrate, through hypotheticals, *why* these breakpoints are at those values.
-- If interested in my primary basis for these ratios, look further into [this paper on relationships in organization](https://www.nickols.us/relationship.pdf) (Chute et al., 1938) and [this explanation on the formulas from Graicunas](https://www.nickols.us/graicunas.htm) (2019).
-- The concept of scaling discussed here isn't unique to Fadell either. Other authors, such as Robin Dunbar (2013) and Geoffery West (2017), also researched this topic in a similar vein.
+I'm not going into depth on matrices or a weak vs strong matrix in management, as well as other advanced management concepts. That's too granular for this book. I'm also not going into many edge cases, such as the manager with multiple managers *and* individual contributors under them as direct reports.
+
+To draw inspiration from Tony Fadell in their book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. The concept of scaling and these breakpoints discussed here isn't unique to Fadell or any one individual. You'll see similar breakpoints from a different source used elsewhere in this book. 
+
+I'm going to use these values as my own breakpoints and attempt to illustrate, through hypotheticals, *why* these breakpoints are at those values.
+- If interested in my primary basis for why I'm sticking with these ratios, look further into [this paper on relationships in organization](https://www.nickols.us/relationship.pdf) (Chute et al., 1938) and [this explanation on the formulae from Graicunas](https://www.nickols.us/graicunas.htm) (2019).
 
 Organizations in both public and private sectors don't fare well past these limits without appropriate planning. This planning includes, but is not limited to, communication methods, role designation and duties, and layers of management. 
-
-You should avoid limiting personnel as people may leave the organization and shift roles or the organization may experience growth beyond those limits.
 
 ### **How does this relate to Teaching/Instruction?**
 
@@ -63,48 +62,44 @@ You may also deal with multiple groups of up to 40+ *different* students in a si
 
 I'll discuss more on this below, but the general lesson is as the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. The skills once reserved for product managers and managers in general now apply to *everyone*, as soft skills become more important with improvements in technology.
 
-### **A Quick Aside**
-
-I'm not going into depth on matrices or a weak vs strong matrix in management, as well as other advanced management concepts. That's too granular for this book.
-
-I'm also not going into many edge cases, such as the manager with multiple managers *and* individual contributors under them as direct reports.
-
 ### **Business Breakpoint 0: The Start**
 
 If you're making a business, you likely, if not certainly, go through multiple hoops just to legally start up the business. For example, there's seed funding and gathering the initial capital (i.e. money), registration with the State, market research, business plans, tax documentation, advertising plans, insurance, general management, labor contracts, licenses, banks, and many, *many* more problems to address.
 
 If, for some reason, you actually want to start a business on the side, please refer to more dedicated resources like [SBA.gov](https://www.sba.gov/) as far too many details are outside the book's scope here.
 
-When starting out, you'll want to set up communications like emails and websites under official business names (such as "companyname.com") rather than informal, personal emails for perception and first impressions amongst clients. You'll also want to document important processes first like hiring and onboarding, even if only rough drafts right now, as a clear workflow is *far* easier to manage, change, and enforce than no workflow or a sloppy workflow. 
+When starting out, you'll want to set up communications like emails and websites under official business names (such as "companyname.com") rather than informal, personal emails to establish a positive, *professional* perception and first impressions amongst clients. You'll also want to document important processes first, like hiring and onboarding, even if only rough drafts right now, as a clear workflow is *far* easier to manage, change, and enforce than no workflow or a sloppy workflow. 
 - As an aside, remember that *both* hiring and fully onboarding may take several months or even years for every new person, employee, etc. you bring on! Plan for that time and expense!
 
-If forced to choose between two options for bringing in new people, like two equally technical interviewees to bring into an organization, then use competency in soft skills (i.e. non-technical skills) and check for repeatable patterns of behavior as a tie-breaker. At the same time, be mindful of those who are good at presentation, but bad at execution, as people may train to succeed at the *interview* and not necessarily the job.
+If forced to choose between two options for bringing in new people, like two equally technical interviewees to bring into an organization, then use competency in soft skills (i.e. non-technical skills) and check for repeatable patterns of behavior as a tie-breaker. You'll also want to consider people who excel at critical thinking and problem solving, as that makes them more adaptable and able to acquire the necessary competency for their role(s) faster. At the same time, be mindful of those who are good at presentation, but bad at execution, as people may train to succeed at the *interview* and not necessarily the job.
 
-You'll want to be careful with onboarding new people because the cost of one bad hire can quickly exceed the cost of recruiting and further cause organizational issues. Even if someone will perform well, but cannot adjust to the working environment, it'll still create issues.
-- A really good employee being worth many employees is a widely accepted view, but you may risk a single point of failure and overworking them.
+You'll want to be careful with onboarding new people because the cost of one bad hire can quickly exceed the cost of recruiting and further cause organizational issues. Even if someone will perform well, but cannot adjust to the working environment, it'll still create issues. If it takes you more than 3 rounds of interview sessions to onboard a new person into an organization, it likely indicates a problem with your onboarding system and how you're conducting any interviews and assessments. The primary exceptions to 3 rounds max would be for director+ roles and certain specialists where they would hold significant responsibility and manage a lot of resources.
+- A really good employee being worth many employees can be acquired, but you may risk a single point of failure and overworking that employee.
 - Don't expect top-tier talent unless you provide top-tier pay and benefits to keep them around.
 
-You also need to choose technologies useful for today, but reasonably plan for the future. A bakery cannot sell 1000 cakes in one day if it cannot sell even 10 cakes in a single day, so it needs to establish the means to produce 10+ cakes per day first. While there's a risk of under-preparing, there's also over-investing. You don't need the same technology as a massive corporation with 10000+ employees at this breakpoint if you can only accommodate 10 employees right now. You may spend unnecessarily, deal with excessive complexity, and be stuck too long in the setup phase, which greatly delays any return on investment and profits. Don't plan for the stars when you haven't reached the Moon, so to speak.
+You also need to choose technologies useful for today, but reasonably plan for the future. A bakery cannot sell 1000 cakes in one day if it cannot sell even 10 cakes in a single day, so it needs to first establish the means to produce 10+ cakes per day. While there's a risk of under-preparing, there's also over-investing. You don't need the same technology as a massive corporation with 10000+ employees at this breakpoint if you can only accommodate 10 employees right now. You may spend unnecessarily, deal with excessive complexity, and be stuck too long in the setup phase, which greatly delays any return on investment and profits. Don't plan for the stars when you haven't reached the Moon, so to speak.
 
-These things above are to solve an early scaling problem and identify what you want from your employees, and yourself, as part of your business. Properly building a foundation is key to success, makes it easier to scale up as the organization grows, and generally avoids a lot of issues in the future.
+Addressing these issues above are to help solve an early scaling problem and identify what you want from your employees, and yourself, as part of your business. Properly building a foundation is key to success, makes it easier to scale up as the organization grows, and generally avoids a lot of issues in the future. Keep it simple.
 
 For the rest of this chapter, pretend you are the CEO/owner of this newfound company as I go through those breakpoints from before and *why* I find them applicable and relevant from my own experiences looking into companies.
 
 ### **Business Breakpoint 1: 15 People**
 
-15 people is how many people a single manager typically can manage simultaneously *as an upper limit*. A smaller breakpoint starts at around 5 direct reports per manager where relations and group management quickly explode exponentially (Chute, Gulick, & Urwick, 1938). At this stage, it's you, the manager, and the other employees as ICs.
+15 people is how many people a single manager typically can manage simultaneously *as an absolute upper limit*. An optimum breakpoint is at around 5 direct reports per manager before relations and group management quickly explode exponentially in complexity (Chute, Gulick, & Urwick, 1938). At this stage, it's you, the manager, and the other employees as ICs.
 
-As for typical *maximum* limits organizations may impose, I'd expect around 5-8 direct reports if overseeing people with significantly different roles and 9-12 direct reports when overseeing people with similar, if not the exact same, roles. You *could* extend beyond that and go to a 14 person breakpoint (15 people minus you, the manager) for direct reports, but the role may require minimal direct intervention with individual contributors and the manager focused almost solely on management.
+As for typical *maximum* limits organizations may impose while you're scaling upwards, I'd expect around 5 direct reports if overseeing people with significantly different roles and 7-10 direct reports when overseeing people with similar, if not the exact same, roles. You *could* extend beyond that and go to a 14 person breakpoint (15 people minus you, the manager) for direct reports, but the role may require minimal direct intervention with individual contributors and the manager focused almost solely on management to avoid a loss in productivity and communication collapse.
 
-You'll have two layers at this point:
-1. Manager(s) (You)
+You'll most likely have two layers at this point:
+1. Manager (You)
 2. Individual Contributors
 
-As there's only one true manager (and perhaps assistant managers if hired), your main duties are people management and task delegation. You may do non-management duties as well to cover deficiencies, employees taking time off, and other similar reasons. There's few bottlenecks in communication and things are relatively straightforward still. Everyone can likely fit into a single space without great difficulty if based in a physical environment when you stay at or under 15 people.
+You may have a couple assistant managers beneath you as well to make a third layer, but to keep things simple now (and in the future) you *must* avoid administrative bloat. Administrative bloat means too many managers and not enough contributors towards completing the work. 
 
-Some small businesses may purposely stay small and still be successful. These businesses may hire out contractors to perform tasks rather than hiring more new employees and these contractors are applicable at any scale of business.
+Assuming there's only one true manager right now, your main duties are people management and task delegation. You may do non-management duties as well to cover deficiencies, emergencies like employees taking time off, and other similar reasons. There's few bottlenecks in communication, everyone can operate in one area still, and things are relatively straightforward at this stage.
 
-Lastly, if you're at this breakpoint, I'll assume you've probably started with a bunch of friends or at least people you can work with. To grow past this point, you're going to need to set rules in place for how your "friends" interact with each other. If you do not, bringing in new people will swiftly backfire with various mixed opinions added and no codified means to appropriately communicate them.
+Some small businesses may purposely stay small and still be successful. These businesses may hire out contractors to perform tasks rather than hiring more new employees. You'll see here that contractors are applicable at any scale of business.
+
+Lastly, if you're at this breakpoint, I'll assume you've probably started with a bunch of friends or at least people you can tolerate working with. To grow past this point, you're going to need to set rules in place for how these "friends" interact with each other. If you do not, bringing in new people will swiftly backfire with various mixed opinions added and no codified means to appropriately communicate them.
 
 ### **Business Breakpoint 2: 40-50 People**
 
@@ -114,6 +109,8 @@ You'll have three layers at this point:
 1. Director/CEO (You)
 2. Managers (New)
 3. Individual Contributors
+
+Before proceeding, I need to drill a concept into the reader: you do not *manage* 40-50 people here. You *lead* 40-50 people. If you're the director here, you only "manage" the ~5 managers (i.e. direct reports) one layer underneath you. Other people are multiple layers down that you only "oversee." It's similar to how a director may check in across their three "teams," review any reports/requests/etc. those managers sent up, and intervene or step in if something needs to be changed/went wrong. They aren't directly ordering around every Jane Doe and John Doe inside the system. Expect me to repeat this concept multiple times throughout this chapter and the book.
 
 As the new director, your goals go from managing tasks people do to managing people themselves. You can no longer deal with incidents or problems as they come like before; you have to think steps ahead and plan out the future. This is a paradigm shift from operating tactically to operating strategically, where knowing who/what/how to delegate becomes more important. The director+ here now develops employees, company culture, and revenue streams.
 - Put another way: finding new methods to earn money, improving the state of the company, and getting employees to perform better.
@@ -152,7 +149,7 @@ The organization layers may look like this now:
 3. Managers
 4. Individual Contributors
 
-Outside core products and projects, you'll want to look into specialized departments and teams, such as HR, legal, and more. Bringing these functions in-house becomes more cost-effective at around this breakpoint.
+Outside core products and projects, you'll want to look into specialized departments and teams, such as HR, legal, and more. Establishing these groups inside a system becomes more cost-effective at around this breakpoint compared to hiring out separate organizations to fulfill those duties.
 
 More management means reviewing meeting structures, organizational culture, support networks for managerial staff, and communication across layers. The tasks a director do may differ greatly from a manager, so bringing in directors requires a different set of training and skills to onboard them. For that purpose, specialists familiar with director+ training may be contracted or hired for support if you lack the resources to do it yourself.
 
@@ -174,14 +171,14 @@ From 120-140 to 350-400 people, you may need another layer of management before 
 
 Executives (top management) establish direction for the organization. Directors (middle management) translate direction into strategy. Managers (low management) transform strategy into tactics to meet goals with their teams.
 - Depending on how many management layers are present, a manager may have to think about strategy/direction alongside tactics.
-- Strategy is why; tactics is how (e.g. see Simon Sinek's *Start With Why* (2009))
+- Strategy is why; tactics is how (e.g. see Sinek's *Start With Why* (2009))
 
 Additionally, things like all-hands meetings, organization-wide events, and similar items face more problems as you scale upward:
 - They become significantly more expensive
 - They require more advance planning and better defined agendas to guide meetings
 - Risk of misusing "all-hands meetings" and wasting resources goes up exponentially
 
-Scaling beyond this breakpoint may repeat similar strategies at larger scales, like 1000+ and 10000+. Each new breakpoint generally focuses on some of the following:
+Scaling beyond this breakpoint may repeat similar strategies at larger scales, like 1000+ people and 10000+ people. Each new breakpoint generally focuses on some of the following:
 - Adding more middle layers (i.e. more middle management)
 - Creating specialized departments as needed
 - Bringing services in-house which become too expensive out-of-house
@@ -189,16 +186,27 @@ Scaling beyond this breakpoint may repeat similar strategies at larger scales, l
 - Establish a steady ratio of managers:direct reports for each management layer
 - Formalizing communications across layers
 
+You may also see what I'll call "growing a tree from a branch." 
+
+Normally, if an organization has 5 layers, there's a large difference in the number of direct reports a director at the top and a manager near the bottom may have. Instead, you may create a subset from the top layer, or a middle layer, rather than starting from the ground up.
+
+Rather than these subsets following the "typical" 5 layer list in our example earlier, you may go back to a previous scale like so:
+
+1. Director
+2. Team Lead (Manager)
+3. Team Operators (ICs)
+
+You may see this setup across multiple examples, such as a small team answering directly to the head of an organization, a head of state, a general in a military, and so on. Though that team's leader is considered a "direct report" to a particular manager, that team lies outside the typical "chain of command" like the rest of the organization. This is similar to creating specialized departments and teams like in the earlier breakpoints, except they don't need to go all the way to the bottom layer to function.
+
 ### **Should You Flatten Organizations?**
 
 **Short(er) answer:** 
 
-It depends on a lot of factors, including costs. Middle management (and middle layers) often includes the layers where costs are visible, yet functions are invisible until those layers disappear, such as protecting those below from those above who are reckless, sociopathic, or incompetent. It could also be considered the highest layer a person can reach in any organization before there's more obligation to prioritize the bigger picture instead of advocating for individual contributors.
+It depends on a lot of factors, including costs. Middle management (and middle layers) often includes the layers where costs are visible, yet functions are invisible until those layers disappear, such as protecting those below from those above who are reckless, sociopathic, and/or incompetent. It could also be considered the highest layer a person can reach in any organization before there's more obligation to prioritize the bigger picture instead of advocating for individual contributors.
 
 These middle layers *also* contain high role redundancy, as a significant portion of work is delegation and communication to coordinate strategy and direction between the top and bottom layers. If there's a system breakdown though, such as incoherent direction and orders from above and terrible execution of duties from below, this redundancy quickly becomes load-bearing instead. In this case, you go from bad redundancy to "good" redundancy, like intentional duplication of critical components in systems such as power supplies, suspension bridges, error detection methods, and more.
 
 As a result, the amount of contribution *they personally provide* is comparatively minimal. They must make up this contribution deficit by removing blockers and enabling work in the organization, supporting others with the resources they need, navigating the web of complex interactions and politics, and guiding (but not heavily micromanaging!) people to achieve success and growth in their own roles.
-- For certain readers who'd prefer pop-culture references, perhaps the Marshal class from Dungeons & Dragons or Commander class from Pathfinder 2e is a more apt comparsion to describe a *proper* manager's or middle layer's role and importance as a "support multiplier." 
 
 **Long(er) answer:**
 
@@ -208,9 +216,9 @@ Middle management, or the layers in between, soften that ascent and make it grad
 
 An organization may "flatten" these layers and get rid of middle managers. On one hand, it reduces labor costs significantly, the time it takes to make decisions (generally), and the layers of red tape and approvals go down so research and innovation efforts can go through faster. On the other hand, there's different costs incurred as a result. While you can have separate tiers in a single layer employees work towards, such as junior, mid-level, and senior as separate layers, they may instead be treated as sub-layers and so will receive less focus in this section.
 
-Eliminating these layers and positions affects the pipeline for promotions and mobility throughout the layers. Though some members may move into more technical roles and remain at a given layer, people who want to "move up" need layers (or "levels") as an incentive to learn the new role's duties, prove their worth, and show they can take on bigger decisions and responsibility. If you block these paths or obstruct this training ground in an organization, people may leave the organization and venture onto greener pastures where they'll find and feel more value.
+Eliminating these layers and positions affects the pipeline for promotions and mobility for people throughout the layers. Though some members may move into more technical roles and remain at a given layer, people who want to "move up" need layers (or "levels") as an incentive to learn the new role's duties, prove their worth, and show they can take on bigger decisions and responsibility. If you block these paths or obstruct this "training ground" in an organization, people may leave the organization and venture onto greener pastures where they'll find and feel more value.
 
-Fewer layers typically leads to increasing the manager:direct report ratio to more "dangerous" levels and can, ironically, complicate communications further. In a situation where the ratio is already low, like 1 manager to 2-3 direct reports before flattening, this may not be as serious depending on the work involved.
+Fewer layers may lead to increasing the manager:direct report ratio to more "dangerous" levels and can complicate communications further. In a situation where the ratio is already low, like 1 manager to 2-3 direct reports before flattening, this may not be as serious depending on the work involved.
 - As an aside, I'd also question if you *really* need such a low manager:employee ratio in the first place. That's a small coordination burden and, unless the work is exceeding complex or hands-on, also a risk on ambiguity, bottlenecks, and bureaucracy.
 
 In a situation where these ratios are further strained, you risk a tangled web of communications and eliminate any benefits from direct access to upper layers from flattening. A middle management layer is where information is filtered and translated before it goes up or down in the organization. Their intended purpose is to fix the signal-to-noise problem, so people aren't dealing with issues that are either not worthwhile or unnecessary.
@@ -223,7 +231,7 @@ There's another dangerous situation I'll expose here: the leader who has no resp
 
 Another situation is reducing headcount by adopting a particular tool, software, etc. While operational costs may go down, you may increase dependence on more services outside of your control. Monitoring the overall pipeline (i.e. relevant processes) will alleviate some worries, but you'll need a response plan and fallback in case the service(s) goes down. You may negate any savings from cutting headcount to frantically increasing headcount if said service cannot scale, you can no longer afford the service, or the service cannot handle the operations it encounters.
 
-While middle management is discussed heavily for flattening here, it is possible to "flatten" other layers too. For example, say you originally hired multiple entry level candidates, alongside mid-level and senior candidates, for a particular role. If you get rid of all the entry level positions, you may effectively remove one step from the ladder and reduce labor costs as a result. While that does make the ladder shorter, it makes any barrier of entry higher, reduces the number of opportunities for employee growth and responsibility in an organization, and makes replacing existing staff far harder. For replacing staff difficulties in particular, if many organizations follow a trend and stop hiring entry-level employees, organizations may effectively remove the primary means for juniors to acquire experience and become the mid-level and senior candidates they *actually* wanted to hire.
+While middle management is discussed heavily for flattening here, it is possible to "flatten" other layers too. Say you originally hired multiple entry level candidates, alongside mid-level and senior candidates, for a particular role. If you get rid of all the entry level positions, you may effectively remove one step from the ladder and reduce labor costs as a result. While that does make the ladder shorter, it makes any barrier of entry higher, reduces the number of opportunities for employee growth and responsibility in an organization, and makes replacing existing staff far harder. For replacing staff difficulties in particular, if many organizations follow a trend and stop hiring entry-level employees, organizations may effectively remove the primary means for juniors to acquire experience and become the mid-level and senior candidates they *actually* wanted to hire.
 
 So again: should you flatten organizations? It depends. The benefits include lower labor and operational costs, increased autonomy, and faster innovations. The costs include more informal hierarchies, lack of supervision, and potentially more confusion in coordination and responsibility. Whether or not the benefits outweigh the costs is a decision only you, a potential leader, can make after careful analysis.
 
@@ -234,13 +242,13 @@ As systems grow, such as classrooms, companies, and so on, what seems fine with 
 These aspects of group culture can be many things. It could be having dinners with everyone in your group on a set day. It could be one person doing a set of tasks for the organization. It could even be an all-hands meeting with everyone in the group. Some aspects you can scale surprisingly well, while other aspects work well only with specific group sizes.
 - E.g. operating at a micro level, meso level, and a macro level are separated and discussed as three distinct categories (Wagner & Hollenbeck, 2009).
 
-You can also measure "success" by growth; it's a valid metric, afterall, and can evaluate many things such as wealth, status, and size. Should you evaluate the quality of a culture by its size/growth? Generally, no. Look for cultures having the values you value, redundant as that sounds. If it's a culture for work, aim for leadership that is visionary and looking forward, rather than looking backwards; the kind that inspires you to dream of greatness.
+You can also measure "success" by growth. It's a valid metric, afterall, and you can evaluate many other things such as wealth, status, and size under that growth umbrella. Should you evaluate the quality of a culture by its size/growth? Generally, no. Look for cultures having the values you value, redundant as that sounds. If it's a culture for work, aim for leadership that is visionary and looking forward, rather than looking backwards. Seek the group that inspires you to dream of greatness.
 
-As your group changes, procedures also change. For example, you may understand why a person in the group has extra benefits provided, whether it be an accommodation or a reward for excellent work. When more people from outside the original group get involved, you'll have to define ranges, perhaps add more explicit restrictions, and provide further context to avoid unwanted fires.
+As your organization changes, procedures also change. For example, you may understand why a person in the group has extra benefits provided, whether it be an accommodation or a reward for excellent work. When more people from outside the original group get involved, you'll have to define ranges, perhaps add more explicit restrictions, and provide further context to avoid unwanted fires.
 
-For example, it may've been fine to call everyone a teacher when it was just a couple teachers, but now you have an entire cohort and you may need to redefine teachers by their topic specialty. While it's not incorrect to call everyone a "teacher" instead of a specific kind of teacher, lumping too many people into one category may cause ambiguity and issues later on as you scale in size.
+To use a different example, it may've been fine to call everyone a teacher when it was just a couple teachers, but now you have an entire cohort and you may need to redefine teachers by their specialty. While it's not incorrect to call everyone a "teacher" instead of a specific kind of teacher, lumping too many people into one category may cause ambiguity and issues later on as you scale in size.
 
-This also applies to seniority. Two people may be "engineers," but there's a vast difference in experience, time done, and wisdom between a "junior" engineer and a "senior" engineer. It's not wrong to generalize those two as engineers, but the distinction is needed to remove ambiguity and reduce multiple issues as you bring on more and more engineers later.
+This also applies to seniority. Two people may be "engineers," but there's a vast difference in experience, time done, and wisdom between a "junior" engineer and a "senior" engineer. It's not wrong to generalize those two as engineers, but the distinction is needed to remove ambiguity and reduce multiple issues as you bring on more engineers later.
 
 One other thing you may think scales well, but actually doesn't, is teaching things to others. You may have the resources to teach someone how to use a particular tool, understand a process, and so on without impacting work significantly (and do it quickly!). You may not, however, have the resources to train an entirely new mindset to settle down into an educational system, adjust to a classroom setting, or develop critical thinking skills. With students of similar mindsets, it's not as big an issue, but more students means more mindsets to try and get on the same page for training. From a personal observation, it may take *years* to change those aspects and people may not be equipped or willing to dedicate resources to fix these issues on any particular person.
 
@@ -253,12 +261,12 @@ Lastly, if you're considering bringing in someone new into the culture, you shou
 
 Imagine you're running a coffee shop and you want to sell a cup of coffee to customers.
 
-There's many things involved in the process. You have many direct costs, such as:
+There's many things involved in the process. You have many costs related to the coffee, such as:
 - Ingredient/Material costs
 - Packaging costs
 - Labor costs
 
-Don't forget about multiple indirect costs, which aren't put into the coffee but still used to help make the coffee and have a place to do it at:
+There's also multiple costs separate from that coffee, but still used to help make the coffee and have a place to do it at:
 - Debt/interest payments on estate, like rent
 - Franchise costs
 - Maintenance/Remodeling costs
@@ -270,19 +278,17 @@ Costs of goods sold (COGS) is sneaky on prices and why you may optimize adding *
 
 On that same example, say one ingredient suddenly increased in price but it's necessary to maintain your standard of quality. The COGS is raised to 1.50 dollars per cup now, so there's an additional running cost of 0.25 dollars for each coffee you make. Over 1000 cups, like before, that's instead 1500 dollars total revenue.
  
-*In a single day* that's 250 USD less in revenue because *one* part changed. It may seem small now, but losses like these compound over time. Many people *want* to earn money, and is the goal of financial operations. It's in their best interest to establish processes and regulations, like strict portion controls and packaging methods, to keep the bottom line low and profitability high.
+*In a single day* that's 250 USD less in revenue because *one* part changed. It may seem small now, but losses like these quickly compound over even a short time. Many people *want* to earn money, as that is the goal of financial operations. It's often in their best interests to establish processes and regulations, like strict portion controls and packaging methods, to keep the bottom line low and profitability high.
 
 ### **The Technical Debt Problem**
 
-As a company grows, the more likely it is held together by duct tape and glue rather than a robust system.
+As a company grows, the more likely it is held together by metaphorical (and/or literal) duct tape and glue rather than a robust system.
 
-This isn't entirely the company's fault; it's the nature of complexity. You add in more employees, then the number of relationships skyrockets. You develop or implement more systems or processes, the interactions and complexity also increases (exponentially so!).
+This isn't entirely the company's fault, but the nature of complexity. You add in more employees, the number of relationships to manage amongst every employee increases. You develop or implement more systems or processes, the interactions and complexity involved also increases (exponentially so!).
 
-Because it takes time to sort out complexity, and people often resort to fast solutions which work now, you accumulate "technical debt." Technical debt is the maintenance cost of a system for choosing quick, working solutions now instead of robust solutions later. You "pay off" the debt by rewriting the systems to go beyond just functional.
+Because it takes time to sort out complexity, and people often resort to fast solutions which work *now*, you accumulate "technical debt." Technical debt is the maintenance cost of a system for choosing quick, working solutions now instead of robust solutions later. You "pay off" the debt by rewriting the systems to go beyond just functional.
 
-It's another reason why I believe Tony Fadell, the author of *Build*, developed the breakpoints I examined earlier: to find concrete points you must ensure sustainability at before continuing growth.
-
-Where this debt is most visible is for anyone working behind the scenes and/or on the systems an organization uses. In terms of jobs, this is mainly programmers and software engineers. You *can* see technical debt in multiple areas, like if you're working in a retail store and utilize a POS system that barely functions, but was affordable for your budget and is quickly implemented.
+Where this debt is most visible is for anyone working behind the scenes and/or on the systems an organization uses. You *can* see technical debt in multiple areas, like if you're working in a retail store and utilize a POS system that barely functions, but was affordable for your budget and is quickly implemented.
 
 It is an important skill to manage technical debt, much like managing financial debt. Not all debt is bad, because it may afford capital and investments to spend now for what you need you can pay off in the future. In this case, you "borrow" future capabilities to boost current capabilities. Sometimes it comes from something you *thought* was OK at first, but realize it doesn't work later and now you pay back interest on it. Accuring debt is *sometimes* the best, if not only, choice to meet your needs and/or meet regulations/requirements. How you plan and pay back that debt before it compounds out of control and affects your processes is what separates great businesses and managers from poor ones.
 - This includes balancing shipping/selling products to generate revenue vs paying down the cost of debt. 
@@ -302,7 +308,7 @@ This also applies to finding coverage for roles. A manager may have to cover def
 
 Does leadership have the same 24 hours a day like people do? Yes.
 
-Does leadership spend it the same way their employees do? Maybe not. Some leadership may do significantly less "physical" work and instead go through multiple meetings, presentations, emails, and solving people's issues instead of their own issues. They may evaluate their work on *quality* of hours instead of quantity of hours.
+Does leadership spend it the same way their employees do? Maybe not. Some leadership may do significantly less "physical" work and instead go through multiple meetings, presentations, emails, and solving other people's issues instead of their own issues. They may evaluate their work on *quality* of hours instead of quantity of hours. You may also encounter leadership at the very top layers who are, to put it nicely, functionally illiterate and unable to make decisions or understand what the organization they're leading even does, which may make them a liability and a risk rather than an asset.
 
 As people "climb up the ladder;" they tend to spend less time on production/labor tasks and more time in managing. That's a trait consistent across multiple roles and companies, where you "work" less, but your brain works harder. Some days could be 2 hours of smooth sailing and other days 12+ hours of putting out (almost) literal fires. This is further exacerbated by how a high level leadership mistake can have vastly greater consequences than a low level employee mistake.
 
@@ -312,40 +318,49 @@ Lastly, some leadership roles are in a position they *can* influence their wealt
 
 As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about bureaucracy. In its worst form, it's death by process. There's so many new meetings, initiatives, etc. it takes away time to do what you're supposed to do, which ironically places you and/or the employee at risk of firing/laying off. Unchecked bureaucracy creates the very failures it tries to prevent.
 
-Let's explore a *bad* implementation where you're in the shoes of John Employee; the average white collar worker. You are hired and *want* to just work on your job, then enjoy the rest of your day away from work. You also prefer explicit over implicit instructions, so you can verify work was done right and there won't be many issues in the future.
+The solution is simple, yet hard to implement in practice. Limit the number of meetings you need to save on time and money and simplify the process to communicate within the organization.
 
-Despite that goal, the organization may require meetings to go over work. That's still "normal", or at least a necessary evil, because meetings can communicate necessary information to help you perform your role.
+### **What About Consultants?**
 
-However, you notice future meetings don't get agendas, or they take up too much time talking about non-meeting related things. Then comes meetings for scheduling meetings. This becomes a hassle to manage, so your system hires on someone specifically to handle and schedule meetings for employees.
+Consultants are similar to contractors, so they could be third parties brought in to suggest solutions, processes, etc. the organization should follow.
 
-Now you get a new initiative to adhere to multiple different activity trackers because managers across all layers of an organization want to see employees doing work. To verify work outputs, new levels of performance are developed such as meeting expectations and exceeding expectations.
-- Ironically, "exceeding expectations" may be what people consider "meeting expectations" and may create conflicts of interests and deteriorate a system.
+They may also serve as a scapegoat in case something goes wrong. Say you're an executive or even the CEO at a large company. You have an idea you want to implement, but you're worried about the risk and backlash directed towards *you* if it fails.
+
+One solution is to hire on a consultancy to look into the business and suggest solutions. Those solutions they suggest could, in theory, be the exact same ideas you wanted to implement yourself. The difference here is instead of claiming the idea was yours, you can claim the idea was the consultants and shift any and all blame towards them if something goes wrong. Essentially, you developed a way to avoid taking any accountability. If it goes right, then you can take the credit still by affirming it was *your* idea to bring them on and do the implementation.
+
+In other words: consultants reduce risk by redirection (or kickbacks) rather than mitigation. It doesn't *actually* get rid of any risk.
 
 ### **Scaling Up & Hiring**
 
+When scaling organizations, and bringing on people, you must remember it is a two-way street. Much like how you evaluate the person (or group of people) you're bringing in, those same people are evaluating you and the system you're bringing them into. It's usually in your best interest to make a reasonable best effort in establishing a good impression if you want to bring the *right* (and *best*) people in.
+
 As you grow in scale, you'll need more people to handle the ever-increasing load of work that needs doing. After a certain point, you'll need dedicated personnel to handle onboarding for you or else you risk your attention, time, and effort spread too thin amongst your various duties.
 
-It's a difficult task to bring on new people because of the time, cost, and potential damage a single bad hire can wreck. While people making hiring decisions need autonomy and authority to do their jobs, they shouldn't have *too* much authority. Excessive authority risks stiffling growth, getting rid of recommendations and proven competence, and redirecting growth into decline. 
+It's a difficult task to bring on new people because of the time, cost, and potential damage a single bad hire can wreck. It often costs less to keep existing staff and train up their competency rather than setting up a process to onboard new staff, even if you increase their salaries/labor cost. 
 
-For hiring, you'll ideally have simplified, yet explicit, requirements for candidates. It could be you're looking for a set of skills, a certain level of experience, or general competence to perform the particular role(s). These are typically written down, rather than verbally transmitted, and may be put into software to "automate" the process.
+While people making hiring decisions need autonomy and authority to do their jobs, they shouldn't have *too* much authority. Excessive authority risks stiffling growth, getting rid of recommendations and proven competence, and redirecting growth into decline. 
+
+For hiring, you'll ideally have simplified, yet explicit, requirements for candidates. It could be you're looking for a set of skills, a certain level of experience, or general competence to perform the particular role(s). These are typically written down, rather than verbally transmitted, and may be put into software to "automate" the process. Though it is possible the interview process is conducted and interpreted can vary significantly from person to person, or affected by the human element, you should aim for consistency to reliably meet your standards.
 
 Remember that information, which includes requirements, gets filtered as you travel across organizational layers. For example, a hiring manager may have a practical understanding of what's needed for a role and the technical competence to call a bluff on an imposter candidate. When requirements are sent down to their direct reports, it's at least a one layer difference, so some information and context gets filtered out. 
 
 While the majority of information makes it through, there's more wiggle room for incompetence to settle down. That incompetence risks creating an environment where incoming candidates are good at getting into roles, but not necessarily doing those roles. In a less-than-ideal situation, you may create a department heavily ingrained within the hiring process holding excess authority and final say on decisions, but without any competence or ideas to function as intended.
 
-Anyone you off-load hiring responsibilities to must have some technical competency in what they're hiring for or you risk implementing an ineffective "filter" to bring in new talent. For example, if you're hiring a math teacher the people in the hiring process should have familiarity with math to catch bad actors. As another example, if you're working in a construction company, the people hiring should have some knowledge about the construction process. If the person screening a candidate doesn't know about these things, they may pass along a false positive and potentially waste resources as a result.
+Anyone you off-load hiring responsibilities to must have some technical competency in what they're hiring for or you risk implementing an ineffective "filter" to bring in new people. For example, if you're hiring a math teacher, the people in the hiring process should have familiarity with math to catch people who aren't actually good at math. As another example, if you're working in a construction company, the people hiring should have some knowledge about the construction process. If the person screening a candidate doesn't know about these things, they may pass along a false positive and potentially waste resources as a result.
 
 In the best case scenario, managers receive what they intended (or perhaps beyond that) and come away happy with a role filled. In the worse case scenario, any recruiters (including the managers) heavily filters out incoming candidates, even those with glowing recommendations, and either rejects incoming personnel or brings in underwhelming personnel. Additionally, the department as a whole can "override" decisions despite every requirement for the candidate being met, which may cause ire across different layers and departments in an organization.
 
-One potential solution is training. It's similar to acquiring technical skills as a non-technical manager. This is where subject matter experts are brought in to figure out important questions and answers to gauge genuine knowledge and skill from feigned knowledge. 
+### **Personnel Training**
+
+When you're unable to bring in competency from outside a system, one potential solution is training people within. You could do the same for bringing in people *without* any experience across many different roles. It's somewhat similar to acquiring technical skills as a non-technical manager. This is where subject matter experts are likely brought in to figure out important questions and answers to gauge genuine knowledge and skill from feigned knowledge. 
 
 This training lets you establish flags, terms, and phrases that indicate hollow terminology and jargon instead of genuine competence. Despite being in different organizational layers, backgrounds, and roles, everyone involved gets to a similar "baseline" and understands the difference between A and B, C and D, and so on. What matters here is you give people in these hiring positions as much explicit context and instruction. Proper education and training here is a form of risk mitigation, where said risk is leaving it up to the hiring person's fantasies on what's needed instead of what's actually needed.
 
 The training should also include limiting reasons to reject hiring a candidate. For example, reject someone because they clearly don't know how to do a job rather than their age, gender, way they said a particular word, lack of diversity, and so on. While hiring someone because they're nice to work with is also important, that shouldn't be the sole deciding factor. Sometimes the best person for a job is the person you may least expect, like a new engineer with a lower-level degree or an unrelated degree to the role. Though it's understandable to hire the most legally defensible candidate, that may mean rejecting the most qualified candidate as a result.
 
-While training incoming and existing personnel may seem like an obvious solution, it may not be implemented in practice for several reasons:
+While training incoming and existing personnel may seem like a straightforward solution, it may not be implemented in practice for several reasons:
 - To save money.
-- An organization may save money and time hiring someone already competent rather than training up existing personnel.
+- An organization may save money and time hiring someone already competent rather than training up new and/or existing personnel.
     - This may mean not hiring juniors or interns as a result, as one example.
 - You may have to redirect time and effort from existing personnel away from any other essential work to do training.
 - Waiting months for a "return on investment" is not an appealing idea.
@@ -360,18 +375,18 @@ Nevertheless, if an organization wants to complain about the labor available in 
 
 Scaling down can occur in different ways, including scope, number of projects, operations, investments, personnel counts, attrition, reduced hours, outsourcing, and more. This may be done by the same department or set of individuals like in the previous section on scaling up and hiring.
 
-Generally speaking, employees react negatively to downsizing and there's multiple reasons why:
+Generally speaking, people react negatively to downsizing and there's multiple reasons why:
 - Firing/laying off employees
 - Shuffling into undesired roles
 - Getting relocations
 - Facing stricter policies
 - Receiving reduced benefits
 
-It is significantly harder to take away things than it is to provide things. You really need to ask yourself if some benefits for employees are *really* sustainable long-term. Some resentment appears when benefits get taken more than when they were never offered in the first place.
+It is significantly harder to take away things than it is to provide things. You really need to ask yourself if some benefits for employees are *really* sustainable long-term. More resentment appears when benefits get taken compared to when they were never offered in the first place.
 
 This isn't to say all perks are bad or excessive. Some are genuinely beneficial to employees and increase productivity. Though not an "employee" perk, one example perk for customers is the CostCo hot dog combo, despite being a loss leader and staying at $1.50, is a great reason to get customers spending more and kept at that price for over 40 years (Matthews, 2022).
 
-In short, scale down carefully and with purpose. You're laser focused on solving problems by keeping the good and cutting the bad. Handwaving away problems and pretending they don't exist will not help you.
+In short, scale down carefully and with purpose. You're focused on solving problems by keeping the good and cutting the bad. Handwaving away problems and pretending they don't exist will not help you.
 
 ### **What about X Appreciation Day/Week/Etc.?**
 
@@ -396,7 +411,7 @@ Say you go through with establishing an appreciation period for a group of peopl
 Money, or another similar currency if money no longer exists in the future, is *extremely* useful to people in modern societies. They can exchange that for goods and services they need.
 - By money here, I mean cold, hard cash. Not gift cards, coupons, etc.
 
-Food is also useful to have, but food people want and like is even better. If, for example, one of your employees has been wanting to eat pizza for a long time and you magically show up with a pizza for them, that makes them pretty dang happy.
+Food is also useful to have, but food people want and like is even better. If, for example, one of your employees has been wanting to eat pizza for a long time and you magically show up with a pizza for them, that may make them pretty dang happy. It still may not make them happy enough to forget other things though, like poor working conditions and low salaries.
 
 If you're short on funding and resources, that's where point #2 comes in. While it may be nice to say someone is doing a good job, if you can tie it back into something *specific* rather than generic, that may mean more for the people receiving the appreciation. You may also avoid spending money for *individuals* and instead ensure any funds go towards the environment they work in, such as topping up necessary supplies like paper for work or upgrading facilities they utilize.
 
@@ -404,12 +419,12 @@ As for point #3, that falls under the core tenet of client relationships and man
 
 ### **Final Notes for Managers**
 
-As the organization scales, the level of risk each layer takes on may increase as well. A director affecting the workflows of hundreds of employees means each decision carries more weight on average compared to a single employee at the bottom of an organizational layer.
+As the organization scales, the level of risk each layer takes on may increase as well. A director affecting the workflows of hundreds of employees means each decision may carry more weight on average compared to a single employee at the bottom of an organizational layer.
 
 This isn't to say managers/directors are more important than individual contributors. Even an individual contributor may cause massive amounts of damage to an organization with a single incident. Instead, this is me saying that as you're responsible for more people, the risk of something going wrong, and the price of that risk, also scales up.
 
-Additionally, as the differences in layers emerge, there is a risk of "general incompetence" in *every* manager in an organization. This is when managers, directors, etc. are colloquially called "idea guys" and expect implementation of new products, trends, ideas, and more without proper knowledge or consideration for feasibility. 
-- If you are in a managerial or leadership position, you are very much at risk of general incompetence.
+Additionally, as the differences in layers emerge, there is a risk of "general incompetence" in *every* manager in an organization. This is when managers, directors, etc. are colloquially called "idea guys" or "thought leaders" and expect implementation of new products, trends, ideas, and more without having the proper technical knowledge or consideration for feasibility. 
+- If you are in a managerial or leadership position, you are more at risk of general incompetence than you realize.
 
 This same general incompetence applies cross-functionally as well. You may have two separate teams, such as marketing and engineering, where one team barely understands what the other team is doing and pitches product(s) potentially misrepresented to clients, leading to a loss in business and trust.
 

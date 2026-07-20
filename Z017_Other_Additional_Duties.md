@@ -13,6 +13,8 @@ Educators may have more duties to take care of and many of them are not teaching
 
 ## **Long Answer**
 
+This is one of the shortest chapters.
+
 Depending on your assignment, you may have work outside of teaching your assigned subjects. This can include, but is not limited to:
 
 **Campus Duties**
@@ -37,7 +39,7 @@ Depending on your assignment, you may have work outside of teaching your assigne
 - Marketing materials
 - Point of contact for events
 
-Not every teacher has to do ALL of these, but there's a high chance you'll do at least 1 of these, if not several, during your tenure.
+Not every teacher or educator has to do ALL of these, but there's a high chance you'll do at least 1 of these, if not several, during your tenure.
 
 Most of these are self-explanatory (e.g., lunch duty = duties during lunch time, etc.), while others aren't as obvious. I'm also writing primarily from my own experience, so I fully expect differences between states, districts, and even school to school.
 
@@ -59,7 +61,7 @@ For traditional testing and tests for subjects in your classroom, you define how
 
 For tests used to transfer into higher education or state assessments, expect a proctor guide on how to monitor students taking the test, including the test schedule, time allotments, break schedules, and the arrangement of students and desks in the testing area. 
 
-**Substitute teaching** can be assumed by a separate substitute teacher, or by a current teacher at the institution doing it during their non-teaching periods/timeslots. Sometimes an existing educator or administrator at a given school may be pulled in to cover classes in case substitute teachers are not available for coverage. Other times, like with SPED positions or physical education, classes may be merged together to cover the absence or no one covers the absence.
+**Substitute teaching** can be assumed by a separate substitute teacher or by a current teacher at the institution doing it during their non-teaching periods/timeslots. Sometimes an existing educator or administrator at a given school may be pulled in to cover classes in case substitute teachers are not available for coverage. Other times, like with SPED positions or physical education, classes may be merged together to cover the absence or no one covers the absence.
 
 In general, if you're in a substitute teaching position, follow the provided plans and ask support staff for guidance if needed.
 

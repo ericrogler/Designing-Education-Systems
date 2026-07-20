@@ -22,7 +22,7 @@ In general, you want to ensure standard procedures and rules are covered and und
 
 After procedures are established and everyone knows what should be done in their given position, you focus on optimizing communications to ensure operations proceed effectively, efficiently, and without issues. The difficulty of communicating exponentially skyrockets as more networks to communicate on and the number of people to communicate with increase.
 
-As for emergencies, you can "wind the clock" back for all but the most serious emergencies. In layman terms, that means take a few seconds to emotional regulate yourself, calmly assess the situation, consider available actions, then act. Applies to many cases and not just aviation.
+As for emergencies, you can "wind the clock" back for all but the most serious emergencies. In layman terms, that means take a few seconds to emotional regulate yourself, calmly assess the situation, consider available actions, then act. Applies to many cases.
 - Delaying a reaction is a skill you can train, afterall.
 
 **The closer leadership is to being affected by the consequences of actions, the faster their response to address them.**
@@ -35,17 +35,17 @@ As for emergencies, you can "wind the clock" back for all but the most serious e
 
 This is the second parallel that may seem unusual at first: military organization and communications in a milsim (military simulation) group context. Despite its unusual appearance here, there are parallels you can observe and learn about related to education systems.
 
-This chapter covers operational management and provides some context for what level of preparation is needed to ensure operations and events are ran as smoothly as possible.
+This chapter covers operational management and provides some context for what level of preparation is needed to ensure operations and events are ran as smoothly as possible. A close parallel may be event planning & coordination.
 
-According to the U.S. Department of Defense on Army organization, there are similar breakpoints/upper limits like the previous chapter. A squad goes up to about 16 soldiers, a platoon about 44 soldiers, a company about 120-200 soldiers, and a battalion about 400-1000 soldiers (U.S. Department of Defense, n.d.). In the previous chapter, these breakpoints were at 15 people, 40-50 people, 120-140 people, and 350-400 people.
+According to the U.S. Department of Defense on Army organization, there are similar breakpoints/upper limits like the previous chapter. A squad goes up to about 16 soldiers, a platoon about 44 soldiers, a company about 120-200 soldiers, and a battalion about 400-1000 soldiers (U.S. Department of Defense, n.d.). For comparison in the previous chapter, these breakpoints were at 15 people, 40-50 people, 120-140 people, and 350-400 people.
 
-**If there's any one lesson you should take away from here: emotional regulation is essential.** There are times you get *punished* and things go completely in flames because one person did one tiny thing due to an emotional outburst. It affects decision making, communication, your abilities, and so much more. 
+**Emotional regulation is essential.** There are times you get *punished* and things go completely in flames because one person did one tiny thing due to an emotional outburst. It affects decision making, communication, your abilities, and so much more.
 
-As for another reason why emotional regulation is important: it further establishes your presence and authority as a leader and person. If you're calm and collected while everyone else is panicking, people are appreciative and typically show more respect towards you; the person who handles themselves and knows what they're doing.
+As for a reason why emotional regulation is important: it further establishes your presence and authority as a leader and person. If you're calm and collected while everyone else is panicking, people are appreciative and typically show more respect towards you; the person who handles themselves and knows what they're doing.
 
 ### **How does this relate to Education?**
 
-The material in this chapter is likely foreign to many people, so there's more provided context than usual. Here are some examples between classroom management and milsim management to consider as you're reading along.
+The material in this chapter is likely foreign and/or unexpected to many people, so there's more provided context than usual. Here are some examples between classroom management and milsim management to consider as you're reading along.
 
 **Communications** 
 - Soldiers use spoken voice and radio nets, whereas a class may use hand signals and structured discussion formats.
@@ -55,7 +55,7 @@ The material in this chapter is likely foreign to many people, so there's more p
 - As you scale up in both cases, up to large classrooms and platoons, a teacher/squad leader cannot do this as well and needs to delegate responsibility to other leaders or redefine structures.
 
 **Trainings/Procedures** 
-- Soldiers conduct drills and trainings to learn and make procedures automatic; almost to the point of muscle memory. 
+- Soldiers conduct drills and trainings to learn and make procedures automatic, almost to the point of muscle memory. 
 - Teachers go over and practice procedures with students to ensure they're understood and done without asking what to do each time.
 
 **Responding to Failure** 
@@ -68,7 +68,7 @@ The material in this chapter is likely foreign to many people, so there's more p
 
 ### **Milsim Overview**
 
-Milsims, or "military simulations," are most commonly available through video games such as *Squad*, *ARMA 3*, and *ARMA Reforger*. There are also real-life groups that organize operations, like LAN events and field exercises, lasting for days instead of hours. Many people involved in milsims come from military backgrounds and build communities modeled on military organizations, procedures, and rules. For civilian populations, this is one of the few accessible and legal substitutes for experiencing aspects of military structure and operations.
+Milsims, or "military simulations," are most commonly accessible as of this writing through various video games. There are also real-life organizations that set up events and operations, like field exercises, lasting for days instead of hours. Many people involved in milsims come from military backgrounds and build communities modeled on military organizations they were a part of, including many of their procedures and regulations. For civilian populations, this is one of the few accessible and legal substitutes to experience aspects of military structure and operations.
 
 ### **Setup, Trainings, and Procedures**
 
@@ -76,30 +76,33 @@ There are multiple types of trainings milsim organizations host, such as Basic, 
 
 Keep in mind members of a group may more or less freely associate with each other regardless of rank or position in a milsim group, but may be restricted on what channels they can access depending on their position within the group.
 
-### **Basic Training**
+### **Basic Training (BCT)**
 
-Basic is vital to milsim organizations as it's the entry point and orientation for incoming recruits. It ensures they understand the environment they're getting into and what they must do to work effectively alongside everyone else. If they cannot abide by these rules and procedures, they are subject to disciplinary actions. 
+Basic training (BCT) is vital to milsim organizations as it's the entry point and orientation for incoming recruits. It ensures they understand the environment they're getting into and what they must do to work effectively alongside everyone else. If they cannot understand these rules and procedures, they cannot know instinctively what is expected of them and be unable to focus on the mission without being hand-held and told what to do. To put it another way: the goal of BCT is ensuring a base level of functional independence among *every single person* in the organization and not have them be walking liabilities.
 
-Some examples of what may be covered in Basic training:
+Some examples of what may be covered in basic training:
 
-- Basic infantry formations (e.g. where to stand, how to move around, etc.)
-- Proper communication and communication channels
-- Basic competency in standard equipment and tools
+- Basic infantry formations (e.g. where to stand, how to move together, etc.)
+- Proper communication, communication channels, and using technology to communicate
+- Basic competency in standard operation equipment and tools
 - How to inform others you need to leave for a bit, use the bathroom, etc.
 - What you can and cannot do
 - What happens when you break the rules, the consequences, and the severity of certain rule-breaking actions
+- How to fix yourself up in case of minor to moderate emergenices, like cuts, bruises, and non-life threatening wounds
 
 Procedures are taught by designated trainers, checked for competency and understanding, over each procedure until all are covered. Depending on how casual or serious the milsim group is, this training can take 30min to 3+ hours and may have a written manual you can follow along with.
 
-These processes are similar to how most classroom management is taught to students; through direct instruction and practice of procedures to ensure they're well understood. If the applicant cannot show competency with these procedures, they are denied access to the milsim group offers until they pass.
+These processes are similar to how some classroom management may be taught to students; through direct instruction and practice of procedures to ensure they're well understood. If the applicant cannot show competency with these procedures, they are denied access to the milsim group offers until they pass.
 
 To parallel classrooms, Basic is like the guidelines or syllabus you print out and hand copies to each student, go over with the students, and confirm everyone understands before giving them any real responsibilities.
 
 ### **MOS Training**
 
-A MOS (military occupational specialty) is a field or role a soldier may pursue. Compared to its real-life counterpart, many nuances are omitted, so each training session typically takes 30 minutes to a few hours depending on its complexity. 
+*Notice: You may also see these types of trainings as part of AIT (Advanced Individual Training).*
 
-In a milsim, think of getting a MOS as permission to use certain equipment and perform specialized roles. Put another way: "You are licensed to do this, so we will trust you to do this until proven otherwise."
+A MOS (military occupational specialty) is a field or role a soldier may pursue. Compared to its real-life counterpart, many nuances are omitted, so each training session typically takes 30 minutes to a few hours depending on its complexity.
+
+In a milsim, think of getting a MOS as permission (i.e. a certificate/license/clearance/etc.) to use certain equipment and perform specialized tasks. Put another way: "You are licensed to do this, so we will trust you to do this correctly until you prove otherwise."
 
 These trainings are available only after Basic is passed and there may be additional restrictions, such as time-in-service (TiS), time-in-grade (TiG), or minimum rank. Each MOS training comes with a specific set of rules, procedures, and methodology for correct use of all MOS-related equipment and procedures. Training typically does instruction, practice, then a test of competency before trainees may be cleared for the MOS. If MOS rules are broken, MOS permissions may be revoked for a limited time or indefinitely as a consequence.
 
@@ -107,15 +110,19 @@ For a classroom parallel, MOS training is like reviewing rules and requirements 
 
 ### **Detachment Training**
 
-Detachment training is typically reserved for detachments with stricter entry requirements and performance standards. Detachments consist of personnel assigned to specific tasks and roles within the milsim organization as a whole, which means receiving different trainings, missions, and equipment. They are also intentionally limited in size as smaller numbers are generally better suited for "special" or unconventional operations. 
+Setting up a detachment up and its selection/training process requires more clearances, permissions, and oversights approved first compared to Basic/MOS training. The organization was based largely around one (or simply limited) methods of operating, while adding a detachment effectively offers a "new" method for consideration. Detachments may also be a different solution to an existing pain point, but still require that same level of consideration and scrutiny before they're implemented.
+- As an education parallel, imagine a "detachment" is like adding an entirely new college under a university's umbrella. 
 
-Setting a detachment up and its selection/training process also requires more clearances, permissions, and oversights approved first compared to Basic/MOS training. Let's pretend I'm creating a Force Reconnaissance detachment and I'm seeking approval from the Company Leader (or the current direct leader of an organization). There's several things to establish and approve outside of training and certifications with the Company Leader including, but not limited to, a proposal covering items like:
+Detachment training is but one part of this process and these detachments commonly have stricter entry requirements and performance standards. Detachments consist of personnel assigned to specific tasks and roles within the milsim organization as a whole, which means receiving different trainings, missions, and equipment. They are also intentionally limited in size as smaller numbers are generally better suited for "special" or unconventional operations rather than general/conventional milsim operations. 
+
+Let's pretend I'm creating a Force Reconnaissance detachment and I'm seeking approval from the Company Leader (or the current direct leader of an organization). There's several things to establish and approve outside of training and certifications with the Company Leader including, but not limited to, a proposal covering items like:
 - What extra equipment the detachment is permitted and what additional rules do they follow
 - How will this detachment operate alongside other elements in the organization
 - What tasking they can and cannot do
 - What additional requirements for applications and membership into the detachment
+- What is the organizational structure (i.e. levels of leadership) within the detachment
 
-After approval is received comes further changes to how the training is designed and implemented. Let's say I want the detachment to know how to scout objectives and do reconnaissance. This means creating standards and also creating a training to meet (or exceed) those standards, such as:
+After initial approval is received comes further changes to how the training is designed and implemented. Let's say I want the detachment to know how to scout objectives and do reconnaissance. This means creating standards and also creating a training to meet (or exceed) those standards, such as:
 - Any additions or modifications to general procedures, if applicable
 - How to use detachment assets and equipment
 - New procedures and methods for specialized tasking
@@ -126,11 +133,13 @@ After approval is received comes further changes to how the training is designed
 
 Several requirements are already met by many people after they reach a certain "rank" and pass specific MOS trainings (in this example: at least passing marksman, medic, and grenadier MOS trainings) as well as basic training. The detachment training can review *parts* of these prior trainings again, but assumes heavily, and in good faith, rigor was strictly maintained and review time can be shortened greatly. Compared to all other trainings, except for officer/leadership training, how the training is conducted and performance graded is intentionally obscured to ensure fairness and equity for all incoming candidates.
 
-Of particular note above, mindset is *extremely* difficult to train compared to other skills. If I were to describe the ideal mentality briefly: those who seek to perfect their craft and will not give up when things get difficult. While mentality can be developed to what's needed for the detachment, training that up takes significant time and resources and requires the trainee to undergo a self-actualization process. It also cannot be trained up as easily as physicality, coordination, accuracy and precision, or other technical skills. Any physical factors and technical knowledge can be trained up and overcome blockers far more easily compared to mentality.
+Of particular note above, a mindset is *extremely* difficult to train compared to other skills. If I were to describe the ideal mentality detachments likely desire briefly: those who seek to perfect their craft and will not give up when things get difficult. While mentality can be developed to what's needed for the detachment, training that up takes significant time and resources and requires the trainee to undergo a self-actualization process. It also cannot be trained up as easily as physicality, coordination, accuracy and precision, or other technical skills. Any physical factors and technical knowledge can be trained up and overcome blockers far more easily compared to mentality.
 
 There's also a process called voluntary withdrawl, where a trainee chooses, of their own accord, to leave the training program. That's allowed during the training stages and they can do it at any point during the training without punishments. If they try to reattempt to get back into the detachment though, they're normally not allowed to retry until a sufficiently long period of time pass since their last attempt. The idea here was if trainees quit during the *training* without testing their limits, they'll certainly quit during a critical situation when those limits are tested. Trainees putting in an earnest effort and still failing, however, gets them another chance at a later time and perhaps even the help to succeed next time.
 
 Outside of the above details, detachment training is similar to Basic/MOS, but typically with higher standards due to specialized responsibilities and more dedicated resources available. When someone goes through detachment trainings, they usually do so to become part of that detachment rather than receive only knowledge and receiving any new permissions from their station. After passing the training and tests, the applicant may go into an official role or a trial period to see how they act in a live environment and how they interact with the people around them as well. The purpose of a "trial period" is to confirm they didn't slip through the cracks on the training process and we catch the issues quickly.
+
+As a warning, since they may be considered "special" units within an organization, detachments may give rise to "elitism" (i.e. a superiority complex) where people in a detachment may view themselves above non-detachment personnel regardless of rank. If your organization does not account for and curb this issue, it will deteriorate the overall organization's culture and well-being, which leads to internal issues and potentially stagnation and decline.
 
 In a typical education system, my closest comparison here may be with selecting teaching assistants from students who passed with high marks in the relevant classes before and were vetted by staff. These roles may require administrative approval, like principal sign-off, to ensure it won't cause issues with a student's education on top of their existing responsibilities. While they don't hold as much authority (and likely knowledge) as a teacher, they are still specialists in a given area of expertise.
 
@@ -141,14 +150,14 @@ Leadership in milsim groups typically requires a long time-in-service, training,
 Many milsim groups draw upon formal military training (without the classified stuff, of course) to assist people. These programs intentionally weed out people unfit for leadership responsibilities and the consequence for failure is time lost and requiring you to undergo the entire training/testing once again.
 - Said training is also infrequently hosted in comparison to MOS, Basic, etc.
 
-Training is conducted by senior officers and leaders, covering multiple topics, but usually these at a minimum:
+This particular training is conducted by senior officers and leaders with established experience. It covers multiple topics, but usually these at a minimum:
 - Leadership basics and conduct as an authority figure
 - Considerations for personnel under your command
 - Effective decision-making and communication in high-risk and limited time scenarios
 
 Instruction goes beyond other trainings by including observations, guided practice, quizzing, and more beyond simply direct instruction, practice, and a test.
 
-Tests are small-scale simulations appropriate for team/squads. A batch of aspiring leaders rotate roles in a group as infantry and primary leader. Evaluation typically includes communication, decision-making, navigation, casualty counts (efficiency), objection completion, and time-to-complete. Standards for leadership training are higher compared to other trainings; if, for example, passing a class only required a D (60%), leadership requires a B (80%) due to its newfound responsibilities and authority granted after completion.
+Tests here often include small-scale simulations appropriate for team/squads, since it proves competence in a *practical* setting. A batch of aspiring leaders rotate roles in a group as infantry and primary leader. Evaluation typically includes communication, decision-making, navigation, casualty counts (efficiency), objection completion, and time-to-complete. Standards for leadership training are frequently higher compared to other trainings; if, for example, passing a class only required a "D" grade (60%), leadership requires at least getting a "B" grade (80%) due to its newfound responsibilities and authority granted after completion.
 
 In education, officer training has similarities to a student teacher "trialing" in a classroom supervised by an existing teacher in order to become a teacher themselves.  The student teacher first observes and listens to the primary teacher, absorbing the "theory" behind how a classroom is managed and operates. After this, the student teacher designs their own lessons and teaches independently to prove competency and gets evaluated by teachers and potentially administration. Additionally, both student teachers and leadership applicants are expected to quickly take a bold plunge into the working environment under pressure and high expectations.
 
@@ -173,7 +182,7 @@ Some examples of FTXes may include the following:
 
 In a milsim, they typically range from 30 minutes up to 2 hours in length, with attendance usually tracked, so there's a reduced chance of scheduling conflicts. There may also be a minimum cadence of weekly, bi-weekly, or monthly to mitigate skill degradation.
 
-As for why an FTX is important, think about the first time you've tried something new or wanted to start an initiative if you're a leader. At first, you may have struggled to get it right and you're consciously thinking about how to do it. The second time goes a bit better because you've been through the steps once before, so now it's improving upon the execution of the process. This continues on and on until eventually you can do it subconsciously and spend more energy on the actions rather than the thoughts.
+As for why an FTX is important, think about the first time you've tried something new or wanted to start an initiative if you're a leader. At first, you may have struggled to get it right and you're consciously thinking about how to do it correctly. The second time goes a bit better because you've been through the steps once before, so now it's improving upon the execution of the process and less thinking about what the steps even were. This continues on and on until eventually you can do it subconsciously and spend far more energy on the actions rather than the thoughts.
 
 Though a FTX may seem like a waste of time, its ultimate goal is a "safe" environment to prepare you for how to do things before you are *forced* to figure it out in an unsafe environment without time to think. It's also a timeslot where, if someone fails to meet a baseline or standards, the consequences for failure are *significantly* less severe. There's far more time for instructors to provide remediation on the spot as needed or refer to other trainings and supports if it cannot be solved on the spot.
 
@@ -181,31 +190,33 @@ I found people, and students, have a habit of "locking up" in stressful situatio
 
 ### **Leaders Eat Last**
 
-This section header is intentionally a paraphrased title of *Leaders Eat Last: Why Some Teams Pull Together and Others Don't* (Sinek, 2014). 
+This section header is intentionally a paraphrased title of the book *Leaders Eat Last: Why Some Teams Pull Together and Others Don't* (Sinek, 2014). 
 
-While food may not be involved in virtual milsims (but likely involved in real-life milsims), the concept still stands. When I was in milsim groups, this was emphasized far more heavily than initially expected. Leadership was expected to arrive before other members and were the first on the ground and the last off the ground for operations.
+While food may not be involved in virtual milsims (but likely involved in real-life milsims), the concept still stands. When I was around milsim groups, this was emphasized far more heavily than initially expected. Leadership, such as officers like NCOs and COs, were expected to arrive before other members (i.e. non-leadership) and were often the first on the ground and the last off the ground for operations.
 
-If you cannot properly supply ("feed") people under your command, their ability to perform tasks suffers significantly. This also includes their morale, conduct, safety, and general health. How this is handled determines if people in organizations will go out of their way for each other or suffer from fragmentation, failure, and collapse.
+If you cannot properly supply people under your command what they need for their roles, their ability to perform tasks suffers significantly. This also includes their morale, conduct and behavior, safety, and general health. How this is handled determines if people in organizations will go out of their way for each other or suffer from fragmentation, failure, and collapse.
 - An "ACE Check" (Ammo, Casualty; Equipment) is one common way to check supply levels. 
 - The dynamics, stress levels, and behaviors between a well supplied group ("green x3" or "all green") and an undersupplied group ("red" or "black" meaning low to almost out) in operations are significant.
 
-In an operational setting, there doesn't exist time nor tolerance for self-interests and behaviors undermining a team. Individuals acting on their own and selfishly, or a "lone wolf," are quickly spotted with severe and fast consequences. One lone wolf can threaten the livelihood of an entire team, squad, platoon, or larger group of personnel.
+In an operational setting, there is little, or no, time nor tolerance for self-interests and behaviors undermining the team. Individuals acting on their own and selfishly, or a "lone wolf," are quickly spotted, dealt with, and issued severe and fast consequences. One lone wolf can threaten the livelihood of an entire team, squad, platoon, or larger group of personnel.
 
-The "leaders eat last" concept is emphasized further through how officers and NCOs conduct themselves and whether or not they understand the motivations and desires of those below them in rank. If they cannot meet the needs and wants of those below them, and provide stability in their roles, they lose the foundation to support the organization internally. If the organization cannot manage internal issues, it struggles with external issues and meeting its goals.
+The "leaders eat last" concept is emphasized further through how officers and NCOs conduct themselves and whether or not they understand the motivations and desires of those below them in rank. Empathy does have its role here. If leaders cannot meet the needs and wants of those below them, and provide stability in their roles, they lose the foundation to support the organization internally. If the organization cannot manage internal issues, it struggles with external issues and meeting its goals.
 
 "Hungry" employees don't perform well, lack trust in the organization, and work out of obligation instead of desire if their well-being isn't taken care of.
 
-To stay concise, I'll redirect readers to look into the [Whitehall (I and II) Studies](https://pubmed.ncbi.nlm.nih.gov/1674771/), status syndrome, and similar research for more related information (1978 & 1991).
+To keep this section concise, I'll redirect readers to look into the [Whitehall (I and II) Studies](https://pubmed.ncbi.nlm.nih.gov/1674771/), status syndrome, and similar research for more related information (1978 & 1991).
 
 ### **Precision and the Cost of One Mistake**
 
-In environments like these, simulated or not, the margin of error is extremely low. Mistakes are costly and many situations are matters of life and death. 
+In milsim environments, the margin of error is extremely low. Mistakes are costly and many situations are matters of life and death, unlike what you may typically see in education systems. 
 
-Leadership doesn't correct mistakes from animosity; they correct mistakes because oversights endanger missions and people under their command, which includes you. Even a single gamble or gut instinct gone wrong can lead to all-out conflict or devastation, like if "The Man Who Saved The World" Stanislav Petrov made the wrong decision in 1983 (Lebedev, 2004). The same principle also applies to smaller scale situations, like a misinterpreted radio call on a fireteam mission.
+Leadership doesn't correct mistakes from animosity; they correct mistakes because oversights endanger missions and people under their command. Even a single gamble or gut instinct gone wrong is a risk that can lead to all-out conflict or devastation, like if "The Man Who Saved The World" Stanislav Petrov made the wrong decision in 1983 (Lebedev, 2004). The same principle also applies to smaller scale situations, like a misinterpreted order received through a radio transmission or unknowingly calling in a danger-close fire mission.
 
-How do you mitigate risks here? Strict adherence to discipline. One oversight or mistake may lead to an immediate consequence and quickly snowball into casualties. This applies on a strategic, tactical, and procedural level. Discipline, through checklists, drills, scripts, rehearsals, and contingencies keep people alive when it's seconds on the clock.
+How do you mitigate risks here? Strict adherence to discipline. 
 
-Precision and discipline also affects other situations, like the following examples:
+One oversight or mistake may lead to an immediate consequence and quickly snowball into casualties. This applies on a strategic, tactical, and procedural level. Discipline, through checklists, drills, scripts, rehearsals, and contingencies keep people alive when all you have is mere seconds on the clock to make the right decisions.
+
+It also affects other situations and regulations, like the following examples:
 1. Uniform guidelines
 2. Communication on and off the radio
 3. Difference between a column and a line
@@ -214,8 +225,9 @@ Precision and discipline also affects other situations, like the following examp
 6. Squad succession
 7. Operation and allocation of assets
 8. How to breach and clear a building
+9. When to salute and when not to salute a superior officer
 
-Precision and discipline are universal concepts. Lacking these leads to consequences, such as learning loss, mismanaged risks, and improper responses to emergencies and routine situations. Just like in operations, careful planning, clear communication, and consistent routines ensure risks are managed.
+Precision and discipline are universal concepts. Lacking these leads to consequences, such as learning loss, mismanaged risks, and improper responses to emergencies and routine situations. Just like in operations, careful planning, clear communication, and consistent routines ensure risks are mitigated and emergencies better managed.
 
 ### **Smart Communication**
 
@@ -236,33 +248,30 @@ Reconnaissance is pretty important and what I'll single out from the other examp
 It's also common to use acronyms, abbreviations, markings, and symbols to communicate to other people even outside your specific team or organization.
 - For example, using terminology derived from sources like [FM 1-02.1 Operational Terms](https://irp.fas.org/doddir/army/fm1-02-1.pdf) as well as [FM 1-02.2 Military Symbols](https://irp.fas.org/doddir/army/fm1-02-2.pdf) (U.S. Army, 2024).
 
-Whenever I participated in milsim scenarios, I usually joined the reconnaissance units/elements. As for why I was usually allowed into those groups, it was because I was good at math, precise with spotting, knew how to stay silent and undetected, and accurate across extreme distances. More importantly, I could work within a specialized team and interpret the signs, symbols, landmarks, and *read* maps and terrain accurately and precisely with limited (or non-functional) technology. Land navigation was a surprisingly neglected skill in practice, despite technologies like a GPS handling the heavy lifting for most people. Working at long ranges also means dealing with the armanents to cover those ranges and handling issues like projectile drops, transonic effects, Coriolis effect, wind, and far more variables many short range interactions get to "ignore" entirely.
+Whenever I participated in milsim scenarios, I usually joined the reconnaissance units/elements. As for why I was usually allowed into those groups, it was because I was good at math, precise with spotting, knew how to stay silent and undetected, and was accurate across extreme distances. More importantly, I could work within a specialized team and interpret the signs, symbols, landmarks, and *read* maps and terrain accurately and precisely with limited (or non-functional) technology. Land navigation was a surprisingly neglected skill in practice, despite technologies like a GPS handling the heavy lifting for most people. Working at extreme distances also means dealing with the armanents to cover those ranges and handling issues like projectile drops, transonic effects, Coriolis effect, wind, and far more variables many short range interactions get to "ignore" entirely.
 
 If I were in a "manager" role, like a squad or team leader, I would establish three rules for *all* communications in these specialist groups where every conservation over radio nets needs to be:
 1. Concise
 2. Clear
 3. Descriptive
 
-2 and 3 may sound conflicting, but they aren't. To give an example of all three in action, you could say: "I'm a VP of Technology at Big Wigs Inc. in Seattle." From that alone, you get:
-- Concise: a single sentence said in a few seconds.
-- Clear: You know exactly what their function/status is and remove ambiguity (a VP who manages the organization)
-- Descriptive: You have appropriate context of their ability, status, etc. (upper-level manager based in Seattle).
+10 seconds was set as the hard limit for each communication, order, etc. sent out. If it's longer than that, minds drift and information complexity increases. The simpler it is, the easier it is. You can get the necessary information transmitted in that timeframe, despite how short it may seem, so long as it follows those three rules.
 
-As for meetings, it's subject to all the rules and caveats I discussed in other management chapters, but in a modified context.
+If you cannot say something within 10 seconds, describe exactly what is there without ambiguity, and provide the appropriate context, it is likely not considered a good message. You may lack certain aspects and details, but you cannot stumble over your words and take any longer than necessary. In operations, there are seconds on the clock and you need to be able to adjust quickly when things go wrong.
 
 Where the biggest difference arrives is in face-to-face and radio network communications. Unless you are positively, absolutely sure nothing bad will happen (which is almost never in practice), you don't ever want to talk or ramble a lot on them. You want to get straight to the point and not waste anyone's time. Time spent listening to you is time spent they could focus on and do other equally, if not more, important tasks.
 
-It's why 5-10 seconds was set as the limit for each communication, order, etc. sent out. If it's longer than that, minds drift and information complexity increases. The simpler it is, the easier it is.
+As for meetings, it's subject to all the rules and caveats I discussed in other management chapters, but in a modified context.
 
 ### **Clarifying Radio Networks**
 
 Radios are a part of all infantry kits and generally split into SR (short-range) and LR (long-range) communications. Every MOS might use SR radios, but not LR radios, and using a radio properly is one skill present at all organizational levels. Communications on both SR and LR radios generally permit people at the same organizational layer as the person with the highest authority on the net, plus leadership/managers from one layer below, to speak on it. Rarely do you ever communicate more than one layer up or down at a time.
 
-SR radios are for squad and team communications, in addition to limited cross-functional communications across command teams, specialized elements, and detachments. Range and capability is limited, but it's lightweight, compact, and easy to setup compared to other communication types. For example, a squad leader may have a squad SR radio net and use it to speak to their team leaders who are 2IC, 3IC, etc. and hold similar authorities when it comes to commanding.
+SR radios are typically for squad and team communications, in addition to limited cross-functional communications across command teams, specialized elements, and detachments. Range and capability is limited, but it's lightweight, compact, and easy to setup compared to other communication types. For example, a squad leader may have a squad SR radio net and use it to speak to their team leaders who are 2IC, 3IC, etc. and hold similar authorities when it comes to commanding.
 
 LR radios are for platoon and higher communications when reaching out to other elements. Range and capabilities are higher, but LR radios are heavier and less compact--sometimes replacing a backpack. For example, the squad leader from before may also be on a platoon LR radio net speaking to other squad leaders, the platoon leader, the platoon 2IC, and detachment leaders.
 
-Transmissions on all networks are kept under a somewhat strict time limit, like <8 seconds per communication per person. Each net is limited, by doctrine and technical limitations, for how many personnel can transmit at a time to intentionally reduce each person's load to process while doing everything else their role requires. A SR radio could connect to a LR radio network in emergencies, like stepping up into leadership roles mid-operation if someone goes unavailable suddenly. Both LR and SR radios can also set additional nets, enabling you to listen into 2 nets at the same time and reduce time spent manually switching through channels.
+Transmissions on all networks are kept under a rather strict time limit: about 5-10 seconds per communication per person. Each net is limited, by doctrine and technical limitations, for how personnel can transmit messages to intentionally reduce each person's cognitive load while doing everything else their role requires. A SR radio could connect to a LR radio network in emergencies, like stepping up into leadership roles mid-operation if someone goes unavailable suddenly. Both LR and SR radios can also set additional nets, enabling you to listen into 2 nets at the same time and reduce time spent manually switching through channels.
 - For those with both a LR and SR radio, it's possible, and sometimes required, to listen to up to 4 radio nets at the same time: 2 transmitting from SR and 2 transmitting from LR.
 
 If I mention "nets" moving forward, that refers to a communication channel accessible to short-range (SR) radio or long-range (LR) radio. Nets are divided into whole and decimals, where the decimal numbers are subdivided tactical nets or "TAC" (e.g. 244 TAC 1 = 244.1). TACs permit a wider range of available frequencies to handle communications and reduces unnecessary clogging and overlap of networks here.
@@ -273,11 +282,35 @@ As an example of a squad net and its corresponding team net structure utilizing 
     - 244.2: Bravo Team
     - 244.3: Charlie Team
 
-As milsim groups occasionally allow international people to join, communication should accommodate ESL (English as a Second Language) speakers by default. The ICAO phonetic alphabet was implemented and is accessible for, at a minimum, English, French, and Spanish speakers (Geneva, 1959). For speakers of languages beyond those three, they still followed ICAO, or something similar, while in the milsim organization.
+As milsim groups occasionally allow international people to join, communication should accommodate ESL (English as a Second Language) speakers by default. The ICAO phonetic alphabet was implemented to address these concerns and is accessible for, at a minimum, English, French, and Spanish speakers (Geneva, 1959). For speakers of languages beyond those three, they still followed ICAO, or something similar, while in the milsim organization.
+
+### **Operation Preparation (Example)**
+
+Say an operation starts at 1100 for a given platoon and an OPORD (Operations Order) was already made in advance by the platoon covering many of the mission details. An example schedule before it starts may look like the following:
+- 1000: Prepare a staging area
+- 1020: Open access into the area
+- 1030: NCO/CO Meeting
+- 1045: Squad Debrief
+- 1055: Assembly
+- 1100: Step off (i.e. begin operation)
+
+Initial preparations is setting up the area where soldiers can assemble, communicate, sort through their equipment, and ensure nothing is faulty before the operation. 
+
+NCO/CO Meeting is where platoon leaders communicate with the rest of platoon staff and their squad leaders (in addition to team leaders/RTOs if necessary) to establish the strategy, phases, and goals. As an OPORD is assumed to be made, this meeting is primarily a quick review session and should be done within 10-15 minutes, if not sooner.
+
+Squad Debrief is when each squad leader goes back to their respective squads, summarizes the strategy from above, and formulates tactics. This is a 5-10 minute, or less, overview of what's going to happen, as more details and plans may change throughout the operation affecting the squad.
+
+Assembly is the time where everyone, with limited exceptions, must report to the assigned area ready for the next phase: step off. This is also when a brief overview is given, from the platoon level (or higher), to the rest of the platoon if necessary. 
+
+Step off is the designated start of an operation and when everyone in the platoon goes into their respective transportation methods.
+
+You may have certain elements in a platoon, such as a reconnaissance detachment, step off earlier than the rest of the platoon to perform specialized tasking. That still usually happens after the NCO/CO Meeting step to ensure everyone is on the same page. Throughout this entire 1 hour period, people may be operating in the background and preparing (or at least waiting) logistics in the background, such as pre-flight checks, vehicle checks, and supply/equipment checks.
+
+There are many moving pieces involved here, so time for preparation must be set aside to ensure there's as few hiccups as possible during an operation.
 
 ### **Milsim Breakpoint 1: Squad**
 
-Let's assume you are a squad leader in this case, and you are communicating with a "command" element above you.
+Let's assume you are a squad leader in this case, and you are communicating with a "command" element above you. Assume Command/HQ is the person/group providing information outside the area of operations (AO) to leadership, like a business client communicating what they need done through a manager.
 
 Here is one example of role organization at squad level:
 - Command/HQ
@@ -287,7 +320,7 @@ Here is one example of role organization at squad level:
         - Medic
     - RTO
 
-As for the number of radio networks each role may be responsible for, where every "net" may have around 4-7 people on it:
+As for the number of radio networks each role may be responsible for, where every "net" may have around 4-7 people on it at the same time:
 - Command/HQ: 1-2+ nets
 - Squad Leader: 2-3 nets
 - Team Leader: 2-3 nets
@@ -295,17 +328,16 @@ As for the number of radio networks each role may be responsible for, where ever
 - Medic: 1-3 nets
 - RTO: 1-4 nets
 
-**How it works in milsims**
-
-*Note: Command/HQ = Person/group providing information to leadership.*
-
 No single person is accessing more than 4 nets, LR and/or SR, at once due to technical and communication limits as each person may realistically track only a few nets at once. Beyond that, information slows, details may be lost, delays increase, and discipline crumbles. This is why efficiency and formalization in communication is necessary at every layer.
 
-A squad has typically up to 16 soldiers and 2-3 teams. At the top is a squad leader, followed by 2-3 team leaders and 1 RTO, then the rest as infantry or medics. Extra personnel are embedded into existing teams as infantry to maintain structure.
+A squad has typically up to 16 soldiers spread across 2-3 teams. For this example, we have at the top a squad leader, followed by 2-3 team leaders and 1 RTO, then the rest as infantry or medics assigned to each team leader. Extra personnel are embedded into existing teams as infantry to maintain structure.
+
+As for why a "squad" has a setup like this? It's to mitigate the single point of failure problem. If any one person is "down" or unavailable, it doesn't completely negate the effectiveness of that squad. *Capabilities* and effectiveness may be decreased, but not eliminated, yet risk may greatly increase when you're left with only generalists instead of utilizing specialists. Should the medic go down, every other soldier knows enough medical knowledge to keep themselves stable and up. If the RTO goes down, the majority of communications gets offloaded and split among other roles, like the other leaders. If all the leaders go down, every other soldier has training in how to communicate, run formations, and use most equipment, so they can inform Command of this issue and "keep the ship sailing" so to speak.
+- If, as an edge case, only one person is left across the entire squad during an operation, the knowledge from BCT should at least help them avoid further trouble and/or get them to meet up with other elements for assistance ASAP.
 
 Teams within the squad are divided up by designations, such as Alpha/Bravo, followed by a platoon-squad designation, like "1-4" (1st Platoon, 4th Squad). As an example, Alpha Team Leader in 4th squad would be "1-4-A" or "1-4-Alpha." These designations provide clarity for *who* is doing communication, rather than leaving it to assumptions.
 
-Most communication occurs three ways: squad net, team net, and voice. Squad net deals with orders and emergencies in formal communication, team net deals with tactics to complete orders in less formal communication, and voice handles most other cases informally. This setup permits squad leaders to split apart the teams to perform different tasks at each objective, such as Alpha as a fire/SBF (support-by-fire) element and Bravo as a maneuver element, and increase the overall effectiveness of the squad.
+Most communication occurs three ways here: squad net, team net, and off-radio voice. Squad net deals with orders and emergencies in formal communication, team net deals with tactics to complete orders in less formal communication, and voice handles most other cases informally. This setup permits squad leaders to split apart the teams to perform different tasks at each objective, such as Alpha as a fire/SBF (support-by-fire) element and Bravo as a maneuver element, and increase the overall effectiveness and capabilities of the squad.
 
 Each squad may have its own culture developed by the squad leader and the members of the squad. That culture can stay consistent over a long time, but is likely to change as people come and go and the experience of individuals grows. After-action reviews also occur after each operation for members to review what was good, bad, and/or needs improvement.
 
@@ -313,15 +345,15 @@ Each squad may have its own culture developed by the squad leader and the member
 
 This is the scale of one teacher to many students. That teacher may assign group leaders from their students (team leaders), note "good" students (medics) to help in class, and perhaps have a student to send out of the room in certain situations (RTO). Teachers design lesson plans (tactics) for students to navigate the curriculum (strategy) defined by higher authorities (company+ or platoon+) and managed by principals (e.g. a platoon leader).
 
-Translating a squad into a classroom generally involves these things:
-- Distributed leadership, like group leaders, tends to work well and has students try to figure things out amongst themselves first *before* asking the teacher to step in. This has *some* parallel with student-centric learning, as the teacher is still the standing authority and guide on what they should focus on.
+Translating a squad into a classroom generally maps out several ways:
+- Distributed leadership, like group leaders, tends to work well and has students try to figure things out amongst themselves first *before* asking the teacher to step in. This has *some* parallel with student-centric learning, as the teacher is still the standing authority and guide on what direction to focus on.
 - Communication management to take multiple voices at once and allocate responses through defined groups or a single channel like email.
 - Scalability, where a group of 16 is manageable, but any larger and you'll need to form subgroups to maintain structure.
 - Reflections, similar to after-action reviews, allow students to identify what worked, what didn't, and how to improve.
 
 ### **Milsim Breakpoint 2: Platoon**
 
-For this section, let's assume you, the reader, are the platoon leader.
+For this section, let's assume you, the reader, are now the platoon leader.
 
 Your organization then might look like this:
 - Command/HQ
@@ -344,8 +376,6 @@ These are the number of radio networks each role may be responsible for as well,
 - Platoon Medic: 2-4 nets
 - Designated Specialists: Variable
 
-**How it works in milsims**
-
 If you're platoon staff (or platoon leader), or a higher ranking position in later unit sizes, you go from tactical operations to strategic operations. You're developing soldiers, leading other leaders, maintaining organizational health, and improving organizational capabilities to take on bigger missions.
 - *This parallels with what director+ roles go through in a previous management chapter!*
 
@@ -358,7 +388,9 @@ LR nets have multiple uses at platoon level, but I'll stay concise. Let's say th
 
 Platoon leaders may have support staff as well, like 2IC (second-in-command), platoon RTO (radio telephone operator), and a platoon medic. These roles are direct reports under the platoon leader. One of their main tasks is to monitor various LR nets and relay key information onto the same SR net as the platoon leader for faster decision-making and operational updates in real-time. The 2IC may act as a co-leader and handle part of the decision-making of a platoon leader as well if given permission or the situation demands it.
 
-For scope, platoons complete multiple objectives within a small to medium AO and coordinate multiple squads across multiple objectives and/or focus many squads on one objective. Strategy comes from company down to platoon level, but platoon leaders have some leeway to adapt strategy to their platoon's capabilities and needs.
+For scope, platoons complete multiple objectives within a small to medium AO and coordinate multiple squads across multiple objectives and/or focus many squads on one objective. Strategy comes from company down to platoon level, but platoon leaders have some leeway to adapt strategy to their platoon's capabilities and needs. 
+
+Designated specialists, filed away under squads above, is when you need to bring in a particular capability that squad normally cannot handle themselves or needs a particular asset for an operation. This setup permits allocating enough resources *without* bringing in excess resources like an entirely new team, squad, etc.
 
 For scaling platoons, you first fill up existing squads before splitting people off from them to create a new squad. You'd go through meetings with people in current squads to assess leadership ability, squad fit, and competency before placing them in the new squad.
 
@@ -374,12 +406,12 @@ To tie this into teaching and instruction, there's two examples as parallels:
 1. A grade level team overseeing multiple classrooms
 2. A department head overseeing multiple teachers in one department
 
-Unlike squads, you're getting more into managing managers instead of managing individuals.
+Unlike squads, you're going more into managing *managers* instead of managing *individuals.*
 
-Support staff, like janitors, secretaries, or aides, function like detachments and give leaders, like teachers and principals, more time to dedicate to their primary tasks.
+Support staff, like janitors, secretaries, security, or aides, function like detachments and assist other leaders, like teachers and principals, by giving back more time and resources to dedicate to their primary tasks.
 
 Translating a platoon into a class setting generally involves these things:
-- Distributed Leadership, where principals, department heads, or deans oversee teachers who manage students.
+- Distributed leadership again, where principals, department heads, or deans oversee teachers who manage students.
 - Communication management to ensure leadership below understands what needs to be done with clarity.
 - Scalability, where you're managing managers and may hire staff to monitor subgroups and delegate tasks to.
 - Reflections and meetings from leadership to review what teams need to operate effectively.
@@ -404,23 +436,19 @@ At this scale, your organizational structure may look like the following:
     - External Organization Representatives
     - Other Individual Contributors
 
-Radio networks follow the same principle as before, where each radio network may have 4-7 people actively speaking on it (but perhaps even more simply "listening" in or as standbys in case of emergencies)
+Radio networks follow the same principle as before, where each radio network may have 4-7 people actively speaking on it (but perhaps even more simply "listening" in or as standbys in case of emergencies).
 
-**How it works in milsims**
-
-The communication structure is like platoons, but Company is a layer between platoon leader and Command/HQ. Company leaders, and company staff, may operate on 2-4 nets at any given time. At this breakpoint and beyond, additional layers are added between the previous highest leadership and a Command/HQ element. 
+The communication structure is like platoons, but a company is another layer between platoon leader and Command/HQ. Company leaders, and company staff, may operate on 2-4 nets at any given time. At this breakpoint and beyond, additional layers are added between the previous highest leadership and a Command/HQ element. 
 
 The Command/HQ element may not always be the highest-ranking element during operations, but they are the element responsible for bringing in information relevant to complete objectives. They typically respond to only the two highest management layers present in a given operation, which is their own layer and one layer below them, on radio networks.
 
 When transitioning from a platoon to a company, you'll undergo a similar process to how new squads form within a platoon. You may also establish dedicated company staff to assist you, like in platoons. 
 
 Companies will eventually need more dedicated detachments within the organization to assist the platoons under their command. These detachments may follow the same leadership structure or have variations.
-- Example 1: Air detachments may follow Air Force organizational guidelines/ranks and form sections/flights instead of teams/squads, but they may maintain similar standings amongst existing organizational layers.
+- Example 1: Air detachments may follow "Air Force" (instead of "Army") organizational guidelines/ranks and form sections/flights instead of teams/squads, but they may maintain similar standings amongst existing organizational layers.
 - Example 2: Special mission units may allocate resources and equipment meant for squads (and even platoons) to each team in the detachment to accomplish higher difficulty tasks and objectives compared to general infantry.
     - The "This group has 20 dollars to outfit 5 guys while this other group has 20 dollars to outfit 20 guys" scenario, where the former is a special mission unit or detachment.
 - Example 3: Warrant officers do specialized tasks outside of operations, like maintain and update the functionality of the milsim's systems and equipment. This usually means backend personnel, such as developers, technicians, analysts, and more.
-
-Detachments may give rise to "elitism" (i.e. a superiority complex) where people in a detachment may view themselves above non-detachment personnel regardless of rank. If your organization does not account for and curb this issue, it will deteriorate the overall organization's culture and well-being, which leads to stagnation and decline.
 
 Forming another platoon typically involves adding new squads in existing platoon(s) first (up to 5 squads). Once platoon at capacity, you split out squads and take in willing reservists (i.e. recruits and applicants) to fill billets in the new platoon. This may involve multiple tiers of personnel to check on and meet with: standard infantry, team leaders, squad leaders, platoon leaders, and more.
 
@@ -430,15 +458,15 @@ Designations become slightly more complex as well. If you were previously "1-6" 
 
 **How to apply to instruction**
 
-Let's tie this section back to class settings and this is where complexity exponentially increases yet again. 
+Let's tie this section back to class settings. This is where complexity noticeably starts exponentially increasing and further compounds as you scale up further in size. 
 
-Say you are a principal (company leader). You are more removed by design from students compared to teachers (squad leaders), department heads/deans (platoon headers) and other leadership and staff below you. You may interact with students occasionally, but you’re not on the frontlines teaching or handling lesson plans as often; your focus is on strategy, like curriculums, management of managers and leaders, and keeping the school running.
+Say you are a principal (company leader). You are more removed by design from students compared to teachers (squad leaders), department heads/deans and assistant principals (platoon headers), and other leadership and staff below you. You may interact with students occasionally, but you’re often not directly on the frontlines teaching or handling lesson plans. Your focus is instead on strategy, like curriculums, management of managers and leaders, and keeping the school running.
 
 An analogy for companies, in terms of teaching, is closest to overseeing multiple departments within a single school. You have a principal (company leader), who may have assistant principals (company staff), and support staff like secretaries and security (detachments) assisting in running the school and aiding your other staff like teachers (squad leaders). Assistant principals could oversee teachers as pseudo-platoon leaders. They may also designate someone as a department lead, like a dean, to take over that role. 
 
 As there's now multiple teachers, teachers divide into departments (platoons) grouped upon the primary subject they teach. If you had 4 science teachers, as an example, those science teachers would all be within one science department. Each teacher may specialize in different types of science for students under their care, such as Biology, Chemistry, or Physics, but are still in one department because the company leader (principal) wanted it set up that way.
 
-Like in platoons, support staff like secretaries and security function similarly to detachments. As the organization scales, support staff should scale proportionally to maintain effectiveness and efficiency, but not so much to introduce excess redundancy and bureaucracy.
+Like in platoons, support staff function similarly to detachments. As the organization scales, support staff should scale proportionally to maintain effectiveness and efficiency, but not so much to introduce excess redundancy and bureaucracy.
 
 ### **Milsim Breakpoint 4: Battalion**
 
@@ -450,7 +478,7 @@ Be warned, however, that every additional layer increases the amount of time it 
 
 At the battalion level, it's less about being on the frontlines and more determining the necessary delegation to complete tasks and information filtering. This is similar to how LR nets and SR nets are condensed, refined, and restricted to keep information clear, but on a larger and more complex scale.
 
-Even at the battalion scale, after-action reviews still occur. The biggest difference between company and below vs battalion is the shortlist of who attends these meetings. Meetings from this point onwards strictly determine how many management layers above and below are present and invited into meetings. As an instructional example, a principal meeting is like having company leaders (principals) meeting with a battalion leader (superintendent) with very few other people in attendance. The focus is still on high-level strategy for all present, but the company leaders are figuring out tactics to present and execute the strategy for down the chain of command.
+Even at the battalion scale, after-action reviews still occur alongside more meetings covering the logistics and needs of every group inside the battalion. The biggest difference between company and below vs battalion is the shortlist of who attends these meetings. Meetings from this point onwards strictly determine how many management layers above and below are present and invited into meetings. As an instructional example, a principal meeting is like having company leaders (principals) meeting with a battalion leader (superintendent) with very few other people in attendance. The focus is still on high-level strategy for all present, but the company leaders are figuring out tactics to present and execute the strategy for down the chain of command.
 
 Tying this back into a classroom setting, this is moving beyond one school to the district managing multiple schools. The district may have its own specialized staff and detachments to assist operations, with superintendents (battalion leaders) overseeing the principals (company leaders) across different schools. The complexity, staff involved, and more increase significantly over time.
 
@@ -458,23 +486,25 @@ If you were to scale it up further from battalion, staying with an instructional
 - Brigade (Multiple districts in one city)
 - Division (Multiple cities in one metropolis)
 - Corps (Multiple metropolises and spread-out cities in one region)
-- Field Army (All regions within one state (e.g. Colorado Department of Education))
-- Army Group (Multiple states categorized into one geographical section, like Midwest, Southwest, etc. (Many state departments of education collaborating together))
-- Army Region (All states in the United States (e.g. U.S. Department of Education))
+- Field Army (All regions within one state/province (e.g. Colorado Department of Education))
+- Army Group (Multiple states/provinces categorized into one geographical section, like Midwest, Southwest, etc. (Many state departments of education collaborating together))
+- Army Region (All states/provinces under a sovereign state like the United States (e.g. U.S. Department of Education))
 
-### **The Importance of Succession & Middle Management**
+### **The Importance of Succession & "Middle Management"**
 
-As you've read through these breakpoints, you may've noticed a consistent "theme" on how many direct reports a leader has under them. To quickly recap some examples in case you didn't catch it the first time:
+As you've read through these breakpoints, you may've noticed a consistent "theme" on how many direct reports a leader has under them. To quickly recap some examples:
 - Team leaders have ~3-5 direct reports: soldiers, medics, etc.
 - Squad leaders have ~3-5 direct reports: RTOs and team leaders
-- Platoon leaders have ~3-6 direct reports: squad leaders, their 2IC, platoon medic/RTO, and (sometimes) detachment leaders
-- Company leaders have ~5-7 direct reports: company staff, their 2IC, platoon leaders, auxiliary officers, and detachment leaders
+- Platoon leaders have ~5-6 direct reports: squad leaders, their 2IC, platoon medic/RTO, and any detachment leaders
+- Company leaders have ~6-8 direct reports: company staff, their 2IC, platoon leaders, auxiliary officers, and detachment leaders
+
+As you move up layers, the scale of groups also changes. A squad leader manages their teams. A platoon leader manages their squads and a company leader their platoons. Far less frequently do you go beyond a layer or two outside your control except for special circumstances and emergencies. For example, though you may be a platoon leader and have 40-50 people under your command, you won't have 40-50 *direct reports* (everyone in the platoon) but instead 5-6 direct reports (the leaders one layer below you).
 
 Every "manager" has at least a few people of lower rank below them. It permitted a smooth progression up the chain of command for *every* person involved, should they wish to pursue promotions, and provides smooth transitions in leadership should a manager, director, or leader step down from their position. The deliberately controlled number of direct reports also ensures there is sufficient time for 1:1 communication, handling emergencies, and still getting the necessary work done.
 
-In these scenarios, you should under no circumstance heavily invest a significant amount of people of lower rank under only 1 person, or an extremely limited number of people, of a higher rank. While you may've flattened the level of leadership involved and potentially reduced role complexity, you've effectively destroyed any progression or advancement, a buffer for when things go wrong, *and* eliminated the incentive for people to advance further in the organization. If there's no upward path in *your* organization, perhaps people will search for an upward path in another organization to meet their goals.
+In these scenarios, you should under no circumstance heavily invest a significant amount of people of lower rank under only 1 person, or an extremely limited number of people, of a higher rank. While you may've flattened the level of leadership involved and potentially reduced role complexity, and perhaps extra costs towards labor, you've effectively destroyed any progression or advancement, a buffer for when things go wrong, *and* eliminated the incentive for people to advance further in the organization. If there's no upward path in *your* organization, perhaps people will search for an upward path in another organization to meet their goals.
 
-What may result is a gap reminiscent of a caste system where you have a cohort of extremely experienced individuals, a cohort of extremely inexperienced individuals, and nothing in between. Measures to mitigate that gap will be hard pressed to execute in practice as the experienced group is far too focused on their own duties for the health of the organization to impart their knowledge to those below. That leaves the inexperienced group undergoing a constant trial by fire and hopefully able to glean knowledge on how things work over time. Lastly, should a large enough group of those highly experienced people depart, the organization is bound to lose structure, lose a significant source of technical knowledge, be thrown into a period of chaos, and will either miraculously survive a near-fatal wound or simply die out.
+What may result is a gap where you have a cohort of extremely experienced individuals, a cohort of extremely inexperienced individuals, and nothing in between. Measures to mitigate that gap will be hard pressed to execute in practice as the experienced group is far too focused on their own duties for the health of the organization to impart their knowledge to those below. That leaves the inexperienced group undergoing a constant trial by fire and hopefully able to glean knowledge on how things work over time. Should a large enough group of those highly experienced people depart, the organization is likely to lose structure, lose a significant source of technical knowledge, be thrown into a period of chaos, and will either miraculously survive a near-fatal wound or simply die out.
 
 Though "middle management" complicates communication across layers, organizations cannot completely neglect the duties behind the middle layers at the intersection of strategy and execution. At the same time, you also cannot have *too* many leaders and people in the middle layers, as you're looking at excessive redundancy and costs to the organization.
 
@@ -484,9 +514,9 @@ It's a balancing act between too many leaders and too few leaders to oversee peo
 
 When scaling down, there will be shrinking pains, much like there were growing pains.
 
-Politics is one major challenge. For example, while the best solution may be to remove one small platoon from a company of four platoons, leaving one company and three more filled-up platoons, this risks those within the removed platoon harboring resentment, ire, or even actively disrupting operations.
+Politics is one major challenge. For example, while the best solution may be to remove one small platoon from a company of four platoons, which means leaving one company and three more filled-up platoons afterwards, this risks those previously a part of the removed platoon possibly harboring resentment, ire, or decreased morale later on.
 
-A way to handle this is to propose a size reduction to the relevant parties in the affected layer. If you were a company leader, this means approaching *every* platoon leader in the company, opening discussions, and hosting meetings. You have to determine who is okay staying in leadership, who can move into lower leadership roles, and who can return to IC/infantry roles.
+A way to handle this is to propose a size reduction well in advance to the relevant parties in the affected layer. If you were a company leader here, this means approaching *every* platoon leader in the company, opening discussions, and hosting meetings. You have to determine who is okay staying in leadership, who can move into lower leadership roles, and who can return to IC/infantry roles.
 
 To put it bluntly, you’re seeing who is okay with a "demotion." This doesn’t go well if not everyone agrees, and you should expect some personnel to depart because of the downsizing--even if downsizing is the best way to maintain slotted numbers and ratios.
 
@@ -494,7 +524,7 @@ In short, don’t downsize unless absolutely necessary. First evaluate whether c
 
 Another way milsim groups maintain numbers and fulfill operational needs is by setting up a reservist core. These are people who choose not to slot into an active squad, platoon, or other role, or were previously part of a billeted position but are currently unassigned.
 
-Keep in mind that reservists may not commit to a slotted role, or may be waiting for a particular MOS or position to open. With that in mind, reservists are more reliable for operational support than for staffing and filling billets in the milsim organization.
+Keep in mind reservists may not commit to a slotted role or may be waiting for a particular MOS or position to open. Despite that potential issue, reservists are more reliable for on-demand operational support than for consistent staffing and filling billets in the milsim organization.
 
 ## **Bibliography**
 

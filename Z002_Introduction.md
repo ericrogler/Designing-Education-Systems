@@ -9,15 +9,21 @@ nav_order: 4
 
 ## **Introduction**
 
-Imagine I want to get a new teacher, instructor, presenter, etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also see what they're going into. 
+**Let me officially start this book by saying I am one of the dumbest people I have ever known in my entire life.** Nevertheless, I wanted to write about everything you will read within here.
+
+Imagine I want to get a new teacher, instructor, presenter, educator etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also peer behind the curtains. 
 
 **That's my problem here to solve and this book is my solution. It serves as an introduction, or starting point, towards education systems and examines multiple topics broadly.**
 
 Will it go against some conventional wisdom on education and teaching? Yes. 
 
-Will it also support some existing, tried-and-true, education methodology? Also yes.
+Will it support certain existing, tried-and-true, education methodology? Also yes.
 
 Might it be considered a controversial book to some readers? Very much so.
+
+Will this book often state the obvious that still need to be stated anyways? Quite so. What may be obvious to one reader may not be to another reader.
+
+Will some of this information not be perfect or 100% correct? Yes. This won't solve all your problems and you'd be bold for assuming I *know* all the solutions. That's to be expected as improving education is an iterative process (even if that process loops back in "old" solutions to "new" problems).
 
 ***Think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.*** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
 - Granted, I'm also going to cater what products and services I provide, i.e. information and opinions on topics presented to you.
@@ -26,7 +32,7 @@ Might it be considered a controversial book to some readers? Very much so.
 
 An educator exists in many different forms and they come from many backgrounds to cover a vast array of topics. A data engineer may create a guide discussing ETL (Extract, Transform, and Load). A designer may touch upon Gestalt Principles and accessibility. An architect may explain why they use a 2x6 wall instead of a 2x4 wall on bathroom walls where the shower line is installed (hint: it's easy for plumbing and weather-proofing).
 
-While everyone can teach, people should be trained, or at least spend time figuring out, how to actually teach or else you'll get a blind leading the blind situation. That's not a fun situation to be in. The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up their learning journey. That may mean removing a problematic student to save the education of every other student in a classroom, as well as failing students and holding them back if they're not ready to move onto the next stage of their journey.
+While everyone can teach, people should be trained, or at least spend time figuring out, on how to educate or else you'll get a blind leading the blind situation. The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up their learning journey. That may mean removing a problematic student to save the education of every other student in a classroom, as well as failing students and holding them back if they're not ready to move onto the next stage of their journey.
 
 ### **What's The Goal?**
 
@@ -38,31 +44,33 @@ While everyone can teach, people should be trained, or at least spend time figur
 
 This book isn't an advocate for any particular technology, tool, or platform. If anything, technology can be quite dangerous and depends heavily on how its utilized and whether or not it even *can* be utilized.
 
-I will, however, mention specific technologies, resources, and methodologies based on what I personally found useful for myself and what helps explain the material presented here. One of my goals is to be as tool-agnostic as possible, yet ironically I need to talk about certain tools to get across my point sufficiently.
+I will, however, mention specific technologies, resources, and methodologies based on what I personally found useful for myself and what helps explain the material presented here. One of my goals is present the material here as tool-agnostic as possible, yet ironically I need to talk about certain tools to get across my point sufficiently.
 
-Technology rapidly evolves over time and what could be used today may no longer be used 5 years in the future from now. The same goes for education systems as well and there can be sweeping changes within 5-10 years. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in programming, the tenacity of "I do, we do, you do" teaching style in education, and the use of pencils and paper for education, but they're *exceptions* and not the norm. Due to this propensity for change, some information may not map 1:1 perfectly in the future, but hopefully the base concepts maintain a sense of timelessness.
+Technology rapidly evolves over time and what could be used today may no longer be used 5 years in the future from now. The same goes for education systems as well and there can be sweeping changes within only 5-10 years. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in programming, the tenacity of the "I do, we do, you do" teaching style in education, and the use of pencils and paper for education, but they're *exceptions* and not the norm. Due to this propensity for change, some information may not map 1:1 perfectly in the future, but hopefully the base concepts maintain a sense of timelessness.
 
-**I do not expect this book to solve all problems related to education systems nor expect one single individual or organization to create a perfect education system on their own.** It takes many kinds of people and groups in society working together. Even large, well-funded organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want alternative perspectives to this book, I would encourage you to read works like [the 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
+**I do not expect this book to solve all problems related to education systems nor expect one single individual or organization to create a perfect education system on their own.** It takes many kinds of people and groups in society working together. Even large, well-funded organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want alternative perspectives to this book, I would encourage you to read works like [the 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660).
 
 This book also uses what I'll call a "ground up" approach. It will examine education mostly from the school and classroom level, with references up to district and state level education systems. It doesn't examine nearly as much from a top down approach, starting from the national/sovereign level and drilling down, because most interactions people have (i.e. students, administrators, educators, parents, etc.) are around a "classroom" granularity or near the frontlines of education.
 
 ### **Who Should Read This Book**
 
-I designed this book primarily for educators, professionals already involved in education systems, as well as designers and engineers wanting to better understand considerations for system design. It reflects the perspective of someone who's experienced multiple educational contexts, including public and private schools serving affluent and poorer communities.
+I designed this book primarily for educators, professionals already involved in education systems, as well as designers and engineers wanting to better understand considerations for system design. It reflects the perspective of someone who's experienced multiple educational contexts, including non-traditional schooling as well as public and private schools serving affluent and poorer communities.
 
-While many methods may apply beyond education, the focus is primarily on applications, potential and real, within educational systems. When examples from other fields, or even lengthy descriptions about non-education fields appear, my intention is telling you how I can see these outside perspectives, practices, and ideas may improve education.
+While advice may apply beyond education system, the focus is primarily on applications, potential and real, within educational systems. When examples from other fields, or even lengthy descriptions about non-education fields appear, my intention is telling you how I can see these outside perspectives, practices, and ideas may improve education.
 
 Overall, the goal is to be at least *somewhat* useful to anyone involved or curious about education and delivering education, regardless of context. As with any work focused on a specific domain, some concepts may translate more directly than others based on where they're applied to.
 
 ### **Prerequisites**
 
-I'm assuming some familiarity with the United States education system, whether it was as a student going through it, a parent with children learning in it, or someone who was curious about how it works in general. Beyond that, you do not require a special background to implement much advice and strategies discussed here. 
+I'm assuming some familiarity with the United States education system for some concepts presented in this book, whether it was as a student going through it, a parent with children learning in it, or someone who was curious about how it works in general. Beyond that, you do not require a special background to implement much advice and strategies discussed here. 
 
-Despite my saying that, I shall bring up concepts more familiar to readers with math and science backgrounds. I may also bring in technical terminology you have never seen before. I'll try to explain in the text if it is reasonable (and short enough) to do so, but may otherwise redirect you to more comprehensive resources. Outside of this book, there are many free and open-source resources, such as code repositories, websites, videos, and so on.
+I shall bring up concepts more familiar to readers with math and science backgrounds. I may also bring in technical terminology you have never seen before. I'll try to explain in the text if it is reasonable (and short enough) to do so, but may otherwise redirect you to more comprehensive resources. Outside of this book, there are many free and open-source resources, such as code repositories, websites, videos, and so on.
 
 If you have no familiarity at all with education systems, my suggestion to you is to read through this book, take note of the high-level ideas, and look into additional resources when appropriate. You are free, and encouraged, to look up information as you get stuck or confused to fill gaps in your understanding. Education and research is exploring and learning from many sources of knowledge afterall!
 
-### **What You'll Learn**
+### **What You'll [Hopefully] Learn**
+
+The public interacts often with education systems, but unless they are on the "inside" (i.e. they're educators, administrators, support staff in education systems, etc.), they don't see the inner workings of what happens. Due to that lack of visibility, they may not always see how their actions, and the actions of students, affects every other student and relevant stakeholders, can affect education.
 
 You may learn a lot of things, both expected and unexpected, but I'd say most of the following are part of the biggest takeaways:
 
@@ -81,10 +89,10 @@ You may learn a lot of things, both expected and unexpected, but I'd say most of
 
 ### **Conventions and Assumptions**
 
-**This book is intended for educational and informational purposes. I will periodically explore legal, medical, and financial topics and how they might apply in education. Under NO circumstances should you assume I am giving you legal, medical, and/or financial advice to act upon; it's a *discussion* of these topics and how I may view and approach them. THIS IS YOUR FIRST MAJOR WARNING!**
-- When in doubt, if it sounds like I contradict this at any time in my writing, *refer back to this clause.*
+**This book is intended for educational and informational purposes. I will periodically explore legal, medical, and financial topics and how they might apply in education. Under NO circumstances should you assume I am giving you legal, medical, and/or financial advice to act upon; it's a *discussion* of these topics and how I may see them apply to education systems. THIS IS YOUR FIRST MAJOR WARNING!**
+- When in doubt, if it sounds like I contradict this statement at any time in my writing, *refer back to this clause.*
 
-Chapters are split apart by "general domain" and where I feel the information best fits. For example, Gestalt Principles would fit into a design chapter while extensive details about HIPAA better fits into a legality chapter.
+Chapters are split apart by "general domain" and where I feel the information best fits. For example, Gestalt Principles would fit into a design chapter while extensive details about laws like HIPAA may better fit into a legality chapter.
 
 Some statements and information may not be independently verifiable because they rely on internal evidence unavailable to the public like specific student grades, timelines, surveys, and more. Please understand there's a significant amount of information related to education I cannot openly share. Omitting personal identifying information is a major part of this effort. Many "results" I present here are based on direct observation and estimations rather than controlled observations. From personal experience, it's hard to do data collection and the work of a scientist/researcher while teaching simultaneously.
     - Additionally, student data may introduce two types of bias from non-probability sampling: voluntary response and convenience.
@@ -94,18 +102,6 @@ If you're in education or an educator, I'll assume you're at least dealing with 
 Sources used are listed and divided by chapter. Sources are directly cited if I'm quoting challengeable text, numbers, figures, etc. or linking directly to text to explain a point. There may be indirect citations if I can cite, in-text, a link directly to the source(s) for reference or further reading. (e.g. "Here's a [blank hyperlink]() showcasing X idea(s)." and "Here's an idea ([Further Reading]())")
 
 In the event of references to any products or tools, they are included because I found them useful in writing this book, they better explain a point I would write about anyway, and/or they were useful for when I went through education.
-
-### **Why Make This Free?**
-
-If you've ever been in education and had to pay out-of-pocket, with your own money, for education supplies, *you'll understand why.*
-
-If you haven't, think about it this way. I don't want to deny you access to information purely due to financial blockers. As long as you have a means to connect to the Internet and sufficient reading comprehension, you can read this.
-
-Though I list this book under a CC-BY license, due to certain content I reference for topics here, I hope you don't try and make a profit off this book.
-
-As for an ulterior motive? It's a good talking point at least and it fits on a resume if needed. I don't have to flaunt about the book like a marketing campaign, but whenever education comes up I'll at least know more than the average bear. This book is also what some readers may consider a "dead-tree" book or a loss leader; a way to bring in people to then illicit other services later.
-
-You'll soon know more than the average bear too. 😃
 
 ## **Bibliography**
 

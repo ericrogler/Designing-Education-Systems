@@ -19,18 +19,20 @@ Guest teachers are any individual partially, or fully, replacing you in a teache
 Whether or not guest teachers are allowed is typically dependent on administrative approval, legal procedures, and background checks instead of only teacher approval.
 
 ## **Long Answer**
-*Notice: This is not legal advice. It talks about things guest teachers typically need to go through before allowed to teach at a specific institution.*
+*Notice: This is not legal advice. It talks about things guest teachers may need to go through before they're allowed to teach at a specific institution or education system.*
 
-Imagine this scenario. You are a music teacher and you are friends with a famous artist, band, or other notable figure. You contacted them, they agreed to come over, and you have a date and time. Seems all good so far!
+Imagine this scenario. You are a music teacher and you are friends with a famous artist, band, or other notable figure. You contacted them, they agreed to come over, and you have a date and time for them to educate your students. 
 
-Not necessarily.
+Seems all good so far, right? Not necessarily.
+
+Many education systems have layers of red tape involved before you can bring in outside people to fulfill roles in that system. If you're outside these systems though... well, c'est la vie I suppose, but let's pretend you're working *in* them.
 
 ### **Potential Blockers to Guest Teachers**
 
 **Legal Eligibility and Background Checks**
 
-Some laws may restrict people with certain backgrounds around educational campuses. Ensure guests are allowed on a campus and cleared before they visit. This may typically be handled by administration rather than educators and teachers.
-- One such law is the Adam Walsh Child Protection and Safety Act at the federal level (2006).
+Some laws may restrict people with certain backgrounds around educational campuses. Ensure guests are allowed on a campus and cleared before they visit. This may typically be handled by administration rather than directly by educators and teachers.
+- One such example of a law is the Adam Walsh Child Protection and Safety Act at the federal level (2006).
 
 Additionally, extensive background checks aren't something you normally verify and conduct yourself. Federal authorities, principals, and other support staff do this for personnel in workplace settings. Some schools may have a verified adult list to allow select individuals to do extracurricular activities and/or a list to ban select individuals as well.
 
@@ -54,17 +56,17 @@ To mitigate ambiguity, create a written record of the session(s), and to deal wi
 
 Many guest teachers and presenters are adults and may request compensation for their work. If the payment(s) do not get handled, that may cause issues and cancel the guest teaching session. If they're volunteering or doing it for free, then you don't need to worry about this.
 
-### **Got past all the checks! Now what?**
+### **Checks Passed! Now What?**
 
-Once all approvals are complete, verify and ensure all roles are clearly defined and met. If, on the agreed times of the session, you're unsure what your role is and you're present during the guest teacher session, then assume the following, at a minimum, are true until proven otherwise:
+Once all the prior approvals are complete, verify and ensure all roles that guest teacher does are clearly defined and met. If, on the agreed times of the session, you're unsure what your own role is and you're present during the guest teacher session, then assume the following, at a minimum, are true until proven otherwise:
 - You're present as the teacher of record and assume responsibility for the students
 - You ensure students follow the rules and procedures
 - You'll need to be around to handle emergencies and unforeseen liabilities/events
-- You'll have to remain around the students
+- You'll have to remain around the students *in the same area as them*
 
-You may have standard operating procedures, or SOPs, pre-defined as well. If so, you may be safe to defer to those for all other things to do during guest teacher sessions. These sessions are similar to standard classrooms and partly what you normally do as a teacher anyway.
+You may have standard operating procedures, or SOPs, pre-defined as well. If so, you may be safe to defer to those for all other things to do during guest teacher sessions. These sessions may be strikingly similar to standard classrooms and partly what you normally do as a teacher anyways in many other ways.
 
-The guest teacher is also bound by any rules they agreed to as well. If they do not follow them, you may have to deal with removing them from the campus and even get administration or law enforcement to impose legal consequences upon them.
+The guest teacher is also bound by any rules and regulations they agreed to as well. If they do not follow them, you may have to deal with removing them from the campus and even get administration or law enforcement to impose legal consequences upon them.
 
 **If you want to get a guest teacher or presenter, it's OK to do–and sometimes encouraged–but make sure you have everything squared away before the time(s) they're present.**
 
@@ -72,26 +74,26 @@ The guest teacher is also bound by any rules they agreed to as well. If they do 
 
 Substitute teachers are teachers with either a teaching license or a substitute teaching license in an applicable state. In emergencies, those requirements could be waived or lowered, but also vary by state (Learning Policy Institute, 2025). For private schools, they could be vetted adults by administrative staff too (since private schools can be classified as private businesses in many jurisdictions). 
 
-Unlike other guest teachers, substitute teachers presumably have formal job contracts with educational agencies or school districts, completed multiple background checks at state/federal level, and the blockers above are already taken care for you. Substitute teachers can replace you, at least temporarily, as a primary teacher/teacher of record depending on what the license and state allows. In most cases, they are called upon a day before/morning of a given day, rather than planned far in advance, but some substitute teachers may take on long-term coverage.
+Unlike other types of guest teachers, substitute teachers presumably have formal job contracts with educational agencies or school districts, completed multiple background checks at state/federal level, and many, if not all, of the blockers above are already taken care for you. Substitute teachers can replace, at least temporarily, a primary teacher/teacher of record depending on what the license and state allows. In most cases, they are called upon a day before/morning of a given day, rather than planned far in advance, but some substitute teachers may take on long-term coverage near the beginning of an educational period.
 
 With a substitute teacher, you may safely assume some things until proven otherwise:
 1. They likely do not know the same material as you.
 2. They will not have full access to the same software you do (e.g. classroom management and monitoring software)
     - Sometimes it is the facility's rules and administration blocking access instead of any teacher(s).
-3. They may handle classroom management differently from you.
+3. They may handle "the spirit" of classroom management differently from you, even if following "the letter" of classroom management.
 4. They may not have the appropriate training to handle certain situations like the primary teacher can.
 5. They are on the educational staff's side, *not* the student's side.
 6. They won't have physical access to education facilities like other staff, such as room keys, unless it is explicitly provided for them during their session(s).
     - This one is especially important and a common pain point I've seen; trusting them with hundreds of students but not a single classroom key.
 
-If your education system and policies aren't carefully designed, you may be setting substitute teachers up for failure instead of success. A substitute teacher doesn't have much power, so most managerial and authority is delegated to others to follow up on. They could issue some punishments on an educator's behalf, provided they are permitted to do so by their contract's terms and administration's rules. However, how they can issue those punishments may be restricted. Some examples of what substitutes may be cleared to do regarding discipline:
+If your education system and policies aren't carefully designed, you may be setting substitute teachers up for failure instead of success. A substitute teacher doesn't have much power and/or authority, so most managerial and authority is delegated to other roles in education to follow up on. They could issue some punishments on an educator's behalf, provided they are permitted to do so by their contract's terms and administration's rules. How they can issue those punishments may be restricted, however. Some examples of what substitutes may already be cleared to do regarding discipline:
 - Minor and moderate infractions: documenting issues in substitute-to-teacher notes to be handled at a later time
 - Physical issues: calling security
 - Major infractions: calling office and/or administration
 
-Other times, a substitute teacher may record events as they occur and detail what happened, then defer it to the teacher of record or administration to handle further punishment from there. Coincidentally, and from personal experience, this lines up with days where students tend to act at their worst behavior around a person where if they say students were bad, those students were very likely *actually* bad. **Just because a substitute teacher is there does NOT give permission to students to act up and assume there will be no consequences for their actions.**
-- Probably the worst day(s) for younger students were days *after* students treated the subtitute teacher poorly. If students want to fool around, then they find out what happens soon after.
-- Even if the substitute teacher was horrible, almost always is the best course of action not to break rules anyways and don't be an asshole!
+A substitute teacher may record events as they occur and detail what happened, then defer it to the teacher of record or administration to handle further punishment from there. Coincidentally, and from personal experience, students tend to act at their worst behavior when their primary teacher is absent. If substitute teachers say the students exhibited bad behavior, then those students were very likely *actually* bad as substitutes are unlikely to have a prior "relationship" to add any extra bias to that judgment. For any students reading this: **just because a substitute teacher is there does NOT give permission to students to act up and assume there will be no consequences for their actions.**
+- Probably the worst day(s) for younger students were days *after* students treated the subtitute teacher poorly. If students fool around, they find out what happens soon after.
+- Even if the substitute teacher was horrible, almost always is the best course of action for students not to break rules anyways and not be an asshole!
 
 If you're the teacher of record and the substitute teacher does send you notes, I'd say take any note, good or bad, with a trust, but verify, attitude. You can follow up with "good" students about how the day went or verify with other staff about details for anything you're suspect about. If it's confirmed a day did not go well, some things you may be permitted to do, unless administration blocks it or it isn't permitted by policy, includes:
 - Restricting recess time
@@ -102,7 +104,7 @@ If you're the teacher of record and the substitute teacher does send you notes, 
 - A written conduct referral for specific student offenders
 - Class-wide or specific student punishments
 
-Lastly, as a reminder. Even though a substitute teacher may replace a teacher of record for a limited time, that does not give them permission to freely arrange the property of the original teacher. The motto of "leaving a room as they found it" should be part of their SOP. In simple terms, this means they shouldn't:
+Lastly, as a reminder. Even though a substitute teacher may replace a teacher of record for a limited time, that does not give them permission to freely handle the personal property, and perhaps general property, of the original teacher. The motto of "leaving a room as they found it" should be part of any substitute teacher's SOP. In more explicit terms, this means they shouldn't:
 - Reorganize the classroom, teaching area, etc. unless necessary (e.g. affecting an accommodation like an IEP).
 - Handle or rearrange documents and paperwork outside of their designated purview.
 - Throw away equipment and other items belonging to the original teacher.

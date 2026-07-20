@@ -27,9 +27,9 @@ The optimal ratio of micro vs macro depends on your environment, but it is rarel
 
 ## **Long Answer**
 
-This chapter may seem foreign to readers unfamiliar with video games. For those familiar with video games, you're more likely to connect with some concepts here. Because of this imbalance, I'll avoid being overly technical, but except multiple new terms to show up.
+This chapter may seem foreign to readers unfamiliar with video games. For those familiar with video games, you're more likely to pick up some concepts presented here. Because of this imbalance, I'll avoid being overly technical, but except multiple new terms to show up.
 
-If you've ever played a RTS (real-time strategy) or city builder video game before, then many of the concepts there apply to management. If you've ever been a raid leader in a MMORPG, many of those concepts also apply to management. If you read the last chapter (Management Case B) on operations and milsims, any leadership position there also counts!
+If you've ever played a RTS (real-time strategy) or city builder video game before, then many of the concepts there apply to management. If you've ever been a raid leader in a MMORPG, many of those concepts in this chapter also apply to management. If you read the last chapter on operations and milsims, any leadership position there also counts!
 
 For most of this chapter, I'll write from the viewpoint of a RTS/strategy game player. In this scenario, the ideal manager is someone who's decisive, blunt, explicit, and direct with what needs to be done. They know the capabilities of their team and know the strategies and tactics to meet their goals (i.e. "winning" the game). We want to minimize muddling around, ambiguity, and confusion as it causes issues frequently.
 
@@ -37,7 +37,7 @@ For most of this chapter, I'll write from the viewpoint of a RTS/strategy game p
 
 The purpose of this chapter is showing that, if you're a manager, you are meant to *guide* actions rather than dictate actions.
 
-Every employee is capable of doing work; you likely wouldn't bring them onboard in the first place if you thought they couldn't do the work you needed, right? Since they are capable, *you have to let them do the work.*
+Every employee is capable of doing work; you likely wouldn't bring them onboard in the first place if you thought they couldn't do the work you needed, right? Since they are capable, *you have to let them do the work.* When in doubt, trust in actions more than words.
 
 You can assign tasks and you can set directions, but you're supposed to build up your group, organization, etc. and amplify its capabilities.
 
@@ -46,7 +46,7 @@ Let's say you're a manager with an extensive engineering background (10+ years, 
 - Mid-levels: how to transition into higher work and level up in their role.
 - Seniors/staff/principals: working in cross-team functions, perfecting their technical expertise, and/or perhaps transitioning to become managers like yourself.
 
-The more senior someone is, the less you should *need* to check in with them. You'll still want to check in, though, to ensure they're on track and able to do their work, but not necessarily hand-hold them. For more inexperienced people, you might do a quick fly-by every day, but older people may be a meeting once a week and masters of their craft meeting only as needed.
+The more senior (or more experienced) someone is, the less you should *need* to check in with them. You'll still want to check in, though, to ensure they're on track and able to do their work, but not necessarily hand-hold them. For more inexperienced people, you might do a quick fly-by every day and more frequent 1:1 meetings, while more experienced people may be a meeting once a week and only as needed. 
 
 It is extremely tempting to go in and do the work for your direct reports, *especially* if you have requisite domain knowledge, but you should avoid that as your first option. That's micromanagement; you want to limit that. You have separate goals and tasks from your subordinates and need to look at the overall strategy and not just the tactics employed. Let your "team" handle (most of) the tasks they're capable of; that's why they're there.
 
@@ -73,23 +73,23 @@ As a standard economic theory:
 
 Opportunity cost = (Return on best alternative) – (Return on chosen option) 
 
-One of your main goals is to minimize opportunity cost throughout the entire match and every moment in that match. Rarely, if ever, will you make every perfect decision possible in a single game, so the opportunity cost is always greater than zero. You can, however, practice and simulate scenarios to refine your processes, reduce errors, and improve decisions over time.
+Pretend you are trying to win a match against your opponent in a game. One of your main goals is to minimize opportunity cost throughout the entire match across every moment in that match. Rarely, if ever, will you make every perfect decision possible in a single game, so the opportunity cost is, for all intents and purposes, always greater than zero. You can, however, practice and simulate scenarios to refine your processes, reduce errors, and improve decisions over time to reduce opportunity cost.
 
-Additionally, every action can snowball. What seems like a small cost or error at first when you make the decision potentially cascades down the line and creates a larger delay. It's an act of balancing decisions across economies, upgrades, armies, and other variables. If two players used the same strategy against each other, the player with a small boost in any one of these areas may get a significant advantage over the opponent(s).
+Additionally, every action can snowball. What seems like a small cost or error at first when you make the decision potentially cascades down the line and creates a larger cost. It's an act of balancing decisions across economies, upgrades, and other variables. If two players used the same strategy against each other, the player with a small boost in any one of these areas may get a significant advantage over the opponent(s).
 
 ### **Macro vs Micro**
 
-Macro is significantly more important than micro for a manager, commander, etc. It's an area many people make mistakes on as they prioritize insignificant contributions or fine-tuning too much. From my own assessment, about 80-90% of time should be on macro and managing resources, orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
+Macro is significantly more important than micro for a manager, commander, etc. It's an area many people make mistakes on as they prioritize insignificant contributions, micromanaging, or fine-tuning too much. From my own assessment, about 80-90% of time should be on macro and managing resources, orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
 
 Doing more than one task at a time hampers productivity (APA, 2006). Even if you could multitask, the level of precision and finesse drastically decreases for all things done simultaneously. You can have multiple tasks going all at the same time though, in parallel, which is what a methodology like Critical Path Analysis helps to solve and optimize.
 
-It's why distracting opponents works as a defensive technique and a set-up for an offensive technique. If the opponent falls for the distraction, it's what they focus on instead of their original goal, which gives you more time to focus on your priorities to achieve victory.
+It's why distracting opponents works as a defensive technique and a set-up for an offensive technique. If the opponent falls for the distraction, it's what they focus on monentarily instead of their original goal, which gives you more time to focus on your priorities to achieve victory from that moment onwards.
 
 ### **The Macro(management)**
 
 This is your backbone, your strategy, or your core build order. Whatever you wish to call it.
 
-It's the primary guide and routine you follow along with, or perhaps know by heart, to achieve victory and meet your goals. It should account for achieving constant production and efficient resource use. Ideally, there should be no blockers, no idle work, and no missed opportunities.
+It's the primary guide, plan, and routine you follow along with, or perhaps know by heart, to achieve victory and meet your goals. It should account for achieving constant production and efficient resource use. Ideally, there should be no blockers, no idle work, and no missed opportunities.
 
 Never forget this core routine *must* be adaptable. It has to account for emergencies, deviations from the norm, and more. A rigid macro strategy, even if it's a seemingly perfect strategy, can crumble if it cannot adapt to changing environments and unexpected scenarios.
 
@@ -126,7 +126,7 @@ There's also a term called "trading" where you're balancing the supply costs of 
 
 Resources and tools may become obsolete. It may not always be their fault, but over time you'll typically have better options. The decision to bring on new resources, upgrade existing resources, or eliminating lacking resources is something you'll also manage. 
 
-The costs to bring in new assets is typically really high, and may requiring restructing *before* you can do so, so you want to be careful. It isn't just paying a resource amount, but also the time taken, planning, and execution of tasks to reach that point. Doing this wrong can go very ugly, very quickly, and lead to you losing everything in the worst case.
+The costs to bring in new assets is typically high, and may requiring restructing *before* you can do so, so you want to be careful. It isn't just paying a resource amount, but also the time taken, planning, and execution of tasks to reach that point. Doing this wrong can go very ugly, very quickly, and lead to you losing everything in the worst case.
 
 If this applies to real people, i.e. human beings, it's when I'd probably say you're better off consulting with HR, or perhaps a legal expert, to determine how to bring on and transition out people. There may be laws, processes, and regulations you're not privy to in your position, but a specialist would be. You want to avoid stepping on the legal minefield.
 
@@ -150,7 +150,7 @@ In reality, it's possible to do *multiple* steps in parallel. The recipe may tel
 
 Identifying the critical path requires more elaboration compared to the other steps. A critical path is the *longest* path through all your *dependent* activities from start to finish without making the project take more time. You can affect how long a task may take through resource/technical allocation, like adding more workers to a job or bringing in a specialist instead of a generalist. Though you can affect timelines, you're still at the mercy of benefit vs cost analysis and weighing if dedicating more resources to shorten timelines results in higher monetary/resource savings in the project.
 
-Any project can have several parallel or pseudo-critical paths embedded inside of it depending on its complexity. Some activities may be non-critical and eliminated at little to no cost as well, which some activities can start if a preceding task has partial completion instead of full completion. Activities are considered dependent if they require one or more previous steps/activities to be done beforehand before starting, such as preparing ingredients before putting them into a pan to cook. You can classify dependencies in four ways:
+Any project can have several parallel or pseudo-critical paths embedded inside depending on its complexity. Some activities may be non-critical and eliminated at little to no cost as well, which some activities can start if a preceding task has partial completion instead of full completion. Activities are considered dependent if they require one or more previous steps/activities to be done beforehand before starting, such as preparing ingredients before putting them into a pan to cook. You can classify dependencies in four ways:
 - Start to Start (SS): Task A starts before Task B starts.
 - Start to Finish (SF): Task A starts before Task B completes.
 - Finish to Start (FS): Task A completes before Task B starts.
@@ -160,13 +160,13 @@ To quickly cover additional terms you may see:
 - Earliest Start/Finish (ES and EF): Earliest times an activity may begin and finish.
 - Latest Start/Finish (LS and LF): Latest times an activity may begin and finish.
 - Float (Slack): Time you can delay without changing project completion time.
-    - Formula: Float = LS - ES
+    - Float = LS - ES
 - Total Float: Difference between finish time on latest activity vs project completion time.
     - Generally speaking, the path with zero total float, or the lowest total float, is the "critical" path.
     - It is possible to have negative total float, where the last activity takes longer than an established completion time.
     - Activities outside critical path can have their own float too, called free float.
 - Lead: Time next activity can be brought forward (i.e. start earlier) to do activities in parallel.
-    - Lead only applies on Finish-to-Start (time between activity A ending and activity B starting)
+    - Lead only applies on Finish-to-Start (time between activity A ending and activity B starting).
 - Lag: Time next activity is delayed after previous activity.
     - E.g. "waiting" period between submitting paperwork and getting new paperwork to fill out.
 
@@ -196,7 +196,7 @@ Leaders deal more with abstractions while operators deal more with technical det
 
 It's why a smaller organization, like a startup, make seem fast compared to a massive conglomerate; there's simply fewer layers and blockers. By the nature of its scale, the distance and time between decision and action is larger.
 
-One cannot completely eliminate layers too, as they're necessary for scalability and management. The new constraint you manage is interfaces and their complexities between layers. If you're working with a small system, you can brute force certain methods and communications without too much issue, but the same cannot be said for larger systems though.
+One cannot completely eliminate these layers too without significant risk, as they're necessary for scalability and management. The new constraint you manage is interfaces and their complexities between layers. If you're working with a small system, you can brute force certain methods and communications without too much issue, but the same cannot be said for larger systems though.
 
 Requirements affecting how layers may interface include:
 - Ownership of metrics
@@ -206,7 +206,7 @@ Requirements affecting how layers may interface include:
 
 Though those examples may be solutions, you also need to account for the *types* of information and any incentives people across layers may have. For example, too much operational data without enough decision or narrative data for context means drowning in information without fully understanding it.
 
-As for incentives, every layer optimizes for how it's rewarded, even if it could break the system. Metrics of success should be scrutinized and monitored so they aren't gamed, drift in definition, or do something to the detriment of the system.
+As for incentives, every layer optimizes for how it's rewarded, even if it could break the system. Metrics of success should be scrutinized and monitored so they aren't easily exploited, drift in definition, or do something to the detriment of the system.
 
 Lastly, when you scale up, things *will* break along the way. You won't scale properly if you cannot diagnose what is causing issues along the way! 
 
@@ -230,9 +230,21 @@ You may be perfectly fine going above and beyond on effort and working hours for
 
 Many human beings do *not* want to be straddled by work. If they're being productive and efficient in their work, they're typically seeking more *freedom*, not more work. To this end, deliverables may be turned in right before the deadline or due date, people may take more time doing their job, and workers may intentionally appear slightly overworked and overwhelmed to deter additional work being sent their way. The bare minimum to not get into trouble is now the new goal and purpose at a job instead of promoting efficiency in that same job.
 
+### **How Do Thousands/Millions/etc. Work Together?**
+
+In sufficiently large organizations, systems, etc. with a lot of people, a question that may arise is how all of these different people all work together on the same project, product, goal, etc.
+
+The answer? They don't... kind of. There's a separation of concerns, source control, and management of cross-dependencies involved. Let's say you're an organization with thousands of engineers and some managers here and there, and we're exploring it at a high level. 
+
+That large population of engineers is broken down into many separate groups. Assume the majority of these groups have about 5-6 engineers with 1 manager, if you need a reference point. Each of those groups has their own area(s) of responsibility and a "manager" to oversee that particular area. For example, amongst all these groups, you may have one group working on a deployment tool, another group doing a queue system, and a third group focused on the database side. You may have one or more groups not making any products themselves, but testing out the products and services other teams make throughout the organization/system. The bulk of the work force is still "engineers" but each group has their own specialized roles and tasks to focus on.
+
+The next problem is how these teams *communicate* with each other. This is where standardization comes in and formalized communication. Teams agree to follow the same protocols, topics, methods for synchronization, and so on. They also refine and designate the environments they operate in, so one person's project (hopefully) doesn't spill out and cause unnecessary issues in other projects. You could have multiple testing environments, with one environment for each group, and a final production environment where all the changes are merged, sorted, verified, and ultimately deployed towards the end product/service/goal/etc. Even with a single area where all of these places converge, you'll still need to control *how* they arrive, which is where concepts like version control, source control, and rollouts thrive.
+
+You'll still need that same standardization and formalization to set up various tests, logs, metrics, and events to keep everyone on the same page and ensure everything was working, is working, remains working, and stores backups in case of emergencies. To put it another way, multiple teams may not be working on the same product, but the standards to which products are made should be consistent across those teams in the same system/organization. Even if you were to deploy a change or new product, you'd likely have to pass through various tests across *multiple* environments to mitigate any lucky stroke (or at least then "it works on my machine!" comments). This is why there could be thousands, if not millions or even billions, of small tests to check the features in whatever you deploy.
+
 ### **Relating Back to Instruction**
 
-Let's tie strategy and macro/micro to teaching/instruction.
+Let's explictly tie strategy and macro/micro back into teaching/instruction.
 
 Macro is like establishing a curriculum to determine what material you teach to students. It's also developing a classroom management plan you can reference for yourself and students so you have ways to deal with contingencies and other emergencies (more on classroom management in another chapter!).
 

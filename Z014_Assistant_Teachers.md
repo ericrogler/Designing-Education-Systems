@@ -15,21 +15,22 @@ nav_order: 23
 
 ---
 
-Co-teaching and assistant teaching may not work as well as people think it does as it's highly variable on implementation. It's like when you do a group project: one person might inevitably do all the work anyways while the other members coast along for credit.
-- There *are* exceptions, but they're not the norm.
+Co-teaching and assistant teaching may not work as well as people think it does as it's highly variable on its implementation. It's like when students do a group project: one person might inevitably do all the work anyways while the other members coast along for credit.
+- There *are* exceptions, but anecdotal evidence suggests they're not the norm.
 
-Assistant teachers support you as if they were a second teacher in the area. They do not replace you, the primary teacher. 
+Assistant teachers, as defined in this chapter, support you as if they were a "second teacher" in the area. They do not replace you: the primary teacher. 
 
 The easiest way to have assistant teachers, and substitute teachers, like you as a teacher is having thorough lesson plans and well-behaved students for instruction instead of baby-sitting.
 - Sadly, reality has ways to make this not the ideal situation and the most difficult thing to do.
 
-Initially plan as if any assistant teachers may be absent or unable to assist effectively, because you might not have any of them in the first place.
+Initially plan as if any assistant teachers may be absent or unable to assist effectively, because you might not have any of them in the first place. At the same time, don't be too adverse to receiving help if it's with good intentions.
 
 ## **Long Answer**
 
-*Notice: For any "laws" I reference, assume I'm referencing the state of Colorado. Requirements may vary by state elsewhere.*
+*Notice: For any "laws" I reference, assume I'm referencing the state of Colorado. Requirements may vary by state elsewhere. As a reminder, no legal advice is offered here.*
 
-As I have not explicitly worked in one of these roles in any long-term capacity, I'll focus on interactions between these roles and a teacher/professor with observations I made throughout multiple schools when substitute teaching (Colorado Department of Education, 2019).
+As I have not explicitly worked as an assistant teacher in any long-term capacity, I'll focus on interactions between these roles and a teacher/professor with observations I made throughout multiple schools when substitute teaching.
+- You might have publicly available "role guides" for your use too, [such as the CDE's guides](https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance) (Colorado Department of Education, 2019)
 
 Recall how administration has a significant number of tasks and, when the workload is sufficiently large, they bring on people to offset that workload. These may be the assistant principals, who have tasks delegated to them or specialize in a particular task that a principal typically focuses on.
 
@@ -37,15 +38,17 @@ There is a similar relationship between teachers and assistant teachers, like "S
 
 Substitute teachers technically act as replacements for primary teachers, rather than assistants, so I'll cover them more under the Guest Teachers and Passporting chapters. 
 
-### **Assistant Teacher Types**
+### **Special Education (or "SPED")**
 
-**Special Education (or "SPED")** is a department consisting of 1 or more paraeducators, colloquially called "paras" by staff and students alike. They are professionals working alongside certified teachers and not technically assistants as they may work alongside multiple teachers throughout each day and/or educational period.
+**Special Education (or "SPED")** is a department inside many schools consisting of at least 1 special education teacher and/or 1 or more paraeducators, colloquially called "paras" by staff and students alike. They are professionals working alongside certified teachers and not technically assistants as they may work alongside multiple teachers throughout each day and/or educational period.
 
 Why they're included in this chapter is because paraeducators support special needs students, like those with IEPs or 504s, from basic help to more advanced assistance. They may need an educator's guidance or access to material(s) to perform their own duties and support classroom flows. Another way to think about it is they have a separate job within education, but need a subject matter expert (i.e. the instructor) to help them.
 
 Paraprofessionals, as well as teaching assistants, don't technically have qualification or credentialing requirements in the state of Colorado, as an example, but states may establish policies for expected backgrounds and skills required (Colorado Department of Education, 2025).
 
-**Teaching Assistants, or "TAs,"** are what their name implies: assistants for a teacher or professor. The requirement for a TA generally is someone, like a past student, with a high success rate/performance in the material they're assisting with. They could do entire lectures, grading, proctoring, lab assistance, answering questions about material, and more. TAs are meant to ease the teacher's workload, but often aren't as familiar with all content as the teacher may be.
+### **Teaching Assistants ("TAs")**
+
+They are what their name implies: assistants for a teacher or professor. The requirement for a TA generally is someone, like a past student, with a high success rate/performance in the material they're assisting with. They could do entire lectures, grading, proctoring, lab assistance, answering questions about material, and more. TAs are meant to ease the teacher's workload, but often aren't as familiar with all content as the teacher may be.
 
 Depending on policy, TAs may not host a class or lab on their own without the presence of a teacher of record (you, or an applicable substitute teacher in secondary/primary education).
 - Exceptions may occur, but are dependent on the policies of the institution the TA is teaching at, requiring explicit approval from instructor/department, and other education laws.
@@ -53,17 +56,21 @@ Depending on policy, TAs may not host a class or lab on their own without the pr
 
 Depending on the subject(s), your TAs may need licenses and certifications to assist you in the classroom. Check with any relevant authorities or administrative bodies before bringing on a TA.
 
-**Co-teachers** are licensed teachers assisting with multiple parts of a classroom. Of the categories listed in this chapter, they're also typically required to have a teaching license alongside the primary teacher/teacher of record. They may share or split teaching duties, work alongside the special needs students, and help with more specialized tasks like meeting accommodations or translating lessons across different languages. Co-teachers may have different backgrounds or similar background as the primary teacher, so they may not be as familiar with your content knowledge but still allowed to assist you in classrooms.
+### **Co-teachers** 
+
+They are licensed teachers assisting with multiple parts of a classroom. Of the categories listed in this chapter, they're also typically required to have a teaching license alongside the primary teacher/teacher of record. They may share or split teaching duties, work alongside the special needs students, and help with more specialized tasks like meeting accommodations or translating lessons across different languages. Co-teachers may have different backgrounds or similar background as the primary teacher, so they may not be as familiar with your content knowledge but still allowed to assist you in classrooms.
 - Something that is difficult, but necessary, with co-teachers is for the primary teacher to lose the "lead" part and treat them tloser to what they would a co-worker at the same level.
 
-**Student Teachers** are exactly that: students. They're not *your* students though; they're more like an intern you're overseeing at work. They're usually college, university, or graduate students who are under supervision of an existing, certified teacher (or in infrequent cases, a substitute/guest teacher). Student teachers are similar to co-teachers and share responsibilities in duties a teacher normally does, like grading, lesson planning, teaching, and so on. The major difference between co-teachers and student teachers is co-teachers *are* certified/licensed whereas student teachers are not, so a student teacher *cannot* be left alone within many education systems.
+### **Student Teachers** 
+
+The name matches their role: students. If you're the primary teacher, however, they're not *your* students but more like an intern you're overseeing at work. They're usually college, university, or graduate students who are under supervision of an existing, certified teacher (or in infrequent cases, a substitute/guest teacher). Student teachers are similar to co-teachers and share responsibilities in duties a teacher normally does, like grading, lesson planning, teaching, and so on. The major difference between co-teachers and student teachers is co-teachers *are* certified/licensed whereas student teachers are not, so a student teacher *cannot* be left alone within many education systems.
 
 Assuming you are a current educator reading this, it is safe to assume student teachers are one step below new teachers. It is also safe to assume they may not have much *management* experience like a typical teacher may need to do the role. They'll eventually be in the position current educators are, so your main goal is ensuring they aren't messing up *too* badly, able to mesh into the education system and the environment they operate in, and offering advice when reasonable to do so.
 - And yes, they *will* mess up. It's a matter of when and figuring out how to fix it when they do.
 
 ### **Handling Assistant Teachers**
 
-The first problem is figuring out if the assistant teacher(s), or co-teacher(s), even want to be in an assistant teacher position. If they do, that makes things easier. If they don't, it's not an impossible situation but you're trying to make a horse drink water. You'll need to consider client relations and negotiation in addition to why/how people find joy in the work they do. (Hint: complexity, autonomy, and effort vs reward).
+The first major problem is figuring out if the assistant teacher(s), or co-teacher(s), even want to be in an assistant teacher position. If they do, that makes things easier. If they don't, it's not an impossible situation but you're trying to make a horse drink water. You'll need to consider client relations and negotiation in addition to why/how people find joy in the work they do. (Hint: complexity, autonomy, and effort vs reward).
 
 Managing assistant teacher expectations and how they assist you depends on communication and expectations. I'll put it this way: if you're the primary teacher, don't expect your assistant teachers to know what to do if you don't define what they *should* do. 
 
@@ -85,23 +92,13 @@ Sometimes, the co-teacher is new and needs experience. In that case, you're bett
 
 ### **Co-Teaching Models/Strategies**
 
-The second problem to co-teaching is how co-teaching systems are set up. Sometimes the educators themselves may do this and other times the administrators firmly decide how they should be done. This includes providing resources in that system, such as trainings for teaching models, spaces *and time* dedicated to co-planning, and the division of powers between co-teachers and primary teachers.
+The second major problem to co-teaching is how co-teaching systems are set up. Sometimes the educators themselves may do this and other times the administrators firmly decide how they should be done. This includes providing resources in that system, such as trainings for teaching models, spaces *and time* dedicated to co-planning, and the division of powers between co-teachers and primary teachers.
 
-The simplest way to make co-teaching work is the classic strategy of divide and conquer. Said teachers involved figure out how to divide up their time and skills to best deliver education for students.
+With assistant teachers, plan as if they may not be present or unable to do work. Things happen, expectations fall apart, communication breaks down; there are myriad reasons for something going awry if it requires two or more teachers to do a general lesson instead of 1 teacher. The last thing you need is a job and success that are heavily dependent on another person.
 
-Setups in practice generally involve students kept in one group or split into two or more groups:
-- One Teach, One Observe (One Group)
-- One Teach, One Assist (One Group)
-- One Teach, One Assess/Evaluate (One Group)
-- Parallel Teaching (Two Groups)
-- Station Teaching (Two or More Groups)
-- Alternative Teaching (Two Groups)
-- Team Teaching (One Group)
-- Monitor and Teach (Multiple Groups)
+The simplest way to make co-teaching work is the classic strategy of divide and conquer. Said teachers involved figure out how to divide up their time and skills to best deliver education for students. This could be one primary teacher with one assistant teacher, a large group teacher and a small group teacher, two teachers at the same time, and so on.
 
-While these approaches vary in implementation, the general idea is either one teacher handles instruction for the group, or each co-teacher involved handles some part of that instruction. In the case of alternative teaching specifically, this may further involve a teacher pre-teaching or re-teaching information while the other teacher(s) deliver alternative content. You may find one setup works better compared to other setups for some groups of students over other groups of students. 
-
-The worst thing you can do in co-teaching is being rigid and overly specific on how it should work; you have to be flexible and adapt to the environment. Forcing one element into a spot it doesn't belong is like putting a square block into a circle hole. Every element should work in tandem and find its appropriate place for the best results.
+Other setups in practice generally involve students kept in one group or split into two or more groups. While these approaches vary in implementation, the general idea is either one teacher handles instruction for the group, or each co-teacher involved handles some part of that instruction. In the case of alternative teaching specifically, this may further involve a teacher pre-teaching or re-teaching information while the other teacher(s) deliver alternative content. You may find one setup works better compared to other setups for some groups of students over other groups of students. 
 
 **Some setups I've seen work "well enough" in practice are:**
 
@@ -110,7 +107,7 @@ The worst thing you can do in co-teaching is being rigid and overly specific on 
     - This can be 2 groups with similar goals or 2 groups with different specialties.
 - Primary teacher teaches normally which co-teacher assists with translating, management, and accessibility.
 
-With assistant teachers, plan as if they may not be present or unable to do work. Things happen, expectations fall apart, communication breaks down; there are myriad reasons for something going awry if it requires two or more teachers to do a general lesson instead of 1 teacher. The last thing you need is a job and success that are heavily dependent on another person.
+The worst thing you can do in co-teaching is being rigid and overly specific on how it should work; you have to be flexible and adapt to the environment. Forcing one element into a spot it doesn't belong is like putting a square block into a circle hole. Every element should work in tandem and find its appropriate place for the best results.
 
 There are also times when an assistant teacher can make things *worse* for a classroom. If your assistant teacher does something like the following:
 
@@ -126,11 +123,11 @@ Sometimes the "assistant" teacher has more professional experience in the workpl
 
 I typically design education so students hear one voice providing instruction. There can be people who help transmit or interpret instruction, but only one person is the head chef in the kitchen, not multiple.
 
-There's two things you should do nicely, assuming you're the primary teacher in this case:
+There's two things you should do *in a friendly manner*, assuming you're the primary teacher in this case:
 1. Assert your role.
 2. Ensure they know they're not supposed to give directions that undermine classroom management.
 
-When concerns arise, you're better off sorting them out in a one-on-one conversation rather than exploding in public over it to show you *did* communicate expectations. If issues still continue, and this is in a setting like a school or professional workplace, then you should bring in administration or other higher-level staff up the chain to resolve issues.
+When concerns arise, you're better off sorting them out in a one-on-one conversation rather than exploding in public over it to show you *did* communicate expectations. If issues still continue, and this is in a setting like a school or professional workplace, then you should bring in administration or other higher-level staff up the chain to resolve issues. Should you desire even further protection, create *written* records and timestamps of events, conversations, transactions, and so on as explicit proof.
 
 ### **Alternative Teaching License**
 

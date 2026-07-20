@@ -25,7 +25,7 @@ As great as the quotation above is, sometimes being visible is what gets you not
 **The easiest mistake is always prioritizing speed over quality.** Sometimes slower is actually faster, like the turtle beating the rabbit. You might meet deadlines, but it's at high risk of rework costs and every other metric suffering.
 - *There's probably a parallel with "passing up students" and "failing upward" somewhere in here.*
 
-Soft skills, like communication, and hard skills, like technical knowledge, are how you meet your goals as both a manager and educator. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. You also need technical knowledge to properly advise others and hold technical people accountable. This decision-making includes how to scope your projects and set reasonable deadlines, which is difficult to do *correctly* without sufficient technical knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
+Soft skills, like communication, and hard skills, like technical knowledge, are how you meet your goals as both a manager and educator. **Do not ever completely neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. You also need technical knowledge to properly advise others and hold technical people accountable. This decision-making includes how to scope your projects and set reasonable deadlines, which is difficult to do *correctly* without sufficient technical knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
 - Similar advice applies for managers in other industries, like engineering.
 - E.g. You don't want to be the manager in a "data driven" meeting and not know anything about how data works; that's just one recipe for embarassment.
 
@@ -40,9 +40,13 @@ Last, but not least: **the best managers are the ones who know when to pick thei
 
 ## **Long Answer**
 
+If a good manager leaves, good people under them may follow soon after. Good leadership is hard to find and can be the one thing keeping people around even during hard times.
+
 If a manager makes a mistake, a manager makes a mistake. Not the people under them. 
 
-**Management often involves your ability to be supportive, recognize when something needs your attention, and if you can assist others *without* sacrificing your own tasks, duties, deadlines, etc.** It also includes your ability to handle what happens when you go off-track and still deliver what you're accountable for, as well as when you should escalate situations to higher authorities and delegate responsibilities. It even includes determining if something is a one-time event vs a recurring event as well as resource allocation to solve problems.
+Sadly, that same mistake may mean significant losses an system may have to recoup. Recouping losses takes many different forms and can have devastating affects on other people's livelihoods, like laying off a significant number of staff from an organization. You could also affect someone else's life for no reason at all for a mistake *you* made as a manager.
+
+**Management often involves your ability to be supportive, recognize when something needs your attention, and if you can assist others *without* sacrificing your own tasks, duties, deadlines, etc.** It also includes your ability to handle what happens when you go off-track and still deliver what you're accountable for, as well as when you should escalate situations to higher authorities and delegate responsibilities. It even includes determining if something is a one-time event vs a recurring event as well as resource allocation to solve problems. If you wish to move up through the layers and not remain stuck in a particular role, people skills are far more useful than technical skills as you need to manage, well, people. Nevertheless, it is no excuse to neglect any technical knowledge related to the people you'll be managing.
 
 Education is anywhere from extremely hands-off, like how many online "courses" avoid interfacing directly with students almost entirely, to extremely hands-on, such as constant assistance for students in classrooms. At least some level of management exists across the entire spectrum.
 
@@ -52,7 +56,7 @@ Some students may also respect the authority of a teacher and be respectful to o
 
 This is a reality of the environment many teachers and instructors deal with on a daily, if not hourly, basis in a classroom setting. *They have to manage people.* 
 
-Most management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good," that's rarely, if ever, going to be the case in practice. Even the best plan still contends with adapting to change as well as accountability and autonomy issues.
+Most management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good," that's rarely, if ever, going to be the case in practice. You may also expect an orientation period instead of getting thrown straight into the fire, but that orientation may be neglected in many systems. Even the best plan still contends with adapting to change as well as accountability and autonomy issues.
 
 **This means you still need to plan for the worst-case scenarios.**
 
@@ -65,15 +69,13 @@ Even if you can handle the worst behaviors, you'll have to account for lost time
 
 If a manager, or someone who manages, consistently encounters the same problem(s) over and over, then that manager is likely the problem.
 
-### **Is Teaching (and Instruction) Hard?**
+### **Is Education Difficult?**
 
 *Be advised this is heavily opinionated compared to other sections.*
 
-**It depends!** 
+For a catch-all answer: every role and its difficulties depends on the person in the role, the role itself, and the environment the role operates in. The common thread is the *teaching* part is often the easiest part amongst everything you deal with in education. 
 
-For a catch-all answer: every role and its difficulties depends on the person in the role, the role itself, and the environment the role operates in.
-
-In terms of environment, I'll look at the *2024-25 Discipline and Behavior Data Release Summary* from Colorado Department of Education (2025). Keep in mind any numbers in the list below also come from this same source.
+Let's assume we're a teacher in this case. In terms of environment, I'll look at the *2024-25 Discipline and Behavior Data Release Summary* from Colorado Department of Education (2025). Keep in mind any numbers in the list below also come from this same source.
 - Compared to previous year's data, there's a 2% decrease in disciplinary actions.
     - Do note there's also ~2% less students present (65791 -> 64538) in the same survey.
     - Majority of issues result in suspensions given to student.
@@ -81,24 +83,23 @@ In terms of environment, I'll look at the *2024-25 Discipline and Behavior Data 
 - Drugs and alcohol account for 10% of violations.
 - There's on average ~2 disciplinary actions per student (132892 DAs vs 64538 students).
 
-By these metrics, I have high confidence you *will* deal with troublemakers during any year of teaching. It's possible one student, or multiple, can cause significant issues every single day of teaching. 
+By these metrics, I have high confidence you *will* deal with troublemakers during any year of teaching. It's possible only one student, or multiple, can cause significant issues every single day of teaching. 
 
 Additionally, disciplinary actions recorded above do NOT include redirection, warnings, etc. that happened before the disciplinary action is issued, as well as any time lost during instruction due to behaviors. This can potentially mean at least 2 things requiring further investigation:
-1. Disciplinary actions decreasing doesn't necessarily correlate with improved behaviors
+1. Disciplinary actions decreasing doesn't necessarily correlate with improved behaviors.
 2. New systems implemented may affect how disciplinary actions are tracked to show things improved *only at the surface level.*
 
-In terms of the teaching role itself, from what I've seen and experienced in addition to [what I read from RAND](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1100/RRA1108-12/RAND_RRA1108-12.pdf) (Doan, Steiner, & Pandey, 2024) and the [School Pulse Panel](https://nces.ed.gov/surveys/spp/results.asp) (2025), I'd probably give you this ordered list in overall difficulty from most difficult to least difficult:
+In terms of the teaching role itself, from what I've seen and experienced in addition to what I read [from sources like RAND](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1100/RRA1108-12/RAND_RRA1108-12.pdf) (Doan, Steiner, & Pandey, 2024) and the [School Pulse Panel](https://nces.ed.gov/surveys/spp/results.asp) (2025), I'd probably give you this ordered list in overall difficulty from most difficult to least difficult:
 - Special Education
-- Alternative/Disciplinary Education
-    - Some overlap with special education or behavioral intervention
 - Traditional/General Education
+- Alternative/Disciplinary Education
 - Online/Virtual
 - Tutoring
 - Corporate Training & Adult Learning
     - EdTech instructional roles, like online teachers and facilitators, are included here
 
 This ranking comes from many areas and metrics like:
-- Pay and benefits compared to hours worked
+- Pay and benefits compared to hours worked and the type of work
 - The type of people taught (1v1, large groups, special needs, etc.)
 - Bureaucracy and legality involved
 - How often you're expected to work "outside contract hours"
@@ -112,17 +113,13 @@ This ranking comes from many areas and metrics like:
 - The methods used to deliver content effectively and efficiently
     - E.g. [Online vs face-to-face teaching from CITE Journal](https://citejournal.org/volume-4/issue-2-04/general/a-comparison-of-online-and-face-to-face-instruction-in-an-undergraduate-foundations-of-american-education-course) (Stern, 2004)
 
-Teaching is not a role one can easily excel at, despite its perceived accessibility about how everyone *can* be a teacher. Even people in highly technical roles with vast domain knowledge may fail teaching due to lacking proper pedagogy or andragogy (and maybe heutagogy) to teach *and manage* students effectively.
+Teaching is not a role one can easily perform, despite any perceived accessibility about how everyone *can* be a teacher. Even people in highly technical roles with vast domain knowledge may fail at teaching due to lacking communication skills, proper pedagogy or andragogy (and maybe heutagogy), and management skills to handle students effectively.
 
 ### **What does a Manager do?**
 
 Manage resources and risk. That's the simple, pragmatic answer.
 
-People are part of these resources and the source of many ideas and methods to perform well. Time is also a resource to determine if what you want done fits within schedule and any deadlines. Risk is unreliable, unpredictable, and chaotic, so a manager wants to eliminate risk when feasible and make things reliable, smooth, and orderly. Being reliable leads to safety, honesty, and trust, afterll. **Do *not* underestimate the importance of reliability.**
-
-Any policies managers make should also be effective and efficient. If it looks good on paper, but terrible in practice, that policy should be eliminated or modified. This may include policies which are effective, but inefficient because they add unnecessary complexity and/or tension for those dealing with them.
-
-How do managers acquire the knowledge to determine policies? Preferably, it's by having experience in what they manage (e.g. having teaching experience when managing teachers) or proactively and intently researching/studying the relevant technical material to properly inform decisions.
+People are part of these resources and the source of many ideas and methods to perform well, so people should be treated as human beings rather than merely resources. Time is also a resource to determine if what you want done fits within schedule and any deadlines. Risk is unreliable, unpredictable, and chaotic. A manager wants to eliminate risk when feasible and make things reliable, smooth, and orderly. Being reliable leads to safety, honesty, and trust, afterll. **Do *not* underestimate the importance of reliability.**
 
 What they actually do is handle communication and relationships between people, task delegation, create schedules, define why something is important and set context, and accomplish goals in the projects/work they oversee. Ironically, a manager should train employees under them to perform their jobs so well and solve problems without managers they don't "need" a manager and become capable of operating without constant direction. Put another way: the goal is a team capable of success when a leader isn't around to guide them. Doing that successfully frees up time for bigger picture work like strategy and stopping problems before they happen.
 
@@ -147,7 +144,11 @@ Here's more examples of what a manager may do:
 - Ensuring everything is done legally
 - Protecting their team from unexpected overhead and workloads
 
-There's a lot of things here. It reinforces the point it's counterintuitive to micromanage excessively because it means hyperfixating on one element at the potential detriment of *every other element here*.
+Any policies managers make should also aim to be effective and efficient. If it looks good on paper, but terrible in practice, that policy should be eliminated or modified. This may include policies which are effective, but inefficient because they add unnecessary complexity and/or tension for those dealing with them.
+
+How do managers acquire the knowledge to determine policies? Preferably, it's by having experience in what they manage (e.g. having teaching experience when managing teachers) or proactively and intently researching/studying the relevant technical material to properly inform decisions.
+
+Overall there's a lot of moving parts and skills involved in management. It reinforces the point it's counterintuitive to micromanage excessively because it risks hyperfixating on certain elements at the potential detriment of *every other element here*.
 
 ### **Everyday Management**
 
@@ -165,7 +166,7 @@ There are rules (that are more like "guidelines") you should follow with every m
 - Clear and decisive action typically solves issues faster than delaying and festering.
 - When handling underperformers, it helps the rest of the team, class, etc. to address the issue(s) sooner rather than later.
 
-**Many rules that work with one group of students/people may not translate over to another group of students/people.** Teachers across grades and school types operate in different teaching, management, development, and accommodation contexts, which means adapting your rules to fit these contexts is necessary.
+**Many rules that work with one group of students/people may not translate over to another group of students/people.** Teachers across grades and school types operate in different teaching, management, development, and accommodation contexts. Adapting your rules to fit these contexts is necessary.
 - Example 1: A Kindergarten teacher and a 12th grade teacher may share some classroom management rules and procedures, but how they're best executed, written, and taught vary significantly enough it's like handling two completely different groups of people.
 - Example 2: Accounting for differences in culture, resources, and student behavior between Title 1 schools and affluent schools require different types of rules, rule enforcements, and accommodations for learning.
 
@@ -173,7 +174,7 @@ There are rules (that are more like "guidelines") you should follow with every m
 
 Good managers can turn chaos to order.
 
-There are four levels of managers from best to worst in most environments (from what I've been around):
+There are four levels of managers ranked from best to worst in most environments (from what I've been around):
 1. Competent and technical manager
 2. Incompetent, but technical manager
 3. Competent, but non-technical manager
@@ -185,7 +186,7 @@ When competence and technical skills aren't aligned, that's when things get mess
 
 Remember that managing is a different job. Engineers may manage computers, tasks, and technical know-how, but managers manage *people*. Managers understanding the human element and the business impact may help more than knowing all the functions of a particular tool. They should get their team(s) the reach and resources to accomplish goals, justify why they're worth the money/ROI to administration, and ensure their employees/peers/subordinates/etc. thrive in their positions. They also need to know when to divert, invest, or push back against queries and work for their team alongside meeting schedules and deadlines so their problems don't run downhill to their employees. Despite all this, it doesn't contradict what I said earlier. Learning about technical skills, even just to understand business and project-specific needs, is absolutely essential.
 
-Now then, let's say you've studied a field for several years, garnered a lot of experience, and you know what you're talking about. You know how to put out fires. You can solve things previously deemed impossible to fix. In an instructional role, and many roles in education systems, you're "leadership." You might not have traditional employees if it's with teachers and students, but you're still managing people who are "beneath" you in a perceived power/knowledge structure.
+For example, let's say you've studied a field for several years, garnered a lot of experience, and you know what you're talking about. You know how to put out fires. You can solve things previously deemed impossible to fix. In an instructional role, and many roles in education systems, you're "leadership." You might not have traditional employees if it's with teachers and students, but you're still managing people who are "beneath" you in a perceived power/knowledge structure.
 
 This means you need to do the things leaders also do without *weakening* authority, such as:
 1. Don't be an asshole.
@@ -197,11 +198,9 @@ This means you need to do the things leaders also do without *weakening* authori
 
 Despite how knowledgeable you might be, bad communication takes you down like a cat pouncing on a mouse. You can improve communication in less than a couple weeks if you put your mind and time to practice.
 
-It's *how* you say something, not just what you say, and getting people to *see* you do it right. For example, instead of saying "This is a good idea, I think we should do it." say "Let's do this." "I think" in the former instills doubt and makes someone believe you cannot stand behind your words. The latter cuts that doubt out almost entirely and makes it sound like you're sure and ready to act. Refining the art of communication is key to management.
+It's *how* you say something, not just what you say, and getting people to *see* you do it right. For example, instead of saying "I think we should do it." say "Let's do this." "I think" in the former instills doubt and makes someone believe you cannot stand behind your words. The latter cuts that doubt out almost entirely and makes it sound like you're sure and ready to act. Refining the art of communication is key to management.
 
-You also want to avoid your thinking outpacing your speaking. It's hard to detect at first, but an immediate example is those stop or gap words like "uh" and "um" come out *even when you don't want to say those.*
-
-You can also pause for a bit. A couple seconds to stop, structure what you want to say into a framework, *then* say what you want to say. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).**
+You also want to avoid your thinking outpacing your speaking. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).** It's hard to detect at first, but an immediate example is those stop or gap words like "uh" and "um" come out *even when you don't want to say those.*
 
 Last part here is communicating the impact. You can solve these amazing problems, but it won't mean anything if people cannot see it was solved. This goes for other co-workers and peers, like other teachers, as well as students watching you instruct. The work you do should also speak for you, which means people should see you're doing good work clearly and consistently.
 
@@ -211,17 +210,13 @@ There's two things to remember when handling written communications:
 1. Replying in anger usually doesn't help your case. 
 2. When in doubt, get life-changing issues, contracts, and important documents in writing.
 
-For point #2, that includes *all* of them... or as many as is reasonable and feasible to get.
-
-Trust me, you don't want to handle the fallout of not having your metaphorical ducks in a line with every t crossed and i dotted when the law comes knocking.
+For point #2, that includes *all* of them... or as many as is reasonable and feasible to get. Trust me, you don't want to handle the fallout of not having your metaphorical ducks in a line with every t crossed and i dotted when the law comes knocking.
 
 As you scale up in size, you'll want to review any legal contracts you wrote with past employmees, agencies, etc. This ideally happens at least once, if not more than once, somewhere before you scale up more than three organizational layers in a given organization.
 
-While a small group of a few friends may have contracts with lenient terms approved when everyone was a group of friends, that "group of friends" mentality is extremely difficult, if not outright impossible, to maintain as you scale up in size.
+While a small group of a few friends may have contracts with lenient terms approved when everyone was a group of friends, that "group of friends" mentality is extremely difficult, if not outright impossible, to maintain as you scale up in size. While this may sound heavy-handed, it's also to protect everyone involved, ensure their importance is codified, and mitigate single points of failure within your system. 
 
 I say this advice because you don't want to fire an employee, like one of your original founders, and then find out they have significant leverage and/or working knowledge of, well, many interal systems. For example, giving them ownership to the code, tools, infrastructure, designs, and licenses they leased out to the company which they could pull out easily and leave the entire company out to dry if they're no longer employed.
-
-While this may sound heavy-handed, it's also to protect everyone involved, ensure their importance is codified, and eliminate any single points of failure within your system. 
 
 ### **Enforcing Control**
 
@@ -281,15 +276,11 @@ Some people may see others sitting around, doing nothing, and wondering why they
 
 What happens if someone is 100% busy, however, is they're unavailable for other work if it comes their way. Say a new issue arises the person needs to work on, but they're currently swamped with other, higher priority work. That new issue sits and remains unaddressed, which forms a new kind of waste. 
 
-That waste is idle work.
+That waste is idle work. To remove idle work, you remove bottlenecks or things preventing work from getting done. That's what you should do when you're managing: managing resources to remove obstacles and ensuring capacity/availability to do the work that matters when it arrives.
 
 You can afford workers having idle time or downtime, but you cannot afford workers unable to address idle work. If work gets delayed, you, a manager/teacher/leader/etc. incur the cost of that delay. The problem isn't idle work; it's lacking capacity to complete work or not having workers *idle* to assign to it.
 
-If you think idle workers are bad compared to idle work, consider a relay race in track. You have multiple people, all part of a team, where part of their workload is waiting in an assigned location. While they aren't actively *doing* something, they're preparing to react to an important task. This task is a player readying to run when their turn arrives, run their own part as fast as they can, and ensure the remaining people in their relay team get to their turns faster.
-
-Keeping players, employees, workers, and people not 100% busy opens them up to do work as it arrives and complete their goals. Keeping them 100% busy, however, exponentially increases the backlog of things they need to do, but cannot do without significant issues and pushes back the finish line further and further.
-
-To remove idle work, you remove bottlenecks or things preventing work from getting done. That's what you should do when you're managing: managing resources to remove obstacles and ensuring capacity/availability to do the work that matters when it arrives.
+Keeping players, employees, workers, and people not 100% busy opens them up to do new work as it arrives and complete a manager's goals. Keeping them 100% busy, however, risks exponentially increasing the backlog of things they need to do, but cannot do without significant issues, and pushes back the finish line further and further.
 
 ### **The Art of Meet[ings]**
 
@@ -322,7 +313,7 @@ Say, for example, you have a 1 hour meeting with a team of 5 high-salary enginee
 
 M = (200,000 / 2080) x 5 x 1 = ~480 USD (per meeting)
 
-Let's say you implement Agile/Scrum daily standups for 10 minutes every workday instead of a 1 hour meeting for the year with your 5 team staff from before.
+Let's say you implement daily standups for 10 minutes every workday instead of a 1 hour meeting for the year with your 5 team staff from before.
 
 M = [(200,000 / 2080) x 5 x (10/60)] x 260 = ~20800 USD (per year)
 - (10/60) = 10 minutes divided by 60 minutes in 1 hour
@@ -339,7 +330,7 @@ To repeat once again: **As soon as a meeting is deemed invaluable, people will n
 
 ### **Making Meet[ings] Simple, Effective, and Efficient**
 
-There's multiple ways to do this.
+Fortunately, there's multiple solutions here.
 
 If you need to make a decision *now,* one of the fastest ways is allowing people to vote more than once. For example, you have 5 options people can choose from, but only the most popular option is selected. You don't need an agenda, timekeeper, scrum master, Steve from Accounting, etc. to manage it. You go around, ask yes/no questions for each option, tally votes, and pick the option with the most votes.
 - This can take less than a minute if done right across various group sizes.
@@ -421,11 +412,9 @@ For teachers and other employees involved in education, the absence of troublema
 
 Though it's a bit extreme of an application, you can utilize hostage negotiation strategies in multiple systems, including education. Don't do this for every situation, though; there's a time and place for it. One account going over these strategies is in *Never Split the Difference* by Chris Voss (2016). 
 
-**A win-win strategy, or a compromise, isn't always the ideal outcome nor is it always a moral good to compromise for the best outcome.** Compromises are easy to do and *seem* fair, which is why compromising is often the first thing people try when negotiating. Compromises often require concessions though, which means taking away things at least one party, or even all parties, wanted and may generate resentment after the fact. Better solutions require creativity and have a higher payout for all sides, but also hold heavier risk and potential conflict as a barrier to reaching those solutions.
+**A win-win strategy, or a compromise, isn't always the ideal outcome nor is it always a moral good to compromise for the best outcome.** Compromises seem easy to do, but often require concessions and taking away things at least one party, or even all parties, wanted and may generate resentment afterwards. A solution without a compromise generates a higher payout at the risk of a higher cost and worse conflict. Compromises also risk you projecting your own perspectives onto other people. It isn't empathy; you're not actually understanding their point of view.
 
-A significant error in judgment involved with compromises is when you're projecting your perspective(s) onto them and making a potentially dangerous assumption, which can escalate the situation in neither party's favor. That *isn't* empathy; you're not understanding their point of view here.
-
-Emotional contagion plays a part as well, where people nearby may generate the same energy you project in a given situation. This could be from a student, a teacher, an administrator, and so on. If you mismanage self-control and create a crisis situation out of something mundane, other people may then react like it is a crisis because they see you treating it that way. This likely leads to a situation that becomes out of control rather than one which was previously kept under control. This is why self-control and emotional regulation is important.
+Emotional contagion plays a part as well, where people nearby may generate the same energy you project in a given situation. If you mismanage self-control and create a crisis situation out of something mundane, other people may then react like it is a crisis because they see you treating it that way. This likely leads to a situation that becomes out of control rather than one which was previously kept under control. This is why self-control and emotional regulation is important.
 
 Delving into this area further brings you into the world of psychology and subjects such as calibrated questions, leverage, empathy, negotiation, deflections, and more. While negotiation and manipulation seem similar and have a shared goal, the methodology used to reach that goal is vastly different. Negotiation seeks mutual benefits and understanding amongst all parties whereas manipulation utilizes control and tricks for one party to get what they want. Negotiation helps people while manipulation harms people.
 
@@ -433,7 +422,7 @@ Delving into this area further brings you into the world of psychology and subje
 
 You can automate or improve efficiency with solutions and probably already have before. All automation is is predefined rules to perform tasks consistently without human intervention and continuous oversight. It's not trying to emulate human (and beyond) thinking to complete tasks like artificial intelligence (AI) might. 
 - All this is to say there's a good chance you need an *automated* solution, but not necessarily an AI solution, for your problem(s).
-- With any automation (and AI), ensure you understand how its underlying mechanics work or you may become someone with 30,000+ HIPAA/FERPA/GDPR legal violations swarming you in less than 30 seconds.
+- With any automation (and AI), ensure you understand how its underlying mechanics work or you may become someone with 30,000+ legal violations swarming you rather quickly.
 
 My rule of thumb is if something *can* be automated, it isn't as costly to do so, and it has strictly, pre-defined rules to ensure consistent output/quality, you should at least consider automating it. For example: why spend hours grading multiple-choice questions by hand when you can instantly grade them in a fraction of the time by supplying an answer key to go off of. This can be done with low-cost software or even hosting the assignment on a platform like Google Forms to do most heavy-lifting for you with relatively simple technology.
 
@@ -452,11 +441,13 @@ Automation, and AI (Artificial Intelligence) by extension, is not a one-size-fit
 - Shortening text and summarizing
 
 **Remember: Time is your most valuable resource. Once gone, it cannot be restored.**
-- **Also remember: automation (and/or AI) can get very expensive, very quickly, and may not always solve EVERY problem.**
+- **Also remember: automation (and/or AI) can get very expensive, very quickly, and may not always solve EVERY problem even when properly used.**
 
 ### **Emergency Response Systems**
 
-Sometimes, things go beyond bad and get much worse. Plans for emergencies try to cover these situations. For example, if a building you're inside was on fire for several hours already and you only now noticed or got informed, that's a sign there's an ineffective, or no, emergency system in place and you may need to install sprinklers to stop fires before they get big.
+Many disaster recovery plans are tested last disaster or, worse, never tested.
+
+Sometimes, things go beyond bad and get much worse. Plans for emergencies try to cover these situations. For example, if a building you're inside was on fire for several hours already and you only now noticed or got informed, that's a sign there's an ineffective, or no, emergency system in place and you may need new ways to stop fires before they get big.
 - You could also allude poor emergency systems to any issue where "it's not a problem until it's made my problem."
 
 For education, this may include tornado, earthquake, fire, hurricane, and shooter/security drills. For other industries, like medicine and hospitals, this may be things like code blue, sepsis alert, rapid response, code white, security alert (or code green), and controlled access. Sometimes the emergency codes are obvious and other times intentionally obscured to limit panic.

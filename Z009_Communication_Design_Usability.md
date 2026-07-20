@@ -40,17 +40,17 @@ Every role requires communication skills. Education *especially* requires commun
 
 *Reread those two things, then continue.*
 
-This isn't a means to dissuade you from creativity or teaching; it's a reality and something people may call "product research." Go ahead and do a Google search (or similar type of Internet/online/database search) on any topic you want to do if you don't believe me.
+This isn't a means to dissuade you from creativity or teaching. It's a reality and something people may call "product research." Go ahead and use a search engine (or similar type of Internet/online/database search) on any topic you want to do if you don't believe me.
 
 Did a search and found your goal? Take a closer look, see how they did the topic, then guesstimate if you can do a better job than they did. What if you found something, but of poor quality, or you didn't find your topic? That's when you can flex your ability and creativity.
 
-**If you don't need to reinvent the wheel to teach your topic(s), then don't reinvent the wheel.**
+**If you don't need to reinvent the wheel to teach your topic(s), then don't reinvent the wheel.** That's me trying to save you some time.
 
 If someone did something extremely well for a topic you're covering, it may be OK to use that and apply it in your setting. It's valid and reasonable, in the interest of time, to stand upon the shoulders of giants. You can still cover that same topic if your approach is objectively better or increases accessibility.
 
-Busineses also showcase delivery of ideas: one business may have a fantastic idea, but fail to capitalize on it. Another business finds that same idea but capitalizes on it well and makes millions to billions of dollars in profit. Sometimes all you need is better delivery over a better idea. 
+Busineses also showcase delivery of ideas. A business may have a fantastic idea, but fail to capitalize on it. Another business finds that same idea but capitalizes on it well and makes millions to billions of dollars in profit. They may even take the "credit" for it, despite not being the original idea, as well. Sometimes all you need is better delivery over a better idea. 
 
-You don’t always need to invent ideas. You need to be good at teaching ideas and understanding what you're teaching about.
+You don’t always need to invent new ideas, but you do need to be good at teaching ideas and understanding what you're teaching about.
   - Sometimes "good enough" today beats "perfect" tomorrow, especially with time constraints.
 
 ### **The User (Student) Experience**
@@ -61,16 +61,13 @@ It's an easy assumption to think students know how to navigate through the conte
 - Settling on a reasonable first solution
 - Stumbling through how something works
 
-Does this mean they're wrong? Not necessarily; it means the material and work you're giving them is something they want to get through quickly or there's potentially an error in how the work, assignment, etc. is designed.
-
-You'll find students often go in with a goal in mind. That goal may be getting through the material as fast as possible. Another goal could be "What does X do?" In either case, they'll focus on that goal and tend to avoid materials that don't meet or satisfy their goal. To expand on what I mentioned earlier:
+Does this mean they're wrong? Not necessarily. A student's goal may be simply getting through the material as fast as possible. They may focus on that goal and ignore whatever doesn't help meet their goal. To expand on what I mentioned earlier:
 - If they want to get done quickly, they'll opt for scanning rather than reading instructions, figuring out the best solution, or just brute-forcing their way through.
-- If they're figuring out how to perform a specific action, expect them to focus only on tasks that help them do that and potentially ignore everything else.
 
-A misaligned goal is something you can mitigate to an extent. Any form of thinking takes up energy; if you can spend less energy thinking about something, then you'll likely do that. Your material could be the best and most fun in the world, but viewed as nothing more than work, which takes up time and energy that students would rather spend elsewhere. Put another way, imagine a student has a fuel tank where every thought, action, etc. uses up fuel and they have a limited supply for the day.
+If you can spend less energy thinking about something, then you'll likely do that. Your material could be the best and most fun in the world, but viewed as nothing more than work, which takes up time and energy that students would rather spend elsewhere. Imagine a student has a fuel tank, with a limited supply, where every thought, action, etc. uses up fuel for the day.
 - This is formally called cognitive load theory, as coined by Sweller (1988).
 
-When in doubt, design materials to minimize unnecessary effort, but not *all* effort. Conventional templates, multiple choice questions, and familiar formats may not look the best design-wise, but require less mental effort to meet their goal and give back more time to do what you want. By extension, this means you get more time to have them focus on what you want them to learn; all by making it easier to meet their goal(s).
+Learning requires students putting in effort to retain knowledge, but the design of materials should minimize unnecessary thinking efforts. Conventional templates, multiple choice questions, and familiar formats may not look the best aesthetically, but may require less mental effort to meet their goal and expend less energy and time. By extension, this means you get more time to have them focus on what you want them to learn; all by making it easier to meet their goal(s).
 
 You can also teach new conventions and methods, but it may take students several iterations and exposures before they require less mental effort to think about how to do it correctly.
 
@@ -88,11 +85,12 @@ If you don't know where to start identifying serious problems:
 Solutions don't have to be perfect; just good enough to effectively solve the problem.
 
 ### **Accessibility**
-Outside of legal requirements from items like accommodations, you want to make sure your teaching material is accessible. Does this mean more work? Yes, but it also means potentially great improvements with relatively little effort.
 
-If you want two examples, think about blind and deaf people. As an example, you can use Braille to accommodate learning for blind people or with vision loss (U.S. Department of Justice Civil Rights Division, 2020). Because these demographics have these methods to communicate and learn, they're now on a similar stage of learning compared to peers without those disabilities.
+Outside of any legal requirements from items like accommodations, you want to make sure your teaching material is accessible. Does this mean more work? Yes, but it also means potentially great improvements with relatively little effort.
 
-You might also claim that accessibility will harm the design and content of whatever you're teaching. Accessibility typically doesn't compromise design, but instead improves clarity for all users (Krug, 2014). It significantly improves the curriculum and made things simpler to understand for all students. It also eliminates, or heavily mitigates, issues where students without disabilities likely encountered difficulties in one area and students with disabilities experienced similar problems in the same area.
+One example of designing with accessibility in mind is considering how blind people can use a product. Braille is one method that helps accommodate learning for blind people or those with vision loss (U.S. Department of Justice Civil Rights Division, 2020). Because this demographic has these methods to communicate and learn, they're now on a similar stage of learning compared to peers without those disabilities.
+
+You might also claim that accessibility will harm the design and content of whatever you're teaching. Accessibility typically doesn't compromise design, but instead improves clarity for all users (Krug, 2014). It significantly improves the curriculum and made things simpler to understand for all students.
 
 ### **Social-Emotional Learning (SEL)** 
 
@@ -104,7 +102,7 @@ The difficulty with SEL across education systems is specifically when it comes t
 
 ### **Culturally Responsive Pedagogy** 
 
-Another consideration for students is their culture and background as they embark upon, or join, the learning journey. The social and political climate of the past, present, and future is tough to talk about, which in turn means learning related to that is minimal (Samuels, 2018).
+Another consideration for students is their culture and background as they start the learning journey. The social and political climate of the past, present, and future is tough to talk about, which in turn means learning related to that is minimal (Samuels, 2018).
 
 You could think of it as a bridge between a student's home and education life, or at least affirming a student's background and voice in an educational setting.
 
@@ -117,21 +115,21 @@ Culturally responsive pedagogy and CR-S can be associated with differentiation, 
 
 ### **The "Science of Reading"**
 
-As I've taught primarily Science, Engineering, and STEM, I won't delve into this section too much, but it is worth a mention.
+As I've taught in STEM, I won't delve into this section too much, but it is worth a mention.
 
 Science of reading is the culmination of reliable evidence and knowledge about learning to read and how to teach reading, drawing upon many fields to inform its practices. Every subject requires reading in some way, shape, or form, whether through digital literacy or instruction in general.
 
 This "movement" has a plethora of research as well as reviews of the research already developed (Goodwin & Jiménez, 2020). There's even legislation and policies developed specifically regarding reading instruction as well (Gabriel & Dennis, 2025).
 
-Even if you're not an educator teaching reading directly, you may still encounter decoding, language comprehension, and phonics-based instruction. Whether it's a science, math, or engineering textbook (or related material), a student's going to have a hard time, regardless of the content involved, if they cannot read it. Reading foundational skills are involved broadly, if not everywhere, so it'd be foolish to neglect them entirely.
+Even if you're not an educator teaching reading directly, you may still encounter decoding, language comprehension, and phonics-based instruction. A student's going to have a hard time, regardless of the content involved, if they cannot read it. Foundational reading skills are involved broadly, so it'd be foolish to neglect them entirely.
 
-To address an elephant in the room: saying a curriculum or program is a "science of reading" curriculum does not make it one. I could declare this entire book is grounded in the science of reading, despite you and I full well knowing it's essentially just this section (and perhaps references elsewhere, at best).
+To address an elephant in the room: saying a curriculum or program is a "science of reading" curriculum does not make it one. I could declare this entire book is grounded in the science of reading, despite you and I full well knowing it's specifically just this section (and perhaps some references elsewhere, at best).
 
-Despite what vendors may claim, it is still up to institutions, and by extension individuals, to vet programs and materials and confirm if they *truly* meet the desired and required standards.
+Despite what vendors may claim, it is still up to institutions, and by extension individuals, to vet programs and materials and confirm if they *truly* meet their desired and/or required standards.
 
 ### **The Trust Thermocline**
 
-While this could be a management, or even an engineering, problem too, I'm going to classify it as a user experience problem in this book. 
+While this could be a management, or even an engineering, problem too, but I'm going to classify it as a user experience problem in this book. 
 
 You may have seen the word thermocline by itself in oceanography to describe the transition zone between warmer water and cooler water (i.e. going from the epipelagic zone to the mesopelagic zone) (NOAA, 2024). When you reach this thermocline, you'll easily know it and feel it by the sudden change in temperature.
 
@@ -145,6 +143,25 @@ Once it's crossed, it's *usually* the point of no return. While you can weather 
 In an education system, this can apply to anyone inside of it. For students, they may have happy memories about a school or learning experience they had throughout the years, only for a later event to sour it down the line. For educators and other staff members, they may have utilized a service to deliver education for several years, yet grew increasingly frustrated with its performance and company's stance on improvements until one day they decide to make the switch.
 
 And what happens when people aren't happy with a product? They'll look for ways to stop using it.
+
+### **A Note on Non-Technical Crowds**
+
+I'll paint a scenario here: Imagine you're in a conversation with someone and you're trying to explain how a product works. You know all the technical details, inside and out, and could go on for days talking about this product. You're not necessarily trying to *sell* something, but just inform.
+
+The other person has no expertise or technical knowledge in this product like you do. You *could* try and cover some gaps here and there, but they'll lack an intuition or may diverge in goals compared to you due to this lack of background knowledge. If you don't frame it in a way they'll understand, or even care about or appreciate, don't expect them to get excited about the product.
+
+This is common in workplaces and why there's advice for technical roles to care about *business* goals and objectives rather than only technical objectives. Many people don't care much about the underlying methods or processes. They have a problem, they need a solution, and you need to convey how your product is a solution in a way they understand.
+
+Users (mostly) just want it to work and have it do what they need to do. That's it.
+
+To convey it in a way they understand, you have to understand the person using the product. A designer may call this empathy or putting yourself in another's shoes. That's not to say learn *everything* about the person; that's impractical and a waste of time. Only enough to be able to reframe it from the other person's perspective and think about what impact the product has for the person, business, organization, etc.
+
+There's a lot of things involved you may need to look at, such as:
+1. How will this generate a profit?
+2. What does this cost and who/what is funding it?
+3. What drives the investment (strategy, tactics, etc.)?
+
+It's entirely possible for something to be good for someone or something, but they'll still reject it based on moral grounds. That's why I added the drive behind the investment, because it's someone you may skip over if you're not careful. You need to justify *why* something is important, not just show it is important.
 
 ## **Bibliography**
 

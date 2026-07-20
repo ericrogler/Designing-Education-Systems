@@ -15,7 +15,9 @@ nav_order: 27
 
 ---
 
-***Disclaimer: All items in this chapter are not medical advice nor should be interpreted as such.*** Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
+***Disclaimer: All items in this chapter are not medical advice nor should be interpreted as such.*** 
+
+Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
 
 If possible, have a nice day. Enjoy your life when you can. Many things in life you shouldn't take personally either, as knowing when to *not* care makes dealing with those things a lot easier. Even if you don't know what you're doing, try to act like you do, walk like you know where you're going, and get things done at a primary location instead of going to a secondary location. It may just save your life.
 
@@ -35,62 +37,65 @@ Both ways are valid. You can have good teachers and instructors with either pers
 
 ## **Long Answer**
 
-Let me just say this first: **don't get addicted to the technology you use and consume. Moderation is important.** With that out of the way, let's continue.
+*Disclaimer: All items in this chapter are not professional medical advice nor should be interpreted as such.*
 
 I could talk about how good junk food is and not many people would care too much about that. The moment I talk about health food though, people scrutinize the nutritional information, the chemicals and ingredients within it, whether it's part of a balanced diet or actually healthy, and so on. What you and I can probably agree on though, despite any differences, is good food boosts morale and everyone is going to be hungry on a diet.
 
-Alternatively, I could talk about how even nurses and certain licensed medical staff can know something is wrong with someone, and be able to put the information together to know what is wrong and/or get the right people involved, but not have permission/authority to diagnose/fix someone themselves.
+Alternatively, I could talk about how nurses and certain licensed medical staff can know exactly what is wrong with someone, and know how to fix it, yet not have permission/authority to diagnose/fix someone themselves. That authority may also reside in organizations that are not medical professionals themselves, such as people in a health insurance company, but are telling medical professionals how to dispense medicine, procedures, and treatments.
 
-Now let's talk about work. What defines meaningful work differs from person to person. In this book, we'll say meaningful work (or work you can feel satisfaction from) sufficiently fulfills at least three areas:
-1. Complexity
-2. Autonomy
-3. Appropriate effort vs reward
+What defines meaningful work differs from person to person. People may put work into a system and expect the system to reward them appropriately in some way, shape, or form. In this book, we'll say meaningful work (or work you can feel satisfaction from) sufficiently fulfills at least three areas:
+1. Appropriate Effort vs Reward
+2. Complexity
+3. Autonomy
 
-If the work is too simple, you may atrophy various skills you once took pride in and developed over time. If you're not autonomous enough, or have the freedom to do what you need to do, you may not develop the necessary critical thinking to make decisions when push comes to shove. Lastly, if the effort isn't worth the reward, such as grueling work for little monetary pay, you might not value the work you're putting in in the first place! 
-- If someone says "no one wants to work," chances are they aren't sufficiently providing these three items above.
+The primary motivation for many professionals is money, which is the "reward" in many professional scenarios. You need money to exchange for goods and services to stay alive, safe, fed, and secure. If the effort isn't worth the reward, such as grueling work for little monetary pay, you might not value the work you're putting in in the first place. If the work is too simple, you may atrophy various skills you once took pride in and developed over time. If you're not autonomous enough, or not have the freedom to do what you need to do, you may not develop the necessary critical thinking to make decisions when push comes to shove. 
+- If someone says "no one wants to work," it's likely these three items above are not sufficiently provided.
 
-Is it normal to work outside of what you're contracted to do? For many people, no. A typical expectation is to complete your role's responsibilities, work the alloted hours/time for that role, and then *not* doing further work. Everything else is extra effort you may not receive any satisfaction or reward from if you're not careful.
-- For example, completing more work means getting more work in return.
+Is it normal to work outside of what you're contracted to do? For many people, no. A typical expectation is to complete your role's contractual responsibilities, work the alloted hours/time for that role, and then *not* do further work. Everything else is extra effort you may not receive any satisfaction or reward from if you're not careful.
+- For example, an employee completing work early has their boss giving them more work in return.
 
-Do teachers/instructors typically have to work outside normal work hours just to stay on track with their workload? Sadly, yes, even if the ideal goal is *not* to work outside contract hours. Administrators should avoid pushing extra work, as it leads to burnout and eventual departure of valuable employees (e.g. teachers), while teachers should avoid it because, well, *not taking of yourself properly means being unable to take care of others.*
+Do teachers/instructors typically have to work outside normal work hours just to stay on track with their workload? Sadly, yes, even if an ideal goal is *not* to work outside contract hours. Administrators should avoid pushing extra work, as it leads to burnout and eventual departure of valuable employees (e.g. teachers), while teachers should avoid it because *not taking of yourself properly means being unable to take care of others.*
 - As an unrelated example, it's why an airline may tell you to put on *your* oxygen mask first before assisting others with their oxygen masks.
 
 Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to perform your job's tasks. You may also deal with increased workloads/duties, fewer support networks, reduced protections, and countless demands to do what's needed regardless of resources available. If it gets bad enough, someone may be in "survival mode" and simply doing what they can to get by rather than excel.
 - E.g. it feels like you have to always do more with less with every passing year.
 
-For first-year teachers, they may often go beyond contract hours because they're likely designing everything from scratch. If not going from scratch, then they're spending more time figuring out how their particular education system(s) works. 
+For first-year teachers, they may often go beyond contract hours because they're likely dealing with everything from scratch. If not going from scratch, then they're spending more time figuring out how their particular education system(s) works. 
 
 For more experienced teachers, the amount of time outside of work you get back gradually increases because you can do things faster and require less rigorous setup for your classes. You've had *years* to fine-tune everything and build up resources to quickly draw from, afterall.
 
 ### **The Environment Itself**
 
-Being in a stressful and chaotic environment isn't good for you. Generally speaking, education systems and their facilities, when done correctly, should be safe places where students can experience a "sense of normalcy" and better focus towards their studies, activities, and so on.
+Education contains some of the most difficult jobs humans can do that also appear easy to those looking from the outside. This is especially true of teachers and educators in particular, even if they may get summers off and work "limited" hours, due to the situations they need to handle on a day-to-day basis.
 
-As a hypothetical: if an educational facility has fights every day, furniture getting broken, and injuries often sustained on both students and staff, then a student's concerns may shift from education to safety. If they're overly focused on their own safety and well-being, that leaves little room for them to focus on education. If an education system does not ensure safety needs are met, you risk creating an unsafe environment unfit for any proper education.
+Being in a stressful and chaotic environment isn't good for you. Generally speaking, education systems and their facilities should be safe places where students can experience a "sense of normalcy" and better focus towards their studies, activities, and so on.
+
+As a hypothetical: if an educational facility has fights amongst students every day, furniture getting broken, and injuries often sustained on both students and staff, then a student's concerns may shift from education to safety. If they're overly focused on their own safety and well-being, that leaves little room for them to focus on education. If an education system does not ensure safety needs are met, you risk creating an unsafe environment unfit for *any* proper education.
 
 This is also *not* purely one part of an education system. Counselors are one such method to help students solve problems in their life other professionals may not be equipped to handle, but are primarily limited to *within the confines of an education system.* While a school or education system should strive for a safe and secure environment, the outside environment, such as a student's household *outside of an education system*, must also be safe and secure or else proper learning for them is at risk.
 
-Though there are ways to alleviate and accommodate for these concerns, many factors are frankly outside the control of any educators, administrators, or staff members in education. Parents and students have issues they must resolve on their end too. Overcorrecting by being either too strict through harsh discipline or too lenient with only a slap on the wrist as punishment may also compromise education for *every* student involved; not just the students with issues. 
+Though there are ways to alleviate and accommodate for these concerns, many factors are frankly outside the control of any educators, administrators, or staff members in education. Parents, guardians, and students have issues they must resolve on their end too as part of *their* responsibilities. Overcorrecting by being either too strict through harsh discipline or too lenient with only a slap on the wrist as punishment may also compromise education for *every* student involved and not just the students with issues. 
 
-Are there solutions to these problems? Yes, but they require enforcing consequences for actions and dealing with human issues and needs as they arise. That is applied across education systems as a whole rather than in one particular location.
+Are there solutions to these problems? Yes, but they require enforcing consequences for actions and dealing with human issues and needs as they arise. That is applied across education systems as a whole rather than in any particular location.
 
 ### **An Educator's Creed**
 
-Despite providing what's usually perceived as an honorable service to society, I've never had to take a creed or oath in education. I don't think there's even a universally recognized, official creed for education as of writing this. If it does exist, they were probably guidelines or terms of employment rather than an oath.
+Despite providing what's usually perceived as an honorable service to society, I've never had to take a creed or oath in education. I don't think there's a universally recognized, official creed for education as of writing this. If it does exist, they were probably guidelines or terms of employment rather than any oath with teeth.
 
 Maybe there's too many debates about what educators are responsible for or they encompass too many roles at once. I'm not sure the reason myself, but it does leaves things ambiguous and morally/ethically questionable at least.
 
 Considering all of this, it may be prudent to adopt another creed with similar aspirations and goals in the meantime, like the Engineers' Creed I've been familiar with, such as the [the National Society of Professional Engineers (NSPE)](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed) (2021).
 - If you cannot think of something to abide by, consider something similar to the above to provide *some* sort of moral and ethical compass.
 
-### **A List of Things to Consider**
+### **Another List of Things to Consider**
 
-Most of what's mentioned below can be found from medical sources like the Centers for Disease Control and Prevention as well as the Office of Disease Prevention and Health Promotion. Though sources with medical knowledge, they should be treated as general information references rather than direct medical advice.
+Most of what's mentioned here can be found from medical information sources like the Centers for Disease Control and Prevention as well as the Office of Disease Prevention and Health Promotion. Though sources with medical knowledge, they should be treated as general information references rather than direct medical advice.
 
+For example, if I were to compile and summarize a list of my own here:
 - Get enough sleep.
 - Protect and stay within contract hours when you can. If you go over, make it intentional.
     - If you need to volunteer for things, do not volunteer for too many things all at once.
-- Make time, at least 4 hours (ideally 6-8 hours), for yourself and family each day.
+- Make time for yourself and family each day.
 - Make grading easy.
 - Do not sacrifice health for work. Take time off if you're really sick.
 - You will have good days and you will have bad days. Sometimes the bad days will ruin your entire day and the best course of action is to try and focus on something else–outside of work–on that day.
@@ -120,36 +125,34 @@ Your responsibility ends at doing your best within professional means and hours.
 
 Being a teacher or instructor is being in an isolating profession. This may sound odd at first, because a teacher is interacting with many other human beings a lot and communicating quite frequently compared to many other professions. Nevertheless, many teachers are working "alone" most of the time.
 
-In an instructional/teaching setting, your brain is processing multiple things at once, such as:
+In an educator role, your brain is processing multiple things at once, such as:
 - What content you're teaching
 - How to explain the content to students to be best understood
-- The possible dozen to 100+ social dynamics happening in the background, where any one of them can escalate into an out-of-control issue within seconds
+- The many social dynamics happening in the background, where any one of them can escalate into an out-of-control issue within seconds
 - Checking the entries and exits for any sudden visitors, in addition to watching out for any potential interruptions to the class
 - Scanning the room occasionally for emergencies which always have a low, but not zero, chance of happening
 - Maintaining a "high alert" state the entire class period, multiple hours at once, or even the entire day without pause or rest
 - How to not undergo a sensory overload
 
-All of these things happening at the same time simultaneously, and for an extended period of time, leads to mental exhaustion and decision fatigue. 
+All of these things happening at the same time simultaneously, and for an extended period of time, leads to mental exhaustion and decision fatigue. It's like your brain is at near constant utilization with little downtime, if any, at any given time on a workday. What this lack of downtime means is you may suppress many emotions because you don't have time to process them. When a break does occur, you may want to vent out and decompress as soon as possible. Even then, your current location may not be ideal for decompressing. You might wait for a later opportunity again, likely at the end of the day when you're back home from work.
 
-These occurrences aren't exclusive to teachers and professionals in education systes. High-stress, high-stakes roles such as firefighters, police, military, doctors, air traffic controllers, and nurses may have similar experiences and situations, though across vastly different contexts, scenarios, and conflicts. Your actions may not affect whether someone lives or dies (except for when that's your job!), but the environment you're in places a higher amount of stress than you may first expect.
+These occurrences aren't exclusive to teachers and professionals in education systems. High-stress, high-stakes roles such as firefighters, police, military, doctors, air traffic controllers, and nurses may have similar experiences and situations, though across vastly different contexts, scenarios, and conflicts. Your actions may not affect whether someone lives or dies (except for when that's your job!), but the environment you're in places a higher amount of stress than you may first expect.
 - This applies to a lot of workers in general too. 65% of U.S. workers (from 2019-2021) surveyed by OSHA equate work as a significant stress factor (2023).
-
-It's like your brain is at near constant utilization with little downtime, at best, at any given time on a workday. What this lack of downtime means is you may suppress many emotions because you don't have time to process them. When a break does occur, you may want to vent out and decompress as soon as possible. Even then, your current location may not be ideal for decompressing. You might wait for a later opportunity again, likely at the end of the day when you're back home from work.
 
 Venting and decompressing methods vary among individuals. It can be done through body language, verbally venting frustrations, relaxing peacefully, or any combination of these three and more. It could even be your brain powering down into recovery mode and you not doing anything outside of a blank stare for some time once the constant overload from the noise and decision-making stops. Maybe it takes 1 minute, 15 minutes, 30 minutes, or even an hour before you mentally return to a "normal" state and de-escalate from a "high alert" state.
 
-Be mindful that your decompression method(s) doesn't negatively harm or abuse other human beings, their property, and yourself. Also ensure it doesn't reach the point where it involves rashly handling drugs, especially unmarked pills/drugs. If it *does* reach that point or feels it's reaching that point, seek professional help (e.g., therapists, doctors, etc.).
+Be mindful your decompression method(s) doesn't negatively harm or abuse other people, their property, and yourself. Also ensure it doesn't reach the point where it involves rashly handling drugs, especially unmarked pills/drugs. If it *does* reach that point or feels it's reaching that point, seek professional help (e.g., therapists, doctors, etc.).
 - Even if you're currently one of these professionals, a "physician-patient" still needs appropriate help (Rosvold (MD), 2004).
 
 ### **What about Prescriptions/Drugs/Medications?**
 
-***Notice: the information provided is hypothetical, presented only as an example, and subject to change.***
+***Notice: the information provided in this section is hypothetical, presented only as an example, and subject to change in the future.***
 
 If you're a professional in an education system, you may not deal with medications, prescriptions, and other drugs for students, yourself, and other people in general. All of that's usually under the purview of health professionals.
 
 Nevertheless, that doesn't mean neglecting knowledge of common medications, diseases and their symptoms, and so on. Having that knowledge could mean the difference between life and death and whether or not you can get someone (or yourself) the help you need.
 
-If you're primarily dealing with medications, despite not being a health professional yourself, then you'll need to reference a heavily vetted source by verified health professionals and perhaps figure out the following *for each prescription, drug, etc.*:
+If you're primarily dealing with medications, despite not being a health professional yourself, then you'll need to reference a heavily vetted source by verified health professionals and perhaps figure out items like the following *for each prescription, drug, etc.*:
 - Generic name (or "slang" name, like "Tylenol" vs acetaminophen)
 - Treatment purpose
 - Common dosage amount & dosage limit

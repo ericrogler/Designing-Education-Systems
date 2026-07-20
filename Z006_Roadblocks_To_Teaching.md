@@ -9,9 +9,9 @@ nav_order: 12
 
 ## **Short Answer**
 
-> "Advancing down one path is beautiful in itself... but it usually doesn't go that way. Hesitation... mistakes... and diversions occur. Because of those, you try to turn around but you're hit this way... and hit that way. Your path, which you lost due to hesitation... surely it expands more than anyone else's..."
+> "Every wall is a door."
 
-- Matahachi Hon'iden, *Vagabond* (2010, Translation)
+- Ralph Waldo Emerson (Attribution)
 
 ---
 
@@ -27,39 +27,35 @@ Blockers depend on things like whether you teach in person/online, equipment you
 
 ## **Long Answer**
 
-In a teaching environment, you'll experience several types of blockers I'll address below. Some blockers are manageable while other blockers may partially or entirely restrict different ways to reach your goals.
-
-For simplicity's sake, I'll sort blockers into four categories.
+In a teaching environment, you'll experience several types of blockers I'll address below. Some blockers are manageable while other blockers may partially or entirely restrict different ways to reach your goals. For simplicity's sake, I'll sort blockers into several categories.
 
 ### **Technical Blockers**
 
-Some education systems are made in a garage. Other education systems are given a sizeable grant to conduct research on (and possibly make a business out of teaching said system). Then there's systems with more barriers to success compared to other schools, whether it'd be from the students, staff, or resources available.
+Some education systems are made in a garage or a shed. Other education systems are given a sizeable grant to conduct research on (and possibly make a business out of teaching said system). Then there's systems with more barriers to success compared to other schools, whether it'd be from the students, staff, or resources available.
 
 **"Old school" style teaching, or teaching without fancy tech, gadgets, widgets, etc. is perfectly fine (and sometimes encouraged!). If this is the case for you, you may have fewer technical blockers.**
 - This also includes fancy tech, but opting for less technical options anyways. It's whatever provides the best learning experience for students in your educational system.
 - Personally speaking, I'd use pencil and paper when I could, but technology, like computers, for things I cannot reasonably do with low tech solutions.
 - Each new person using technology is one more person you may have to troubleshoot issues for.
 
-In one sentence: is there a device that cannot operate the software and/or perform the tasks I need for teaching?
+In one sentence: is there a technology that cannot perform the tasks I need for teaching?
 
 *If no, proceed with whatever plans you have; you're good.*
 
 *If yes, it's a blocker and you either:*
 
 - Cannot use it
-- Need to find an alternative fitting technical requirements
+- Need to find an alternative fitting the technical requirements
 
-For example, a Chromebook might not run Windows or Mac games, but it may be able to run Linux games, Android games, and cloud gaming. This is an example of a substitute to demonstrate a similar point.
+For example, a Chromebook might not run Windows or Mac games, but it may be able to run Linux games, Android games, and cloud gaming. This is an example of a substitute to overcome a technical blocker. Another example: you want students to run a flight simulator on school computers, but the computer specifications are far too low for it. That's OK, though, because there may be less resource-intensive browser alternatives available for use instead.
 
-Another example: you want students to run a flight simulator on school computers, but “dxdiag” command on a Windows computer shows the computer specs are far too low. That's OK, though, because there may be less resource-intensive browser alternatives available for use instead.
+**Be warned, though:** using alternative technology may not meet all of your needs and standards, or accurately do what is needed to meet your objectives. As long as Plan B works and meets your needs, it's good enough. You can always supplement other materials related to the subject(s) to fill in gaps.
 
-**Be warned, though:** using alternative software may not meet all of your needs and standards, or accurately do what is needed to meet your objectives. As long as Plan B works and meets your needs, it's good enough. You can always supplement other materials related to the subject(s) to fill in gaps.
-
-The only time you are *stuck* with a given software/tool is if you're trying to get students to earn a certification or licensure with it. You definitely cannot use alternatives with those; you must use the required software or they cannot get the certification or license. Some software may require the teacher to also hold a license to teach or administer tests related to the software, so double-check first.
+The only time you are *stuck* with a given technology is if you're trying to get students to earn a certification or licensure with it. You definitely cannot use alternatives with those; you must use the required technology or they cannot get the certification or license. Some technology may require the teacher to also hold a license to teach or administer tests related to the technology, so double-check first.
 
 **Does this mean I should use technology when it's available?**
 
-Not necessarily. Even if technology is available, whether gifted, bought, or contractually obliged to use, it's still a question of *should* students have extended access to technology vs *can* students have that access.
+Not necessarily. Even if technology is available, whether gifted, bought, or contractually obliged to use, it's still a question of *should* students have access to technology vs *can* students have that access.
 
 What technology you permit and use depends on the needs of your class(es). Do not, however, discount any existing research on when informing your decision.
 
@@ -88,7 +84,7 @@ For online teaching, you'll still need guardrails to keep students focused on yo
 
 ### **Monetary Blockers**
 
-You can accomplish a lot with sufficient funding. More often than not, you don't have enough funds.
+You can accomplish a lot with sufficient funding. More often than not, you don't have enough funds to do everything you want.
 
 When funding is limited, be ready to resort to low-cost or free alternatives or omit types of learning that require online or physical payments. Fortunately, new technology allows low-cost or free options like Notion, Google Documents, Google Sheets, DBeaver, pgAdmin, QGIS, GRASS, SAGA, Postgres, PostGIS, and Visual Studio. Some education planning and scheduling tools are also low-cost or free.
 - Past a low to moderate amount of data, usage, scale, etc. however, even free options may cost monetary resources.
@@ -118,9 +114,9 @@ If you do not have HR, or an equivalent department, then I'd tell you to avoid t
 - Relationships (personal/romantic)
 - Inappropriate comments towards students
 
-To sum it up: keep personal beliefs out of the classroom and do not tolerate unwanted behaviors.
+To sum it up: keep personal beliefs out of the classroom/workplace but do not tolerate unwanted behaviors.
 
-There are *rare* exceptions to the above, such as if I need to talk about the potential physical harms of chemicals in a lab I'm doing for class or sexism in a historical context, but it's under the heavy caveat it's specifically related to education and a part of the curriculum/lesson plans.
+There are *rare* exceptions to the above, such as if I need to talk about the potential physical harms of chemicals in a lab I'm doing for class or religion in a historical context, but it's under the heavy caveat it's specifically related to education and a part of the curriculum/lesson plans.
 
 In short: maintain a safe, acceptable, professional, and respectable distance between you and your students. You're a professional; you (hopefully) have standards.
 
@@ -141,9 +137,21 @@ Even if knowledge blockers don't exist, the opposite problem can creep up as wel
 
 If knowledge blockers *are* encountered, the next question is whether or not the intent to learn is present. If someone truly cared to learn, or even make things right, it's reasonable to assume they would put in the effort to learn. Even with effort, they may not still get it perfectly right, but it's far more difficult to fault someone who genuinely tries and still get it wrong over someone confidently staying wrong and/or forcing you to pick up after their mistakes.
 
-## **Bibliography**
+### **Resource Management**
 
-1. Inoue, T. (2010). *Vagabond* (Vol. 31). Kodansha: Morning KC. (Original work published 2009). ISBN: 978-1-4215-3631-6
+To showcase how various blockers together may affect implementation, let's go over an example: resource conservation policies.
+
+While you, the reader, may make efforts towards conservation of resources, other people may not. You could do everything right within your means, such as recycling, no wanton discarding of waste products, and more, but another person nearby may not do the same. You are aware you are doing what is correct to preserve the environment, but other parties either cannot, and/or will not, show the same care. 
+
+You can try and convince them to change their ways with the proper people skills, but you also need management, regulation, the removal of blockers, and a system allowing them to change. Without regulation and management, stopping them from returning to their old ways (or perhaps exploiting a looping) is nigh inevitable. 
+
+Without the appropriate system supports, you can get their willingness to want change but not their ability to enact change. To illustrate an example: say there is a program to reduce the effect on climate change by a system requesting it's population to increase the AC temperature in summer (e.g. 22 Celsius to 24 Celsius) and decrease the AC temperature in winter (e.g. 22 Celsius to 20 Celsius). Some things may happen as a result:
+- It was a request, not a regulation with a strict punishment if not followed, so it may be ignored.
+- Hospitals and other critical functions need stable AC to ensure patient health
+- People cannot stand the heat/stand the cold, so even with a punishment involved they may refuse anyways.
+- There may be no new technological advancements to provide the benefits of AC without incurring all of it's costs
+
+## **Bibliography**
 
 1.  NASA. (n.d.). *NASA's Eyes*. [https://science.nasa.gov/eyes/](https://science.nasa.gov/eyes/)
 

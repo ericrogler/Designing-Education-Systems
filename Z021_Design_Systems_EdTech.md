@@ -23,7 +23,7 @@ Even if you can design well, you'll still need the wisdom and knowledge to deal 
 - If you cannot figure out what business question your solution answers and the value it provides, you're likely designing without intent.
 - Sometimes a problem has a *really* simple solution.
 
-Most solutions and traditional projects may be abandoned because shipping/making a product is fun, but *selling* a product is not fun. Even a single "general-use" solution is unlikely to *effectively* address every circumstance/problem. What one person considers pointless, another person may deem essential.
+Most solutions and traditional projects may be abandoned because people can ship/make a product, but be unable to *sell and market* a product. Even a single "general-use" solution is unlikely to *effectively* address every circumstance/problem. What one person considers pointless, another person may deem essential.
 
 If you're not sure where to find problems to solve, think of something that already exists and see if you can improve it in one of these three areas:
 1. Reliability: Ability to continue working despite issues; resilience
@@ -37,7 +37,7 @@ A complex design is always worse than a simple design if they perform at the sam
 
 **Your most important question is "Why?"** You don't jump straight into things or overengineer solutions when it's not necessary, especially if you'll never see the problems requiring advanced solutions. Acquire information and clarify requirements/context, when able, *before* working or you risk wasting time, money, and sanity.
 - What people actually do is worth more than what people say they do.
-- Sometimes all it takes is listening to or watching someone to find out nothing "fancy" was needed.
+- Sometimes all it takes is listening to or watching someone to find out no "fancy" solution was needed.
 - People don't always know what solution they need, but may know what problem they need solved.
 - Theory and testing are equally important.
 
@@ -45,21 +45,39 @@ A complex design is always worse than a simple design if they perform at the sam
 
 **First impressions are powerful and affect the rest of the experience.**
 
-People eat with their eyes too. It's likely you've experienced a cue when seeing visually appealing food. Presentation is powerful and plenty of research delves into how food's appearance affects human's brains (Spence et al., 2016).
+People eat with their eyes too. It's likely you've experienced a cue when seeing visually appealing food. Presentation is powerful and research covers how food's appearance affects human's brains (Spence et al., 2016).
 
 Beyond food, "design" is present in many fields. You could design a house, a software application, a piece of art, and plenty more. Many concepts rooted in, or brought over to, design are cross-disciplinary, though certain design concepts work better in some fields over others.
 
-It's also easier to build things that you can verify, usually with hard data, solves problems people have. If you start designing with that information already, you could skip a lot of busy work and take less time going from idea to concept to reality on your design(s). This isn't a new concept and is done more often than you may realize.
+It's also easier to build things that you can verify, usually with hard data, solves problems people have. If you start designing with that information already, you could skip a lot of busy work and take less time going from idea to reality on your design(s). This isn't a new concept and is done more often than you may realize.
 - Even this book is made partly due to that concept.
 
-And if there's any one mistake you should hopefully avoid, it's doing any work without understanding what will happen with it and when. 
+If there's any one mistake you should avoid when able, it's doing any work without understanding what will happen with it and when. 
 - If this seems exaggerated, think about the times someone said it was "urgent" when it wasn't.
 
-Now then, there are several things to cover in this chapter, but I'll start with three: design patterns, design systems, and system design. The latter two are explained more in-depth whereas the former can be summarized succinctly.
+There are several things to cover in this chapter, but I'll start with three: design patterns, design systems, and system design. The latter two are explained more in-depth whereas the former can be summarized succinctly.
+
+### **I'm Not a Designer Though!**
+
+You may not be a *designer*, but roles in education systems may deal with *designing*.
+
+Two things before you panic further:
+1. You can "design" in programs such as PowerPoint, Excel, and Microsoft Word or their equivalents in Google Documents, Google Sheets, and Google Slides. 
+    - If you need advanced design programs, you'll need dedicated design tools like Figma, ProtoPie, Photoshop, Illustrator, and Sketch.
+2. You're likely focused more on content, the delivery of content, and the management of students rather than design anyway. If you lack time or resources, learn just enough to get by and supplement your teaching.
+
+Some general rules of thumb you can quickly apply come from personal experience as well as briefly referencing *Refactoring UI* by Wathan and Schoger (2018).
+
+- Never rely on color alone
+- Start simple and ensure functionality before adding complexity
+- White space is easier to reduce than add
+- Text needs sufficient contrast (e.g. WCAG 2.1 "AA" rating or higher) against its background
+- For colorblind people, it's easier to tell by lightness (light/dark) rather than color
+- Most greys have tints of other colors mixed in
 
 ### **Layman's Guide to Design Patterns**
 
-Design patterns are reusable solutions to commonly occurring problems with specific contexts. In other words, they're documented solutions to recurring design problems.
+Design patterns are reusable solutions to commonly occurring problems with specific contexts. They're documented solutions to recurring design problems.
 
 To illustrate it with a deliciously, non-technical example: You want to make a cake.
 
@@ -75,15 +93,15 @@ What stops you now is applying the design pattern. There may be additional varia
 
 That one recipe can make that one cake, but now let's say you want to make different kinds of cakes. You could reuse ingredients, but there's some context shifting and you may need a different recipe to make a different cake or another dessert altogether. Despite this, you still pull from recipes you know (the design patterns) to help solve problems. There are times where you need to break away from the design pattern. If you're experienced and know what you're doing, you'll panic less compared to someone who's never followed a recipe in their life before.
 
-Design patterns are good, but they should also lead to a high quality product. When all is said and done, someone eating your cake evaluates based on the end result; taste, texture, appearance, etc. It could have the best process of all time, and use the finest ingredients, but that process doesn't hold up if the cake tastes bad. This is why you want simplicity whenever possible because it saves you time and headaches. You're very unlikely to have a sufficient amount of consumers worry about your internal production process (how it's made) for cakes compared to the cake's taste and experience they received.
+Good design patterns should lead to a high quality product. When all is said and done, someone eating your cake evaluates based on the end result: taste, texture, appearance, etc. It could have the best process of all time, and use the finest ingredients, but that process doesn't hold up if the cake tastes bad. This is why you want simplicity whenever possible because it saves you time and headaches. You're very unlikely to have a sufficient amount of consumers worry about your internal production process (how it's made) for cakes compared to the cake's taste and experience they received.
 
-Another thing affecting design patterns is constraints. That recipe from earlier may make a cake, but perhaps it cannot make a wedding cake. Many steps in the recipe may transition over, but perhaps you need additional tools, such as support beams to hold up the towering cake, you previously didn't need.
+Design patterns also have constraints. That recipe from earlier may make a cake, but probably cannot make a wedding cake. Many steps in the recipe may transition over, but perhaps you need additional tools, such as support beams to hold up the towering cake, not required before.
 
 ### **The Weird Complexity (and Simplicity) of Design Systems**
 
 *Alternatively: Build or Buy*
 
-Per Chad Bergman on Figma’s blog about design systems (2024) ([Further Reading](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/#what-exactly-is-a-design-system)):
+Per Chad Bergman from Figma about design systems (2024) ([Further Reading](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/#what-exactly-is-a-design-system)):
 
 > ...A set of building blocks and standards that help keep the look and feel of products and experiences consistent.
 
@@ -104,17 +122,17 @@ You could utilize design systems in at least three ways: adopting, adapting, and
 **Adopting** takes a design system and adds it into your current system(s) without changes.
 - Example: You copy and follow a cake recipe as is, step-by-step, exactly as written.
 
-**Adapting** takes a design system and changes parts and pieces to fit it into existing system(s). In a way, it's taking what you like and discarding (or at least adjusting) the rest.
-- Example: You follow the cake recipe, but have to substitute in gluten-free flour, vanilla for chocolate, or use a pan instead of a Dutch oven for part of the recipe.
+**Adapting** takes a design system and changes parts and pieces to fit it into existing system(s). In a way, it's taking what you like and discarding (or at least adjusting) the rest to meet your needs.
+- Example: You follow that same cake recipe, but your users are allergic to gluten so you need to substitute in gluten-free flour for part of the recipe.
 
 **Creating** borrows from no design system and makes a new system from scratch.
 - Example: You don't like the current cake recipe(s), so you made your own cake recipe.
 
-Each option has benefits and drawbacks. Adoption is typically the cheapest, but least flexible and hardest to change. Creation is typically the most expensive, but most customizable. Adaption sits in between Adoption and Creation in cost and customization to suit your needs.
+Each option has benefits and drawbacks. Adoption is typically the cheapest, but least flexible and hardest to change. Creation is typically the most expensive, but most customizable. Adaption sits in between adoption and creation in cost and customization to suit your needs.
 
-If you're unsure whether to adopt, adapt, or create, consider whether or not creating (or adapting) provides a larger competitive advantage over simply adopting. If creating your own design system provides no meaningful value, or not enough value to justify its costs, you should adopt an existing design system instead. This logic applies universally across many tools, software, and so on outside of design systems and education systems.
+If you're unsure whether to adopt, adapt, or create, consider whether or not creating, or adapting, provides a larger competitive advantage over simply adopting. If creating your own design system provides no meaningful value, or not enough value to justify its costs, you should adopt an existing design system instead. This logic applies universally across many tools, software, and so on outside of design systems and education systems.
 
-### **How Design Systems Relate to Teaching**
+### **How Design Systems Relate to Education**
 
 Design systems help establish how students interact with your content. Let me draw some parallels they share:
 - Reading materials
@@ -145,7 +163,7 @@ There's two other constraints to design systems.
 
 The first one is you may have to design something that accommodates *another* design. You may design a machine that looks amazing and does a great many things... but there's a catch. You have to use a specific set of screws, fasteners, and more, which are strictly defined and standardized to the point custom versions of these parts are extremely expensive. The environment may also restrict *how* you can design something, which is another cost.
 
-A more practical example in 2025 may be smartphone applications. In the links above, there were various examples of design systems. If you were to make your own application on their software/hardware, you also have to obey the rules of their design systems. You may have to design menus a certain way, have animations function at specific timings, and have interactions be consistent with how the phone is normally utilized. That's only a few examples out of countless many, as compliance ensures your product functions as intended in the environment it is presented and utilized in.
+A more practical example in 2025 may be smartphone applications. In the links above, there were various examples of design systems. If you were to make your own application using their software/hardware, you also have to obey the rules of their design systems. You may have to design menus a certain way, have animations follow strict guidelines, and have interactions be consistent with how the phone is normally utilized. That's only a few examples out of countless many, as compliance ensures your product functions as intended in the environment it is presented and utilized in.
 
 Another environmental constraint is when you need "field modifications." This may be issues with how a product looks on paper vs real life, it could be issues between professions like architects and engineers or designers and developers, and engineers and machinists, or just "the plan didn't cover this; what do we do?"
 
@@ -161,9 +179,7 @@ As a reminder, design patterns are reusable solutions to problems. Design system
 
 System design, however, concerns itself with the architecture/infrastructure of the *entire* product/service. This means dealing with things like data flows, communication between services, failure/fault tolerance, scalability, and reliability. Rather than visual elements, it deals with non-visual elements like databases, APIs, queues, streams, computational resources, and operational concerns. Think of it as the blueprint including all the parts you don't readily see to create your service/product.
 
-A piece of software, or an application, serves as a succinct example of system design. 
-
-Users interact with buttons, forms, videos, and layouts; the application of a design system. Behind the interface is the system design where an API (Application Programming Interface) connects frontend visuals to backend services like databases to do various, "invisible" tasks. These tasks include, but are not limited to, storing browsing history, caching information, and handling errors to ensure a smooth experience.
+A piece of software, or an application, serves as a succinct example of system design. Users interact with buttons, forms, videos, and layouts; the application of a design system. Behind the interface is the system design where an API (Application Programming Interface) connects frontend visuals to backend services like databases to do various, "invisible" tasks. These tasks include, but are not limited to, storing browsing history, caching information, and handling errors to ensure a smooth experience.
 
 System design shares aspects of management, leadership, and how teachers/instructors may construct lesson plans. Say for example you're in charge of a project. You have a desired outcome, but the path to a clear solution isn't there. That means you're working with uncertainty and need to figure out various things, like a manager might, such as:
 - What resources are needed
@@ -174,11 +190,11 @@ System design shares aspects of management, leadership, and how teachers/instruc
 - How things fit together and interact
 - How you communicate necessary information
 
-To put it another way: it's like giving you a coloring book, but you also have to draw all the lines you color inside of as well. That is the complexity, and beauty, of system design. Two people can make two designs with multiple ways to reach the correct answer (with the caveat they can validly justify their answers).
+It's like giving you a coloring book, but you also have to draw all the lines you color inside of too. That is the complexity, and beauty, of system design. Two people can make two designs with multiple ways to reach the correct answer (with the caveat they can validly justify their own answers).
 
 Systems design and design systems don't work in isolation either. They're *both* tackling *design* problems, but different parts of these problems. Both are necessary for a product to function well and look well for its intended audience. If you need to make something look good and feel good to use, you employ design system solutions. If you need to adjust how everything ties in together and functions behind the scenes, you employ system design solutions. Lacking one or the other risks the decline of the intended service/product you wish to create, refine, and present. 
 - E.g. Something could look beautiful, but function poorly, and vice versa.
-- [The Aesthetic-Usability Effect](https://www.nngroup.com/articles/aesthetic-usability-effect/) is one way to make products "work" better by looking better (Moran, 2024).
+- [The Aesthetic-Usability Effect](https://www.nngroup.com/articles/aesthetic-usability-effect/) is an observation of how products can "work" better by looking better (Moran, 2024).
 
 In both cases, you don't decide the tools before how you'll design the architecture. If you curious why, think about building a house without a blueprint. It's generally a bad idea to go in without a proper plan. Even when you decide on tools, you want to reevaluate those tools regularly on a yearly, or even bi-yearly, basis. A re-evaluation mitigates the chance of the situation where, for example, an organization has 12 technologies they're dedicating resources to, but only 3 of them actually get used by the people inside of them.
 
@@ -186,17 +202,15 @@ Many details behind system design assume technical knowledge existing outside th
 - *Fundamentals of Data Engineering* by Reis & Housley (2022)
 - *Designing Data-Intensive Applications* by Kleppmann (2018)
 
-Despite what I've talked about with the design system, system design, and design pattern concepts, theory is only part of it. While you can learn *quite a lot* just from reading the right information, the other essential part requires doing work like projects and whiteboard exercises to ensure it sticks.
+Despite what I've talked about with design system, system design, and design pattern concepts, theory is only part of it. While you can learn *quite a lot* just from reading the right information, the other essential part requires doing work like projects and whiteboard exercises to ensure it sticks.
 
 ### **Things to Keep in Mind**
 
-You may love to design as a hobby. If you're designing professionally, however, you cannot forget you're designing to solve business problems. You may have to make things you might not be fully satisfied with, but are considered "good enough" for the problems of today.
+You may love to design as a hobby. If you're designing professionally, however, you cannot forget you're designing to solve business problems. You may have to make things you might not be fully satisfied with, but are considered "good enough" for the problems of today. Sometimes, it's ok if it just works. Simple can still be complicated, even without introducing scale and maintenance, and you may not want to constantly think about edge cases and problems.
 
-One of the first things to cover is you need to not limit yourself by tools whenever possible. You need an alternative, or at least an escape plan, in case some technology doesn't work out as every tool has some level of "lock-in," or more commonly known as technology lock-in. A company making a technology or tool you use has a business case to earn money from it, so will find ways to make you dependent on it. Despite this dependence risk, it is almost always a foolish endeavor to not rely upon tools and existing infrastructure and do everything yourself.
+You need to not limit yourself by tools whenever possible. You need an alternative, or at least an escape plan, in case some technology doesn't work out as every tool has some level of "lock-in," or more commonly known as technology lock-in. A company making a technology or tool you use has a business case to earn money from it, so will find ways to make you dependent on it. Despite this dependence risk, it is almost always a foolish endeavor to not rely upon tools and existing infrastructure and do everything yourself.
 
-Sometimes, it's ok if it just works. Simple is pretty complicated already, even without introducing scale and maintenance, and you may not want to constantly think about edge cases and problems.
-
-Many people develop their design skills, and develop design systems, as they gain experience or the organization(s) they work in mature. It varies across specific types of design, but the following steps are typically involved in the design process:
+Many people develop their design skills, and develop design systems, as they gain experience and/or the organization(s) they work in mature. It varies across specific types of design, but the following steps are typically involved in the design process:
 1. Defining Problem(s)
 2. Capturing/Clarifying Requirements (Research)
 3. Diagraming & Planning
@@ -205,96 +219,73 @@ Many people develop their design skills, and develop design systems, as they gai
 6. Implementing Solution(s)
 7. Iterating Solution(s) (i.e. "continuous improvement")
 
-Much like the Scientific Method, you're not required to go through all steps above in order every time. You can, and sometimes have to, jump around if there's issues or something isn't working out. Approaching design problems in practice may mean starting with small, simple steps and evolving solutions across multiple steps.
+Much like the Scientific Method, you're not required to go through all steps above in that exact order every time. You can, and sometimes have to, jump around if there's issues or something isn't working out. Approaching design problems in practice may mean starting with small, simple steps and evolving solutions across multiple steps.
 
-Understanding design systems translates directly into skills across multiple fields and helps with templating, creating reusable components and materials, and making it easy to change things. 
+Understanding design systems translates directly into skills across multiple fields and helps understand templating, creating reusable components and materials, and making it easy to change things. 
 
 You're usually better off quickly pushing designs, testing (probably only one at a time to save sanity), and iterating on it than remaining stuck working towards one perfect design. This means, when in doubt, stop overthinking and design something that just works. Don't touch it again unless absolutely necessary as your attempt to make it better actually makes it worse. Sometimes a new piece of technology isn't the correct answer nor is overengineering for a solution tomorrow you need today. 
 
-For technical designs, like charts and graphs, you could save time and solve most of your business questions by asking if someone needs to import data to Excel (or another similar spreadsheet software). Most spreadsheet software is flexible, has a lower barrier to entry due to its "simplicity," and comes with powerful capabilities for analysis, solving business problems, and developing proof of concepts. It may save you time and find early on if something is compatible across system(s).
-- Though Excel is the example used here, that advice applies when making access to information compatible with tools non-technical peers utilize.
+For technical designs, like charts and graphs, you could save time and solve most of your business questions by asking if someone needs to import data to Excel (or another similar spreadsheet software). Most spreadsheet software is flexible, has a lower barrier to entry due to its "simplicity," and comes with powerful capabilities for analysis, solving business problems, and developing proof of concepts. Combine all of these fators together and you find quite a few users who prefer it over other tools, even if other tools may perform that role better. It may save you time if you find out early on you need to design for compatibility from the start.
+- Though Excel is the example used here, that advice applies when making access to information compatible with common tools non-technical peers utilize.
 
 Continuing from the example before, spreadsheets are versatile and reliable, but are *not* good at everything. Their biggest weakness is a specific tool can do a specific task better compared to spreadsheets. Using them for databases and emailing is also ill-advised because it does not scale well.
 
-No single breakthrough makes the work easier, as difficulty is often found in the *problem* instead of the *tools.*
-
-Lastly, despite how well something is designed, human error and accidents will occur and you'll always have to make tradeoffs.
-
-### **A Note on Non-Technical Crowds**
-
-I'll paint a scenario here: Imagine you're in a conversation with someone and you're trying to explain how a product works. You know all the technical details, inside and out, and could go on for days talking about this product. You're not necessarily trying to *sell* something; just inform.
-
-The other person has no expertise or technical knowledge in this product like you do. You *could* try and cover some gaps here and there, but they'll lack an intuition or may diverge in goals compared to you due to this lack of background knowledge. If you don't frame it in a way they'll understand, or even care about or appreciate, they won't ever be as excited about the product as you.
-
-This is common in workplaces and why there's advice for technical roles to care about *business* goals and objectives rather than technical objectives. Many people don't care much about the underlying methods or processes. They have a problem, they need a solution, and you need to convey how your product is a solution in a way they understand.
-
-Users (mostly) just want it to work and have it do what they need to do. That's it.
-
-To convey it in a way they understand, you have to understand the person using the product. A designer may call this empathy or putting yourself in another's shoes. That's not to say learn *everything* about the person; that's impractical and a waste of time. Only enough to be able to reframe it from the other person's perspective and think about what impact the product has for the person, business, organization, etc.
-
-There's a lot of things involved you may need to look at, such as:
-1. How will this generate a profit?
-2. What does this cost and who/what is funding it?
-3. What drives the investment (strategy, tactics, etc.)?
-
-It's entirely possible for something to be good for someone or something, but they'll still reject it based on moral grounds. That's why I added the drive behind the investment, because it's someone you may skip over if you're not careful. You need to justify *why* something is important, not just show it is important.
+No single breakthrough makes the work easier, as difficulty is often found in the *problem* instead of the *tools.* Despite how well something is designed, human error and accidents will occur and you'll always have to make tradeoffs.
 
 ### **The Dashboard Problem**
 
-Dashboards are the end product; the thing consumers/users see and interface with. They provide a high level overview of relevant information and (typically) consist of a collection of visuals like graphs, charts, maps, and so on. As previously discussed in the Metrics chapter, it's a collection of diagnostics to help inform decisions and answers to problems, not directly provide an answer.
+Dashboards are an end product: what users interface with. They provide a high level overview of relevant information and (typically) consist of a collection of visuals like graphs, charts, maps, and so on. It's a curated collection of diagnostics to help inform decisions and develop answers to problems, not directly provide an answer.
 
 There's also multiple types of dashboards, such as:
-- Operation
+- Operational
 - Analytical
 - Strategic
 - Tactical
 
-Each dashboard type has various goals. Operational dashboards provide real-time (i.e. streaming) data and analytical dashboards provide information on large batches of data. Strategic dashboards focus on KPIs across the business while tactical dashboards focus on one (or more) aspects of a business.
+Each dashboard type has various goals it focuses on. Operational dashboards provide real-time (i.e. streaming and "micro-batch" pipelines) data and analytical dashboards provide information on large batches of data and wide-view snapshots. Strategic dashboards focus on KPIs at a high-level and long-term scale across the business while tactical dashboards focus on aspects at a low-level and short-term scale in a business.
 
-The big question is how do you know a dashboard is useful? The answer is simple: it helps answer your questions or change what someone does next. If it doesn't do that, it could be handcrafted by the legends of Michaelangelo, Donatello, Leonardo, and Raphael all working together to create a beautiful masterpiece... but still be useless to you. This includes vanity metrics and parts that *look* good but don't actually help you.
+The big question is how do you know a dashboard is useful? The answer is simple: it helps answer your questions or change what someone does next. If it doesn't do that, it's functionally useless to you even if handcrafted by the legends of Michaelangelo, Donatello, Leonardo, and Raphael all working together to create a beautiful masterpiece. This includes vanity metrics and parts that *look* good but don't actually help you.
 
-Evaluating dashboards by how often they're used is often a misnomer. You'd be more accurate measuring how quickly it answers a question *as that question arises* and/or how well it lets others perform their jobs faster. This might sometimes be called Time-to-Insight. Let's use two examples, assuming they have equal levels of aesthetics:
+Evaluating dashboards by how often they're used is often a misnomer. You'd be more accurate measuring how quickly it answers a question *as that question arises* and/or how well it lets others perform their jobs faster. This might be called something like Time-to-Insight. Let's use two examples, assuming they have equal aesthetic appeal:
 - Dashboard A is viewed multiple times per day, but it takes a long time to answer questions with that dashboard.
 - Dashboard B is viewed twice a year, but it almost immediately helps you answer the question you're dealing with.
 
 If you were to ask me which of the two is better, I would say Dashboard B. If you're still unsure why, I'll use two, less technical examples: driving cars and flying planes.
 
-When operating these vehicles, your attention should be focused on driving/flying. For cars, that's paying attention to the road, other cars, your own speed, weather, and so on. For flying planes, that's maintaining speed and altitude (amongst *many* other things) and ensuring you don't hit the ATC tower or another plane. It is legitimately dangerous to you and others to take your attention away from these tasks and information should probably take less than 0.5 seconds to look at, quickly process, and act upon.
+When operating these vehicles, your attention should be focused on driving/flying. For cars, that's paying attention to the road, other cars, your own speed, weather, and so on. For flying planes, that's maintaining speed and altitude (amongst *many* other things) and ensuring you don't hit structures and features like the ATC tower, water, ground, or another plane. It is legitimately dangerous to you and others to take your attention away from these tasks. Due to that danger, reviewing "dashboards" and information should in total take less than 0.5 seconds to look at it, quickly process what's happening, and then act upon it.
 
-There are HUDs (heads-up displays) with information, gauges, and other ways to monitor the status of the vehicle. They are intentionally designed to fit legal compliance as well, otherwise they're not cleared for use (for aircraft, [one example of guidelines is AC 25-11B](https://www.faa.gov/documentlibrary/media/advisory_circular/ac_25-11b.pdf) from the FAA to meet Title 14 (2014)). The questions they help answer are numerous, such as failure conditions, speed, direction, altitude, display systems, and many more. Without these systems in place, you'd be operating a vehicle that both leaves you unaware to what's happening "under the hood" and unable to make adjustments in time when emergencies arise.
+These "dashboards" here are called HUDs (heads-up displays) with information, gauges, and other ways to monitor the status of the vehicle. They are intentionally designed to fit strict legal compliance, otherwise they're not cleared for use (for aircraft, [one example of guidelines is AC 25-11B](https://www.faa.gov/documentlibrary/media/advisory_circular/ac_25-11b.pdf) from the FAA to meet Title 14 (2014)). The questions they help answer are numerous, such as failure conditions, speed, direction, altitude, display systems, and many more. Without these systems in place, you'd be operating a vehicle that both leaves you unaware to what's happening "under the hood" and unable to make adjustments in time when emergencies arise.
 
-You may also deal with underlying, technical issues such as if there's any lag time between when data is updated vs when data is displayed (i.e. is it behind by X timeframe). There's also developing separate tests and measures to validate these systems to ensure precision and accuracy before they're deployed. The technicalities of these aspects are beyond the scope of this book, but you should be aware not-so-apparent issues exist too.
+You may also deal with underlying, technical issues such as if there's any lag time between when data is updated vs when data is displayed (i.e. is it behind by X timeframe). There's also developing separate tests and measures to validate these systems to ensure precision and accuracy before they're deployed. The technicalities of these aspects are beyond the scope of this book, but include areas such as consistency, availability, and partition tolerance. Nevertheless, you should be aware not-so-apparent issues exist in design too.
 
 ### **The Penthouse "Suite"**
 
-Chances are you have purchased a product made by a particular company.
+Chances are you have purchased a product made by a particular company, organization, system, or similar group.
 
 There's also a chance that same company has products compatible with what you currently have, but not compatible with similar products made by a different company.
 
-If you're wondering why they aren't cross-compatible, it's because they want you, the consumer, to buy *their* products and not their competitor's products. Why should I give you reason to buy 1 of my products, but 1 of another company's products, when I can get you to buy *2* of my products so I earn more money?
-- *The answer is it also costs money, but I'll pretend I didn't answer it here.*
+If you're wondering why they aren't cross-compatible, it's typically because they want you, the consumer, to buy *their* products and not their competitor's products. If I can get you to buy *2* of my products so I earn more money, why should I give you reason to buy 1 of my products, but 1 of a different company's products?
+- *The answer is it also costs money for me to make that second product, but pretend I didn't answer it here.*
 
 This can occur in software, hardware, a custom bed for man's best friend, the cardboard box a cat loves, and even a stack of paper.
 
 A company can do a lot of things to get you to buy their products, such as: 
-1. They can make one product exceptionally well you'll use for a long time, if not a lifetime. 
-2. They can make one well-made product to get you into the door, then offer other items and/or add new things over time to keep your interest. 
+1. They can make one product exceptionally well you'll use for a long time, if not a literal human lifetime. 
+2. They can make one well-made product to get you into the door, then offer other items and/or add new things over time to retain your interest. 
 3. They could offer a product which functions well, but also make and inform you of a separate service/product you *might* be interested in and consider putting money towards. 
 4. They can also make a large variety of products to try and suit many needs as possible so they become your one-stop-shop for all goods.
 
-A "suite" in this context typically refers to software and items 2 and 3 in the list above. It's a set of software where each "software" in the set forms a "suite." You could purchase parts of a suite or the full suite, but you could be forced to buy the whole suite.
+A "suite" in this context typically refers to software or at least items 2 and 3 in the list above. It's various technologies bundled together where each part in the set forms a "suite." You could purchase parts of a suite or the full suite, but you could also be forced to buy the whole suite.
 - One example is Adobe Creative Cloud; a single service provides multiple applications like Photoshop, Illustrator, and Premiere all in one toolkit (the "suite") for a subscription fee.
 
-At the end of the day, a suite is an anchor to get you to use and purchase the company's products. The setup of a suite also makes it so as long as you really like at least one or more products in said suite, you might pay for a bundled price despite not utilizing all parts of a suite.
-
-It's like a penthouse suite in real life. It comes with a lot of features you may or may not use during your stay. That's ok though; you pay the price for the *opportunity* to have all these features bundled up nicely for you in case you *do* want to use them.
+A suite is an anchor to get you to use and purchase the company's products. The setup of a suite also makes it so as long as you really like at least one or more products in said suite, you might pay for a bundled price despite not utilizing all parts of a suite. It's like a penthouse suite in real life. It comes with a lot of features you may or may not use during your stay. That's ok though, as you pay the upfront cost for the *opportunity* to have all these features bundled up nicely for you in case you *do* want/need to use them.
 
 ### **Why Do We Need Integration Tests?**
 
 *Alternatively: Why Tests Matter*
 
-Tests are pretty important. Testing mitigates hidden costs and problems resulting in bigger costs down the line. You rarely want to pay for extra costs, which means you shouldn't neglect testing.
-- E.g. not enforcing quality tests is what passes students along when they should be retained.
+Tests *for products and services* are pretty important. Testing uncovers hidden costs and problems resulting in bigger costs down the line if not taken care of. You rarely want to pay for extra costs, which means you shouldn't neglect testing.
+- For an education example anyways: not enforcing quality tests is what passes students along when they should be retained.
 
 In education, they check for understanding of material presented by a teacher/instructor. In programming, they check to make sure everything is working and (hopefully) not wake you up at 02:00 to an angry phone call to fix it. Regardless of industry, eliminating or not allocating time to testing things before putting them into practice is, put lightly, a terrible idea.
 
@@ -304,17 +295,18 @@ Other types of tests (i.e. validation methods), to borrow from programming termi
 - Unit (checking individual parts for expected performance)
 - Regression (verifying new changes didn't cause issues or decay)
 - Integration (checking for external dependencies causing issues)
-- End-to-End (validating entire systems/workflows)
+- End-to-End (validating interactions and processes through the entire system/workflow)
 - Smoke ("see if it catches on fire")
 
-Despite the names and applications of these tests in programming, they're not too far removed from what teachers may do for their classes in education. Quizzes and pop quizzes serve as quick checks or verifying students understand new functions or concepts when introduced. Exams may validate learning across whole units, the entire course, or multiple units at once. Homework may check for learning issues before the exam and whether or not there's underlying issues with teaching methodology in the course. You may also run multiple "tests" on a single unit/concept, such as homework for practicing and catching issues early, then quizzes/tests later to check understanding.
+Despite the names and applications of these tests in programming, they're not too far removed from what educators may do for their classes in education. Quizzes serve as quick checks or verifying students understand new functions or concepts when introduced. Exams may validate learning across whole units, the entire course, or multiple units at once. Homework and practice sessions may check for learning issues before the exam and whether or not there's underlying issues with teaching methodology in the course. You may also run multiple "tests" on a single unit/concept, such as homework for practicing and catching issues early, then quizzes/tests later to check understanding.
 
-The concepts of these tests applies to the design chapter because they apply to and beyond education. Perhaps you're hosting educational material on a third-party platform. Perhaps there's material you're designing for that goes beyond the classroom. Without testing and ensuring functionality, the student learning experience is bound to suffer as a result.
+The concepts of tests apply to and beyond education. Perhaps you're hosting educational material on a third-party platform. Perhaps there's material you're designing for that goes beyond the classroom. Without testing and ensuring functionality, the student learning experience is bound to suffer as a result.
 
-As for people who question why their superiors, peers, etc. may neglect testing in many forms, I can give you at least a few reasons:
+As for people who question why their superiors, peers, etc. may neglect testing in many forms, I can give you at least several reasons:
+- No tests means not spending that money *right now.*
 - Path of least resistance.
 - It obscures poorly written processes, code, content, etc.
-- Tests themselves require maintenance to stay relevant and accurate.
+- Tests themselves require maintenance and updates to stay relevant and accurate.
 - Not directly translating to profit and/or exceeds deadlines.
 - Requires buy-in from everyone to not let issues slip through the gaps.
 
@@ -322,19 +314,21 @@ As for people who question why their superiors, peers, etc. may neglect testing 
 
 *Alternatively: Planned Obsolescence*
 
-Getting customers is easy with a good product. They buy something they want, you get money from that which you provide, and you both benefit from it.
+Getting customers is *easier* (not always "easy") with a good product. They buy something they want, you get money from what you provide, and you both benefit from that transaction.
 
-Getting *repeat* customers and maintaining sales is much harder. This is where planned obsolescence, or intentionally designing failures, is prominent. You design a product with an artificially limited life and either:
+Getting *repeat* customers and maintaining sales is much harder. This is where planned obsolescence, or intentionally designing failures, is prominent and a "solution" systems may implement. Simply put, you design a product with an artificially limited life and either:
 1. Provide replacement parts customers buy to extend the life
-2. Create new products to replace old products, which means another purchase
+2. Create new products to replace old products in the future, which means more purchases later
 
-There's also issues like "power creep" in many types of games. That is *not* planned obsolescence, but an evolutionary change and a consequence of shifting directions. An initial product can last for a long time, but newer and better products to bring in both new and old customers may overshadow existing products. It's part of being a business and the need to continue selling content to consumers, adapt to an ever-changing environment, and avoid going stale and out of business.
+It's part of being a business and the need to continue selling content to consumers, adapt to an ever-changing environment, and avoid going stale and out of business.
 
-I'm not going into detail on this concept, but I do want you at least aware it exists.
+There's also issues like "power creep" in many types of games that's *similar* to planned obsolescence, like we're describing above. In this case, it's an evolutionary change and a consequence of shifting directions rather than intentionally designing from the start to fail or have a limited lifespan. It's a symptom from getting users to continue buying new products and sustain revenue streams. An initial product can last for a long time, but newer and better products to bring in both new and retain old customers may overshadow existing products in performance, function, and so on. 
+
+I'm not going into detail on these concepts, but I do want you at least aware they exist.
 
 ### **Good. Fast. Cheap.**
 
-Readers may already be familiar with the project management triangle or the triple constraint (Wyngaard, 2012). You may've heard about its axioms when creating quality products for customers. If you haven't heard of it before, then know this is where tradeoffs come in.
+Readers may already be familiar with the project management triangle or the triple constraint (Wyngaard, 2012). You may've heard about its axioms when creating quality products for customers. If you haven't heard of it before, that's OK. Just know we're talking about *tradeoffs* here.
 
 You can build simple products by yourself in a reasonable timeframe, but complex projects are rarely ever done by yourself without dedicating significant time and effort. That could mean one person may not achieve the desired results in their lifetime.
 
@@ -346,66 +340,66 @@ For a more practical example, someone may explain how the entire architecture of
 
 ### **What About EdTech?**
 
-Many rules and concepts you find in designing systems, you'll find in EdTech and other digital and physical mediums. Some tools are well-designed and others are not. Quality typically improves over time, but gaps and deficiencies persist between iterations of new products.
+Many rules and concepts you find in designing systems, you'll find in EdTech and other digital and physical mediums. Some tools are well-designed and others are, frankly, not well-designed. Quality typically improves over time, but gaps and deficiencies almost always persist or crop up between iterations of products.
 
-Even if EdTech is convenient for use with one party, you also need to consider whether or not it imposes tedious processes for other parties as well. For example, an organization may desire a new software that makes all of their dashboards easy to view and make decisions from, but not consider the sheer amount of data entry and data cleaning other employees, like engineers and educators, need to perform in the backend.
+Even if EdTech is convenient for use with one party, you also need to consider whether or not it imposes tedious processes for other parties as well. For example, an organization may desire a new software that makes all of their dashboards easy to view and make decisions from, but not consider the other costs and sheer amount of data entry and data cleaning other employees, like engineers and educators, need to perform in the backend.
 
-Sometimes you're forced to use particular software to accomplish your goal. For example, you may not want to use a LMS (Learning Management System), but you need a way to publish and submit assignments, so that software is required. As another example, you may also need a SIS (Student Information System) to store contact information for students and parents, log and track attendance, and the means to reach the right people in case of emergencies. Some processes are required, if not outright mandated, to follow and software easing that workload is often seen as "necessary" even if its only clerical work.
+Sometimes you're forced to use a particular technology to accomplish your goal. For example, you may not want to use a LMS (Learning Management System), but you need a way to publish and submit assignments before deadlines, so that software is "required" here. As another example, you may also need a SIS (Student Information System) to store contact information for students and parents, log and track attendance, and the means to reach the right people in case of emergencies. Some processes are required, if not outright mandated, by external parties and higher authorities to follow. Software easing that workload is often seen as "necessary" even if its only for simple tasks.
 
-Software, and EdTech in general, should be treated as a tool to achieve a task or solve a problem you have adding value/benefits. You'll be better off knowing how to use a tool than not knowing how to use a tool in addition to limiting the number of tools you actually need. You don't need multiple tools if you only need and use one to a few tools. With any tool, however, they're only worth it if they'll be used and understood by the intended audience. 
+EdTech, much like other technologies, should be treated as a tool to complete tasks or solve problems you have in your role. Generally, you'll be better off knowing how to use a tool than not knowing how to use a tool in addition to limiting the number of tools you actually need. You don't need multiple tools if you only need and use one to a few tools, if only because limiting tools is a cost-saving measure. With any tool, however, they're only worth it if they'll be used and understood by the intended audience. 
 
 ### **What is an MVP?**
 
-An MVP, in a design and engineering context, is a minimum viable product. It is the smallest thing you would actually use.
+An MVP, in a design and also engineering context, is a minimum viable product. It is the smallest thing you would actually use to complete a specific task in a specific way.
 
-For example, you may want to design something and have it do a whole bunch of cool features. That's a *full* product.
-
-An MVP, on the other hand, is when you scale down that same product to do only one to a few things and could see using yourself (i.e. spending money on). It's still a "*finished*" product you could sell to users, but its available features are intentionally cut back. MVPs are one way to ship products and generate income and feedback on them quickly without going over deadlines and heavily investing too much time, cost, or resources into them.
-
-Some examples of potential MVPs include:
-- A company showcasing a demo video of a product using a simple webpage to go through the core process they scoped out.
-- Another company starting an online business selling one item before expanding its selection.
-
-Many products and technologies you see today started with some sort of MVP and, over years, decades, and even longer periods of time now became what you're familiar with.
-
-From a business perspective, the MVP is the baseline you need to convince someone else to use, and spend money on, the product you're designing. That's where the "V" in MVP comes in: viable. If it's not viable, it's not a product you can give to a user, get a user to want to use, and therefore generate no returns on your investment. This may mean excelling in one standout feature, finetuning several key features performing better than the competition, and many other scenarios.
-
-What an MVP isn't, however, is a prototype or a proof of concept. A prototype is similar to a recipe you develop in a test kitchen and recruit participants to try out, refine, give feedback on, and then improve on over time. It is *not* the final recipe you deliver to your wider consumer audience, but something you develop and test in a controlled environment similar to a typical science experiment. A proof of concept, meanwhile, is a design or model showcasing the feasibility or viability of an approach. It answers the question of if people *can* make this, but not necessarily if people *will* use (and pay for) this.
-
-Creating an MVP is a surprisingly long and complicated process beyond the scope of one section, but typically involves answering items like the following:
+Creating an MVP is a surprisingly long and complicated process with details beyond the scope of this section, but typically involves answering items like the following:
 - What questions to ask
 - What tools/systems do I need
 - Who is this designed for
 - Is this the simplest solution I can implement
 - What is needed to implement it now rather than later
 
-### **What if I cannot find problems with designs?**
+For example, you may want to design something and have it do a whole bunch of cool features. That's a *full* product, not a MVP.
+
+An MVP is when you scale down that same product to do only one to a few things and could see using yourself (i.e. spending money on). It's still a "*finished*" product you could sell to users, but its available features are intentionally cut back. MVPs are one way to ship products and generate income and feedback quickly without going over deadlines and heavily investing too much time, cost, or resources.
+
+Some examples of potential MVPs include:
+- A company showcasing a demo video of a product using a simple webpage to go through the core process they scoped out.
+- Another company starting an online business selling one item before expanding its selection.
+
+Many products and technologies you see today started with some sort of MVP and, over time, now became what you're familiar with. This could take months, years, decades, and perhaps even longer.
+
+Focusing on a business perspective, the MVP is the baseline you need to convince someone else to use, and spend money on, the product you're designing. That's where the "V" in MVP comes in: viable. If it's not viable, it's not a product you can give to a user, get a user to want to use, and therefore generate no returns on your investment. This may mean excelling in one standout feature, finetuning several key features performing better than the competition, and many other scenarios.
+
+What an MVP isn't, however, is a prototype or a proof of concept. A prototype is similar to a recipe you develop in a test kitchen and recruit participants to try out, refine, give feedback on, and then improve on over time. It is *not* the final recipe you deliver to your wider consumer audience, but something you develop and test in a controlled environment similar to a typical science experiment. A proof of concept, meanwhile, is a design or model showcasing the feasibility or viability of an approach. It answers the question of if people *can* make this, but not necessarily if people *will* use (and pay for) this.
+
+### **What If I Cannot Find Problems to Solve?**
 
 *Alternatively: Heuristics and Heuristic Analysis*
 
 You'll rarely, if ever, find something with *zero* issues in any way, shape, or form whatsoever. If something without *any* problems exists, then it'll probably stand the test of time for many years to come.
 
-One common reference is [Jakob Nielsen's *10 Usability Heuristics for User Interface Design*](https://www.nngroup.com/articles/ten-usability-heuristics/) (1994). The intent of the principles is to make products easier to use and reduce cognitive load on users as they're utilizing products.
+One common reference to evaluate products is [Jakob Nielsen's *10 Usability Heuristics for User Interface Design*](https://www.nngroup.com/articles/ten-usability-heuristics/) (1994). The intent of the principles is to make products easier to use and reduce cognitive load on users as they're utilizing products.
 
 As for specific problems in general, there's countless amounts. To give a small set of examples:
 - Functions without defined intents
-- Readability issues
+- Readability
 - Inconsistency
 - Redundancies
 - Missing documentation
-- Errors are permitted instead of prevented
+- Errors permitted, not prevented
 
 The issues you'll find vary widely on the context and product they're located inside of. Some issues may have acceptable ranges (tolerances) which are wide or narrow depending on requirements.
 
-### **How to Measure "Impact" (Metrics of Success) of Designs?**
+### **How to Measure "Impact" (Metrics of Success) of Design?**
 
 This is a complicated question. 
 
-The biggest thing is you don't want to lie about any impact and throw out random numbers. The lie quickly becomes apparent under scrutiny and you risk losing trust, influence, and even your position among peers.
+The biggest thing is you don't want to intentionally lie about any impact and throw out random numbers. The lie quickly becomes apparent under scrutiny and you risk losing trust, influence, and even your position among peers.
 
-A hidden reality is a lot of design work may not be "shipped" or available for use by customers or businesses. Because they are not readily available, collecting data for business metrics isn't easy, if even feasible, for someone below a director-level position or outside a data adjacent position (Scientist, Analyst, Engineer, etc.). This typically means many designers, or someone generating designs, may not have significant influence and impact at a company level.
+A hidden reality is a lot of design work may not be "shipped" or available for use by customers or businesses. Because they are not readily available, collecting data for business metrics isn't easy, if even feasible, for someone below a director-level position or outside a data adjacent position (Scientist, Analyst, Engineer, etc.). This typically means many designers, or someone generating designs, may not have a significant enough influence and impact inside the organization to get exact numbers.
 
-The question shouldn't be how to provide business metrics to demonstrate success. It should be how to display the quality of decision making and problem solving and what you *should* use to prove your designs are good. While you could be in a position to acquire data to enforce decisions, if you're in an organization they may strictly limit who can access what data and manipulate it.
+The question here shouldn't be how to provide business metrics to demonstrate success. It should be how to display the quality of decision making and problem solving and what you *should* use to prove your designs are good. While you could be in a position to acquire data to enforce decisions, a system may strictly limit who can access what data and manipulate it.
 
 I'll go over what could still be answered while assuming you're in a position you cannot acquire hard data.
 
@@ -425,27 +419,17 @@ Even for work that's never shipped, a project with sufficiently high quality des
 There's some questions you should ask beforehand.
 
 1. Who is it for?
-2. What problem does it solve?
+2. What problem(s) does it solve?
 3. Can it be used in your current setup, system, etc?
 4. What benefits does it provide over another option?
 
-If you don't know who is going to utilize what you provide, you risk them not using it, refunding it, or disliking the provider; you. If you cannot figure out what problem it's trying to solve, it's like using a band-aid for a non-existent wound and may not be that useful. If it cannot be used alongside your other products, or get buy-in from people to adopt it, it doesn't matter how good the solution is if it cannot be used. Lastly, if it doesn't provide benefits other another option, then why should someone use what you make?
+If you don't know who is going to utilize what you provide, you risk them not using it, refunding it, or disliking the provider: you. 
 
-### **I don't have much artistic design experience though!**
+If you cannot figure out what problem it's trying to solve, it's like using a band-aid for a non-existent wound and may not be terribly useful for the problem(s). 
 
-Two things before you panic.
-1. You can "design" in programs such as PowerPoint, Excel, and Microsoft Word or their equivalents in Google Documents, Google Sheets, and Google Slides. 
-    - If you need advanced design programs, you'll need dedicated design tools like Figma, ProtoPie, Photoshop, Illustrator, and Sketch.
-2. You're likely focused more on content, the delivery of content, and the management of students rather than design anyway. If you lack time or resources, learn just enough to get by and supplement your teaching.
+If it cannot be used alongside your other products, or get buy-in from people to adopt it, it doesn't matter how good the solution is if it cannot be used. 
 
-Some general rules of thumb you can quickly apply come from personal experience as well as referencing from *Refactoring UI* by Wathan and Schoger (2018).
-
-- Never rely on color alone
-- Start simple and ensure functionality before adding complexity
-- White space is easier to reduce than add
-- Text needs sufficient contrast (e.g. WCAG 2.1 "AA" rating or higher) against its background
-- For colorblind people, it's easier to tell by lightness (light/dark) rather than color
-- Most greys have tints of other colors mixed in
+Lastly, if it doesn't provide tangible benefits over another option, then why should someone use what you make?
 
 ## **Bibliography**
 

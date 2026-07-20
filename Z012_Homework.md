@@ -17,8 +17,7 @@ nav_order: 21
 
 Class time should offset homework time, though this balance depends heavily on the subject(s) taught.
 
-It's possible, but not always feasible, to eliminate homework entirely for a class provided students demonstrate sufficient understanding of the material taught.
-- Another reason is students may refuse to do it altogether.
+It's possible, but not always feasible, to eliminate homework entirely for a class, provided students demonstrate sufficient understanding of the material taught and all standards are covered within class in time.
 
 Sometimes you may have to give homework due to an administrative policy. This is typically to align teachers and avoid discrepancies in provided education. Other times, there's no homework policy and it's up to the teacher.
 
@@ -32,17 +31,17 @@ Equity is *opportunity* provided to those in worse circumstances and with fewer 
 
 In the United States, college students may see a professor for 3 hours a week while high schoolers see teachers typically 4-5 days each week at about 50 min to 1.5 hours per day. This adds up to at least 120 hours of class and contact time over one academic year. Less class time in college may mean more out-of-class work and practice to stay on track and ensure material is retained. Primary and secondary education courses have more time in class, so less, or even no, homework should be needed to go through the necessary material.
 
-Now to talk about why more homework for students means more homework for an educator.
+### **More or Less Homework?**
 
-### **Do I give more or less homework?**
+Now to talk about why more homework for students can mean more homework for an educator.
 
-Every assignment you issue is an assignment you may have to write, grade, and adjust to various student accommodations. With dozens, hundreds, or even thousands of students, this workload *from one graded assignment* can take multiple days. Any accommodations multiply the time further. The time to go through one homework assignment scales exponentially as class sizes increase and number of accommodations increase.
+Every assignment you issue is an assignment you may have to write, grade, and adjust to various student accommodations. With dozens, hundreds, or even thousands of students, this workload *from just one graded assignment* can take an educator multiple days to get through. Any accommodations multiply that time taken further. The time to go through one homework assignment scales exponentially as class sizes increase and number of accommodations increase.
 
 Additionally, if all work is done inside of class, a teacher could catch errors and reteach topics quickly rather than delaying correction with homework. In middle school and high school, students typically may have several teachers with differing amounts of homework given in their class too.
 
-Homework should be intended as practice and low-stakes, not busy work. I've had the most success with homework that isn't too time-consuming; if it takes excessive time, it's an issue with assignment design and/or student understanding.
+Homework should be intended as practice and low-stakes, not just busy work. I've had the most success with homework that isn't too time-consuming; if it takes excessive time, it's an issue with assignment design and/or student understanding.
 
-Homework should also be *practice* and focus on critical problem-solving skills. You *can* do repetition through homework, but it shouldn't be something like drilling down 40+ math problems with a value or two changed.
+Homework should also focus on critical problem-solving skills. You *can* do repetition through homework, but it shouldn't be something like drilling down 40+ math problems with a value or two changed.
 
 Ideally, you create problems that are not easily solved, or don't know how to solve on the student's end, as it provides *opportunity* for learning. It's better if a given problem can lead into additional problems, and therefore become challenges for students to tackle and flex their understanding, afterwards.
 
@@ -59,11 +58,9 @@ This combines two fields, math and science, into one: applied algebra remediatio
 
 **Note 2: When allowed, only assign homework you're willing to grade.**
 
-If homework must be graded, design it for fast evaluations. Automate when able, limit questions, and stick to formats with discrete answers like multiple choice questions, certain math/science problems, and questions with one correct solution in general. If their answers don't match your answers, it's easy to cross-reference and grade.
+If homework must be graded, design it for fast evaluations. Automate when able, limit questions, and stick to formats with discrete answers like multiple choice questions, certain math/science problems, and questions with one correct solution in general. If their answers don't match your answers, it's easy to cross-reference and grade. 
 
-- In data analysis terms, it's matching 1-to-1 questions to answers, rather than 1-to-many questions to answers.
-
-These types of questions are easy to automate compared to qualitative problems and questions with a multitude/range of correct answers, which means you save more time. We like saving time.
+One solution is matching 1-to-1 questions to answers, rather than 1-to-many questions to answers. These types of questions are easy to automate compared to qualitative problems and questions with a multitude/range of correct answers, which means you save more time. We like saving time.
 
 My primary approach for homework in class was "implied homework." I explicitly told students they were responsible for preparing for tests and assignments based on what I covered in class. Students could ask me questions about *concepts* will be tested, but not ask me about which questions are on tests. If I didn't cover a topic to a sufficient degree, I summarized, simplified, and/or excluded the topic from exams.
 

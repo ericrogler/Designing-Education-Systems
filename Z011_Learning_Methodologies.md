@@ -28,7 +28,7 @@ nav_order: 20
 - E.g. Primary and secondary education.
 - Pedagogy is often used in place of andragogy as pedagogy is more commonly known.
 
-It is in the nature of learning to get confused along the journey. *That's normal.*
+It is in the nature of learning to get confused along the journey and expend some level of *effort* towards learning. *That's normal.*
 
 In general:
 
@@ -41,11 +41,11 @@ In general:
     - It mitigates the issue down the line where information is read, skips processing in the brain, and goes straight to work with hands.
     - This *doesn't* mean avoiding throwing them into the fire for learning.
 5. Mastery isn't achieved after doing something right just once. It's achieved when you can do something consistently well across multiple scenarios.
-6. You could be an amazing educator, but if the system doesn't support you and/or students don't engage with your instruction, then you're fighting an uphill, or even losing, battle constantly.
+6. You could be an amazing educator, but if the system doesn't support you and/or students don't engage with your instruction or what you're providing, then you're fighting an uphill, or even losing, battle constantly.
 7. **Rigor requires maintaining standards and allowing the possibility of failure for ALL students.**
 
-**Lessons should NOT be differentiated without good reason,** such as language acquisition issues or professionally diagnosed medical disorders. This viewpoint may be overly pragmatic and run contrary to a modern perspective advocating for differentiating instead. When designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how specific vs how general) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation can risk affecting educational quality negatively and *not* meeting standards.
-- It's extremely difficult and complex to scaffold and differentiate for every *individual* student, but you can definitely scaffold for *groups* of students.
+**Lessons should NOT be differentiated without good reason,** such as language acquisition issues or professionally diagnosed medical disorders. This viewpoint may be overly pragmatic and run contrary to a modern perspective advocating for differentiating instead. In practice, when designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how specific vs how general) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation can risk affecting educational quality negatively and *not* meeting standards.
+- It's extremely difficult and complex to scaffold and differentiate for every *individual* student as well, but you could still scaffold for *groups* of students. This issue quickly compounds and doesn't scale well as you increase the number of students under a given teacher.
 
 ## **Long Answer**
 
@@ -55,22 +55,19 @@ One other opinion I'll separate out from the rest is, for any students that I ha
 
 As for other opinions, students with behavior problems should be outright separated from those without behavior problems and capable of controlling themselves. Educators are also not there to "entertain" students for their amusement or constantly provide updates to people (like parents) who already have 24/7 access to student performance records and grades. I could also say any inclusion without the appropriate supports is tantamount to neglect.
 
-I'm also not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, but there are different ways across different topics and you can teach in multiple ways at once. For examples, this includes the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.), flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/). Direct instruction is an effective way of learning when done well.
+I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, sure, but there are different ways across different topics and you can teach in multiple ways at once. For examples, this includes the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.), flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/). Direct instruction is also an effective way of learning when done well.
 
-Sleep is also important. Both students and teachers should not neglect it because it affects learning. If you don't get enough sleep, you won't enhance your learning ability (Walker, 2017).
+Sleep is also important. You should not neglect sleep because it affects learning. If you don't get enough sleep, you won't enhance your learning ability (Walker, 2017).
 
-Sometimes a student might complain that all they ever do is work. They're right. That's the teacher's job, to teach in a class. Learning *is* work. If you don't put any work into it, whatever you're learning about likely won't stick for long. 
+Sometimes a student might complain that all they ever do is work, and they're right. That's the teacher's job, to teach in a class to students. Learning *is* work. If you don't put any work into it, whatever you're learning about likely won't stick for long. 
 
 Were every day a free day, students wouldn't get any real learning done. If you're a teacher who's diligent, but other teachers provide too much free time or leeway, you might dislike the other teachers too.
 - Students may even complain if you give a free day too, despite it not being a "work" day, because it's boring. At that point, I'd say resort to more work so they have something *else* to do instead.
 
-Lastly, I'd also say to focus on the knowledge and not on the job. If you learn the knowledge behind how education works, then doing a job with education and offers for work come easier.
-- If you're asked about something you don't know, just say you don't know and will work on it in the future. People can tell you're lying better than you may think.
-
 *All that said, let's approach this subject carefully.*
 
 Before we dive into further topics, I want to emphasize one point: **It is significantly easier to teach multiple students at the same level vs multiple students across widely different levels.** If this sounds "harsh," consider these other parallels:
-- It is far easier (and usually lower cost) to handle the logistics for 1 type of hamburger vs 30+ types of hamburgers.
+- It is far easier (and usually lower cost) to limit variety and handle the production for 1 type of hamburger vs 30+ types of hamburgers.
 - Logistics are typically easier transporting 60 people to one location vs 60 people to multiple locations.
 - It's less taxing on employees to maintain one version of an application rather than developing backwards compatibility and/or cross-functionality on multiple, different operating systems.
 - Assembly lines are easily configured to optimize production on one product compared to setting up multiple production lines for multiple products.
@@ -79,42 +76,42 @@ Before we dive into further topics, I want to emphasize one point: **It is signi
 
 *Notice: This section primarily aimed at parents/guardians.*
 
-To state *my*, the author's, opinion? I'm normally against homeschooling. I've also never been through homeschooling myself.
+To state *my*, the author's, opinion? I'm normally against homeschooling. I've also never been through homeschooling myself, but I should still address it in this kind of book.
 
 The reasons for opting into homeschooling over other types of education systems are quite varied. Perhaps an existing education system isn't safe, civil, and/or lacks accountability to regulate, remediate, and punish disruptive and dangerous students. Said system probably doesn't offer the type of education they initially expected/desired either, such as no higher math courses. Maybe there's a specific medical condition a given school, facility, etc. cannot cover sufficiently for the student(s) either. Maybe the idea of differentiation and dedicating specialized education for a student, or small group of students, may be better than a one-size-fits-all model another education system may provide. The student may be failing in an existing education system as well, so they're pulled out to avoid any consequences as a result. These are but a few examples.
 
-There's a lot of risk associated with homeschooling's "reward," if not too much risk vs reward. You *can* address many of these fears and risks, but the chances of that happening are slim at best even with the resources available. The biggest deterrant to homeschooling I observe is it can go very badly and, as a result, the students lack even basic fundamental skills, which means setting them up for probable failure in future education. You also cannot replace a neglectful and bad parent/guardian in a home setting as easily as you can a bad teacher in many education systems.
+There's a lot of risk associated with homeschooling's "reward," if not too much risk vs reward. You *can* address many of these fears and risks, but the chances are slim at best even with the resources available. The biggest deterrant to homeschooling I observe is it can go very badly and, as a result, the students lack even basic fundamental skills and setting them up for probable failure in future education. You also cannot replace a neglectful and bad parent/guardian in a home setting as easily as you can a bad teacher/administrator in many education systems.
 
 Homeschooling is also one of those areas in education where, at the time of this writing, empirical knowledge and research behind it is only an indicator of its effectiveness at best. Much of what's available is short-term studies and surveys vs long-term studies. For example, if research utilizes standardized test scores as a metric to showcase homeschooling performance, that study may be subject to volunteer and selection bias as not *every* student may be required to take those tests or be allowed to report their results. To select examples of publicly available research on this area as further reading:
 - *Homeschooling: An Updated Comprehensive Survey of the Research* by Kunzman & Gaither (2020)
 - *The Social and Educational Outcomes of Homeschooling* by Murphy (2014)
 
-Even without going into homeschooling, parents and guardians can greatly influence their child's education for the better. They can supplement learning outside of school alongside any formal education. For example, one of the easiest ways to help elevate a child above their peers is training literacy by helping them read, reading aloud to them, and teaching them to learn to read well *before* starting any formal education. The hard part is making reading a habit, where you encourage reading without prompting them to do it. The other hard parts are ensuring they can not only just read words, but also utilize words correctly and decipher the text, and developing the mental endurance to not give up at the first sign of a challenge. 
+Even without homeschooling, parents and guardians greatly influence their child's education. They can supplement learning outside of school alongside any formal education. For example, one of the easiest ways to help elevate a child above their peers is training literacy by helping them read, reading aloud to them, and teaching them to learn to read well *before* starting any formal education. The hard part is making reading a habit, where you encourage reading without prompting them to do it. The other hard parts are ensuring they can not only just read words, but also utilize words correctly and decipher the text, and developing the mental endurance to not give up at the first sign of a challenge. 
 
-Literacy is important for understanding *every* subject they'll experience as part of their education. At the same time, don't make them *hate* reading either, as not wanting to read is one of the fastest ways to keep them uneducated and weaken their endurance for learning in general. As for potential ways to help get children, and students, to want to read on their own:
+Literacy is important for understanding *every* subject students experience as part of their education. At the same time, don't make them *hate* reading either, as not wanting to read is one of the fastest ways to keep them uneducated and weaken their overall endurance for learning in general. As for potential ways to help get children, and students, to want to read on their own:
 1. Every hour of reading means 30 minutes of "free" time or can stay up 30 minutes later at night.
 2. Take them to environments, such as public libraries, where the primary means of "fun" *is* through reading.
 3. Be a role model. If parents/guardians do reading, then their children may also do reading.
 4. Reading means you get a pizza (or another special treat, I suppose).
 5. Do not punish them for reading.
 6. Let them read what they enjoy reading and not force any particular reading on them.
-    - Except for *blatantly* inappropriate material. Maybe say no to erotica, for example.
+    - Except for *blatantly* inappropriate material. Maybe say no to erotica, for example?
 
-Going back to homeschooling, there's a question to face head-on: *will* homeschooling perform better than private/public schools and formal education systems? A student can still perform extremely well and rise above their peers in education from homeschooling; I'm not denying the possibility, but I am affirming the low probability of success in addition to saying "the evidence currently present 
+Going back to homeschooling, there's a question to face head-on: *will* homeschooling perform better than private/public schools and formal education systems? A student can still perform extremely well and rise above their peers in education from homeschooling, afterall. I'm not denying the possibility, but I am affirming the lower probability of success.
 
 One major problem to address is when you take students away from a facility, organization, etc. that utilizes *the education system's* resources to educate them. There's multiple sources of funding and pre-vetted educational materials going into established schools and education systems; not just from one or two sources. If parents/guardians decide to homeschool, the monetary and resource burden leans more on them, *not* other education systems. Additionally, you may still have stringent laws specifically covering homeschooling based on your state of residence.
-- For the United States specifically, these laws may be found on the Internet by searching for "homeschool" + name of state + "Department of Education" or other, similar search results.
+- These laws may be found on the Internet by searching for "homeschool" + name of state/country + "Department of Education" or other, similar search results.
 
-As for how other countries handled homeschooling outside the United States, where I expect my primary audience to be located at geographically, Finland and Germany (as of 2026) serve as two examples. If you want an education system to emulate these examples, you have to also adopt similar laws, regulations, resources, supports, and educational standards. You cannot randomly cherry pick only the parts and pieces you like.
+As for how other countries handled homeschooling outside the United States, our main example for much of this book and where I expect my primary audience to be located at geographically, Finland and Germany (as of 2026) serve as two examples. If you want an education system to emulate these examples, you have to also adopt similar laws, regulations, resources, supports, and educational standards. You cannot randomly cherry pick only the parts and pieces you like and be on your merry way. What makes a system a "system" is how the *combination* of all its parts work together.
 
-Finland has *education* as compulsory, but not *schooling*. While there is freedom in teaching methods, students are still required to following the National Core Curriculum (SuKo, n.d.). Though responsibility falls on the guardian, the municipality places students under strict monitoring, per Section 26 of the Basic Education Act, to supervise progress of compulsory school subjects (Finnish National Agency for Education (EDUFI), 2026). Nevertheless, child protective services may get involved and force the student back into regular schools if there's any issues from homeschooling.
+Finland has *education* as compulsory, but not *schooling*. While there is freedom in teaching methods, students are still required to following the National Core Curriculum (SuKo, n.d.). Though responsibility falls on the guardian, the municipality places students under strict monitoring, per Section 26 of the Basic Education Act, to supervise progress of compulsory school subjects (Finnish National Agency for Education (EDUFI), 2026). Nevertheless, child protective services (CPS) may get involved and force the student back into regular schools if there's any issues from homeschooling.
 
 Germany has *Schulpflicht*, which is compulsory *attendance* at a state-approved or state-governed school with the very rare, case-specific arrangement allowing otherwise for extreme situations like certain medical reasons. There are mandates at both the national level with Grundgesetz (e.g. Art 7 (Federal Ministry of Justice, 2022)) and at the state level with Bundesländer (e.g. Hessian School Law (HSchG) Section 58 (Citizen Service Hessenrecht, 2023)).
-- Greatly simplifying from personal observation as well: Germany treats homeschooling *in general* quite negatively, if not outlawing homeschooling entirely.
+- Greatly simplifying from personal observation and talking to others about it: Germany treats homeschooling *in general* quite negatively, if not outlawing homeschooling entirely.
 
-Even well-intentioned parents and guardians may lack the resources or are ill-equipped to educate their own children as students. **If a parent/guardian cannot provide the following *at a minimum,* homeschooling risks being a disaster for a student's education:**
+Even well-intentioned parents and guardians may lack the resources or are ill-equipped to educate their own children as students. **If a parent/guardian cannot provide the following *at a minimum,* homeschooling greatly risks being a disaster for a student's education:**
 - Parents/guardians not being abusive or neglectful of their children nor wanting to indoctrinate them.
-- The time (40+ hours/week) for parents/guardians to commit to their child's education *for many (at least 10-15+) years.*
+- The time (e.g. 40+ hours/week) for parents/guardians to commit to their child's education *for many (e.g. at least 10-15+) years.*
 - Enough money and resources to devote to it, often at the loss of 1 or more income streams.
 - A sufficient education to differentiate between good and bad learning materials across *ALL* required subjects at *ALL* grade levels the student does homeschooling for.
 - The means to get a student proficient in *every* core subject, not just 1.
@@ -128,14 +125,16 @@ Even well-intentioned parents and guardians may lack the resources or are ill-eq
 
 Dedicated school environments have the means and resources to at least meet expectations on every item in this list. Parents/guardians, more often than not, do not have those means and resources as readily available. Additionally, much advice that applies to standard education systems may not apply to homeschooling systems due to a (admittedly presumed) lack of peers and social interactions among the student(s).
 
-As time goes by, you'll also need to consistently re-evaluate and judge the situation of the student(s) involved in homeschooling. One cannot reasonably expect to develop any learning plan or curriculum and expect it to hold 1, 5, or even 10 years without *any* modifications during its lifespan. For the best interests of the student(s), you may need to abandon homeschooling and go back into formalized education systems instead.
-- Of particular note, homeschooling may suffer when you go into advanced/specialized subjects like Calculus and Physics, as the teacher-parent may lack content mastery. This can, however, be somewhat alleviated through utilizing multiple community resources.
+As time goes by, you'll also need to consistently re-evaluate and judge the situation of the student(s) involved in homeschooling. One cannot reasonably expect to develop any learning plan or curriculum and expect it to hold 1, 5, or even 10 years without *any* modifications during its lifespan. For the best interests of the student(s), they may need to abandon homeschooling and go back into more formal education systems instead.
+- Of particular note, homeschooling may suffer when you go into advanced/specialized subjects like Calculus and Physics, as the "teacher-parent" may lack content mastery in these areas. This could, however, be somewhat alleviated through utilizing multiple community resources.
 
 ### **Self-Study Primer**
 
 *Notice: This section aimed towards adult learners, students, and continuing education.*
 
-Thanks to modern technology and the Internet, scores of educational content are free and available to the masses. Self-studying is one such way of learning new things.
+Learning is largely on the student and they're accountable for it. If a student is struggling with a concept, the question you need to answer is what a students need to do to get a different outcome (i.e. get better at something).
+
+Thanks to modern technology and the Internet, scores of educational content are free (or at least low-cost) and available to the masses. Self-studying is one such way of learning new things.
 
 The biggest advantage to self-studying is you can go straight to the resources you need and determine how you want to learn on your own time. Many resources posted online are posted by instructors who don't have to spend time *managing* students, which means more time dedicated to *teaching* students and perfecting quality content. It's part of the reason "Why can't I use YouTube (or similar online resource)" is a valid question I got from students. The *instructor* in the video doesn't have to manage people at the same time like a *teacher* does, so those instructors have more resources and time to make better learning materials more often than not.
 
@@ -143,7 +142,7 @@ The disadvantages to self-studying cannot be neglected though. While some self-s
 
 If you need reasons to determine whether you should self-study or seek formal education, here's what I'd figure matters:
 - Whether or not you can establish a clear goal, direction, plan, etc. for said learning.
-- Whether or not you can self-discipline yourself for long periods of time (beyond 2 weeks!)
+- Whether or not you can self-discipline yourself for long periods of time (weeks and months, if not years)
 - There's sufficient motivation (i.e. a DESIRE to learn) from within to get through learning the material.
 - You can manage distractions and focus 100% of attention on doing something.
     - Doesn't have to be for a full day, but at least part of a day across multiple days.
@@ -153,25 +152,25 @@ If you need reasons to determine whether you should self-study or seek formal ed
 
 ### **Differentiation As Individualized Work**
 
-There are two ways to approach differentiation: differentiation as individualized work and differentiation as flexible instruction. I'll discuss the former first, then the latter. As a reminder, this isn't opposition to inclusion and differentiation, but it will critique ways it can be, and has been, implemented.
+There are at least two ways to approach differentiation: differentiation as individualized work and differentiation as flexible instruction. I'll discuss the former first, then the latter. As a reminder, this isn't opposition to inclusion and differentiation, but it will critique ways it can be, and has been, implemented.
 
 Differentiation here is great on paper and often poorly implemented in practice. When I hear about it, it's essentially people wanting the benefits of one-on-one education, but in a classroom *group* setting with unfortunately strained resources.
 
-There's just "one teensy-weensy but ever-so-crucial little tiny detail" as Hades from *Hercules* (1997) might put it: MANY CLASSROOMS AREN'T SUPPORTED FOR IT!
+There's just "one teensy-weensy but ever-so-crucial little tiny detail" as Hades from *Hercules* (1997) might put it: MANY EDUCATION SYSTEMS AREN'T SUPPORTED FOR IT!
 
-Having *the teacher/instructor* deal with all differentiation for every student risks placing your education system onto a single point of failure. What happens when the teachers/instructors are no longer there? Do the other staff in the education system cover instruction sufficiently? Do the students police themselves into learning? It's unlikely, even in the case of student-centered learning, as an educator is also a facilitator.
+Having *the teacher/instructor* deal with all differentiation for every student risks further placing your education system onto a single point of failure. What happens when the teachers/instructors are no longer there? Do the other staff in the education system cover instruction sufficiently? Do the students police themselves into learning? It's unlikely, even in the case of student-centered learning, as an educator is also a facilitator.
 
-A conventional classroom may have 1 adult educator, around 25-30+ students, and a surprisingly large skill spread among students. Imagine a group of students where there's 3 different IEPs, 4 ESL students, 1 student trying to start a literal fire because they're bored with your material, and 4 504 plans. You've all of a sudden went from 1 way to designing your education to 12+ ways instead, plus more energy spent towards managing students instead of educating students. A solution designed for an individual rarely perform wells as a solution for an entire group or classroom, which means we're dealing with systemic issues here.
+A conventional classroom may have 1 adult educator, around 25-30+ students, and a surprisingly large skill spread among students. Imagine a group of students where there's 3 different IEPs, 4 ESL students, 1 student trying to start a literal fire because they're bored with your material, and 4 504 plans together in that group. You've all of a sudden went from 1 way to designing your education to 12+ ways instead, plus more energy spent towards *managing* students instead of *educating* students. A solution designed for an individual rarely perform wells as a solution for an entire group or classroom, which means we're dealing with systemic issues here.
 
-If you're trying to hold students to *one* consistent standard, but are differentiating content in *multiple* ways, meeting those standards is far harder, if not nigh impossible, and takes significantly more time, resources, and effort to accomplish. Instead of tracking and ensuring one method adheres to quality education, you now have multiple methods to do that for. It scales terribly, can fall apart at the slightest touch, and maintaining it is painful. All of that makes standardization a go-to solution because it works with limited resources. Additionally, standardization and differentiation are antonyms and will face tradeoffs; you cannot invest into one aspect without sacrificing the other.
+If you're trying to hold students to *one* consistent standard, but are differentiating content in *multiple* ways, meeting that standard is far harder, if not nigh impossible, and takes significantly more time, resources, and effort to accomplish. Instead of tracking and ensuring one method adheres to quality education, you now have multiple methods to do that for. It scales terribly, can fall apart at the slightest touch, and maintaining it is painful. All of that makes standardization a go-to solution because it works with limited resources. Additionally, standardization and differentiation are antonyms and will face tradeoffs; you cannot invest into one aspect without sacrificing the other.
 
 ### **Differentiation As Flexible Instruction**
 
 Where differentiation works exceedingly well is in tutoring or one-on-one instruction, or differentiation as flexible instruction, with the resources to support it. In this case, there's one teacher to one student, so a teacher only needs to create one distinct (i.e. "differentiated") method of teaching optimized for that one student's learning. Designing scaffolds to get students participating is also significantly less complex. The likelihood of accomplishing multiple differentiations in general classrooms decreases quickly as the number of students to accommodate increases.
 
-Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation is often still out of reach. It could be because it's financially infeasible, or too costly, for societies to handle reliably and maintain at scale. Because of this infeasibility, it's why modern differentiation may appear closer to methods of group instruction aiming to be as close to effective as one-on-one instruction.
+Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation with each student is often still out of reach. It could be because it's financially infeasible, or too costly, for systems to handle reliably and maintain at scale. Because of this infeasibility, it's why modern differentiation may appear closer to methods of group instruction aiming to be as close to effective as possible to one-on-one instruction.
 
-To further explore one potential solution to the above problem, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look for it online (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility, but also destandardizes the learner by taking their personal considerations into the design.
+To further explore one potential solution to the above problem, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look into other resources (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility, but also destandardizes the learner by taking their personal considerations into the design.
 
 The biggest benefits are you get a framework where everyone gets the same accommodations under one curriculum and it's accessible to as many students as possible. With this setup, you're able to improve outcomes for *all* learners from the start. It's also compatible with other teaching methods and frameworks, such as direct instruction and the framework I talked about previously. To list some examples of UDL:
 - Subtitles/closed captions for videos
@@ -181,70 +180,62 @@ The biggest benefits are you get a framework where everyone gets the same accomm
 
 Universal Design Learning *should* work well, because it already has parts "good" teachers do anyways. It also applies proven principles from different fields, like architecture and general design, into education. I'm pretty positive about what UDL can do and the many problems it provides solutions for. 
 
-However, like with every other methodology or framework (even the ones I made!), you cannot throw UDL into a system and expect it to perform a miracle. There's still a point you cannot reasonably accommodate students several levels too low for a given subject matter, class, and/or grade with UDL. It still has the same resource/time problems like other systems; if sufficient supports cannot be provided with the resources available, it will still not work as intended. 
+However, like with every other methodology or framework (even the ones I made!), you cannot throw UDL into a system and expect it to perform a miracle. There's still a point you cannot reasonably accommodate students several levels too low for a given subject matter, class, and/or grade with UDL. It still has the same resource/time problems like other systems where, if sufficient supports cannot be provided with the resources available, it will still not work as intended. 
 
-Designing with UDL technically doesn't cover legal obligations for accommodations like IEP/504/etc. or other legally required accommodations, even if an UDL-aligned curriculum is intended and designed to cover those accommodations anyway. It's a philosophy for everyone's education and not a legal mandate for an individual's education. Because that is the case, an accommodation you may think is reasonable may no longer become reasonable depending on what the environment provides. 
+Designing with UDL may also not cover legal obligations for accommodations like IEP/504/etc. or other legally required accommodations, even if an UDL-aligned curriculum is intended and designed to cover those accommodations anyway. It's a philosophy for everyone's education and not a legal mandate for an individual's education. An accommodation you may think is reasonable may no longer become reasonable depending on what the environment provides. 
 
 ### **A "Secret" for Students**
 
 It's like people finding out why Ajax (the cleaning product) is specifically called *Ajax*. It is stronger than grease, because Ajax (the warrior) was stronger than all of Greece. I still enjoy the genius behind that marketing slogan and etymology.
 
-As for the actual secret: review the material *before* it's covered in class.
+As for the actual secret: it's practice.
 
-Is it always possible to do this? Not really; time and resource constraints still exist. 
+You have to put in effort. Yes, *you.*
 
-Does it help? Yes.
+Is it always possible to do this though? Realistically no, time and resource constraints still exist. 
 
-Reviewing the material beforehand is where you enter the shallow part of the pool, test out the waters first to temper expectations, and get an idea of what you're doing. Then, during the class, you're transitioning from shallow waters to deeper waters instead of the instructor pushing you straight into the deep end of the pool. Reviewing again, if you choose, is like practicing and getting used to swimming in the deep end of the pool.
+Does it help you improve though? *Yes!*
 
-It also saves the student from scrambling around in class as much. It actually saves time (ironically) by giving you an idea where to start, which means more time to do the work and a better time handling increased workloads over time. It also helps for discussions and pop quizzes, where reading the material ahead of time makes you more prepared and likely to perform better compared to those without preparation.
+There's still figuring out the *right* way to practice though. Exploring the concepts of spaced practice, interleaved practice, and varied practice may help you out here (Brown, Roediger, McDaniel, 2014). Essentially, most true (i.e. retained) learning is done over multiple sessions, practicing multiple methods and examples, and avoiding focusing too heavily on only one thing to study the entire time.
 
-If you consistently cannot prepare in advance, another method is taking notes you'll never reread. It sounds dumb at first, but consider: It forces you to pay at least *some* attention to what's being taught and, if you forget something, you now have a written record to reference in the future.
+Across various forms of practice, however, you're still putting in your own effort and not blindly following along. That doesn't magically go away.
 
-These methods might sound boring because they are work, but it is work you put in now to make the future easier. If stricter methods don't work, then you may need to implement more casual methods such as:
-- Getting enough sleep beforehand
-- Having hobbies outside of education
-- Wearing what is comfortable during these activities
-- Utilizing index cards and note-taking methods
-
-There's also another name for this: *studying.*
-
-If you're unsure on how to study, the concepts of spaced practice, interleaved practice, and varied practice may help you out here (Brown, Roediger, McDaniel, 2014). Essentially, you're learning over multiple sessions, practicing multiple methods and examples, and avoiding focusing too heavily on only one thing to study the entire time.
+As for talent? Hard work beats talent until talent also works hard. Use the talent (and tools) you *do* have and make something out of it. It's what Ajax did (presumably) and it's what you can do too.
 
 ### **Managing Boredom**
 
-Not all boredom is bad and not all learning needs to be fun. If students don't learn how to manage boredom, they cannot learn to manage themselves independently to achieve bigger and better things in the future. They may even sacrifice opportunities for improving creativity and patience, plus the ability to tolerate boredom itself is a valuable skill.
+Not all boredom is bad and not all learning needs to be fun. 
 
-As a true story example I've myself seen happen, a student being told they'll have to wait or be bored for even a few minutes or seconds may be akin to insulting their very being. The sheer audacity of this person telling *me* to waste *my* time and rob me of my lifespan? Even if it's only a short wait and likely entirely due to my own lack of preparation and actions? I will not stand for this and display my anger and rage at this situation I can actually control reasonably well on my own!
+If students don't learn how to manage boredom, they cannot learn to manage themselves independently to achieve bigger and better things in the future. They may even sacrifice opportunities for improving creativity and patience, plus the ability to tolerate boredom itself is a valuable skill.
+
+As a true story example I've myself seen happen, a student being told they'll have to wait or be bored for even a few minutes or seconds may be akin to insulting their very being. I mean, really, the sheer audacity of this person telling *me* to waste *my* time and rob me of my lifespan! Even if it's only a short wait and likely entirely due to my own lack of preparation and actions! I will not stand for this and display my anger and rage at this situation I can actually control reasonably well on my own!
 
 As another example, think of going to a new rollercoaster ride at a park and realizing you need to wait 2 hours in line before you can get on the 3-5 minute ride of a lifetime.
 
 How do you manage that boredom in the meantime?
 
-In operations research, we have two terms relevant here: balking (not joining the queue) and reneging (leaving the queue after joining).
+In operations research, we have two terms relevant here: balking (not joining the queue) and reneging (leaving the queue after joining). The point is you have to get through the boring part (the long wait in line) before the reward (the new park ride). 
 
-The point is you have to get through the boring part (the long wait in line) before the reward (the new park ride). There's also a second lesson about a certain reward in the present vs a greater reward in an unreliable future. 
+There's also a second lesson about a certain reward in the present vs a greater reward in an unreliable future. This is seeking instant gratification vs delayed gratification, or the difference between a reward today vs bigger reward tomorrow. Put another way: the fight against non-stop stimuli.
 
-This is seeking instant gratification vs delayed gratification, or the difference between a reward today vs bigger reward tomorrow. Put another way: the fight against non-stop stimuli.
-
-To apply this back to teaching:
-1. It's balancing act of students doing things and students listening about things.
+To apply this back to education:
+1. It's a balancing act of students doing things and students listening about things.
 2. It's a test of how well students can manage their own boredom.
 
 ### **Back to the Basics**
 
 *Alternatively: "Anchored Instruction."*
-- Used in a general sense, but relates to topics The Cognition and Technology Group at Vanderbilt cover as well (1990).
+- Used in a general sense, but relates to topics organizations like The Cognition and Technology Group at Vanderbilt cover as well (1990).
 
 For some readers, this may be a concept which doesn't internalize fully until you have to design your own curriculum and lesson plans.
 
-You'll want to think with a broad perspective here. The general process is these steps:
-1. Create an "umbrella" concepts can go under. 
-2. Establish context and find ways to tie concepts together.
+You'll want to think with a broad perspective here. The general process here is something like these steps:
+1. Create an "umbrella" concepts fall under. 
+2. Establish context and find ways to tie these concepts together.
 3. Call back to these relationships in older concepts to help explain new concepts.
-4. Continue circling back to foundational concepts repeatedly throughout the academic period.
+4. Continue circling back to foundational concepts repeatedly throughout the academic period to show how X leads to Y and so on.
 
-To put it another way, mastery is paved through layering basics. So it sounds more appetizing, imagine you're adding on more and more layers to a delicious cake.
+To put it another way, mastery is paved through layering basics, much like adding more layers to a delicious cake.
 
 The anchor involved doesn't have to be serious either. When I talked about the Earth in Science, I often used cake as an anchor because cake layers are, well, layered, but also observable, edible, and people like food. I managed to relate cake back to *all* of these Earth concepts and more:
 - Layers of the Earth
@@ -254,11 +245,11 @@ The anchor involved doesn't have to be serious either. When I talked about the E
 - Soil Horizons
 - Geological Time Scale
 
-A good anchor is a fantastic way to explain concepts which may be difficult to approach, but it helps establish a foundation and an "anchor" point to return to as new material is covered and when you need to scale up and/or build upon concepts later on.
+A good anchor is a fantastic way to explain concepts, which may be difficult to approach. It helps establish a foundation and an "anchor" point to return to as new material is covered and when you need to scale up and/or build upon concepts later on.
 
 ### **Helplessness and Failure**
 
-There's also dealing with the theories of learned helplessness, learned incompetence, and negative reinforcement. Learned helplessness happens when repeated failures convince someone their efforts do not matter. Learned incompetence is avoiding responsibility for actions. Negative reinforcement occurs when avoidant behaviors are rewarded.
+Learned helplessness happens when repeated failures convince someone their efforts do not matter. Learned incompetence is avoiding responsibility for actions. Negative reinforcement occurs when avoidant behaviors are rewarded.
 
 These may show at any age in humans and also shows up in animals. In the context of students, it typically appears when they avoid challenges and difficulties. Their responses may include not attempting tasks, quitting after one failed attempt, or waiting for another person to solve it for them (Nickerson, 2022). Another way I'd describe learned helplessness is a lack of autonomy, where it feels like nothing you try will ever make a difference based on past experiences, even when opportunities exist in the present to improve things.
 
@@ -277,7 +268,7 @@ Countering learned helplessness, learned incompetence, and negative reinforcemen
 - Practice
 
 Resilience, in this case, is built by facing and working through failures. Students have to learn to do more things on their own and get outside of their comfort zone, lest it follow them and negatively affect them for the rest of their lives. 
-- **A good learning environment isn't always a comfortable learning environment.**
+- **A good learning environment isn't always a *comfortable* learning environment.**
 
 The goal isn't punishment. It is rebuilding lost autonomy and resilience by presenting manageable challenges; the small wins over time to gain confidence to achieve larger victories.
 
@@ -315,7 +306,7 @@ The *only* exceptions here are if you're addressing medical concerns or assistin
 
 If you want a solution, you could create something like productive struggle time where they are not allowed to ask for help. Do keep that timeframe limited though or else you may do more harm than good.
 
-### **The Test Wasn't Like The (Homework/Review Sheet/Examples/Etc.)!"**
+### **"The Test Wasn't Like The (Homework/Review Sheet/Examples/Etc.)!"**
 
 Sometimes this is a valid complaint. It can happen as a result of misalignment and bad teachers testing on material located somewhere on Mars when you need to be back on Earth. It's possible it's a legitimate issue, but not *probable*.
 
@@ -331,13 +322,13 @@ The younger the student is, or more accommodation limited they are, the more you
 
 As for older students though? Throw them straight into the proverbial fire.
 
-If you ask teachers "have [students] seen it worded that way before?" you're missing the point. They don't understand the material if they cannot apply what they learned to properly answer the problem(s).
+If you still ask teachers "have [students] seen it worded that way before?" then you're missing the point. Students don't understand the material if they cannot apply what they learned to properly answer the problem(s).
 
-If it's administration or a boss telling teachers to make tests/quizzes exactly like the homework, then the teachers hands are (mostly) tied to keep their jobs.
+If it's administration or a boss telling teachers to make tests/quizzes exactly like the homework, then perhaps the teachers hands are (mostly) tied to keep their jobs.
 
 ### **What Happens if Students Use My Example as an Answer?**
 
-Speaking forwardly, that's a lack of creativity and imagination *unless* you're specifically asking them to follow along step-by-step and reach the same answer. Rephrasing or rewording existing example(s) also counts here.
+Speaking forwardly, that's a lack of creativity and imagination *unless* you're specifically asking them to follow along step-by-step and reach the same answer. Rephrasing or rewording existing example(s) also counts here. At that point though, what you're probably doing is setting up a tutorial instead of a learning experience for the students.
 
 It may not be the student's fault entirely either. Their past environment may not be conducive to learning or training creativity. In an era of Google, AI, and search engines, information is readily available to search for and mitigates the need to generate your own answers. They may also have creativity crushed by a system focused on extreme standardization and instruction of complicated information they may not practically use in their future lives across their entire learning journey.
 
@@ -354,15 +345,14 @@ When a student focuses on performance, their goal is to satisfy metrics, often q
 
 Performance students chase grades while learning students pursue understanding. Ironically, the latter often perform better despite performance not being their top goal.
 
-I'll show a list I've shown to my students, condensed down to limit redundancy.
+I'll show a list I've shown to my own students before, condensed down to limit redundancy.
 
-- Struggle and failure is normal and a part of learning
-- Passive exposure to information isn't enough, hence practice and recall is done
-- Massed practice creates illusions of learning and limits retention
-- Motivation matters and goals are better when chosen rather than given
-- Learning requires explanation/theory and practice. Both are necessary.
+- Struggle and failure is normal and a part of learning.
+- Learning requires explanation/theory and practice. Both are necessary. Passive exposure to information isn't enough.
+- Improper practice creates illusions of learning and limits retention.
+- Motivation matters and goals are (often) better and easier to follow when chosen rather than given.
 
-Though I disapprove of learning *styles,* there are still differences in student learning abilities which affects their performance. To reference *Make It Stick* by Brown, Roediger, and McDaniel, here are some examples: 
+Though I disapprove of learning *styles,* there are still differences in student learning abilities which affects their performance. To briefly reference *Make It Stick* by Brown, Roediger, and McDaniel, here are some examples: 
 
 - Intelligence
 - Dynamic Testing
@@ -375,17 +365,17 @@ In short, present materials in ways to enhance learning for students, not just h
 
 *Alternatively: Scaffolding Gone Wrong*
 
-I'm not against the concept of scaffolding (and neither should other educators be, in my opinion), but certain ways scaffolding is implemented. The basis of most learning, as you advance between grades, levels, etc. is building upon student's existing knowledge by working through, learning about, and understanding new material. It is entirely possible to maintain rigor, standards, and expections the whole way through.
+I'm not against the concept of scaffolding (and neither should other educators be, in my opinion), but instead certain ways scaffolding is implemented. The basis of most learning, as you advance between grades, levels, etc. is building upon student's existing knowledge by working through, learning about, and understanding new material. It is entirely possible to maintain rigor, standards, and expections the whole way through with scaffolding.
 
 However, **you cannot meet students where they're at if they have "no skin in the game" (i.e. incurred risk to them).** This remains true even if the educators do everything correctly on their part, such as properly scaffolding students, making content students *want* to (and need to) learn, and adhering to guidelines like Vygotsky's Zone of Proximal Development (McLeod, 2024).
 
-"Meet them where they're at" sounds like good advice, and sounds like what you should do, but it depends far too heavily on external factors outside your control to be actually good advice. The environment, resources available, the students, other personnel, and far more variables arise in practice. In a real-world scenario, this good advice quickly turns into the worst advice possible. A student's academic readiness is heavily dependent on their environment and how that environment upholds standards and consequences for actions.
+"Meet them where they're at" sounds like good advice, and sounds like what you should do, but it depends too heavily on external factors outside your control to be actually good advice. The environment, resources available, the students, other personnel, and far more variables arise in practice. In a real-world scenario, this good advice quickly turns into the worst advice possible. A student's academic readiness is heavily dependent on their environment and how that environment upholds standards and consequences for actions.
 
-Say for example I am managing a workload of 150 students across all classes. Of those 150 students, only about 12 can read, interpret, and reason at the level I *need* them at to properly understand the information in my curriculum. The irony is many of these students, at least 50% of them from the set of 150, are still getting good grades when they normally shouldn't be doing well because I lowered the rigor to "meet them where they're at."
+Say for example I am managing a workload of 150 students across all classes. Of those 150 students, only about 12 can read, interpret, and reason at the level I *need* them at to properly understand the information in my curriculum. Many of these students, at least 50% of them from the set of 150, are doing well on paper, when they normally aren't doing well, because I lowered the rigor to "meet them where they're at."
 
 It's an issue where students haven't learned properly either. They could go from point A to point B, but the thinking behind *why* they took that route from point A to point B may be gone. You or I could make one slight alteration and cause a panic attack in some students who don't know the "why" and cannot adapt. They take what they see or hear and typically go straight to work, but the process skips going into the brain and performing the reasoning and critical thinking to *not* mess things up. I've even seen cases where they only rewrote the instructions as their answers, used the example(s) when explicitly told not to, and turn in assignments like they're "done" but are done completely incorrectly. That's only a few examples out of countless examples too!
 
-Students may be acting this way in this scenario because they *know* they cannot fail rather than them not being smart enough to do the work. I do know many students aren't doing it maliciously on moral grounds, at least, because they're doing what the system rewards. Since this is the case, there needs to be consequences for failures and a fix at the system level, not only in a specific classroom or group, such as holding them back a grade or forcing a retake of the class.
+Students may be acting this way in this scenario because they *know* they cannot fail rather than them not being smart/wise enough to do the work. I do know many students aren't doing it maliciously on moral grounds, at least, because they're doing what the system rewards. Since this is the case, there needs to be consequences for failures and a fix at the system level, not only in a specific classroom or group, such as holding them back a grade or forcing a retake of the class.
 - And no, a proper "retake" of the class that normally lasts a semester or year is not a remedial session you can finish in a few days. Duration of learning is not the same as demonstrated competency of learning.
 
 A question that may come up is how to implement accountability in a system resistant to it. First, you cannot properly implement a solution for a system that doesn't want it, even with the perfect sales pitch. A solution at one layer also gets scrubbed out at other layers: while an educator may hold standards in their classroom(s), administrators, parents, legal authorities, and other parties may intervene and override those same standards. Any changes upstream can be further neutralized by factors downstream. 
@@ -394,7 +384,7 @@ You could use that same, external pressure to showcase how credentials don't mat
 
 In a way, the system isn't broken but acting towards the incentives and metrics determining its success and survival. There are pressures, both political and economic, outside the control of education systems that still affect those systems. If there is to be a lasting solution, it needs to come from everyone involved in education upstream *and* downstream. Any partial solutions will get swept away by the tide rather than stand the test of time.
 
-### **What about when student performance is below expectations and/or grade level?**
+### **Student Performance Below Expectations and/or Grade Level?**
 
 I know of four ways to proceed here: 
 1. Remediation
@@ -406,13 +396,13 @@ Remediation is costly in time for a teacher, and other relevant staff. Supports,
 
 Curriculum redesign is costly in time and resources and unlikely to change midway during your school period. You may also push a problem downstream unless the entire educational pipeline is also aligned.
 
-Survival tactics is pushing students through without addressing deficiencies. It also risks students lacking foundational knowledge and unable to operate when supports disappear.
+Survival tactics is pushing students through without addressing deficiencies. It also risks students lacking foundational knowledge and unable to operate when those supports disappear.
 
 Removing a student from a class requires a lot of documentation proving the student cannot succeeed and/or function in the class, despite best efforts, and can be cumbersome to execute/process. It deals with politics, legality, and ethics, plus you also may not be allowed to remove a student outside of extreme circumstances.
 
 Out of all of these ways, remediation (and supports) is typically done as it follows the path of least resistance while also likely meeting any legal requirements. I'll focus on that and assume, in good faith, your goal is getting students up to speed despite any blockers to their education. Keep in mind it's possible remediation may not be feasible for the class, or some students, which means teaching what topics you need/want to teach may be impossible.
 
-For remediation, I see two main options:
+For remediation, I see at least two main options:
 
 1. Reteach and/or integrate the basics
 2. Provide sufficient supports (tables, charts, calculators, etc.)
@@ -422,14 +412,13 @@ Reteaching basics requires modifying lesson plans. Time spent can range from a d
 - Finishing 5 minutes early to quickly review basics
 - Hands on activities and general review
 
-From personal experience, I could reasonably cover 1 or 2 grades (e.g. 10th grade math level for a 12th grade math class) of learning deficit without detriment towards any student's education. Beyond that would typically require tutors, special education, and external support systems. 
+From personal experience, I could reasonably cover 1 or 2 grades (e.g. 10th grade math level for a 12th grade math class) of learning deficit without significant detriment towards any student's education. Beyond that would typically require tutors, special education, and external support systems. 
 - Reasonable example: Re-teaching parts of Calculus 1 to students in Calculus 3.
 - Unreasonable example: Teaching Calculus 3 to functionally illiterate students.
 
 **To give an analogy, you probably don't want someone flying a plane that cannot properly go through pilot training.**
 
-It's not impossible to fix large deficits, but doing it on top of everything else a teacher in a typical classroom needs to do is extremely difficult, if not outright impossible. 
-- If deficits are truly impossible/unreasonable to fix, then you need to document what the deficits are, what has been done to try and overcome them, and communicate why they're infeasible to help protect yourself and your role as a teacher.
+Fixing large deficits on top of everything else an educator in a typical classroom needs to do is extremely difficult, if not outright impossible. If deficits are truly impossible/unreasonable to fix, then you need to document what the deficits are, what has been done to try and overcome them, and communicate why they're infeasible to help protect yourself and your role as a teacher.
 
 The second option, providing supports, is similar to training wheels on a bike. It complements learning, but doesn't replace learning. Examples may include reference charts, formula sheets, and guided notes you provide students or students create on their own time to use for other assignments, tests, and projects.
 
@@ -450,10 +439,10 @@ Your goal here is properly educating students, and you should strive for it, but
 
 *Alternatively: "What if students can't follow the prompt?"*
 
-Teachers want you to figure things out and have students discover how to solve problems. If you don't try and fail, how are you going to know where you're failing or pinpoint exactly where the problem(s) exist?
+Teachers want students to figure things out and have students discover how to solve problems. If you don't try and fail, how are you going to know where you're failing and/or pinpoint exactly where the problem(s) exist?
 
 There are times the phrase in the header is unreasonable. Other times, the instructions are explicitly written out and/or shown for students to follow and they cannot follow them, or they're asking for help when they haven't even tried to find a solution and really just want the teacher to solve it for them.
-- E.g. Teacher says you need to reference a specific page in this specific book to get started. Student, with the book out, asks how they get started, despite the teacher explicitly stating how to start.
+- E.g. Teacher says you need to reference a specific page in this specific book to get started. Student, with the book out, asks how they get started, despite the teacher explicitly, and clearly, stating how to start.
 
 Generally, an attitude of telling the student they should know what to do implies an expectation the teacher isn't going to repeat themselves any more than necessary or offer help unless it's truly needed and deserved.
 
@@ -473,14 +462,31 @@ It's different if they're missing resources, like a ruler or calculator, to solv
 
 Remember: you're not filling blanks. You're fixing work. Don't reward students who don't try. They should know how to do it (or at least make an earnest attempt at it).
 
+### **Tutorial Hell**
+
+You may have encountered a tutorial, guide, etc. in one or more forms, whether it be online, in a physical manual or book, how to do something in a video game or on a piece of technology, a set of instructions to assemble a product, a cooking recipe, and so on.
+
+The goal of many tutorials is to explain *how* to do something and present it in the most effective and efficient way possible to someone. You don't want to waste time meandering about with tutorials as you want to provide a clear process, with guardrails to keep students on a specific track they can follow along on, to do what's needed. 
+
+That also make tutorials one of the worst ways to learn the *why* (i.e. learning). That does not mean all tutorials are inherently bad, evil, etc. though. One case of a tutorial being useful is if you already know how to do a setup with X tool, but need to figure out how to do a similar setup with Y tool instead.
+
+The major problem with tutorials is they eliminate the vast majority of critical thinking, the underlying strategy involved, and problem solving a student needs to properly learn how to do something. They provide the answer before you process the problem fully. The "effort" to put in towards learning is almost nonexistant, so the need to *retain* that information is deprioritized and students may shortly forget about everything they just learned soon after.
+
+Consider for example a tutorial where you watch a video. Someone may cover a particular topic in 10 minutes or going through a project from start-to-end. While these aren't inherently bad by themselves, what is bad is what it enables students to do: follow along, step-by-step, without any consideration for *why* they're doing something in particular or any of the pre-requisite work that's necessary to get the tutorial to the stage it's at.
+
+The result is a wide ocean with a shallow depth, where any attempt to travel across it is a significant risk in incurring lost time and effort towards learning. You may be in a better position if you actively follow along with the tutorial, question their steps as you're going along with the tutorial, and pausing here and there to think about what's happening, *but you're still missing a large portion of what's required to truly learn the topic(s) presented.*
+
+One solution to this is the "I do, we do, you do" phrase discussed in a previous chapter. Though that is a solution to this problem, the onus is still on the student and them doing the "you do" part to learn about the topics they're needing the tutorials for. A student can still follow the tutorial at least, but they also need to allocate time to take notes, re-read, connect the dots, analyze, process, inquire, *actually learn*, and so on. It's similar to getting better at many things in life, where if you don't put in enough practice you simply won't improve or learn it well enough to do anything meaningful with that knowledge.
+
+If students don't invest into learning beyond the tutorials, they cannot go beyond the tutorials.
+
 ### **Life and Death Learning**
 
 *Alternatively: LDL (for a euphemism)*
 
 Normally, this type of learning isn't advised for most people in general, but especially so for minors and younger students. You may see it more in military or prison settings, where motivation and discipline is expected and strictly enforced. Frankly speaking, most people cannot handle it and it has *some* ethical concerns when implemented. Much of this seems straightforward, but there's a reason this *isn't* the norm and you normally should NOT design learning this way by default.
 
-The concept is simple: put a student into high stress situations where the cost of failure is extremely high and detrimental to said student. When students encounter that high-stress situation, which is where they *learn* the material, they'll be less likely to mess it up and remain calm throughout it when it comes up outside of a safe learning environment.
-- This part aligns with what I mentioned in a previous chapter. The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.
+The concept is simple: put a student into high stress situations where the cost of failure is extremely high and detrimental to said student. When students encounter that high-stress situation, which is where they *learn* the material, they'll be less likely to mess it up and remain calm throughout it when it comes up outside of a safe learning environment. Much like how problems are often not considered problems until they're made your problem, the same could be said of learning. People might not bother learning about something until they have to learn it. Nevertheless, the curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.
 
 Because it's a high-stress environment, learning may be condensed down to essentials and requires ways to address the increased cognitive load and rapidly learn new information. This is where mnemonics like the Method of Loci ([Further reading on a VR application](https://pmc.ncbi.nlm.nih.gov/articles/PMC9540171/) (Moll & Sykes, 2022)) combine various methods like visual imagination and spatial memory for learning.
 
