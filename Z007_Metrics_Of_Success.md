@@ -81,9 +81,11 @@ Any metric can be "gamed" or optimized. Despite this, the goal of successful stu
 
 ### **Metrics (In General)**
 
-A metric generally deals with some type of performance, growth/decline, and/or development. You may also track metrics like GPA and test scores alongside other, related metrics such as proficiency rates.
+A metric generally deals with some type of performance, growth/decline, and/or development. You may also track metrics like GPA and test scores alongside other, related metrics such as proficiency rates. **A metric only matters if it helps explains why a decision is made. If it does not, it is not a proper diagnostic and should not be utilized. You must deploy metrics with intent.** To give two examples, one education and another non-education:
+- For education: Would a decision fall apart without it?
+- For driving/piloting: Does that information affect (or change) what I need to do next? 
 
-Domain knowledge rules over many other aspects here, similar to knowing how to use a tool properly. If you know what a metric is, and how to utilize it, you can bring it to its full potential. Fortunately, you can acquire *some* domain knowledge even if not part of the area you wish to learn about and/or currently lacking in talent, prior experience, or intelligence. That's what education helps you do.
+Domain knowledge rules over many other aspects here, similar to knowing how to use a tool properly. If you know what a metric is, and how to utilize it, you can bring it to its full potential. Fortunately, you can acquire *some* domain knowledge even if not part of the area you wish to learn about and/or currently lacking in talent, prior experience, or intelligence. That's what education (or perhaps going the "self-taught" route) can help you do. Unfortunately, certain domain knowledge can only be acquired by direct exposure to the environment related to the work.
 
 One area of quantitative data comes from metrics for student success. Some quantitative examples include (Fields, 2024):
 
@@ -176,13 +178,15 @@ Additionally, there is a hidden danger with quantitative metrics in particular: 
 ### **Pre-Analysis Considerations**
 
 Before you start an analysis, there's several things to consider:
-1. What is the goal of your business? This could be a financial group, administration, etc.
-    - This is NOT just metrics.
-2. Who will see the results of your analysis? For example, Steve from accounting has different needs vs Jane from HR.
-3. What decisions does it support/oppose?
-4. What actions will it affect? If it doesn't change anything, why do it?
+1. What are the questions you need answered?
+2. What is the goal of your business you're doing the analysis for? 
+    - This could be a financial group, administration, etc.
+3. Who will see the results of your analysis and why should they care about *your* analysis? 
+    - e.g. Steve from accounting has different needs vs Jane from HR.
+4. What decisions does it support/oppose?
+5. What actions will it affect? If it doesn't change anything, why do it?
 
-If you go with these considerations, you'll think about data as evidence to support/oppose decisions someone, or something, should make instead of merely numbers and charts that are only pretty to look at.
+If you go with these considerations, you'll think about data as evidence to support/oppose decisions someone, or something, should make instead of merely numbers and charts that are only pretty to look at. Analysis is supposed to answer your questions and not be done for the sake of analysis.
 
 Basically, figure out the context, the expected questions, and the worth of an analysis before you get too deep into it or you risk wasting time and effort.
 

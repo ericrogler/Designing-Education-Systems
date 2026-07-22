@@ -13,7 +13,7 @@ nav_order: 3
 - **Role:** In-person Science/STEM Teacher, including substitute teacher roles
 - **Educational Role Duration:** ~3 years (2022-2025)
 - **Primary School Types:** Public & Private K-12 Schools
-- **Author's Degree:** Master of Science in Industrial Engineering (MSIE) 
+- **Author's Degree:** Master of Science in Industrial Engineering (MSIE)
 
 ## **The Elevator Pitch**
 

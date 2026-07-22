@@ -97,9 +97,12 @@ You may have a couple assistant managers beneath you as well to make a third lay
 
 Assuming there's only one true manager right now, your main duties are people management and task delegation. You may do non-management duties as well to cover deficiencies, emergencies like employees taking time off, and other similar reasons. There's few bottlenecks in communication, everyone can operate in one area still, and things are relatively straightforward at this stage.
 
-Some small businesses may purposely stay small and still be successful. These businesses may hire out contractors to perform tasks rather than hiring more new employees. You'll see here that contractors are applicable at any scale of business.
+If you're at this breakpoint, I'll assume you've probably started with a bunch of friends or at least people you can tolerate working with. To grow past this point, you're going to need to set rules in place for how these "friends" interact with each other. If you do not, bringing in new people will swiftly backfire with various mixed opinions added and no codified means to appropriately communicate them.
 
-Lastly, if you're at this breakpoint, I'll assume you've probably started with a bunch of friends or at least people you can tolerate working with. To grow past this point, you're going to need to set rules in place for how these "friends" interact with each other. If you do not, bringing in new people will swiftly backfire with various mixed opinions added and no codified means to appropriately communicate them.
+Some businesses may purposely stay small and still be successful. These businesses may hire out contractors to perform tasks rather than hiring more new employees, and contractors apply at future scales as well. 
+
+The "ideal" employee at this scale is someone who is scrappy and creative, can work with limited support and resources, and able to work on a breadth of tasks rather than pigeon-role into only one specific area. The organization, and the individual coming in, must have the mental flexibility, adaptability, and ability to function with greatly limited support. They *must* accept higher individual risk and responsibility for the flexibility and any autonomy they may gain. Simply being another cog in the machine will more than likely fail you here and competence alone will not save you.
+- As I'll explore in the next chapter: the ideal candidate in smaller scale organizations often shares traits with the ideal candidate you may find for a *detachment* such as force reconnaissance and other units in special operations.
 
 ### **Business Breakpoint 2: 40-50 People**
 
@@ -300,15 +303,15 @@ There's also what I'll call "bad engineering," which affects technical debt, but
 
 A manager has many freedoms.
 
-Taking time off whenever they want, however, may not be included in that list of freedoms. At least not in the way many may think.
-
-At a high enough leadership position, or when you're the owner/president of an organization, you're always "on-call." You *could* take time off like a typical employee, but you may only manage 2-3 weeks because chaos ensues from absent leadership (and maybe not having someone around to pay people!).
+Taking time off whenever they want, however, may not be included in that list of freedoms. At a high enough leadership position, or when you're the leader/head of an organization, you're "on-call." You *could* take time off like a typical employee, or perhaps be "hands-off" and not work in general outside of only emergencies, but you may only manage 2-3 weeks at a time because problems tend to form from absent leadership (and maybe not having someone around to pay people!) and/or you're still in a "load-bearing" role.
 
 This also applies to finding coverage for roles. A manager may have to cover deficiencies for roles they cannot sufficiently delegate out or hire to fill. They may also have to take the brunt of coverage during times multiple employees need to take time off as well.
 
-Does leadership have the same 24 hours a day like people do? Yes.
+Does leadership have the same 24 hours a day like people do? I'd assume so, yes.
 
-Does leadership spend it the same way their employees do? Maybe not. Some leadership may do significantly less "physical" work and instead go through multiple meetings, presentations, emails, and solving other people's issues instead of their own issues. They may evaluate their work on *quality* of hours instead of quantity of hours. You may also encounter leadership at the very top layers who are, to put it nicely, functionally illiterate and unable to make decisions or understand what the organization they're leading even does, which may make them a liability and a risk rather than an asset.
+Does leadership spend it the same way their employees do? Likely not. 
+
+Some leadership may do significantly less "physical" work and instead go through multiple meetings, presentations, emails, and solving other people's issues instead of their own issues. They may evaluate their work on *quality* of hours instead of quantity of hours. They may not even work as many hours as employees on the lowest layers of the organization. You may also encounter leadership at the very top layers who are, to put it nicely, functionally illiterate and unable to make decisions or understand what the organization they're leading even does, which may make them a liability and a risk rather than an asset.
 
 As people "climb up the ladder;" they tend to spend less time on production/labor tasks and more time in managing. That's a trait consistent across multiple roles and companies, where you "work" less, but your brain works harder. Some days could be 2 hours of smooth sailing and other days 12+ hours of putting out (almost) literal fires. This is further exacerbated by how a high level leadership mistake can have vastly greater consequences than a low level employee mistake.
 
@@ -318,7 +321,7 @@ Lastly, some leadership roles are in a position they *can* influence their wealt
 
 As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about bureaucracy. In its worst form, it's death by process. There's so many new meetings, initiatives, etc. it takes away time to do what you're supposed to do, which ironically places you and/or the employee at risk of firing/laying off. Unchecked bureaucracy creates the very failures it tries to prevent.
 
-The solution is simple, yet hard to implement in practice. Limit the number of meetings you need to save on time and money and simplify the process to communicate within the organization.
+The solution is simple, yet hard to implement in practice. Limit the number of meetings you need to save on time and money and simplify the processes to communicate within the organization.
 
 ### **What About Consultants?**
 
@@ -349,6 +352,30 @@ While the majority of information makes it through, there's more wiggle room for
 Anyone you off-load hiring responsibilities to must have some technical competency in what they're hiring for or you risk implementing an ineffective "filter" to bring in new people. For example, if you're hiring a math teacher, the people in the hiring process should have familiarity with math to catch people who aren't actually good at math. As another example, if you're working in a construction company, the people hiring should have some knowledge about the construction process. If the person screening a candidate doesn't know about these things, they may pass along a false positive and potentially waste resources as a result.
 
 In the best case scenario, managers receive what they intended (or perhaps beyond that) and come away happy with a role filled. In the worse case scenario, any recruiters (including the managers) heavily filters out incoming candidates, even those with glowing recommendations, and either rejects incoming personnel or brings in underwhelming personnel. Additionally, the department as a whole can "override" decisions despite every requirement for the candidate being met, which may cause ire across different layers and departments in an organization.
+
+### **The FAANG (MANGA) Problem**
+
+What are the differences between an organization with 10 employees versus an organization with 10,000 (or even 100,000) employees? *Many* things. To only name a few: available resources, benefits, support, and infrastructure. 
+
+There's also a higher chance the work you do as an individual may not matter in the big picture setting and/or you're focused far more heavily on depth rather than breadth. Making costly mistakes is also something you can afford to do more often in a larger organization compared to a smaller organization due to the sheer number of resources available.
+
+The title comes from a suite of companies who are "at the top" in the business world. People want to be a part of these companies and put them on their resume (i.e. work history) due to the "prestige" they bring. FAANG stands for "Facebook, Amazon, Apple, Netflix, and Google." Facebook had a name change to "Meta", so you may see the MANGA acronym instead standing for "Meta, Apple, Netflix, Google, and Amazon." 
+
+The acronyms don't actually matter here. They're purely examples. You could swap out these companies with whatever ones you want. What matters in this section is the focus on the *people* in these prestigious "best-of-the-best" large organizations and the stark differences in *environments.* 
+
+We've already discussed scaling pains and types of people at small-to-medium organizations as a reference point. For the rest of this section, place yourself in the shoes of a start-up (or small business) founder. You need to bring on people into your organization to help you grow your new business idea and become more successful. Said environment you're in, in this scenario, is in a less-than-perfect shape with limited resources.
+
+A person coming in from these types of organizations is often in a position where they're used to being "comfortable." This may include an extremely high salary, unmatched benefits, easy access to support networks, and they get to "wear" a metaphorical badge saying they worked at one of these organizations (which may lead to entitlement and elitism: a real and tangible threat to organizational culture). You may even see people justify their expertise and establish authority by stating they're "ex-FAANG/MANGA." Sure, it may validly establish a baseline expectation, because the bar to get into these types of organizations is high, but who knows what skills they still have *after* getting their way in.
+
+The problems come when they depart from these organizations and try to go elsewhere, which is where their "FAANG/MANGA" experience *can work against them.* Just because they *have* that particular organization in their work history doesn't give them the golden ticket to walk around like they own the place and instantly get what they want. That's being an asshole and violates the golden rule of "don't be an asshole" even if you're the best in what you do.
+
+Does this mean *the individuals from these organizations* are always bad choices? No, it doesn't. Some may be likeable, have the right soft skills, can do what they do *exceedingly well*, and can fit into your work environment just fine. The people from these organizations that successfully overcome these issues are the ones you don't see targeted or complained about precisely because they haven't caused issues and can properly adjust to their new environment. 
+
+The problems you need solved aren't at the scale that a significantly larger organization normally needs to account for. For example, the person coming in may be a "software engineer" but pigeon-holed into perfecting their craft in one or a few specific niches because the organization has the people and resources to afford that level of perfection. You, however, need a "software engineer" that can handle *everything involved* at a broader, but fortunately much smaller, scale. You just need a working microwave, not a hyper-optimized microwave that cooks 1 minute rice 0.0001 seconds faster. 
+
+It's similar to the difference between a highly capable specialist versus a generalist-by-necessity. It's also similar to the programming language problem, where you're usually better off prioritizing readability (and therefore maintainability) over performance *unless* you need to meet a minimum performance threshold.
+
+The environment in this example demands almost an entirely different skillset altogether that competence and prior experience may not perfectly translate into. You have to be easy to work with, be someone who doesn't start bullshit or useless politics, deal with difficulties or how slow things may move, potentially wear multiple hats to brawl down problems, utilize the same supports you're used to for tasks, and so on. More importantly, precisely *because* the environment doesn't offer these things, the person who originally took the job for the prestige and compensation may become a flight risk and potentially leave the moment another, similar prestigious offer comes up. Simply put, any culture fit (or ability to work in that environment) is likely not to be there and we cannot fix that in any short time.
 
 ### **Personnel Training**
 
@@ -386,11 +413,11 @@ It is significantly harder to take away things than it is to provide things. You
 
 This isn't to say all perks are bad or excessive. Some are genuinely beneficial to employees and increase productivity. Though not an "employee" perk, one example perk for customers is the CostCo hot dog combo, despite being a loss leader and staying at $1.50, is a great reason to get customers spending more and kept at that price for over 40 years (Matthews, 2022).
 
-In short, scale down carefully and with purpose. You're focused on solving problems by keeping the good and cutting the bad. Handwaving away problems and pretending they don't exist will not help you.
+In short, scale down carefully and with purpose. You're focused on solving problems by keeping the good and cutting the bad. You still want to take care of the people responsible for your success. *Definitely* do eliminate people and roles unless you genuinely bothered to understand what they do and what eliminating them may *really* do. Handwaving away problems and pretending they don't exist will not help you here.
 
 ### **What about X Appreciation Day/Week/Etc.?**
 
-I will preface this by stating this is a slippery slope of a topic and also applies to any similar events.
+I will preface this by stating this is a slippery slope of a topic and it also applies to any similar events.
 
 On one hand, you bring attention towards a group (or person) whose deeds and efforts may have gone unnoticed by a larger population and give them the recognition they deserve.
 

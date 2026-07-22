@@ -9,9 +9,9 @@ nav_order: 4
 
 ## **Introduction**
 
-**Let me officially start this book by saying I am one of the dumbest people I have ever known in my entire life.** Nevertheless, I wanted to write about everything you will read within here.
+**Let me officially start this book by saying I am one of the dumbest people I have ever known in my entire life.** Nevertheless, I wanted to write about what you will read within here as I at least know a thing or two about improving systems. Education is one of many systems (which also has many other "systems" embedded into it), so it's fair game to talk about.
 
-Imagine I want to get a new teacher, instructor, presenter, educator etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also peer behind the curtains. 
+Now then, imagine I want to get a new teacher, instructor, presenter, educator etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also peer behind the curtains. 
 
 **That's my problem here to solve and this book is my solution. It serves as an introduction, or starting point, towards education systems and examines multiple topics broadly.**
 

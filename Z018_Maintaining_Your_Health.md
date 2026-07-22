@@ -43,6 +43,10 @@ I could talk about how good junk food is and not many people would care too much
 
 Alternatively, I could talk about how nurses and certain licensed medical staff can know exactly what is wrong with someone, and know how to fix it, yet not have permission/authority to diagnose/fix someone themselves. That authority may also reside in organizations that are not medical professionals themselves, such as people in a health insurance company, but are telling medical professionals how to dispense medicine, procedures, and treatments.
 
+As for any students reading this: yes, your educators have lives and interests outside of school/class. Shocking, I'm sure.
+
+### **What is Work?**
+
 What defines meaningful work differs from person to person. People may put work into a system and expect the system to reward them appropriately in some way, shape, or form. In this book, we'll say meaningful work (or work you can feel satisfaction from) sufficiently fulfills at least three areas:
 1. Appropriate Effort vs Reward
 2. Complexity

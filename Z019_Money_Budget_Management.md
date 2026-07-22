@@ -100,7 +100,10 @@ Money is what buys you time and happiness, up to a certain point, but also affor
 
 ### **Wealth & Money as Leverage**
 
-Imagine if you need only to make 50,000 dollars every year as a salary to have a "comfortable" lifestyle. You get all of your basic needs met, can dedicate money into retirement accounts to stop working once you get old and maintain that lifestyle, and not have to worry about your recurring bills like power, taxes, and utility. You may even consider protecting what wealth you have and look into legal arrangements such as trusts to decide how it's spent in life and distributed after death (FINRAD, 2026).
+You may be in a situation where employers don't want you, or employees in general, to talk about salary. That's because if you find out how much other people make, *especially* people in the same role as you, you may use that as leverage against them. For many people, gaining leverage is as easy as talking about wealth.
+- You may even have protected rights to do just that too (NLRB, 2024).
+
+The other part of wealth and money as leverage is better illustrated with an example. Imagine if you need only to make 50,000 dollars every year as a salary to have a "comfortable" lifestyle. You get all of your basic needs met, can dedicate money into retirement accounts to stop working once you get old and maintain that lifestyle, and not have to worry about your recurring bills like power, taxes, and utility. You may even consider protecting what wealth you have and look into legal arrangements such as trusts to decide how it's spent in life and distributed after death (FINRAD, 2026).
 
 This is also when you may see the Law of Diminishing Marginal Utility (or simply "marginal utility") become more prominent (Britannica, 2016). You may care greatly about 1 ring if that's all you have, but 1 ring may not matter when you have 100+ rings similar to it already. After a certain point, getting "more" or subsequent units of something, in this case money, may bring less satisfaction as you use and acquire more of it.
 
@@ -116,6 +119,8 @@ That leaves another question: how much money is enough?
 
 It could be what we saw previously. For many people, you can pay all your bills early or on time, have several months in savings and emergency funds, money put towards retirement and investments, and can comfortably cover any other necessary expenses for living. For other people, no amount of money is ever enough and they will do what they can to acquire more, even at the detriment of other people. And perhaps, for some people, enough money is where they can finally enter retirement (i.e. stop working) safely and achieve financial independence. The answer depends on who you ask.
 
+If, however, this question arises from a case where you have a sudden influx of funds go your way, then I'd simply tell you to find ways to protect it from others *and yourself* (i.e. hire a good estates & trusts attorney *that did not know you before*). Don't tell anyone you know either, because they may want a piece of your pie, and invest away a large portion so it generates "passive" income and so you don't spend it all up and find yourself in a worse spot.
+
 If I approach this question from a different angle, the conclusion I arrive at is "it's a funny answer" steeped in functionality, psychology, and ethics. I don't even need a real-life scenario as an example.
 
 Say I were to play a video game, board game, etc. In that game, if there's a way to maximize my high score, I might be inclined to get the highest score I possibly can. Even if I only need a small score to meet my goals, I may fixate on this "score" value, whether it be the fastest time, most points, most money, and so on. 
@@ -123,6 +128,8 @@ Say I were to play a video game, board game, etc. In that game, if there's a way
 Imagine now if that "score" was a certain number of "fake" money/currency you may acquire and exchange for goods and services. Say you can comfortably meet all of your needs with only 70000 kangaroo bucks. Meanwhile John Doe is sitting on 100 million kangaroo bucks; far more than what they may ever spend across the life of the game. John Doe is no longer restricted by money here and can buy just about whatever they pleases. You with only 70000 kangaroo bucks need more prudence on what you spend it on. John Doe could also continue chasing an even higher amount of currency over time if they wanted to showcase how much wealth he *can* acquire too or just "make big number bigger."
 
 You and John Doe are, in a way, playing two different games (with potentially different rules affecting each of you) *while also playing the same game.*
+
+
 
 ### **How to Make Money**
 
@@ -410,6 +417,8 @@ Lastly, if another person, entity, organization, etc. asks about why you don't h
 6. Internal Revenue Service. (2025d, June 5). *Exempt organization types*. [https://www.irs.gov/charities-non-profits/exempt-organization-types](https://www.irs.gov/charities-non-profits/exempt-organization-types)
 
 7. Internal Revenue Service. (2025e, June 20). *Digital assets*. [https://www.irs.gov/filing/digital-assets](https://www.irs.gov/filing/digital-assets)
+
+1. National Labor Relations Board (NLRB). (2024). *Your Right to Discuss Wages | National Labor Relations Board.* In www.nlrb.gov. [https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/your-rights-to-discuss-wages](https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/your-rights-to-discuss-wages)
 
 1. Opportunity Insights. (2024). *The Opportunity Atlas.* Opportunityatlas.org. [https://www.opportunityatlas.org/](https://www.opportunityatlas.org/)
 

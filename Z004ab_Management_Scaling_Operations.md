@@ -78,7 +78,9 @@ Keep in mind members of a group may more or less freely associate with each othe
 
 ### **Basic Training (BCT)**
 
-Basic training (BCT) is vital to milsim organizations as it's the entry point and orientation for incoming recruits. It ensures they understand the environment they're getting into and what they must do to work effectively alongside everyone else. If they cannot understand these rules and procedures, they cannot know instinctively what is expected of them and be unable to focus on the mission without being hand-held and told what to do. To put it another way: the goal of BCT is ensuring a base level of functional independence among *every single person* in the organization and not have them be walking liabilities.
+Basic training (BCT) is vital to milsim organizations as it's the entry point and orientation for incoming recruits. It ensures they understand the environment they're getting into and what they must do to work effectively alongside everyone else. If they cannot understand these rules and procedures, they cannot know instinctively what is expected of them and be unable to focus on the mission without being hand-held and told what to do. We're building the necessary skills and getting them to up to standards.
+
+To put it another way: the goal of BCT is ensuring a base level of functional independence among *every single person* in the organization and not have them be walking liabilities. If you aren't able to do something in a *normal* situation, we cannot trust you to do it in a *stressful* situation without risking unnecessary damage to yourself or others.
 
 Some examples of what may be covered in basic training:
 

@@ -29,7 +29,7 @@ Remember: It's not stupid if it works.
 Even if it is stupid.
 
 This chapter is going to have many technical terms. That's intentional. This is the chance for me to talk about a lot of engineering and architecture concepts I have education and experience with. Think of this chapter as various topics to reference to better design education systems. You may see some overlap and "repetition" of concepts here compared to other chapters as well.
-- Expect me to highlight Industrial Engineering concepts in particular because that subset of engineering is exceedingly versatile and you can "throw" its concepts broadly into virtually any industry to at least moderate effect.
+- Expect me to highlight Industrial Engineering concepts in particular because that subset of engineering is exceedingly versatile, specializes in complex systems and logistics, and many of its concepts could apply to nearly any industry to at least moderate effect.
 
 **I'm not saying anything here in this chapter, and book, as professional engineering or architectural advice**, even if I do have an engineering degree as some sort of veracity on what I talk about. That requires someone with a legally protected title, like "Engineer" or "Architect," and perhaps a "stamp" too depending on jurisdiction.
 - I say this even when considering any "industrial exemption" laws that shall permit it anyways, such as people who are "Software Engineers" or "Data Architects."
@@ -45,6 +45,93 @@ Architecture is similar to engineering, and may be considered a subset of engine
 The average person could simply think of engineering as methods for problem solving. Industrial engineers use these methods to optimize systems, typically with the goal of minimizing costs, maximizing performance, or both. Chemical engineers may utilize chemicals and energy primarily through chemistry while civil engineers may utilize earth sciences to calibrate infrastructure and solve problems for humans and their environment.
 
 As a reminder, you could easily have several books on each topic here, so if you want to learn more, you are free, and encouraged, to look up other sources. I'll try my best to summarize them, so let's get into it in no particular order.
+
+### **The Power of the Search Side**
+
+*Alternatively: Database Queries & You.*
+
+This section is where we peek into one of technology's many black boxes. If you're familiar with programming languages like SQL, you may already know what to expect here. I briefly called out "Mathematic Logic or at least Propositional Logic" in the math chapter earlier in this book as well. You will see concepts related to that show up here.
+
+Let's pretend you want to look up something. It could be anything really, but I'll focus on one specific example for this section: searching for candidates. You have a database, or an ATS (Applicant Tracking System), and you submit "queries" (i.e. ask a question) to that database. This database is *exceedingly specific* about how it'll respond. For example, it may think you want an *exact* term when you wanted *similar* terms, but you didn't specify that. If you submit even a slightly wrong query, you could get an answer you didn't expect or didn't want and spend more time searching!
+
+For this example, say I have a list of thousands, if not tens of thousands, of candidates for a role I posted. I want to search for one with multiple skills I need in their resume, as I'm hiring a data specialist. Perhaps everything I need to make my decision with is put inside of a single table too as another group designed the backend to handle most the data ingestion, cleanup, and organization. A small, illustrative sample of this table may look something like this going in:
+
+| candidate_id | title | years_experience | location | skill |
+|---|---|---|---|---|
+| 1 | Senior Data Specialist | 6 | United States | SQL |
+| 1 | Senior Data Specialist | 6 | United States | Python |
+| 1 | Senior Data Specialist | 6 | United States | Airflow |
+| 1 | Senior Data Specialist | 6 | United States | Tableau |
+| 1 | Senior Data Specialist | 6 | United States | Excel |
+| 2 | Data Analyst | 4 | United States | SQL |
+| 2 | Data Analyst | 4 | United States | Python |
+| 3 | Senior Data Specialist | 7 | Canada | SQL |
+| 3 | Senior Data Specialist | 7 | Canada | Python |
+| 3 | Senior Data Specialist | 7 | Canada | Tableau |
+| 4 | Data Engineer | 2 | United States | SQL |
+| 4 | Data Engineer | 2 | United States | Python |
+| 4 | Data Engineer | 2 | United States | Airflow |
+| 4 | Data Engineer | 2 | United States | Tableau |
+| 5 | Data Specialist | 1 | United States | SQL |
+| 5 | Data Specialist | 1 | United States | Tableau |
+
+In a query, I may just type "SQL AND Python AND Airflow" and the database does its work for me. I'm searching for specific fields here, which is easier to do for someone without any technical whereabout. If I were to put it in code, it may actually do something like this:
+
+```SQL
+-- SQL Example
+
+SELECT candidate_id
+FROM candidates
+WHERE skill IN ('SQL', 'Python', 'Airflow')
+GROUP BY candidate_id
+HAVING COUNT(DISTINCT skill) = 3
+ORDER BY candidate_id;
+```
+
+I get 500 results, which is *still quite a lot.* What we see here is the *filtering* part of searching. I'm happy I narrowed down my choices, but now I may wonder "how do I find the *best* choice?" There's at least three ways:
+1. You manually search through the current number of resumes
+2. You change your search criteria, such as making it more strict or adding more things to check for
+2. You create a "score," whether through algorithms or some other method, to evaluate each resume in order to rank them later.
+
+Method #1, with 500 resumes, may take me a long time and I'm not sure my deadlines are lenient enough to let me do that. Perhaps you go with a "first come, first served" approach and stop when you reach enough candidates eligible for interviews because you're on the clock.
+
+Method #2 is essentially changing what you type into the search engine. Perhaps we add in new skills to find, such as adding "Tableau" to the previous query, and/or find a specific title a candidate once had such as "Senior Data Specialist," narrow it down by years of experience, or even look for specific geographic locations.
+
+Method #3 is where the concept of "weights" comes in. Perhaps you value more experience higher than less experience, so candidates with 10+ years get a better score *in that category* compared to candidates with 3+ years.
+
+...Let's pretend I do *all* of that in a single query this time. A non-technical approach would be opening up my search bar, typing in something like "Senior Data Specialist, SQL AND Python AND Airflow AND Tableau, 5 years experience, United States." In a code example (which will look quite messy), and assuming I *only* want candidates that perfectly meet all of specifications *and* score highly, it may look like this:
+
+```SQL
+-- SQL Example (with CTE (Common Table Expression))
+-- "MAX()" is a workaround for aggregations, engine-specific limitations, and "eliminating" weird duplicates. In this table, MAX reduces the number of separated "skill" rows with id = # to 1 row with id = #. Some engines may error out without it depending on how strict they are.
+
+WITH evaluation AS (
+    SELECT candidate_id,
+        MAX(title) AS title,
+        MAX(years_experience) AS years_experience,
+        MAX(location) AS location,
+        MAX(CASE WHEN title LIKE '%Senior Data Specialist%' THEN 10 ELSE 0 END)
+        + MAX(CASE WHEN years_experience >= 5 THEN 10 ELSE 0 END)
+        + MAX(CASE WHEN location = 'United States' THEN 5 ELSE 0 END)
+        AS score,
+        COUNT(DISTINCT CASE WHEN skill IN ('SQL','Python','Airflow','Tableau') THEN skill END) AS skill_match_count
+    FROM candidates
+    GROUP BY candidate_id
+)
+SELECT *
+FROM evaluation
+WHERE skill_match_count = 4
+    AND score >= 25
+ORDER BY score DESC;
+```
+
+As an aside, adding a score here may initially seem unnecessary. I kept a score here in case I wanted to scale up or down the number of criteria or ease up on how *strict* I wanted my search to be. For example, maybe I still want all of these skills, but I'll consider people with lower experience so my score threshold is lowered to not filter them out automatically.
+
+This time I get 15 candidates out of my original 5000 candidates who meet every criteria I specified. I *ranked* candidates alongside my filters and returned only those who passed both checks. 15 resumes is a far more reasonable number I can go through in a timely manner. At this point, human eyes and intuition verify any other details, such as "is this actually a human writing it," and parse through it to decide who goes into interviews.
+
+There are also times where you'll need to manually check through everything as well. The output may not match what is needed and/or expected, so you, the human, dig deeper to find what's invisible, make it visible, and fix it. For example, maybe "PostgresSQL" was on someone's resume and you would like someone with that skill, but you didn't push it through because your filter worked on "SQL" instead. As another example, you have AI or other technology implemented to automate most the legwork for you here, but you find it's messing things up so you need to either fix it or get rid of it.
+
+The lesson is simple: **Learn and understand how search engines work, at least on a basic level. Search engines can both work for you and against you.** These systems may be stupider than you think, but can greatly alter how things operate. 
 
 ### **Rubberducking**
 

@@ -24,12 +24,12 @@ This framework is repeatable/replicable/reproducible as it's based upon the comm
 
 Education always involves communication in some way, shape, or form, while another significant part is management. Communication and management are tightly integrated together here. Hopefully that justifies all the management chapters *before* I got here.
 
-To start, I can lump nearly all forms of education into three broad categories:
+I can lump nearly all forms of education into three broad categories:
 1. Direct Instruction (e.g. Lectures)
 2. Hands-on Instruction / Practice (e.g. Activities & Projects)
 3. Assessments, Review, & Tests
 
-If you have 10 parts of time, you divide those 10 parts of time across these three categories for every unit you need to cover. You can even do all three categories across those same 10 parts of time all in a single day or session!
+If you have 10 parts of time, you divide those 10 parts across these three categories for each unit you need to cover in your curriculum. Essentially I'm asking you something like: "if you have 10 days to cover Physics, how would you cover it?" You can even do all three categories across those same 10 parts of time all in a single day or session!
 
 That's it. Simple and easy. You can apply this framework across one education system to millions of education systems. Simplicity scales and adapts more easily compared to complexity.
 
@@ -79,6 +79,8 @@ A popular phrase is "I do, we do, you do" and repeat. For example:
 It may be an older framework, but it's still pretty effective so why not continue to use it? Direct instruction, afterall, is so important it's even one of my three categories I explicitly define in my own framework here. In a way, I'm taking parts from that saying and translating them into actionable items. You can do this once over multiple lessons, once per lesson, and even multiple times in a single lesson too!
 
 The last example I'll include is various materials authored by Rosenshine (2010, 2012).
+
+Despite the good these methods have, there are less-than-perfect parts. For example, the number of people I've seen take "story points" or "t-shirt sizes" seriously from Agile (and Scrum), so anecdotal evidence, is basically *zero*. I'm trying to take what I believe is the "good" from each method to inform how I set up this framework.
 
 ### **Framework Overview**
 

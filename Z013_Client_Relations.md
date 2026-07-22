@@ -51,7 +51,7 @@ Lastly, professional development is only good if it isn't a waste of time.
 
 *Notice: This chapter is written from the perspective of an educator/instructor.*
 
-You may find everyone else doesn't always know what they're doing all the time. They could simply be muddling through life and "winging it" (i.e. improvising) with whatever tools and knowledge they have and it somehow gets them by just fine.
+You may find many people don't always know what they're doing. They could simply be muddling through life, faking it until they make it, and/or "winging it" (i.e. improvising) with whatever tools and knowledge they have and it somehow gets them by just fine. Knowing this may be what you need to boost your own confidence.
 
 You'll also discover education systems don't have just educator problems. They have *everyone* problems and plenty of issues found in logistics, as each individual and group involved in education systems has responsibilities to follow through on.
 
@@ -67,7 +67,7 @@ You might get by just fine without these skills, as being a social butterfly is 
 
 Have you ever seen an uncharismatic person propose a genuinely good idea or solution, but people don't care for it (or even actively go against it)? 
 
-Likeability can help fix that. It's like your Charisma attribute.
+Likeability can help fix that. It's like your Charisma attribute. If you get rid of the person everyone likes? People may follow after them.
 
 People care about other human beings being decent human beings. In interviews and conversations, one way to verify this is the "airport test" (Indeed Editorial Team, 2025). You decide from one of many people with equal capabilities, status, etc. based on if you want to be stuck together with them in an airport for a long period of time. Succeeding here could simply be that someone else, or a group of people, didn't hate working with you and/or being around you.
 - **I have personally seen people, even the most competent and reliable people, not be hired, or fired, purely because they were difficult to work with and/or could not acclimate to the environment they operate in.**
@@ -83,7 +83,7 @@ Competence, while a valid measure of technical skills and experience, can almost
 
 Of these three aspects, likeability, trustworthiness, and competence, I'd generally prefer someone at least both likeable and trustworthy if I cannot get all three aspects to sufficient levels. It makes it a lot easier to willingly teach them the skills they need to succeed when the "environment" is favorable to education *and* they'll reliably complete the necessary work for their own success. If however, despite whatever passion or drive they bring in they still cannot meet the baseline competency we need, or cause the rest of the organization/team to suffer, then the decision to remove them may soon follow.
 
-Someone could be extremely competent at their job, so an organization or system considers them a "valuable asset" they cannot financially afford to lose as well. These people could disregard the other two aspects, as their skills are what matters, but they may also be considered a single point of failure, or even a *risk*, in organizations. Were that competency to ever decline, able to be replaced, or no longer be a prohibitive cost to deal with, those people will quickly become replaceable rather than irreplaceable.
+Someone could be extremely competent at their job, so an organization or system considers them a "valuable asset" they cannot financially afford to lose as well. That also means they're too valuable to *move* from their current role, which may mean getting passed over for promotions and any career advancement. These people could disregard the other two aspects, as their skills are what matters, but they may also be considered a single point of failure, or even a *risk*, in organizations. Were that competency to ever decline, able to be replaced, or no longer be a prohibitive cost to deal with, those people will quickly become replaceable rather than irreplaceable.
 
 ### **Handling Rejection**
 

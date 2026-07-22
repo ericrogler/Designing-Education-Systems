@@ -37,6 +37,8 @@ I'd also reasonably assume education will gradually try to move away from hard c
 You'll also find many rules don't apply universally for determining a standard of quality. For example, academia follows the rules of academia and internally conducts peer reviews, citation standards, accreditations, and holds authority in its own jurisdiction. Many of these rules exist to protect the people inside of them. It cannot, however, readily enforce products and services outside of that academia jurisdiction; those products and services are often subject to different rules in the environments they're active in.
 - That'd be like the United States using its federal laws to enforce what happens in the European Union.
 
+Lastly, a single textbook will typically not cover everything you need for purposes, such as designing a curriculum, so expect to utilize multiple sources to meet your goals. Even this book will not cover everything.
+
 ### **What are Sources of Truth?**
 
 There are two sources of truth I'll call out that you might work with: the knowledge you've already acquired vs the knowledge you need to acquire.

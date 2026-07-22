@@ -70,7 +70,7 @@ Perhaps alluding to *Fahrenheit 451* by Ray Bradbury (1953) is the way to start 
 I want you to imagine what happens when people choose, of their own free will, to dumb themselves down and offload thinking, become ignorant, and desire a constant preoccupation of their minds. All of that without any censorship or declaration from a third party involved forcing their hands. 
 - Perhaps the real message was people should avoid constantly staring at screens.
 
-While technology is generally a good thing, there can also be too much, or misuse, of a good thing. **Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, and a sniper rifle.**
+While technology is generally a good thing, there can also be too much, or misuse, of a good thing. **Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, garage door springs, trampolines, social media, and a sniper rifle.**
 
 Many people use various technologies like computers, phones, etc. all day, every day, and perhaps even every waking hour, and *still* not know how the underlying technology works. Even at the smallest issue or roadblock, their mind can go blank or they don't know how to find and implement a solution, which can lead to an unpleasant experience for anyone trying to help them. Having too many technologies (such as microservices) to the point where no one knows what they do anymore is a sign you've likely chosen technology implementations poorly.
 
@@ -186,13 +186,11 @@ While it's possible to get in through unorthodox means, it's far harder to do so
 
 ### **Computer Literacy**
 
-It's reasonable for me to assume computers will be around for a long time after this is originally written, even if not in the same form as described in this writing. Even if the desktop computer isn't around in the future, skills associated with computers today may persist. **Regardless of what technology is available, simply growing up/living around technology doesn't guarantee proficiency with technology.**
+It's reasonable for me to assume computers (or at least the concept of a computer) will be around for a long time after this is originally written, even if not in the same form as described in this writing. Even if a computer isn't around in the future, skills associated with computers today may persist. **Regardless of what technology is available, simply growing up/living around technology doesn't guarantee proficiency with technology.**
 
-I've seen students prove they're "tech savvy" but have also proven far more often how many students are not actually that. Your ability to plug a toaster into an outlet did not suddenly make you a master electrician either, afterall. 
+I've seen people prove they're "tech savvy" but have also proven far more often how many people are not actually that. Your ability to connect a toaster into a power outlet did not suddenly make you a master electrician either, afterall. 
 
-Anyways, let's go through a few examples!
-
-Troubleshooting (and by extension debugging) is a skill I've seen deprecated throughout the years. I won't squarely put blame on students or individuals though; software and processes are intentionally simplified and optimized to reduce cognitive load and not force people to "think" about what they're doing. The downside to this is if they don't think about what they're doing, they risk not acquiring any technical literacy if something *does* go wrong. Even if you provided step-by-step guides with exact instructions that are simple to understand, a human being can still greatly mess it up and not know how to search for what the issue is or self-diagnose their way out of a problem.
+Troubleshooting (and by extension debugging) is a skill I've seen deprecated throughout the years. I won't squarely put blame on any individuals though. In modern times, software and processes are intentionally simplified and optimized to reduce cognitive load and not force people to "think" about what they're doing. Even I advocated for simplifying processes when reasonable. The downside to this is if people don't think about what they're doing, they risk not acquiring any technical literacy if something *does* go wrong. Even if you provided step-by-step guides with exact instructions (i.e. tutorials) that are simple to understand, a human being can still easily mess it up and not know how to search for what the issue is or self-diagnose their way out of a problem.
 
 Knowing computer commands is another thing at risk of deprecation. This may include, but is not limited to, examples like:
 - Saving documents and files
@@ -200,7 +198,8 @@ Knowing computer commands is another thing at risk of deprecation. This may incl
 - Copy & Paste
 - Printing files, papers, etc. from a computer or similar device
 
-File structure is another large example I've seen issues with too on many electronic devices outside of computers. This is mainly organization in a computer-based environment. For example, separating files by categories like grades, years, students, etc. rather than dumping everything into a single file, repository, etc.
+File structure is where I've seen issues on many electronic devices outside of computers. This is mainly organization in a computer-based environment. For example, separating files by categories like grades, years, students, etc. rather than dumping everything into a single file, repository, etc.
+- You might liken this to "normalization" of tables and databases, depending on your background.
 
 File types (i.e. "extensions") are another tricky, but important aspect I see overlooked quite often. For example, a user may not be aware of what file extensions are and unknowingly submit the wrong *type* of file (e.g. a .docx instead of a .pdf). If they lack basic awareness of the extensions, they won't be able to manipulate or work with them effectively as a result.
 
@@ -281,7 +280,7 @@ The very nature of cooking here has complexity built into it no matter which ste
 
 I want you to imagine the dumbest person you've ever known being told what they want to do is actually a great idea. Now imagine that for an entire human population given the tools to go through with their "great ideas," often without even knowing what those tools can really do.
 
-Artificial Intelligence (AI) can enable all of that.
+Artificial Intelligence (AI) can enable that. Many other technologies can too.
 
 If we leave our skepticism at the door, then my opinion is AI's current *implementation* is not universally effective, but it's a tool with a knack for exceeding expectations in weird ways as it's a capability multiplier. It can hold significant control, or at least influence, over the livelihood of the larger human population. It can do things fast, but also make mistakes just as fast. Improper use of AI (and technology in general) may mean significantly higher costs compared to if you did a solution without that technology. Excessive technical debt can be avoided by not over-engineering something that doesn't matter in the next 6-12 months or doesn't need to service 1+ million, or 1+ billion, users in the foreseeable future, as one example.
 
