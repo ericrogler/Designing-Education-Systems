@@ -23,7 +23,7 @@ nav_order: 5
 
 *Notice: All information in this chapter is NOT legal advice.*
 
-There are at least two ways laws can be followed: by the letter of the law and by the spirit of the law. In either case, assume society's interpretation on these laws is based on how a "reasonable" person may interpret it. Additionally, what rules you must follow depends on location, subject, context, and employer.
+There are at least two ways laws can be followed: by the letter of the law and by the spirit of the law. In either case, assume society's interpretation and disposition towards these laws is based on how a "reasonable" person may adhere to them. Additionally, what rules you must follow depends on location, subject, context, and employer.
 
 Self-regulation in practice often works about as well as you'd expect (i.e. poorly), which is why regulations and enforcements from third parties and higher authorities exist.
 - More often than not, regulations are written in blood.
@@ -33,6 +33,8 @@ Tertiary education (colleges, universities, etc.) and secondary education offeri
 ## **Long Answer**
 
 *Repeat Notice: All information in this chapter is NOT legal advice.*
+
+Before we go into education itself, we must explore and address many of the underlying nuances and details hidden beneath the surface of education. Only then can you truly make any meaningful changes towards the future of education. Teaching students is just a miniscule part of the whole. Of these parts, the first I address is legality as it constrains what you *may* do, not just *can* do.
 
 **Generally speaking, laws related to education systems are rights-based and regulatory, which typically means one of two things (or even both things at once):**
 1. Provide protections and accommodations to people within them (students, staff, organizations, etc.)
@@ -88,7 +90,7 @@ For high schools with specialized tracks, colleges, universities, and specialist
 
 ### **Education in School Types (Overview)**
 
-At the time of writing, education is considered a responsibility of the state, including its public and private organizations, to establish, fund, and maintain schools and education (Colorado Department of Education, 2022). "State" means states like New York, Kansas, and Colorado, not the United States as a sovereign "state" in this case. For this section and onward, 
+At the time of writing, education is considered a responsibility of the state, including its public and private organizations, to establish, fund, and maintain schools and education (Colorado Department of Education, 2022). "State" in this instance means states like New York, Kansas, and Colorado, not the United States as a sovereign "state" in this case. For other countries, this may be called something like provinces.
 
 I'll use state of Colorado regulations as my examples.
 
@@ -150,9 +152,11 @@ To list out several examples of what is generally considered protected personal 
 
 This list seems like a lot of items, but strict protections are needed for these items and more. Rocher et al. conducted one study of an American population, across anonymized datasets, in 2019 and found 99.98% successful identification with 15 demographic attributes and 83% with 3 demographic attributes. Demographic attributes include items like date of birth (age), gender, zip code, race, citizenship, and so on. 
 
-To put that into perspective: revealing 3 important attributes about a classroom of any size gives *anyone* an 83% chance to find out information on any one student in there. **It is very easy to make yourself and others a target by carelessly revealing information (or quasi-identifiers). That's one major reason these laws and regulations exist!**
+To put that into perspective: revealing 3 important attributes about a classroom, school, etc. of any size gives *anyone* an 83% chance to find out information on any one student in there. **It is very easy to make yourself and others a target by carelessly revealing information (or quasi-identifiers). That's one major reason these laws and regulations exist!** 
 
-One example that may break these laws and regulations, even with explicitly written permission from all correct parties to do it, is filming and recording students (especially students who are minors). The same could be said of patients in hospitals, as a non-education comparison. You can, and probably will, give away personal identifying information including, but not limited to, names, age, gender, ethnicity, address (of where it's filmed at), and many more items. These identifiers may be uncovered even if not showing any students in the recording either. Privacy is important and recording is one of the quickest ways to eliminate privacy.
+As an example of personal identifying information you may not normally expect: a body marking or tattoo. If someone were to have a visible body marking on their person, that would make finding out *who* that someone is extremely easy. A body marking has a specific location, design, and details about a particular human body going beyond a birthday, address, photograph, and many other types of information. Even the Secret Service explicitly denies applicants if they do not follow the "no visible body markings" clause, at the time of this writing (US Secret Service, 2025).
+
+An example that may break these laws and regulations, even with explicitly written permission from all correct parties to do it, is filming and recording students (especially students who are minors). The same could be said of patients in hospitals, as a non-education comparison. You can, and probably will, give away personal identifying information including, but not limited to, names, age, gender, ethnicity, address (of where it's filmed at), and many more items. These identifiers may be uncovered even if not showing any students in the recording either. Privacy is important and recording is one of the quickest ways to eliminate privacy.
 - The same applies for *students* also filming and recording too. The exact rules and disciplinary actions may be different based on one-party and two-party consent states.
 
 ### **Student Disabilities and Accommodations**
@@ -183,7 +187,7 @@ I separated these from the previous section intentionally. For context, this is 
 
 In theory, these plans help students struggling to control behaviors and actions in class.
 
-In practice, it's utilized as a layer of protection to avoid the education system getting sued or into legal trouble with the promise that the kid won't be removed from education. Additionally, some teachers may not have adequate training or supports to properly follow through these plans, which suggests needed improvements (Iovannone et al., 2024). Due to these issues, BIPs may turn into boilerplate solutions due to a lack of resources or available personnel to help these students outside of specialized schools.
+In practice, it's utilized as a layer of protection to avoid the education system getting sued or into legal trouble with the promise that the student won't be removed from education. Some teachers may not have adequate training or supports to properly follow through these plans either, which suggests needed improvements (Iovannone et al., 2024). Due to these issues, BIPs may turn into boilerplate solutions due to a lack of resources or available personnel to help these students outside of specialized schools.
 
 Despite the disconnect between theory and practice, BIPs *do* work when well-implemented. If not carefully implemented, however, an item like a BIP may become a means to keep students and clients (like parents) happy and in education, but often stranded without sufficient help.
 
@@ -260,7 +264,7 @@ At the end of the day, these types of punishments may turn moral/legal/ethical p
 
 ### **Age Verification Systems**
 
-Personal opinion: verification systems, regardless of whether or not children are utilized as the scapegoat to advocate for their implementation, can be a slippery slope permitting scope creep. The message and lessons from George Orwell's book *1984* further reinforces *why* I don't like how they can be implemented as a catalyst to spread censorship to other parties besides children (1949).
+Personal opinion: verification systems, regardless of whether or not children are utilized as the scapegoat to advocate for their implementation, can be a slippery slope permitting scope creep. Trading liberty for safety can leave you with neither. The message and lessons from George Orwell's book *1984* further reinforces *why* I don't like how they can be implemented as a catalyst to spread censorship to other parties besides children (1949).
 
 This is a sensitive issue, but it's precisely because it's a sensitive issue it may get rules and systems approved which normally are not approved. There may be several laws in place already to help protect personal identifying information, such as HIPAA, FERPA, and GDPR. It also covers logging and auditing of information and determines who is on a should know, may know, need-to-know, shall know, and must know basis.
 
@@ -444,7 +448,9 @@ For example, with intellectual property, a contract may make a distinction about
 
 39. U.S. Department of Justice. (2025, March 24). *Title VI of the Civil Rights Act of 1964.* [https://www.justice.gov/crt/fcs/TitleVI](https://www.justice.gov/crt/fcs/TitleVI)
 
-1. U.S. Department of Labor. (2025). Retaliation - U.S. department of labor. Www.dol.gov. [https://www.dol.gov/agencies/whd/retaliation](https://www.dol.gov/agencies/whd/retaliation)
+1. U.S. Department of Labor. (2025). *Retaliation - U.S. department of labor.* Www.dol.gov. [https://www.dol.gov/agencies/whd/retaliation](https://www.dol.gov/agencies/whd/retaliation)
+
+41. United States Secret Service (US Secret Service). (2025). *Qualifications: Administrative, Professional and Technical.* In secretservice.gov. [https://www.secretservice.gov/careers/administrative-technical-professional/qualifications](https://www.secretservice.gov/careers/administrative-technical-professional/qualifications)
 
 40. WASC Senior College and University Commission. (n.d.). *WSCUC*. [https://www.wscuc.org/](https://www.wscuc.org/)
 

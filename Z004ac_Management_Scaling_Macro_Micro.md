@@ -79,30 +79,33 @@ Additionally, every action can snowball. What seems like a small cost or error a
 
 ### **Macro vs Micro**
 
-Macro is significantly more important than micro for a manager, commander, etc. It's an area many people make mistakes on as they prioritize insignificant contributions, micromanaging, or fine-tuning too much. From my own assessment, about 80-90% of time should be on macro and managing resources, orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
+Macro is significantly more important than micro for a manager, commander, etc. It's an area many people make mistakes on as they mistakenly prioritize insignificant contributions, micromanaging, and/or fine-tuning too much. From my own assessment, about 80-90% of time should be on macro and managing resources, orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
 
 Doing more than one task at a time hampers productivity (APA, 2006). Even if you could multitask, the level of precision and finesse drastically decreases for all things done simultaneously. You can have multiple tasks going all at the same time though, in parallel, which is what a methodology like Critical Path Analysis helps to solve and optimize.
 
 It's why distracting opponents works as a defensive technique and a set-up for an offensive technique. If the opponent falls for the distraction, it's what they focus on monentarily instead of their original goal, which gives you more time to focus on your priorities to achieve victory from that moment onwards.
 
+In many situations, people may be making dozens, if not over a hundred, decisions within a single minute to decide how to handle people. I will call these "micro-macro decisions" much like how a data engineer can make "batch" data pipelines condensed down into "micro-batch" data pipelines. Micro-macro decisions are where you're giving "commands" that *looks* like micromanagement, but is actually meticulous macromanagement performed at high frequency.
+- You may see similarities here in other areas, such as dispatching theory, interrupt-driven scheduling, and span of control.
+
+As an example, say I have 5 workers directly reporting to me with various tasks. I individually assign orders to each unit, one-by-one, to go do something, and I will often swap around to delegate new orders in quick succession. This is almost always "brief" orders, such as "Go here" or "Patrol this" and so on. You are rarely, if ever, committing an interference in execution. You need to constantly swap between many contexts and devote your efforts towards allocation instead. The worker(s) already "knows" the how behind what they're doing, so all *you're* doing here is telling them where they allocate their efforts towards.
+
 ### **The Macro(management)**
 
-This is your backbone, your strategy, or your core build order. Whatever you wish to call it.
+This is your backbone, your strategy, or your core build order. Whatever you wish to call it. It's the primary guide, plan, and routine you follow along with, or perhaps know by heart, to achieve victory and meet your goals. Ideally, there should be no blockers, no idle work, and no missed opportunities as you're maximizing the effectiveness and efficiency of your plan(s).
 
-It's the primary guide, plan, and routine you follow along with, or perhaps know by heart, to achieve victory and meet your goals. It should account for achieving constant production and efficient resource use. Ideally, there should be no blockers, no idle work, and no missed opportunities.
+Never forget this core routine *must* be adaptable. It has to account for emergencies, deviations from the norm, and more. A rigid macro strategy, even if it's a seemingly perfect strategy, may crumble if it cannot adapt to changing environments and unexpected scenarios.
 
-Never forget this core routine *must* be adaptable. It has to account for emergencies, deviations from the norm, and more. A rigid macro strategy, even if it's a seemingly perfect strategy, can crumble if it cannot adapt to changing environments and unexpected scenarios.
+You can generate multiple routines as templates for different types of scenarios, but you should have one core "routine" at a minimum. You can think of it similar to a single tree with deep roots and multiple branches stemming off the tree.
 
-You can generate multiple routines as templates for different types of scenarios, but you should have one core "routine" at a minimum.
+The only way to reduce anxiety, analysis paralysis, and any mistakes is through well-defined planning, properly established contingencies, and practice. Theory can refine your moves, but practice mitigates the chance you cannot commit when push comes to shove.
 
-The only way to reduce anxiety and make fewer mistakes is through well-defined planning, properly established contingencies, and practice. Theory can refine your moves, but practice mitigates the chance you cannot commit when push comes to shove.
-
-That isn't to say theory should be neglected either. If you lack proper knowledge on capabilities of units, what tools are available, and what systems are in place, you'll mess up in several ways including, but not limited to:
+Theory should not be neglected however. If you lack proper knowledge on the capabilities of units and people you're managing, what tools are available, and what systems are in place, you'll mess up in several ways including, but not limited to:
 - Resource misallocation
 - Wrongly assigning deadlines
-- Tactical blunders
+- Tactical and strategic blunders
 
-Knowledge of the environment and knowledge of technical skills and details is important. Equally important is what's feasible for you to accomplish in your given environment.
+Knowledge of the environment and knowledge of technical skills and details are important, but they're still constrained by what's feasible for you to accomplish in your given environment.
 
 ### **The Micro(management)**
 
@@ -241,6 +244,25 @@ That large population of engineers is broken down into many separate groups. Ass
 The next problem is how these teams *communicate* with each other. This is where standardization comes in and formalized communication. Teams agree to follow the same protocols, topics, methods for synchronization, and so on. They also refine and designate the environments they operate in, so one person's project (hopefully) doesn't spill out and cause unnecessary issues in other projects. You could have multiple testing environments, with one environment for each group, and a final production environment where all the changes are merged, sorted, verified, and ultimately deployed towards the end product/service/goal/etc. Even with a single area where all of these places converge, you'll still need to control *how* they arrive, which is where concepts like version control, source control, and rollouts thrive.
 
 You'll still need that same standardization and formalization to set up various tests, logs, metrics, and events to keep everyone on the same page and ensure everything was working, is working, remains working, and stores backups in case of emergencies. To put it another way, multiple teams may not be working on the same product, but the standards to which products are made should be consistent across those teams in the same system/organization. Even if you were to deploy a change or new product, you'd likely have to pass through various tests across *multiple* environments to mitigate any lucky stroke (or at least then "it works on my machine!" comments). This is why there could be thousands, if not millions or even billions, of small tests to check the features in whatever you deploy.
+
+### **Accidental Leadership**
+
+In an organization, a direct report under you may go assist other parts of the organization you may, or may not, have no direct control or influence on. It may even take away time from *your* projects you need them to get done.
+
+This isn't always a bad thing or something requiring punishment or reprimanding. Perhaps what you have is a generalist who's skilled across countless shallow matters or a specialist who is exceptionally well-read and learned in your given field.
+
+A solution to this is to "promote" them into a newly formalized consultant/advisor role, such as a short-term project consultant in a given timeframe of week, months, or other duration. An official role mitigates ambiguity and explicitly draws out who backs whom and where responsibility lies. You do *not* have to put people under them, unless you're planning on forming a *team* (or department) of these people you'll oversee.
+
+Think of this consultant as a "detachment" you can assign across various managers under the purview of one director (i.e. *you*). They drop into a project or another leader's team, solve the urgency in a short order of time, then move on to assist the wider organization. 
+
+You'll also want a process for smooth handoffs and transitions across these leaders. If your newfound consultant does work on a project for another leader, said leader should document what your consultant did and report it back up to you. These leaders may experience insecurity at first with needing the "backup," but they'll (hopefully) appreciate it when said backup puts out the proverbial fires they cannot fix on their own.
+
+While this solution sounds like a good idea, there are several caveats behind it:
+- Their "capacity" must be intentionally discounted and kept below 100% utilization to perform this role as intended. They step in *as needed*, not as wanted. If it gets to, or exceeds, 100% utilization, then the arrangement ends or is re-evaluated.
+- They need more resources (i.e. *compensation/salary* and role-related resources) to maintain sufficient reward vs effort ratios.
+- You ultimately arbitrate where they go in the event leaders "conflict" on who and where gets your "consultant."
+- Documentation, or handoff reports, *must* be enforced and required as a condition of getting the consultant now and in the future.
+- You need explicit start/end dates for how long they may assist someone. This can be dates, milestones, explicitly defined points, etc. *but you need something.*
 
 ### **Relating Back to Instruction**
 

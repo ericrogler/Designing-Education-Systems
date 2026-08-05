@@ -15,17 +15,18 @@ Now then, imagine I want to get a new teacher, instructor, presenter, educator e
 
 **That's my problem here to solve and this book is my solution. It serves as an introduction, or starting point, towards education systems and examines multiple topics broadly.**
 
-Will it go against some conventional wisdom on education and teaching? Yes. 
+**The very first thing people looking into education should know? Education is 90% *not* teaching and 10% teaching. This book explores that 90% *and* the 10%.**
 
-Will it support certain existing, tried-and-true, education methodology? Also yes.
+The second thing, or *things*, you should know going in:
+- It's going to take you a long time to become an expert and you still need to learn the basics.
+- Will this book go against some conventional wisdom on education and teaching? Yes. 
+- Will this book support certain existing, tried-and-true, education methodology? Also yes.
+- Might this book be considered a controversial book to some readers? Very much so.
+- Will this book often state the obvious that still need to be stated anyways? Quite so. What may be obvious to one reader may not be to another reader.
+- Will some of this book not be perfect or 100% correct? Yes. This won't solve all your problems and you'd be bold for assuming I know *all* the solutions and edge cases involved. Improving education is an iterative process, afterall, even if that process loops back in "old" solutions to "new" problems.
+- Do you need to agree with *everything* presented here? No, and you don't have to either. Your situation may even *demand* you to not follow something presented here.
 
-Might it be considered a controversial book to some readers? Very much so.
-
-Will this book often state the obvious that still need to be stated anyways? Quite so. What may be obvious to one reader may not be to another reader.
-
-Will some of this information not be perfect or 100% correct? Yes. This won't solve all your problems and you'd be bold for assuming I *know* all the solutions. That's to be expected as improving education is an iterative process (even if that process loops back in "old" solutions to "new" problems).
-
-***Think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.*** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
+**Overall, think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
 - Granted, I'm also going to cater what products and services I provide, i.e. information and opinions on topics presented to you.
     - At the very least, I'll be the person that will speak to you frankly, filter through things, and attempt an honest assessment, which many powerful creatives should have.
     - It also means you should still read the contents of this book with a grain of salt, even with any good advice. Your current situation may require modifications of what's suggested here.
@@ -54,11 +55,13 @@ This book also uses what I'll call a "ground up" approach. It will examine educa
 
 ### **Who Should Read This Book**
 
-I designed this book primarily for educators, professionals already involved in education systems, as well as designers and engineers wanting to better understand considerations for system design. It reflects the perspective of someone who's experienced multiple educational contexts, including non-traditional schooling as well as public and private schools serving affluent and poorer communities.
+I designed this book primarily for educators, administrators in education, professionals already involved in education systems, as well as designers and engineers wanting to better understand considerations for system design within education. It reflects the perspective of someone who's personally experienced multiple educational contexts, including non-traditional schooling as well as public and private schools serving affluent and poorer communities, combined with work experiences across multiple fields.
 
-While advice may apply beyond education system, the focus is primarily on applications, potential and real, within educational systems. When examples from other fields, or even lengthy descriptions about non-education fields appear, my intention is telling you how I can see these outside perspectives, practices, and ideas may improve education.
+While advice may apply beyond education system, the focus is primarily on applications, potential and real, within educational systems. When examples from other fields, or even lengthy descriptions about non-education fields appear, my intention is telling you how I see these outside perspectives, practices, and ideas may help improve education.
 
 Overall, the goal is to be at least *somewhat* useful to anyone involved or curious about education and delivering education, regardless of context. As with any work focused on a specific domain, some concepts may translate more directly than others based on where they're applied to.
+
+If you're an administrator or district, state, or federal education professional and want to show your educators this book... honestly, just give them the summary (see the conclusion chapter for that part), talk about it for 10-15 minutes, then have the rest of time be alloted to doing their own work or working with their teams. Maybe have some food and drinks as well. You could even send an email too and avoid a meeting altogether! Educators will read it, care about it, and stick with it if they think it's valuable. Don't worry about that part.
 
 ### **Prerequisites**
 

@@ -39,16 +39,22 @@ This chapter covers operational management and provides some context for what le
 
 According to the U.S. Department of Defense on Army organization, there are similar breakpoints/upper limits like the previous chapter. A squad goes up to about 16 soldiers, a platoon about 44 soldiers, a company about 120-200 soldiers, and a battalion about 400-1000 soldiers (U.S. Department of Defense, n.d.). For comparison in the previous chapter, these breakpoints were at 15 people, 40-50 people, 120-140 people, and 350-400 people.
 
-**Emotional regulation is essential.** There are times you get *punished* and things go completely in flames because one person did one tiny thing due to an emotional outburst. It affects decision making, communication, your abilities, and so much more.
+**Emotional regulation is essential.** There are times you get *punished* and things go completely up in flames because one person did one tiny thing due to an emotional outburst. It affects decision making, communication, competency, and so much more.
 
 As for a reason why emotional regulation is important: it further establishes your presence and authority as a leader and person. If you're calm and collected while everyone else is panicking, people are appreciative and typically show more respect towards you; the person who handles themselves and knows what they're doing.
 
+### **Milsim Overview**
+
+Milsims, or "military simulations," are most commonly accessible as of this writing through various media formats, such as video games. There are also real-life organizations that set up events and operations, like field exercises, lasting for days instead of hours. Many people involved in milsims, or that join these groups, come from military backgrounds and build communities modeled on military organizations they were a part of, including many of their procedures and regulations. For civilian populations, this is one of the few accessible and legal substitutes to experience aspects of military structure and operations.
+
+For this chapter, I want you to pretend you are observing me go through how to establish the foundations of one of these organizations and see some of the nuances involved.
+
 ### **How does this relate to Education?**
 
-The material in this chapter is likely foreign and/or unexpected to many people, so there's more provided context than usual. Here are some examples between classroom management and milsim management to consider as you're reading along.
+The material in this chapter is likely foreign and/or unexpected to many readers, so there's more provided background context than usual. Here are some comparisons between classroom management and milsim management to consider as you're reading along.
 
 **Communications** 
-- Soldiers use spoken voice and radio nets, whereas a class may use hand signals and structured discussion formats.
+- Soldiers use spoken voice and radio nets to communicate information between leaders and subordinates, whereas a class may use hand signals and structured discussion formats for communication between teachers and students.
 
 **Scaling Challenges** 
 - A teacher can manage smaller classrooms and groups of students, while a squad leader can manage everyone in their squad and their groups through team leaders. 
@@ -63,24 +69,22 @@ The material in this chapter is likely foreign and/or unexpected to many people,
 - In classrooms, if projects are not defined and norms are not enforced, chaos ensues and one disruptive group or student can derail the class session.
 
 **Culture & Buy-in** 
-- Milsims operate well when everyone in the groups agrees to and follows the same, base set of rules
+- Milsims operate well when everyone in the groups agrees to and follows the same set of rules
 - Classrooms function well when everyone understands the classroom procedures, sees the procedures as a fair ruleset, and are consistent with following them.
-
-### **Milsim Overview**
-
-Milsims, or "military simulations," are most commonly accessible as of this writing through various video games. There are also real-life organizations that set up events and operations, like field exercises, lasting for days instead of hours. Many people involved in milsims come from military backgrounds and build communities modeled on military organizations they were a part of, including many of their procedures and regulations. For civilian populations, this is one of the few accessible and legal substitutes to experience aspects of military structure and operations.
 
 ### **Setup, Trainings, and Procedures**
 
-There are multiple types of trainings milsim organizations host, such as Basic, MOS, Specialty/Detachment, and Officer/Leadership. No applicant may proceed into operations, or permitted specific roles and equipment, without first passing these trainings.
+There are multiple types of trainings milsim organizations host, such as Basic, MOS/AIT, Specialty/Detachment, and Officer/Leadership. No applicant may proceed into operations, or permitted specific roles and equipment, without first passing these trainings.
 
 Keep in mind members of a group may more or less freely associate with each other regardless of rank or position in a milsim group, but may be restricted on what channels they can access depending on their position within the group.
 
+A consistent theme you'll find in trainings here, regardless of their difficulty and/or content, is ensuring a base level of functional independence, in stressful situations, among *every single person* who goes through them to not have them be risky liabilities. The idea is if you aren't able to do what's needed correctly, and quickly enough, in a *controlled* situation, we cannot trust you to do it in an *uncontrolled* situation without risking unnecessary damage to yourself or others. Every second, and decision, can mean the difference between success and failure.
+
+This concept is not foreign to milsims either. Any field or line of work where life-threatening danger can occur goes through strict trainings and verifications so the people going through it *truly* learned how to do it and can do it under pressure.
+
 ### **Basic Training (BCT)**
 
-Basic training (BCT) is vital to milsim organizations as it's the entry point and orientation for incoming recruits. It ensures they understand the environment they're getting into and what they must do to work effectively alongside everyone else. If they cannot understand these rules and procedures, they cannot know instinctively what is expected of them and be unable to focus on the mission without being hand-held and told what to do. We're building the necessary skills and getting them to up to standards.
-
-To put it another way: the goal of BCT is ensuring a base level of functional independence among *every single person* in the organization and not have them be walking liabilities. If you aren't able to do something in a *normal* situation, we cannot trust you to do it in a *stressful* situation without risking unnecessary damage to yourself or others.
+Basic training (BCT) is often the entry point and orientation for incoming recruits, or at least done after an initial interview of the recruits. It ensures they understand the environment they're getting into and what they must do to work effectively alongside everyone else. If they cannot understand these rules and procedures, they cannot know instinctively what is expected of them and be unable to focus on the mission without being hand-held and told what to do. We're building the necessary skills and getting them to up to standards.
 
 Some examples of what may be covered in basic training:
 
@@ -91,6 +95,7 @@ Some examples of what may be covered in basic training:
 - What you can and cannot do
 - What happens when you break the rules, the consequences, and the severity of certain rule-breaking actions
 - How to fix yourself up in case of minor to moderate emergenices, like cuts, bruises, and non-life threatening wounds
+- The significance of certain phrases, such as Over vs Out and "Broken Arrow," in communiations.
 
 Procedures are taught by designated trainers, checked for competency and understanding, over each procedure until all are covered. Depending on how casual or serious the milsim group is, this training can take 30min to 3+ hours and may have a written manual you can follow along with.
 
@@ -115,7 +120,7 @@ For a classroom parallel, MOS training is like reviewing rules and requirements 
 Setting up a detachment up and its selection/training process requires more clearances, permissions, and oversights approved first compared to Basic/MOS training. The organization was based largely around one (or simply limited) methods of operating, while adding a detachment effectively offers a "new" method for consideration. Detachments may also be a different solution to an existing pain point, but still require that same level of consideration and scrutiny before they're implemented.
 - As an education parallel, imagine a "detachment" is like adding an entirely new college under a university's umbrella. 
 
-Detachment training is but one part of this process and these detachments commonly have stricter entry requirements and performance standards. Detachments consist of personnel assigned to specific tasks and roles within the milsim organization as a whole, which means receiving different trainings, missions, and equipment. They are also intentionally limited in size as smaller numbers are generally better suited for "special" or unconventional operations rather than general/conventional milsim operations. 
+Detachment training is but one part of this process and these detachments commonly have stricter entry requirements and performance standards. Detachments consist of personnel assigned to specific tasks and roles within the milsim organization as a whole, which means receiving different trainings for their missions and equipment. They are also intentionally limited in size as smaller numbers are generally better suited for "special" or unconventional operations rather than general/conventional milsim operations. 
 
 Let's pretend I'm creating a Force Reconnaissance detachment and I'm seeking approval from the Company Leader (or the current direct leader of an organization). There's several things to establish and approve outside of training and certifications with the Company Leader including, but not limited to, a proposal covering items like:
 - What extra equipment the detachment is permitted and what additional rules do they follow
@@ -133,6 +138,12 @@ After initial approval is received comes further changes to how the training is 
 - How to interpret maps, terrain, symbols, landmarks, and so on
 - How to complete multiple tasks thousands of meters away from objectives
 
+If the force reconnaissance selection process and trainings included advanced weapon systems and scenarios like engagements over extreme long ranges, that also means sufficiently covering certain applications of mathematics and science relevant to those systems. In a milsim organization where civilians may be involved in the training process, this may be referencing declassified materials accessible to those civilians, such as the following:
+- *Long Range Shooting Handbook* by Cleckner (2016)
+- *Advanced Long Range Shooting* by Cleckner (2025)
+- *Applied Ballistics For Long-Range Shooting* by Litz (2015)
+- FM 3-05.222 *Special Forces Sniper Training and Employment* from the U.S. Army (2017)
+
 Several requirements are already met by many people after they reach a certain "rank" and pass specific MOS trainings (in this example: at least passing marksman, medic, and grenadier MOS trainings) as well as basic training. The detachment training can review *parts* of these prior trainings again, but assumes heavily, and in good faith, rigor was strictly maintained and review time can be shortened greatly. Compared to all other trainings, except for officer/leadership training, how the training is conducted and performance graded is intentionally obscured to ensure fairness and equity for all incoming candidates.
 
 Of particular note above, a mindset is *extremely* difficult to train compared to other skills. If I were to describe the ideal mentality detachments likely desire briefly: those who seek to perfect their craft and will not give up when things get difficult. While mentality can be developed to what's needed for the detachment, training that up takes significant time and resources and requires the trainee to undergo a self-actualization process. It also cannot be trained up as easily as physicality, coordination, accuracy and precision, or other technical skills. Any physical factors and technical knowledge can be trained up and overcome blockers far more easily compared to mentality.
@@ -141,7 +152,7 @@ There's also a process called voluntary withdrawl, where a trainee chooses, of t
 
 Outside of the above details, detachment training is similar to Basic/MOS, but typically with higher standards due to specialized responsibilities and more dedicated resources available. When someone goes through detachment trainings, they usually do so to become part of that detachment rather than receive only knowledge and receiving any new permissions from their station. After passing the training and tests, the applicant may go into an official role or a trial period to see how they act in a live environment and how they interact with the people around them as well. The purpose of a "trial period" is to confirm they didn't slip through the cracks on the training process and we catch the issues quickly.
 
-As a warning, since they may be considered "special" units within an organization, detachments may give rise to "elitism" (i.e. a superiority complex) where people in a detachment may view themselves above non-detachment personnel regardless of rank. If your organization does not account for and curb this issue, it will deteriorate the overall organization's culture and well-being, which leads to internal issues and potentially stagnation and decline.
+As a warning, since they may be considered "special" units within an organization, detachments may give rise to "elitism" (i.e. a superiority complex). People in a detachment may view themselves above non-detachment personnel regardless of rank. If your organization does not account for and curb this issue, it will deteriorate the overall organization's culture and well-being, which leads to internal issues and potentially stagnation and decline.
 
 In a typical education system, my closest comparison here may be with selecting teaching assistants from students who passed with high marks in the relevant classes before and were vetted by staff. These roles may require administrative approval, like principal sign-off, to ensure it won't cause issues with a student's education on top of their existing responsibilities. While they don't hold as much authority (and likely knowledge) as a teacher, they are still specialists in a given area of expertise.
 
@@ -186,7 +197,7 @@ In a milsim, they typically range from 30 minutes up to 2 hours in length, with 
 
 As for why an FTX is important, think about the first time you've tried something new or wanted to start an initiative if you're a leader. At first, you may have struggled to get it right and you're consciously thinking about how to do it correctly. The second time goes a bit better because you've been through the steps once before, so now it's improving upon the execution of the process and less thinking about what the steps even were. This continues on and on until eventually you can do it subconsciously and spend far more energy on the actions rather than the thoughts.
 
-Though a FTX may seem like a waste of time, its ultimate goal is a "safe" environment to prepare you for how to do things before you are *forced* to figure it out in an unsafe environment without time to think. It's also a timeslot where, if someone fails to meet a baseline or standards, the consequences for failure are *significantly* less severe. There's far more time for instructors to provide remediation on the spot as needed or refer to other trainings and supports if it cannot be solved on the spot.
+Though a FTX may seem overboard at times, it provides a "safe" environment to prepare you for how to do things before you are *forced* to figure it out in an unsafe environment without time to think. It's also a timeslot where, if someone fails to meet a baseline or standards, the consequences for any failures are *significantly* less severe. There's far more time for instructors to provide remediation on the spot as needed or refer to other trainings and supports if it cannot be solved on the spot.
 
 I found people, and students, have a habit of "locking up" in stressful situations where they don't know what to do. In an FTX, it forces someone to encounter the problem head-on and practice a solution for it. Once enough practice is done, the likelihood of "locking up" and messing up is greatly reduced as we've made an attempt to fill that knowledge gap. On the metrics side, this may mean improved reaction times, fewer communication issues, better operations performance, and more items which senior leadership can point to and track over time to monitor organizational capabilities.
 
@@ -210,7 +221,7 @@ To keep this section concise, I'll redirect readers to look into the [Whitehall 
 
 ### **Precision and the Cost of One Mistake**
 
-In milsim environments, the margin of error is extremely low. Mistakes are costly and many situations are matters of life and death, unlike what you may typically see in education systems. 
+In milsim environments, the margin of error is extremely low. Mistakes are costly and many situations are matters of life and death, unlike what you may typically see in education systems.
 
 Leadership doesn't correct mistakes from animosity; they correct mistakes because oversights endanger missions and people under their command. Even a single gamble or gut instinct gone wrong is a risk that can lead to all-out conflict or devastation, like if "The Man Who Saved The World" Stanislav Petrov made the wrong decision in 1983 (Lebedev, 2004). The same principle also applies to smaller scale situations, like a misinterpreted order received through a radio transmission or unknowingly calling in a danger-close fire mission.
 
@@ -252,16 +263,13 @@ It's also common to use acronyms, abbreviations, markings, and symbols to commun
 
 Whenever I participated in milsim scenarios, I usually joined the reconnaissance units/elements. As for why I was usually allowed into those groups, it was because I was good at math, precise with spotting, knew how to stay silent and undetected, and was accurate across extreme distances. More importantly, I could work within a specialized team and interpret the signs, symbols, landmarks, and *read* maps and terrain accurately and precisely with limited (or non-functional) technology. Land navigation was a surprisingly neglected skill in practice, despite technologies like a GPS handling the heavy lifting for most people. Working at extreme distances also means dealing with the armanents to cover those ranges and handling issues like projectile drops, transonic effects, Coriolis effect, wind, and far more variables many short range interactions get to "ignore" entirely.
 
-If I were in a "manager" role, like a squad or team leader, I would establish three rules for *all* communications in these specialist groups where every conservation over radio nets needs to be:
-1. Concise
-2. Clear
-3. Descriptive
+If I were in a "manager" role, like a squad or team leader, I would establish three rules for *all* communications in these specialist groups where conservations need to be concise, clear, and descriptive all at once. *Brevity above all here.* The simpler it is, the easier it is, so to speak.
 
-10 seconds was set as the hard limit for each communication, order, etc. sent out. If it's longer than that, minds drift and information complexity increases. The simpler it is, the easier it is. You can get the necessary information transmitted in that timeframe, despite how short it may seem, so long as it follows those three rules.
+10 seconds was set as the hard limit for each communication, order, etc. sent out. If it's longer than that, minds may drift and information complexity risks being too high. You can get the necessary information transmitted in that timeframe, despite how short it may seem, so long as it follows those three rules.
 
-If you cannot say something within 10 seconds, describe exactly what is there without ambiguity, and provide the appropriate context, it is likely not considered a good message. You may lack certain aspects and details, but you cannot stumble over your words and take any longer than necessary. In operations, there are seconds on the clock and you need to be able to adjust quickly when things go wrong.
+If you cannot say something within 10 seconds, describe exactly what is there without ambiguity, and provide the appropriate context, it is likely not considered a good message. You may lack certain aspects and details, but you still cannot stumble over your words and take any longer than necessary. In operations and high-stress situations, there are seconds on the clock and you need to adjust quickly when things go wrong.
 
-Where the biggest difference arrives is in face-to-face and radio network communications. Unless you are positively, absolutely sure nothing bad will happen (which is almost never in practice), you don't ever want to talk or ramble a lot on them. You want to get straight to the point and not waste anyone's time. Time spent listening to you is time spent they could focus on and do other equally, if not more, important tasks.
+Where the biggest difference arrives is in face-to-face and radio network communications. Unless you are positively, absolutely sure nothing bad will happen (which is almost never in practice), you don't ever want to talk or ramble a lot. You want to get straight to the point and not waste anyone's time. Time spent listening to you is time spent they could focus on other equally, if not more, important tasks.
 
 As for meetings, it's subject to all the rules and caveats I discussed in other management chapters, but in a modified context.
 
@@ -530,6 +538,13 @@ Keep in mind reservists may not commit to a slotted role or may be waiting for a
 
 ## **Bibliography**
 
+1. Army, U.S. (2017). *The Official US Army Special Forces Sniper Handbook*. Createspace Independent Publishing Platform.
+  - Alternative Title: FM 3-05.222 *Special Forces Sniper Training and Employment*
+
+1. Cleckner, R. M. (2016). *Long Range Shooting Handbook.* North Shadow Press.
+
+1. Cleckner, R. M. (2025). *Advanced Long Range Shooting.* North Shadow Press.
+
 1. *Military Units: Army.* (n.d.). U.S. Department of Defense. [https://www.defense.gov/Multimedia/Experience/Military-Units/Army/](https://www.defense.gov/Multimedia/Experience/Military-Units/Army/)
 
 1. *Radio Regulations; Additional Radio Regulations; Additional Protocol; Resolutions and Recommendations [(PDF)](https://search.itu.int/history/HistoryDigitalCollectionDocLibrary/4.85.43.en.100.pdf)*. Geneva: International Telecommunication Union. 1959. pp. 430, 607. [Archived (PDF)](https://web.archive.org/web/20171107031456/http://search.itu.int/history/HistoryDigitalCollectionDocLibrary/4.85.43.en.100.pdf) from the original on 7 November 2017.
@@ -540,6 +555,8 @@ Keep in mind reservists may not commit to a slotted role or may be waiting for a
     - Alt Link: [https://pubmed.ncbi.nlm.nih.gov/1674771/](https://pubmed.ncbi.nlm.nih.gov/1674771/)
 
 2. Lebedev, Anastasiya (2004, May 21). Mattern, Douglas; Waldow, Rene; Ray, Tom (eds.). *The Man Who Saved the World Finally Recognized.* MosNews/Association of World Citizens (AWC). San Francisco, California, United States: The Association of World Citizens. Archived from the original on 21 July 2011. [https://web.archive.org/web/20110721000030/http://www.worldcitizens.org/petrov2.html](https://web.archive.org/web/20110721000030/http://www.worldcitizens.org/petrov2.html)
+
+1. Litz, B. (2015). *Applied Ballistics for Long Range Shooting 3rd Edition.*
 
 3. Sinek, S. (2014). *Leaders Eat Last: Why Some Teams Pull Together and Others Don’t.* Portfolio/Penguin.
 

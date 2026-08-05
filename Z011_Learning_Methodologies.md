@@ -11,7 +11,7 @@ nav_order: 20
 
 > "There is no blame - all must accept. But, at its core, one must wonder if it was the failure of the Jedi teachings... or the teachers themselves." 
 
-- Mical, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
+- Mical, *Star Wars Knights of the Old Republic II: The Sith Lords* (2004)
 
 ---
 
@@ -88,7 +88,7 @@ Homeschooling is also one of those areas in education where, at the time of this
 
 Even without homeschooling, parents and guardians greatly influence their child's education. They can supplement learning outside of school alongside any formal education. For example, one of the easiest ways to help elevate a child above their peers is training literacy by helping them read, reading aloud to them, and teaching them to learn to read well *before* starting any formal education. The hard part is making reading a habit, where you encourage reading without prompting them to do it. The other hard parts are ensuring they can not only just read words, but also utilize words correctly and decipher the text, and developing the mental endurance to not give up at the first sign of a challenge. 
 
-Literacy is important for understanding *every* subject students experience as part of their education. At the same time, don't make them *hate* reading either, as not wanting to read is one of the fastest ways to keep them uneducated and weaken their overall endurance for learning in general. As for potential ways to help get children, and students, to want to read on their own:
+Literacy is important for understanding *every* subject students experience as part of their education. **Fortunately, improving literacy and reading ability is easy: have students actually read (and write).** At the same time, don't make them *hate* reading either, as not wanting to read is one of the fastest ways to keep them uneducated and weaken their overall endurance for learning in general. As for potential ways to help get children, and students, to want to read on their own:
 1. Every hour of reading means 30 minutes of "free" time or can stay up 30 minutes later at night.
 2. Take them to environments, such as public libraries, where the primary means of "fun" *is* through reading.
 3. Be a role model. If parents/guardians do reading, then their children may also do reading.
@@ -170,7 +170,7 @@ Where differentiation works exceedingly well is in tutoring or one-on-one instru
 
 Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation with each student is often still out of reach. It could be because it's financially infeasible, or too costly, for systems to handle reliably and maintain at scale. Because of this infeasibility, it's why modern differentiation may appear closer to methods of group instruction aiming to be as close to effective as possible to one-on-one instruction.
 
-To further explore one potential solution to the above problem, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look into other resources (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility, but also destandardizes the learner by taking their personal considerations into the design.
+To further explore one potential solution to the above problem, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look into other similar resources (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're still *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility at the forefront, but also destandardizes the learner by taking their personal considerations into the design.
 
 The biggest benefits are you get a framework where everyone gets the same accommodations under one curriculum and it's accessible to as many students as possible. With this setup, you're able to improve outcomes for *all* learners from the start. It's also compatible with other teaching methods and frameworks, such as direct instruction and the framework I talked about previously. To list some examples of UDL:
 - Subtitles/closed captions for videos
@@ -186,21 +186,17 @@ Designing with UDL may also not cover legal obligations for accommodations like 
 
 ### **A "Secret" for Students**
 
-It's like people finding out why Ajax (the cleaning product) is specifically called *Ajax*. It is stronger than grease, because Ajax (the warrior) was stronger than all of Greece. I still enjoy the genius behind that marketing slogan and etymology.
+You have to put in effort. Yes, *you.* Practice and experience friction. 
 
-As for the actual secret: it's practice.
+If you were expecting some mystical secret or relevation to break your world view here, I must disappoint you.
 
-You have to put in effort. Yes, *you.*
+Is it always possible to do this? Realistically no, as time and resource constraints still exist. 
 
-Is it always possible to do this though? Realistically no, time and resource constraints still exist. 
+Does it help you improve? *Yes.*
 
-Does it help you improve though? *Yes!*
+There's still figuring out the *right* way to practice though. Exploring the concepts of spaced practice, interleaved practice, and varied practice may help you out here (Brown, Roediger, McDaniel, 2014). I'll leave you to explore those concepts on your own. Across these various forms of practice, however, you're still putting in your own effort and not blindly following along. That doesn't magically go away.
 
-There's still figuring out the *right* way to practice though. Exploring the concepts of spaced practice, interleaved practice, and varied practice may help you out here (Brown, Roediger, McDaniel, 2014). Essentially, most true (i.e. retained) learning is done over multiple sessions, practicing multiple methods and examples, and avoiding focusing too heavily on only one thing to study the entire time.
-
-Across various forms of practice, however, you're still putting in your own effort and not blindly following along. That doesn't magically go away.
-
-As for talent? Hard work beats talent until talent also works hard. Use the talent (and tools) you *do* have and make something out of it. It's what Ajax did (presumably) and it's what you can do too.
+As for talent? Hard work beats talent until talent also works hard. Use the talent (and tools) you *do* have and make something out of it.
 
 ### **Managing Boredom**
 
@@ -352,7 +348,7 @@ I'll show a list I've shown to my own students before, condensed down to limit r
 - Improper practice creates illusions of learning and limits retention.
 - Motivation matters and goals are (often) better and easier to follow when chosen rather than given.
 
-Though I disapprove of learning *styles,* there are still differences in student learning abilities which affects their performance. To briefly reference *Make It Stick* by Brown, Roediger, and McDaniel, here are some examples: 
+Though I disapprove of learning *styles,* there are still differences in student learning abilities which affects their performance. To briefly reference *Make It Stick* by Brown, Roediger, and McDaniel again, here are some examples: 
 
 - Intelligence
 - Dynamic Testing
@@ -464,13 +460,15 @@ Remember: you're not filling blanks. You're fixing work. Don't reward students w
 
 ### **Tutorial Hell**
 
+A quick question now, if you will. Who do you think is the more likely target audience for many tutorials: the person who can fix their own problems or the person who has no idea what they're doing? The answer to that question determines whom you design tutorials for and where the "money" (if there's financial/wealth incentives) may be at.
+
 You may have encountered a tutorial, guide, etc. in one or more forms, whether it be online, in a physical manual or book, how to do something in a video game or on a piece of technology, a set of instructions to assemble a product, a cooking recipe, and so on.
 
-The goal of many tutorials is to explain *how* to do something and present it in the most effective and efficient way possible to someone. You don't want to waste time meandering about with tutorials as you want to provide a clear process, with guardrails to keep students on a specific track they can follow along on, to do what's needed. 
+Tutorials generally explain *how* to do something and present it in the most effective and efficient way possible. Tutorials provide a clear process, with guardrails to keep students on a specific track they can follow along on, to do what's needed.
 
-That also make tutorials one of the worst ways to learn the *why* (i.e. learning). That does not mean all tutorials are inherently bad, evil, etc. though. One case of a tutorial being useful is if you already know how to do a setup with X tool, but need to figure out how to do a similar setup with Y tool instead.
+That also make tutorials one of the worst ways to learn the *why* (i.e. "actual" learning) behind something. Tutorials are intentionally designed to reduce friction, time taken, and any effort towards figuring out things. That does not mean all tutorials are inherently bad, evil, etc. though. One case of a tutorial being useful is if you already know how to do a setup with X tool, but need to figure out how to do a similar setup with Y tool instead.
 
-The major problem with tutorials is they eliminate the vast majority of critical thinking, the underlying strategy involved, and problem solving a student needs to properly learn how to do something. They provide the answer before you process the problem fully. The "effort" to put in towards learning is almost nonexistant, so the need to *retain* that information is deprioritized and students may shortly forget about everything they just learned soon after.
+The other major problem is they eliminate the vast majority of critical thinking, the underlying strategy involved, and problem solving a student needs to properly learn how to do something. They provide the answer before you process the problem fully. The "effort" to put in towards learning is almost nonexistant, so the need to *retain* that information is deprioritized and students may shortly forget about everything they just learned soon after.
 
 Consider for example a tutorial where you watch a video. Someone may cover a particular topic in 10 minutes or going through a project from start-to-end. While these aren't inherently bad by themselves, what is bad is what it enables students to do: follow along, step-by-step, without any consideration for *why* they're doing something in particular or any of the pre-requisite work that's necessary to get the tutorial to the stage it's at.
 
@@ -535,7 +533,7 @@ You *can* dilute it down to a general populace through what I'll lovingly call a
 6. Nickerson, C. (2022). *Learned Helplessness.* Simply Psychology. [https://www.simplypsychology.org/learned-helplessness.html](https://www.simplypsychology.org/learned-helplessness.html)
 
 2. Obsidian Entertainment. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. LucasArts.
-    - Dialogue used written by Chris Avellone.
+    - Lead Writer is Chris Avellone.
 
 7. Parrish, S. (n.d.). *Feynman Technique: The Ultimate Guide to Learning Anything Faster*. Farnam Street Media Inc. [https://fs.blog/feynman-technique/](https://fs.blog/feynman-technique/)
 

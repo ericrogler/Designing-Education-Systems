@@ -26,6 +26,8 @@ You may need to spend time outside of work (i.e. contract hours) to get everythi
 
 ### **What Should I Expect?**
 
+The first time you do a lesson, test, lab, activity, etc. *don't* think it's going to be what you'll use in the future. You may not want to do it again for a variety of reasons.
+
 For myself, a period of three years, massively oversimplifying, in education went something like the following:
 - Year 1: Great ideas, but terrible execution
 - Year 2: OK ideas, but OK execution
@@ -56,17 +58,20 @@ Lastly, teaching, and by extension education, *isn't* just teaching. It's also m
 
 ### **"Office Politics" Primer**
 
-Remember that first impressions are important. You're being *professional* here. It is critical you do not bite the hand that feeds you in the beginning. If you establish likeability early on, it is easier to maintain it. 
+**Your goal is *survival.* Smile more and trust, but verify.** You're going to make mistakes. It's just a matter of when and how you deal with them.
 
-You may also want to practice your smile too.
+Remember that first impressions are important. You're being *professional* here. It is critical you do not bite the hand that feeds you in the beginning. If you establish likeability early on, it is easier to maintain it. One small, half-second burst of uncontrolled anger or rage could even ruin your entire life afterall.
 
-For the first year at least, assuming you are starting in a new position or as a new teacher in general, you need to quickly learn when to listen and stay quiet. The realities of life versus whatever you may've been taught are likely drastically different. This is a time for you to *observe* how things work and figure out how to navigate the environment. 
+For your own security, always assume whatever you say *and* do could be traced back to you. This is especially true if it's done through technology or on an anonymous platform, survey, etc. where you may utilize a "fake name" like a username or handle. Platforms often store information to later identify exactly who says and does something on their platform. When deemed necessary, such as through voluntary disclosures, providing government access to records, tracking IP addresses, and digital identity verification, this information can become available to others. People, namely bad actors, could also conduct data breaches and gain access to this information too, and even correlate your activity across your accounts. There's two risks from institutional traceability *and* adversarial exposure to watch out for.
 
-If you need to speak about something, ensure that as much of it as possible is *positive* if it regards other professionals, students, administration, the work involved, and so on. Mind yourself around any administration as well, as one-up'ing them or showing them up (especially in public) may put you on the highway to future problems. Lastly, if you must complain about something, you should bring a solution too.
+For the first year at least, assuming you are starting in a new position or as a new teacher in general, you need to quickly learn when to listen and stay quiet. The realities of life versus whatever you may've been taught are likely drastically different. This is a time for you to *observe* how things work, figure out how to navigate the environment, and learn when to say "yes" or "no" to something or someone. While you may have a million ideas for how to improve the system coming in, see how the system works and establish context *before* implementing those ideas rather than sticking to any false confidence.
+
+If you need to speak about something, ensure that as much of it as possible is *positive* if it regards other professionals, students, administration, the work involved, and so on. Mind yourself around any administration as well, as one-up'ing them or showing them up (especially in public) may put you on the path to future problems and conflicts. And, if you must complain about something, you should bring a solution too.
 
 Being too open with the wrong people can actively harm any future prospects you're working towards. While you certainly can find friends at work, the common thread between people involved there is often *that same work* or *working in the same place.* If they, or you, leave that position and/or workplace, you risk no longer associating with them as a result. Nevertheless, that shouldn't stop you from getting to know other people and proving you're friendly and likeable.
 
-You should also avoid people who are often, if not always, complaining and gossiping. They may be *right* and their concerns justified, but it risks you also being treated unfairly, unable to do what you need later on, and perhaps become a complainer yourself. 
+You should also avoid people who are often, if not always, complaining and gossiping, *especially* if they don't offer solutions or reject every possible solution. They may be *right* and their concerns justified, but it risks you also being treated unfairly, unable to do what you need later on, and perhaps become a complainer yourself. This same advice also applies to those who talk nice to your face, then talk mean behind your back.
+- At the same time, you could "keep your enemies close" without playing into their drama and issues, but it is a risky maneuver.
 
 There's also people who could care less about any politics and simply wish to get their work done. You may be part of this group as well. If that is the case, then remember to not take on responsibilities outside the scope of your contract without first understanding (or attempting to understand) the benefits and costs involved.
 
@@ -81,7 +86,7 @@ The very first day of a classroom setting. Depending on your available timeframe
 
 If you only have a few prep days, focus on lesson plans, syllabus, classroom procedures and rules, and any basic supplies. Focus on the procedures, rules, and syllabus first *before* the lesson plans. This is so you're not scrambling last minute on how to organize your students and prepare the education environment. Other things can and will be polished and fine-tuned later on.
 
-If you can only get one thing prepared on time, then do classroom procedures and rules. Drill students on what to do when X situation arises, or how to do specific tasks the way you want, and get them to the point they can do it on their own without reminders every time. It will help you with classroom management in the future and you spend your "cost" in time upfront by doing so.
+If you can only get one thing prepared on time, figure out your classroom procedures and rules. Lay down the law first, so to speak. Drill students on what to do when X situation arises, or how to do specific tasks the way you want, and get them to the point they can do it on their own without reminders every time. It will help you with classroom management in the future and you spend your "cost" in time upfront by doing so.
 
 **Here are some things I'd like to have (and/or know) by week 1.** I'm focusing on the bare essentials over "nice to haves" to balance preparedness with minimal cost and effort, plus the ability to address many situations. In no particular order:
 - Facility access, like keys and scannable ID badge

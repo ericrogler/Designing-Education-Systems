@@ -27,15 +27,15 @@ Metrics depend on goals and should be consistent and objective. Test scores are 
 
 When academics are a primary measure of a student's worth, especially when tied to funding, a system may treat that student like a commodity. If grades are also a metric of success, a teacher/instructor, given their current position and power, can only reasonably grade work they receive. Interpret that as you will.
 
-When money is tied to metrics of success, people do things they normally wouldn't do to positively affect, or even inflate, those metrics. For example, a lot of people care about money. If they don't have money, they care about getting more money. If they have already have money, they still care about getting money but also want to keep their money.
+When money and wealth is tied to metrics of success, people may do things they normally wouldn't do to positively affect, or even inflate, those metrics. A lot of people care about wealth. If they don't have wealth, they care about getting more wealth. If they have already have enough wealth, they still care about getting *more* wealth but also maintain the level of wealth they currently have.
 
 **Metrics are like compasses/snapshots indicating failure/success in a system rather than evaluating and defining a distinct problem.** Metrics should inform decisions humans make, not replace decisions humans make. A "good" metric is one that's meaningful, timely (or doesn't take long to measure), measureable, and understandable. If it lacks one of these aspects, it may not be a good metric.
 - **Metrics are *diagnostic*, not prescriptive.**
 - **Correlation does not imply causation.**
 - **Making decisions on bad data is worse than decisions with no data.**
 
-As an opinion: if you implement ANY new specialized learning program (which is explicitly NOT designed for everyone) for an educational facility, but *every* student there can go into it, you're just replicating General Education again with additional steps and potentially lost funds.
-- In general, a program that sells itself as a good fit "for everyone" is a program you should be skeptical of.
+As an opinion: if you implement ANY new specialized learning program (which is explicitly NOT designed for everyone) for an educational facility, but *every* student there can go into it, you're replicating General Education again with additional steps and potentially lost funds and effort.
+- In general, a program that sells itself as a good fit "for everyone" is a program you should be skeptical of. Designers target *specific* audiences, not general audiences.
 - Regardless of benefits or drawbacks, you should be wary of educational programs and what their goals are (hint: financial operations want to *make* money).
 
 ## **Long Answer**
@@ -48,9 +48,9 @@ Sadly, it isn't a joke. This chapter help explains why that joke is now reality.
 
 Snap back to reality and we see one part of that reality is **almost all data and information you work with and see is affected by bias.** Many decisions for readers come from how information is colored, organized, displayed, gathered, and omitted to name only a few ways from countless ways. That same data is also prone to variance and being unstable, noisy, and messy, even though people generally like clean narratives and presentations. Things can also normalize on their own without any intervention. 
 
-Metrics are made up by humans usually for other humans. For example, a dog is unconcerned by the unending march, and perhaps the very concept, of time humans often use for measurements. Many metrics may also be used to evaluate larger scale groups like school sites, systems, organizations, etc. even if it's a metric recorded at the individual level like test scores and grades. 
+Metrics are made up by humans usually for other humans. For example, a dog is unconcerned by the unending march, and perhaps the very concept, of time humans often use for measurements. Many metrics may also be used to evaluate larger scale groups like school sites, systems, organizations, etc. even if it's a metric recorded at the individual level like test scores and grades. An organization could also suddenly change what metrics determine success and potentially affect the lives of multiple people, with a now "justifiable reason" in hand, who no longer meet the standards defined by these new metrics.
 
-Lastly, if you see any educational statistic about how reading levels, literacy rates, and comprehension are dropping/decreasing/lowering/etc. for where you reside at... *you should probably be worried.* That affects just about *everyone* inside and outside of education systems.
+Lastly, if you see any educational statistic about how reading levels, literacy rates, and comprehension are dropping/decreasing/lowering/etc. for where you reside at... *you should probably be worried.* That affects just about *everyone*, and *every* subject taught, inside and outside of education systems.
 
 ### **Why Metrics of Success?**
 
@@ -177,14 +177,19 @@ Additionally, there is a hidden danger with quantitative metrics in particular: 
 
 ### **Pre-Analysis Considerations**
 
+It is *extremely* easy for data to support, or oppose, whatever story you want it to. How well it holds up under scrutiny is a different story though.
+
+If you're the analyst, scientist, engineer, designer, educator, administrator, etc. here, remember you are often making a recommendation and not convincing people. You'll still look into items like examples, benefits, costs, tradeoffs, explaining your reasoning, and how success is measured. You may not be the decision-maker here and, therefore, are in a pseudo-advisory role (i.e. "advocate").
+
 Before you start an analysis, there's several things to consider:
 1. What are the questions you need answered?
 2. What is the goal of your business you're doing the analysis for? 
-    - This could be a financial group, administration, etc.
+    - This could be an organization, administration, individual, etc.
 3. Who will see the results of your analysis and why should they care about *your* analysis? 
-    - e.g. Steve from accounting has different needs vs Jane from HR.
+    - e.g. Steve from Accounting has different needs and problems to solve vs Jane from HR.
 4. What decisions does it support/oppose?
-5. What actions will it affect? If it doesn't change anything, why do it?
+5. What actions will it affect? 
+    - If it doesn't change anything, why do it?
 
 If you go with these considerations, you'll think about data as evidence to support/oppose decisions someone, or something, should make instead of merely numbers and charts that are only pretty to look at. Analysis is supposed to answer your questions and not be done for the sake of analysis.
 
@@ -254,10 +259,28 @@ This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot
 
 One group wants to ensure high-quality learning goals are met while the other group wants to ensure business goals are met. One might attempt a compromise and "meet it halfway" but that is not a great solution and can negatively affect the goals of *both* sides. Programs like these may also be implemented to create magnet schools or attempt to bring up low-scoring schools to better meet metrics and stay afloat.
 
-The program offered by one group may also not match the existing system it's trying to fit into. If that occurs, then you're looking at extra work, cumbersome overlapping, and excessive overhead on the part of staff, teachers, administration, students, etc. Though the system may be excellent or great for whomever it's catered to, it requires buy-in and compatibility with the current system(s) to mitigate undue issues down the line.
+The program offered by one group may also not match the existing system it's trying to fit into. If that occurs, then you're looking at extra work, cumbersome overlapping, and excessive overhead on the part of staff, teachers, administration, students, etc. Though the system may be excellent or great for whomever it's catered to, it requires buy-in and compatibility with the current system(s) to mitigate undue issues down the line. 
 
-The easiest to state, but hardest to do, solution is straightforward: You need full buy-in or no buy-in (i.e. appropriate, *quality* support/resources and student desire to enter those programs) for initiatives like these. Adapting a program into an existing monoculture, or an inflexible one, without setting up the supports and foundation means you're setting up the entire institution for failure. A program like this should also be separate, but together, within the institution, like how multiple majors with vastly different curricula are all in the same campus area at universities.
+The easiest to state, but hardest to do, solution is straightforward: You need full buy-in or no buy-in (i.e. appropriate, *quality* support/resources and student desire to enter those programs) for initiatives like these. Adapting a program into an existing monoculture, or an inflexible one, without setting up the supports and foundation means you're setting up the entire institution for failure. A program like this should also be separate, but together, within the institution, like how multiple majors with vastly different curricula are all in the same campus area at universities. Additionally, making *every* student in a given education system follow the exact same program may not work well due to lack of resources, diminished authority to follow through what it advocates for, and low student capabilities and/or willingness.
 - To put it like I'm in a negotiation: "Yes, we'll add this program on the condition we get resource A, B, and C before this stated time. If this is not feasible, we will not do it."
+
+### **Delivery vs Visibility**
+
+One particular example of misaligned metrics and goals is found tucked away in many workplaces and systems. Sometimes the right question isn't always what's produced, but *how* it's produced. You cannot always take metrics at face value even if it appears good.
+
+Say you evaluate people on how active (i.e. "visible") they are in the workplace. 
+
+Group A may be "always online" or available, fast to react to situations and calls, ever present, and *visibly* busy. You can see them doing something and think they're committing to the work in their roles.
+
+Group B, however, stick strictly to their contract hours, don't deal with work outside of those hours, and appear disengaged. You *might* see them doing something and think they're not fully committed to work.
+
+This scenario is an error in measurement validity. If, instead, you were to measure an individual's *deliverables* instead of measuring by visibility/outcome, you may find a different story. 
+
+Group B's best work often shows when they come in well rested and free from incessant distractions necessitating their "presence" every second of the day. Boundaries are in place so they can focus completely on work. Group A, however, must devote energy to maintain constant vigilance, and also deal with task/context switching, to respond about their work instead of keeping all their energy towards *doing* said work. Less effort spent towards the work itself may mean a lower performance, despite whatever appearances are kept up to suggest otherwise.
+
+One reason why this may happen is an organization sets a target, or goal, on easily observed vanity metrics instead of harder-to-spot, but more accurate, metrics. Without measuring the deliverable directly, you risk faulty decision-making and not seeing that certain processes and policies, like Group B's strict adherence to boundaries, are what drive a meaningful result. 
+
+Tracking the invisible work, which you may not see from the final product, is difficult without understanding the *conditions* and nuances to produce that deliverable. If it's not tracked, however, you may mistakenly attribute a good outcome to luck or coincidence rather than the "hidden" process truly responsible for making everything work.
 
 ### **Evaluating Education (with Examples)**
 

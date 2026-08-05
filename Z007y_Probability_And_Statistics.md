@@ -69,9 +69,9 @@ I'm sure there's other ways besides these options, but these are the most common
 
 *Practical* Statistics is about knowing when to apply a statistical test (i.e. a formula/algorithm) to a given scenario. Factors deciding this include correlation vs comparison, the types of users in groups, the number of groups, whether or not you're estimating, binary data (yes/no type answers), and more. Essentially, you're looking at multiple decision trees and determining the appropriate test to use when certain conditions are fulfilled.
 
-After you correctly decide a statistical test or method, what comes next is knowing the proper application. For example, you may know that "z = (x - μ) / σ" is the z-score equation, but if you don't know how to get x (observed value), μ (population mean), and σ (standard deviation), you'll still get an incorrect answer. Statistics is a test of your intelligence *and* wisdom when it comes to learning and applying it.
+After you correctly decide a statistical test or method, what comes next is knowing the proper application. For example, you may know that "z = (x - μ) / σ" is the z-score equation, but if you don't know how to get x (observed value), μ (population mean), and σ (standard deviation), you'll still get an incorrect answer. Statistics is a test of your intelligence *and* wisdom when learning and applying it.
 
-As for concepts in statistics and probability you may encounter often, I'd assume at least some of the following in no particular order:
+As for concepts in statistics and probability you may encounter often enough, I'd assume at least some of the following in no particular order:
 - Sampling & Central Limit Theorem
 - Law of Total Probability
 - Statistical Inference
@@ -80,7 +80,7 @@ As for concepts in statistics and probability you may encounter often, I'd assum
 - Discrete & Continuous Probability Distributions
 - Random Variables & Expected Values (i.e. E(X))
 - The Law of Large Numbers
-- A/B Testing
+- A/B Testing (and Multi-Arm Bandit Algorithms)
 - Markov Chains
 - Properties of Random Variables
 - Confidence Intervals

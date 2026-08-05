@@ -26,7 +26,7 @@ Here's the broad summary across every chapter in this book, including some actio
 - Many classroom issues are solved by three methods:
     1. Consistently (and actually) enforcing discipline and consequences for actions
     2. Allowing students to fail
-    3. Limiting the size of classrooms/number of students instructors manage
+    3. Limiting classroom size/number of students instructors manage
 - Perfect is the enemy of good. Sometimes "good enough" is *good enough* and you need to accept that.
 - If suddenly thrusted into managing a classroom with little to no preparation (and perhaps against your will, who knows), focus first on setting up classroom management and procedures, followed by a syllabus and lesson plans. A safe, secure, and orderly environment is needed *before* students may receive a proper education.
 - The first year for just about every professional role people go into, especially for educators, will be hard. That is normal.
@@ -47,11 +47,11 @@ Here's the broad summary across every chapter in this book, including some actio
 - Technology is dangerous and is *still* dangerous even when handled properly. The same goes for many technologies and advancements in general, such as AI (Artificial Intelligence), electricity, and a crowbar.
 - Security should not be sacrificed for the sake of convenience.
 - Stamina is often traded for engagement.
-- You should never automate a bad process and you need backups in case of emergencies. Education at large is a *messy and highly complicated process* you should not fully automate away.
-- Education can be improved through incorporating concepts from areas expected and unexpected, such as engineering, architecture, design, communication, etc.
+- You should never automate a bad process and you need backups in case of emergencies. Education in general is a *messy and highly complicated process* you should not fully automate away.
+- Education can be improved through incorporating concepts from many fields, both expected and unexpected, such as engineering, architecture, design, communication, etc.
 - Scaling an organization, system, business, operation, event, etc. without a proper plan, consideration for the environment, and resource/supports is the same as handling unprepared power: a poison.
-- If students can get away with any form of cheating to meet your metric(s), earn a high grade, pass a test, etc., *they will do it.* Cheating has always happened, and will continue to happen, regardless of any technology or method used to do so.
-- Every person involved in education systems (parents, administrators, educators, students, support staff, etc.) has a role to play in education's success. It doesn't matter how good classroom management is; a failure in any part is a risk towards a system failure as a result.
+- If students can get away with any form of cheating to meet your metric(s), such as earning a high grade, passing a test, etc., *they will do it.* Cheating has always happened, and will continue to happen, regardless of any technology or method used to do so.
+- Every person involved in education systems (parents, administrators, educators, students, support staff, etc.) has a role to play in education's success and may contribute towards any problems it has. It doesn't matter how good classroom management is; a failure in any part is a risk towards a system failure as a result.
     - Example 1: One disruptive student can willingly, and knowingly, hinder the education of every other student.
     - Example 2: Administrators can compromise the "authority" of educators managing students and harm education.
     - Example 3: One educator can choose not to follow the same rules as other educators in a system, undermining their own position and other educator's positions, resulting in a risk to compromising education.

@@ -10,7 +10,7 @@ nav_order: 24
 ## **Short Answer**
 > "The right man in the wrong place can make all the difference in the world."
 
-- G-Man, Half-Life 2 (2004)
+- G-Man, *Half-Life 2* (2004)
 
 ---
 

@@ -15,8 +15,6 @@ nav_order: 14
 
 ---
 
-*Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional.*
-
 For an alternative view of this chapter, and as a critique of mathematics education in general, you may consider reading *A Mathematician's Lament* by Paul Lockhart (2009).
 
 I have bias writing this chapter because my background in education is as a science/STEM Teacher (and substitute teacher). I believe learning mathematics isn't optional anymore and absolutely necessary.  This chapter covers math and some of its applications, *based on what I used inside and outside education systems and as part of a graduate engineering degree (M.S.I.E.).*
@@ -29,9 +27,11 @@ Mathematics is both absolutely necessary and extremely unimportant at the same t
 
 ## **Long Answer**
 
+*Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional.*
+
 Applying math is what makes money and affords goods and services to keep you alive.
 
-If you need to know "why is math important," then there's your answer: you need math to apply it to problems you need to solve.
+If you need to know "why is math important," then there's your answer: you need math to apply it to many problems you need to solve.
 
 Does that mean you need to be a genius at math to survive? Of course not. Much like how everyone who takes history classes won't become historians and scholars, everyone taking mathematics isn't later on a mathematician as a profession.
 
@@ -172,15 +172,11 @@ For many people outside of math-heavy fields, like design or art, you're missing
 
 ### **Calculus: Why it's Important**
 
-Why Calculus? A lot of applied math *loves* using it or at least using it as a basis to create relatively simplified equations to explain things.
+Why Calculus? A lot of applied math *loves* using it or at least using it as a basis to create relatively simplified equations to explain things. The hardest part about Calculus *was the Algebra* (and Trigonometry) and you'll likely fail it without solid foundations and understanding in those areas.
 
 Sadly it also contains a large amount of unnecessary and overly formalized information. For the average person in practice, they may rarely, if ever, use Calculus for the problems they need solved. If that's the case, then perhaps students should first approach it like a particular art style you can say you know how to do and show off.
 
-One extensive resource I'll single out is [Paul Dawkins' (Lamar University) notes posted on the Internet](https://tutorial.math.lamar.edu/). I'm only calling out the resource here; not actively utilizing their notes for the explanation in this section.
-- There is a disclaimer, for Calculus I at least, that "you know Algebra and Trig[nometry] prior to reading the Calculus I notes" (Dawkins, 2023).
-    - This is NOT a suggestion either. From personal experience, the hardest part about Calculus *was the Algebra* (and Trigonometry) and you'll likely fail it without solid foundations and understanding in those areas.
-
-Another source, found after originally writing this section, I'll mention is *Calculus Made Easy* by Thompson (1910). Though an older source, it stands the test of time by explaining many complexities in simpler terms. 
+One particularly interesting source I'll mention is *Calculus Made Easy* by Thompson (1910). Though an older source, it stands the test of time by explaining many complexities in simpler terms. 
 
 I can, however, tell you once you understand higher level math (the what) and understand abstraction of math (the why), a lot of doors open for what you can do with it. At this level, and before it hopefully, understanding is essential to mathematics and science. Trying to rote memorize your way through it all is an exercise in frustration, easy way to forget what you learned in the first place, and may potentially lead you on the highway to failure here.
 
@@ -258,8 +254,6 @@ Which means "For every x in the set of natural numbers, if x belongs to set {1, 
 At least half the work is just *interpreting* the equations and things you encounter. Things get weird and you really start delving into the unknown. Knowing the high-level concepts will suffice for most cases and many readers will more commonly use basic arithmetic for problems throughout their lives.
 
 ## **Bibliography**
-
-1. Dawkins, P. (2023, October 9). Pauls Online Math Notes. Tutorial.math.lamar.edu. [https://tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
 
 2. Lockhart, P. (2009). *A Mathematician’s Lament.* Bellevue Literary Press.
     - Alternative Source: [A 25-page article written by the author as well](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)

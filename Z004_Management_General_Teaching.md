@@ -11,7 +11,7 @@ nav_order: 6
 
 > "When you do things right, people won't be sure you've done anything at all." 
 
-- God Entity, Futurama (2002)
+- God Entity, *Futurama* (2002)
 
 ---
 
@@ -31,7 +31,7 @@ Soft skills, like communication, and hard skills, like technical knowledge, are 
 
 If you're not sure how to set up a process or workflow, start with the minimum (or simplest) way that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when unnecessary often goes against your goals.
 
-**Prepare for the worst, but assume the best of people.**
+**Prepare for the worst, but assume the best of people.** Do not readily assume everything is broken. In education, this is especially true for administrators as they should not come in assuming their teachers are failing the students or the education itself is a failure. Observe first, figure out what is actually wrong, *then* implement solutions. 
 
 Cooking something at 1200 degrees for 1 hour does *not* produce the same result as cooking something at 300 degrees for 4 hours.
 - This is a joke, but if you apply this thinking broadly across multiple scenarios, you *will* have a bad time.
@@ -39,6 +39,8 @@ Cooking something at 1200 degrees for 1 hour does *not* produce the same result 
 Last, but not least: **the best managers are the ones who know when to pick their fights and when to step back.** Not every problem they face is one requiring their personal involvement.
 
 ## **Long Answer**
+
+The vast majority of education is actually management and paperwork. If the Legality chapter showcased what you *may* do in education systems and some restrictions involved, the management chapters peer into what you *can* do with the people you work with, including students. We'll look at management in many ways to help you inform practices in education, such as management in general, scaling systems, handling operations, and management at the classroom level.
 
 If a good manager leaves, good people under them may follow soon after. Good leadership is hard to find and can be the one thing keeping people around even during hard times.
 
@@ -98,8 +100,8 @@ In terms of the teaching role itself, from what I've seen and experienced in add
 - Corporate Training & Adult Learning
     - EdTech instructional roles, like online teachers and facilitators, are included here
 
-This ranking comes from many areas and metrics like:
-- Pay and benefits compared to hours worked and the type of work
+This personal ranking comes from many areas and metrics like:
+- Pay and benefits compared to hours worked and the type of work involved
 - The type of people taught (1v1, large groups, special needs, etc.)
 - Bureaucracy and legality involved
 - How often you're expected to work "outside contract hours"
@@ -117,7 +119,11 @@ Teaching is not a role one can easily perform, despite any perceived accessibili
 
 ### **What does a Manager do?**
 
-Manage resources and risk. That's the simple, pragmatic answer.
+Manage resources and risk. Completing your work accurately, on time, and legally. 
+
+That's the simple, pragmatic answer. 
+
+You may not necessarily *control* these resources either, but set up the circumstances, strategies, and environment to manage them.
 
 People are part of these resources and the source of many ideas and methods to perform well, so people should be treated as human beings rather than merely resources. Time is also a resource to determine if what you want done fits within schedule and any deadlines. Risk is unreliable, unpredictable, and chaotic. A manager wants to eliminate risk when feasible and make things reliable, smooth, and orderly. Being reliable leads to safety, honesty, and trust, afterll. **Do *not* underestimate the importance of reliability.**
 
@@ -189,7 +195,7 @@ Remember that managing is a different job. Engineers may manage computers, tasks
 For example, let's say you've studied a field for several years, garnered a lot of experience, and you know what you're talking about. You know how to put out fires. You can solve things previously deemed impossible to fix. In an instructional role, and many roles in education systems, you're "leadership." You might not have traditional employees if it's with teachers and students, but you're still managing people who are "beneath" you in a perceived power/knowledge structure.
 
 This means you need to do the things leaders also do without *weakening* authority, such as:
-1. Don't be an asshole.
+**1. The golden rule: don't be an asshole.**
 2. Not using stop words like "uh" and "um."
 3. Not leading into statements with something like "Just a quick thought," "this may sound like a bad idea," excessive apologizing, and so on.
 4. Using the phrase "I believe."
@@ -200,7 +206,7 @@ Despite how knowledgeable you might be, bad communication takes you down like a 
 
 It's *how* you say something, not just what you say, and getting people to *see* you do it right. For example, instead of saying "I think we should do it." say "Let's do this." "I think" in the former instills doubt and makes someone believe you cannot stand behind your words. The latter cuts that doubt out almost entirely and makes it sound like you're sure and ready to act. Refining the art of communication is key to management.
 
-You also want to avoid your thinking outpacing your speaking. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).** It's hard to detect at first, but an immediate example is those stop or gap words like "uh" and "um" come out *even when you don't want to say those.*
+You also want to avoid your thinking outpacing your speaking. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).** It's hard to detect at first, but an immediate example of thinking outpacing speaking is saying those stop or gap words like "uh" and "um" *even when you don't want to say those.*
 
 Last part here is communicating the impact. You can solve these amazing problems, but it won't mean anything if people cannot see it was solved. This goes for other co-workers and peers, like other teachers, as well as students watching you instruct. The work you do should also speak for you, which means people should see you're doing good work clearly and consistently.
 

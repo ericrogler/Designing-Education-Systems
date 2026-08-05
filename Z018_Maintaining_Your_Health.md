@@ -1,9 +1,9 @@
 ---
-title: 25. Maintaining Work Health
+title: 25. Maintaining Health
 layout: default
 nav_order: 27
 ---
-# Maintaining Work Health
+# Maintaining Health
 
 ### [Previous Chapter](Z017_Other_Additional_Duties.html)
 
@@ -11,7 +11,7 @@ nav_order: 27
 
 > “It is possible to commit no mistakes and still lose. That is not weakness. That is life.”
 
-- Jean-Luc Picard (Scheerer, 1989)
+- Jean-Luc Picard, *Star Trek: The Next Generation* (Scheerer, 1989)
 
 ---
 
@@ -33,7 +33,7 @@ I view two ways to approach teaching and instruction: as a job and as a career.
     - I.e., you leave work at work, take time off when needed, and invest in other passions to avoid early burnout and separate work and life.
 - Career: teaching is a passion where you continuously improve and offer help outside work when able.
 
-Both ways are valid. You can have good teachers and instructors with either perspective. One may switch between viewing teaching as a job vs career over time too. With either perspective above, be careful not to get taken advantage of and know when to set boundaries. Even if education is your passion and calling in life, there is *always* a threshold where you'll no longer tolerate the environment, working conditions, and/or standards.
+Both ways are valid. Being good at something and liking something are two *very* different matters. You can have good teachers and instructors with either perspective. One may switch between viewing teaching as a job vs career over time too. With either perspective above, be careful not to get taken advantage of and know when to set boundaries. Even if education is your passion and calling in life, there is *always* a threshold where you'll no longer tolerate the environment, working conditions, and/or standards.
 
 ## **Long Answer**
 
@@ -45,6 +45,16 @@ Alternatively, I could talk about how nurses and certain licensed medical staff 
 
 As for any students reading this: yes, your educators have lives and interests outside of school/class. Shocking, I'm sure.
 
+### **The Untold Cost of Academia**
+
+I'm going to let you in on a little secret for teaching. The kind that may stop this book from getting published. It's not a bad line of work, but it's a line of work that takes over your life in ways you expect and do not expect.
+
+Academia will suck the soul out of you. 50/50 chance based on anecdotal evidence. 
+
+If it does, it's probably because of all the other bullshit you've dealt with along the way, such as politics, poor management, toxicity, ass-kissing, dealing with grants, research review processes, getting in trouble for reporting the outcomes exactly as they are, and so on. This is part of the 90% "invisible cost" that gets glossed over in education way too much in my opinion.
+
+If it doesn't, I'd dare say you have a special temperament and managed to stop academia taking over part of, if not your entire, life. At the same time, perhaps it already took over your life, willingly or not, and you've accepted that with a quiet resignation.
+
 ### **What is Work?**
 
 What defines meaningful work differs from person to person. People may put work into a system and expect the system to reward them appropriately in some way, shape, or form. In this book, we'll say meaningful work (or work you can feel satisfaction from) sufficiently fulfills at least three areas:
@@ -54,6 +64,7 @@ What defines meaningful work differs from person to person. People may put work 
 
 The primary motivation for many professionals is money, which is the "reward" in many professional scenarios. You need money to exchange for goods and services to stay alive, safe, fed, and secure. If the effort isn't worth the reward, such as grueling work for little monetary pay, you might not value the work you're putting in in the first place. If the work is too simple, you may atrophy various skills you once took pride in and developed over time. If you're not autonomous enough, or not have the freedom to do what you need to do, you may not develop the necessary critical thinking to make decisions when push comes to shove. 
 - If someone says "no one wants to work," it's likely these three items above are not sufficiently provided.
+- A "fast-paced" or "high pressure" environment may be tolerable and OK *provided* there's sufficient reward (i.e. pay) to balance it out.
 
 Is it normal to work outside of what you're contracted to do? For many people, no. A typical expectation is to complete your role's contractual responsibilities, work the alloted hours/time for that role, and then *not* do further work. Everything else is extra effort you may not receive any satisfaction or reward from if you're not careful.
 - For example, an employee completing work early has their boss giving them more work in return.

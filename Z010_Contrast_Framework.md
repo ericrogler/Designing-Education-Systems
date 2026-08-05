@@ -11,11 +11,11 @@ nav_order: 18
 
 > "To believe in an ideal, is to be willing to betray it. It is something no Sith or Jedi has ever truly learned."
 
-- Kreia, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
+- Kreia, *Star Wars Knights of the Old Republic II: The Sith Lords* (2004)
 
 ---
 
-The name "IPA" is based upon one of my father's favorite types of drinks: India pale ales.
+The name "IPA" is based upon one of my father's favorite types of drinks: India pale ales. IPAs.
 
 I built this framework in mind for secondary and tertiary education. Elementary school/primary education may need extensive adjustments beyond what is presented here. It is also designed to be independent of any subject(s) taught. **I fully expect you to modify this framework in some way(s) if you choose to follow it in your own education systems, because your situation may be different than the situation I've gone through.** 
 
@@ -31,9 +31,9 @@ I can lump nearly all forms of education into three broad categories:
 
 If you have 10 parts of time, you divide those 10 parts across these three categories for each unit you need to cover in your curriculum. Essentially I'm asking you something like: "if you have 10 days to cover Physics, how would you cover it?" You can even do all three categories across those same 10 parts of time all in a single day or session!
 
-That's it. Simple and easy. You can apply this framework across one education system to millions of education systems. Simplicity scales and adapts more easily compared to complexity.
+Basically: IPA. Instruction, Practice, Assessment. You can apply this framework across one education system to millions of education systems. Simplicity scales and adapts more easily compared to complexity or wanton reinventing of the wheel.
 
-**Last, but not least: whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me; this is for your own sanity.**
+**Last, but not least: whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me when I say this is for your own sanity.**
 
 ## **Long Answer**
 
@@ -51,11 +51,9 @@ Think in terms of problems to solve and what frameworks (tools, structures, or o
 You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into "lessons" for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to a problem with optimization constraints: **there is no perfect education system.**
 - Think somewhat similar to dealing with CAP Theorem (attributed to Eric Brewer, 2000), for those same readers with data backgrounds.
 
-More complicated parts with empirical grounding draw some inspiration from Rosenshine's *Principles of Instruction* and other information derived from his works (2010, 2012).
-
 ### **What Other Methods Are There?**
 
-Educators, in practice, adopt, adapt, or create a curriculum referencing one or more existing and effective frameworks to suit their needs and their student's needs. This section lists several examples that help inform why the framework is what it is that you'll see later on.
+Educators, in practice, adopt, adapt, or create a curriculum referencing one or more existing and effective frameworks to suit their needs and their student's needs. Alternatively, they may be forced to follow a particular curriculum with little liberties on how they can execute and enhance it for learning. This section lists several examples that help inform why the framework is what it is that you'll see later on.
 
 The first one isn't an education framework, but instead a management framework: Agile (and by extension Scrum). It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g. "Scrumfall") compared to other practices, like Waterfall and Kanban, and its original intent, guidelines, and purpose often gets thrown to the wayside. For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). To try and compress Agile down into a single sentence, it's basically everyone talks to each other, the system strives for quality outputs, and the product is updated frequently (and hopefully easily) to account for changing conditions.
 
@@ -78,7 +76,7 @@ A popular phrase is "I do, we do, you do" and repeat. For example:
 
 It may be an older framework, but it's still pretty effective so why not continue to use it? Direct instruction, afterall, is so important it's even one of my three categories I explicitly define in my own framework here. In a way, I'm taking parts from that saying and translating them into actionable items. You can do this once over multiple lessons, once per lesson, and even multiple times in a single lesson too!
 
-The last example I'll include is various materials authored by Rosenshine (2010, 2012).
+The last example I'll include is various materials authored by Rosenshine (2010, 2012). More complicated parts with empirical grounding draw some inspiration from his *Principles of Instruction* and other work (2010, 2012).
 
 Despite the good these methods have, there are less-than-perfect parts. For example, the number of people I've seen take "story points" or "t-shirt sizes" seriously from Agile (and Scrum), so anecdotal evidence, is basically *zero*. I'm trying to take what I believe is the "good" from each method to inform how I set up this framework.
 
@@ -90,7 +88,7 @@ Be wary of disregarding a type of learning completely, like never doing lectures
 
 **The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.**
 - Many topics can fit into short, fixed-time periods of 1, 2, or 4 weeks/days and include a balance of lectures, activities, projects, and tests.
-- Be ready and able to adjust lesson plans as needed, even on a day-by-day basis.
+- Be ready and able to adjust lesson plans as needed, about anywhere from "5-10 minutes before class starts" to at least a month in advance as a reference point.
 - *Every* subject requires teachers to communicate well through storytelling. If you cannot communicate well and hold students' attention, then you cannot get students to invest in your teachings and learn what they need to know.
 - If it works as a summary, then it might be best to keep it as a summary.
 - Good lectures are not boring. Bad lectures are boring.
@@ -152,7 +150,7 @@ If your curriculum is more project-based, collaborative, or heavily focuses on a
 Additionally:
 1. It's ok for students to be bored sometimes. Boredom can train creativity and patience when properly utilized.
 2. Treat this framework as a set of principles and a template, rather than a one-size-fits-all solution. It should accommodate most systems though!
-3. Modifications are expected and *will* happen in practice; plan for when they're needed.
+3. Modifications are expected and *will* happen in practice, even outside your original plans.
 4. Sometimes old methods work better than new methods.
 
 ### **Planning (Teacher)**
@@ -201,18 +199,17 @@ Lastly, no plan you make survives first contact with students (paraphrased from 
 
 Think of "Implementation" as the timeframe to execute your plans made earlier in an educational environment, whether in person or through distance learning. How days are divided between units, topics, etc. are also included at this stage. Using our three categories from before, you can quickly reassess your progress and make minor to moderate adjustments if needed as you go in between units.
 
-Also, remember that phrase "I do, we do, you do?" Utilize that across these categories. You'll thank me later.
+There's not much else to it here. It is planned downtime, or the intentional slack, to keep utilization rate below 100% for educators to help mitigate mental and physical issues. 
 
-Before we dive further, I'll reference, as an example, *The 17 Principles of Effective Instruction* by Rosenshine, as they explore ways to begin lessons, present material, and guide students throughout the learning journey.
-- [Link to Full Report](https://files.eric.ed.gov/fulltext/EJ971753.pdf)
+Also, remember that phrase "I do, we do, you do?" Keep that in mind as you're reading.
 
 ### **Direct Instruction**
 
-As a reminder, you can decrease the number of "lecture days" for more hands-on classes. You may be handling young children who probably don't want to sit still afterall!
+As a reminder, you can decrease the number of "lecture days" for more hands-on classes. You may be handling younger students who probably don't want to, or cannot, sit still for long periods afterall!
 
 I'd also consider them the hardest to run, because it's usually the student sitting and listening. Younger students are more likely to display behavior issues during these compared to older/adult students. Nevertheless, often is simply sitting down (metaphorically or literally) and telling students what they actually need to know is what's best. For subjects like Science and Math, I'd personally tell you to use *far more* direct instruction.
 
-Lectures are like meetings. The person "calling the meeting" is the instructor and should preferably have several things in place (with some tips taken from *Smart Brevity* by VandeHei et al. (2022)) before said meeting starts:
+Lectures are like meetings, but structured more like presentations. The person "calling the meeting" is the instructor and should preferably have several things in place (with some tips taken from *Smart Brevity* by VandeHei et al. (2022)) before said meeting starts:
 - There's an objective and an agenda.
     - This can be one to a few sentences for all I care. Just nothing too long.
 - Time limits are deliberately planned.
@@ -446,11 +443,11 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 3. Gagné, R. M. (1965). *The Conditions of Learning.* Holt, Rinehart and Winston.
 
 2. Obsidian Entertainment. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. LucasArts.
-    - Dialogue used written by Chris Avellone.
+    - Lead Writer is Chris Avellone.
 
 4. Rehkopf, M. (n.d.). *Scrum Sprints*. [https://www.atlassian.com/agile/scrum/sprints](https://www.atlassian.com/agile/scrum/sprints)
 
-5. Rosenshine, B. (2010). *Principles of instruction; Educational practices series*; Vol.:21; 2010. The International Academy of Education, 21(2010).
+5. Rosenshine, B. (2010). *Principles of Instruction: Educational Practices Series*; Vol.:21; 2010. The International Academy of Education, 21(2010).
 
 5. Rosenshine, B. (2012). *Principles of Instruction: Research-Based Strategies That All Teachers Should Know.* American Educator, 36(1), p12-39. Rosenshine, B. and Stevens, R. (1986) Teaching Functions. In Witrock, M.C. (Ed). Handbook of research on teaching, 3rd ed., pp376-391. New York; MacMillan. 
     - Alternate Link: [https://files.eric.ed.gov/fulltext/EJ971753.pdf](https://files.eric.ed.gov/fulltext/EJ971753.pdf)

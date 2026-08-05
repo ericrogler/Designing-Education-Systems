@@ -1,9 +1,9 @@
 ---
-title: 27. Technology and AI
+title: 27. Technology
 layout: default
 nav_order: 29
 ---
-# Technology and AI
+# Technology
 
 ### [Previous Chapter](Z019_Money_Budget_Management.html)
 
@@ -27,23 +27,15 @@ nav_order: 29
 
 ---
 
-Views on technology introduced less than 5 years ago, or at any point in time really, may have been exaggerated. Other views may be grounded more in reality and based on direct observations backed by educated guesses/facts.  For example:
-- Something drastic may change within 1-2 years, like growth, stalling, or decline.
-- Maybe the timeline for full implementation is not 5 years, but 10+ years.
-- Many assumptions about how it could affect roles and positions in society.
-
-As further examples, I may say we will see a slow, but quite certain, creep in the reduction to a person's right to privacy and the increase of unwarranted surveillance (perhaps ironically done in the name of "safety" too). Another assumption may be newer technologies are inducing an unprecendented level of addiction amongst the human populace. One more assumption may be we are 10 years away before technology is sufficiently advanced enough to erode any trust in anything you see or hear on the Internet (or at least not see/hear in person). 
-- These are all horrifying assumptions, to be sure, but they may or may not be fully realized, or simply exaggerated, in the near and distant future.
-
 **If you think you need the newest technology implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.** Said processes can include focused changes like better oversight and coordination instead of implementing an entirely new productivity system. 
 
-Just because a tool, or technology, is accessible is not sufficient reason to deploy it for use in your systems regardless of your available resources. This is further restricted by some technologies only working well for certain groups of people, such as young students vs old students.
+Just because a tool, or technology, is accessible is not sufficient reason to deploy it for use in your systems regardless of your available resources. This is further restricted by some technologies only working well for certain groups of people, such as young students vs old students. In the case of "dangerous" technologies, there are three common brakes stopping them: treaties and laws defining what's prohibited, officials with oversight to verify compliance, *and* a costly penalty to deter misuse of said technologies. Ideally, you want *all three* of these brakes implemented.
 - One example of how to alter *only* a process for significant gains is from [Flynn et al. when they swapped dishes and monitored menu selections](https://www.nature.com/articles/s43016-025-01218-8) (2025).
 - As another example, [*The pedagogy of the impressed* by Convery](https://www.tandfonline.com/doi/full/10.1080/13540600802661303) and related works contain research showing what can happen with haphazard adoption of new technology (2009).
 
 **The problems you encounter don't often change, but the means (and technology) to address those problems do often change.**
 
-Opinion: The public proliferation of AI (artifical intelligence) in just about every field and occupation is the equivalent of letting a person with no pilot training operate an A10 Thunderbolt II from Fairchild Republic with a GAU-8/A Avenger from General Electric (or General Dynamics) strapped onto it. 
+Opinion: The public proliferation of AI (artifical intelligence) in just about every field and occupation is the equivalent of letting a person with no pilot training operate an A10 Thunderbolt II from Fairchild Republic with a GAU-8/A Avenger from General Electric (or General Dynamics) strapped onto it.
 - In case someone from those companies is reading this: no, this isn't an attack on you. 
 
 AI solutions are usually overkill and not appropriate for many situations, costs a lot to use and deploy, and it is extremely easy to cause unintentional and collateral damage with if handled incorrectly, *but it can neutralize problems.* There are valuable uses for AI, but there's just as many uses which aren't practical, actually detrimental, or make little sense.
@@ -55,13 +47,22 @@ As for technology, we have advanced far and wide to do things we never could've 
 
 ## **Long Answer**
 
-This chapter has a two sentence horror story for system administrators (and similar roles in the future).
+This chapter starts with a two sentence horror story for system administrators (and similar roles in the future).
 
 "Do you have a backup?"
 
 "No."
 
 Now then, let's talk about technology.
+
+Views on technology introduced less than 5 years ago, or at any point in time really, may be exaggerated. Other views may be grounded more in reality and based on direct observations backed by educated guesses, facts, or evidence. For example:
+- Something drastic may change within 1-2 years, like growth, stalling, or decline.
+- Maybe the timeline for full implementation is not 5 years, but 10+ years.
+- Many assumptions about how it could affect roles and positions in society.
+
+As further examples, I may say we will see a slow, but quite certain, creep in the reduction to a person's right to privacy and the increase of unwarranted surveillance (perhaps ironically done in the name of "safety" too). There may also be a shift from ownership to subscription, where consumers "rent" nearly everything instead of owning something under their name/title. Another assumption may be newer technologies are inducing an unprecendented level of addiction amongst the human populace. One more assumption may be we are 10 years away before technology is sufficiently advanced enough to erode any trust in anything you see or hear on the Internet (or at least not see/hear in person). 
+- These are all horrifying assumptions, to be sure, but they may or may not be fully realized, or simply exaggerated, in the near and distant future.
+- In the case of "dangerous" technologies, there are three common brakes stopping them: treaties and laws defining what's prohibited, officials with oversight to verify compliance, *and* a costly penalty to deter misuse of said technologies. Ideally, you want *all three* of these brakes implemented.
 
 ### **A Technology Overview**
 
@@ -70,7 +71,9 @@ Perhaps alluding to *Fahrenheit 451* by Ray Bradbury (1953) is the way to start 
 I want you to imagine what happens when people choose, of their own free will, to dumb themselves down and offload thinking, become ignorant, and desire a constant preoccupation of their minds. All of that without any censorship or declaration from a third party involved forcing their hands. 
 - Perhaps the real message was people should avoid constantly staring at screens.
 
-While technology is generally a good thing, there can also be too much, or misuse, of a good thing. **Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, garage door springs, trampolines, social media, and a sniper rifle.**
+While technology is generally a good thing, there can also be too much, or misuse, of a good thing. What can easily undermine technology, and "magic" you may see in fantasy, is a failure to process the implications. **Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, garage door springs, trampolines, social media, and a sniper rifle.**
+- Even some "tech" executives and billionaires, that people might consider successful in society, actively shield their own children from *excessive* technology and the products they may've helped develop (López, 2020).
+- You could extend this comparison to other technologists, like people working in IT, also taking proactive approaches to limiting technology use.
 
 Many people use various technologies like computers, phones, etc. all day, every day, and perhaps even every waking hour, and *still* not know how the underlying technology works. Even at the smallest issue or roadblock, their mind can go blank or they don't know how to find and implement a solution, which can lead to an unpleasant experience for anyone trying to help them. Having too many technologies (such as microservices) to the point where no one knows what they do anymore is a sign you've likely chosen technology implementations poorly.
 
@@ -84,6 +87,8 @@ Say it takes at most 1-2 seconds to load up a system, but today you noticed it's
 - If you'd prefer another example: imagine walking into a busy restaurant with 100+ active orders ahead of you, ordering anyway, and then complaining about wait times and it taking a while to fulfill your order *despite* knowing there was a long queue.
 
 One of the biggest traps you can fall into in measuring productivity is measuring on an individual level without considering the group level or inappropriate granularity. For example, I may improve a process in one part of an assembly line (e.g. an individual machine), but if the overall product isn't better, or shipped faster, after going through the *entire* assembly line process (e.g. various machines in a single "line"), it may not be a true productivity gain.
+
+### **Technology in Education**
 
 In education, technology should *support* learning, not hinder or replace it, and only works well when people know how to properly use the technology provided. This is why skills like critical thinking, reading literacy, and computer literacy are essential for all parties, students and professionals, in education systems. Don't blindly replace existing methods, like physical books and writing by hand, or have everyone adopt new technology because it seems like the next best thing since sliced bread.
 
@@ -188,9 +193,9 @@ While it's possible to get in through unorthodox means, it's far harder to do so
 
 It's reasonable for me to assume computers (or at least the concept of a computer) will be around for a long time after this is originally written, even if not in the same form as described in this writing. Even if a computer isn't around in the future, skills associated with computers today may persist. **Regardless of what technology is available, simply growing up/living around technology doesn't guarantee proficiency with technology.**
 
-I've seen people prove they're "tech savvy" but have also proven far more often how many people are not actually that. Your ability to connect a toaster into a power outlet did not suddenly make you a master electrician either, afterall. 
+I've seen people prove they're "tech savvy" but have also seen people proven they're "tech dependent" far more often. Your ability to connect a toaster into a power outlet did not suddenly make you a master electrician either, afterall. 
 
-Troubleshooting (and by extension debugging) is a skill I've seen deprecated throughout the years. I won't squarely put blame on any individuals though. In modern times, software and processes are intentionally simplified and optimized to reduce cognitive load and not force people to "think" about what they're doing. Even I advocated for simplifying processes when reasonable. The downside to this is if people don't think about what they're doing, they risk not acquiring any technical literacy if something *does* go wrong. Even if you provided step-by-step guides with exact instructions (i.e. tutorials) that are simple to understand, a human being can still easily mess it up and not know how to search for what the issue is or self-diagnose their way out of a problem.
+Troubleshooting (and by extension debugging) is a skill I've seen deprecated throughout the years. I won't squarely put blame on any one individual or group though. In modern times, software and processes are intentionally simplified and optimized to reduce cognitive load and not force people to "think" about what they're doing. Even I advocated for simplifying processes when reasonable. The downside is if people don't think about what they're doing, or experience any friction along the way, they risk not acquiring any technical literacy if something *does* go wrong. Even if you provided step-by-step guides with exact instructions (i.e. tutorials) that are simple to understand, a human being can still easily mess it up and not know how to search for what the issue is or self-diagnose their way out of a problem.
 
 Knowing computer commands is another thing at risk of deprecation. This may include, but is not limited to, examples like:
 - Saving documents and files
@@ -331,6 +336,8 @@ In general, cost and latency (i.e. time taken) scale with scope. The larger or m
 
 Drilling down further, the most straightforward cost is the sheer quantity of data required to train AI (i.e. to become "artificial intelligence") and how much time and resources it takes to create that data for training. It's millions, if not billions or even trillions, of data files, documents, text, images, videos, and more inputted into models for training. The "sufficient" amount needed for AI increases when there's more tasks you want AI to do and decreases with fewer tasks. As you add more data for AI to process, it also takes more time to process. This can mean months, if not *years,* of time required to train one model to sufficient standards.
 
+You could also design your own AI instead of utilizing another AI service a third party provider has. Even if both you and the provider have the exact same models, parameters, and code, you may not have to pay higher costs when using it, but you may lack the sheer processing power and quality of life a dedicated provider can afford with more resources and technology backing their models. People may also not care if you can make a copy of a service for cheaper too, because it's not *that brand's product.* Name-brand recognition is very powerful.
+
 The other major cost with many technologies is the amount of capital expenses (i.e. initial investment) and operating expenses (e.g. labor and maintenance) required. You may need to purchase servers, processing units, specialized equipment, and real estate to host the equipment as well as recruit staff to maintain the systems, oversee policies around its deployment, and administer its usage.
 
 If monetary costs seemingly aren't an issue, we still have several other problems to address, such as knowledge and *human* problem and a technology ownership problem. Overusing technology to replace human skills results in atrophy of those skills, such as how overusing AI to make decisions for us may rob us of critical thinking and how to make decisions for ourselves. If you're reliant on a technology you don't have the means to reproduce or have ownership of yourself, then the distributor of that technology, not you, has significant control over what you can and cannot do with it. For example, investing heavily into a software-as-a-service another company manages to do your organizational tasks, only for that SaaS to no longer exist and leave you stranded.
@@ -350,10 +357,7 @@ As for who pays, or has ownership of, the *financial cost* of technology, that's
 
 There could be other situations, but those three above seem the most likely. Nevertheless, because there is a *cost,* it needs to be paid off or else you accrue undesirable debt and suffer from undue/unexpected expenses. Ownership is important because having no owner potentially means no one has a responsibility to understand and maintain that technology. If it remains unowned/unused, it'll turn into a drain on your resources. If you need an effective, though crude, method to find who needs a resource, like an AI service, disable or remove it and wait until you find the person that complains the loudest.
 
-I'll emphasize this section only talks about cost and complexity in automation. It doesn't cover all the risks that increase with complexity, the breakeven points of complexity with task automation vs manual tasking, the Pareto efficiency of adding more automation features, and many more cases. Identifying underlying costs is still important as they may be overshadowed by all the benefits technology could provide.
-
-To go off the AI example further, you could also design your own AI instead of utilizing another AI service a third party provider has. Even if both you and the provider have the exact same models, parameters, and code, you may not have to pay higher costs when using it, but you may lack the sheer processing power and quality of life a dedicated provider can afford with more resources and technology backing their models.
-- People may not even care if you can make a copy of a service for cheaper too, because it's not *that brand's product.* Name-brand recognition is very powerful.
+I'll emphasize this section only talks about costs and complexity. It doesn't cover all the risks that increase with complexity, such as the breakeven points of complexity with any task automation vs manual tasking, the Pareto efficiency of adding more automation features, and many more cases. Identifying underlying costs is still important as they may be overshadowed by all the benefits technology could provide.
 
 ### **The "AI" Problem in Education**
 
@@ -397,7 +401,7 @@ Cheating, "laziness," and academic dishonesty were *never* exclusive to, or pure
 
 Adding new technology may also mean adapting how a classroom functions to get more work done *in* class instead of *outside* class. That may put an additional strain on teachers, but it does mitigate the issue of letting a student use AI to do the work for them. Even if an educator has measures to discourage or restrict AI, students may see education as only a transactional process and utilize AI to achieve results and compete with their peers. Accommodations may bypass some of these restrictions, but likely not all of them to preserve educational integrity. If it's handwritten, there's also fewer techological barriers and fewer excuses for why something isn't done.
 
-To counter problems with technology and AI, a teacher may resort to eliminating virtually all technology and doing in-person, handwritten tests and other materials at the school, in a monitored area, without the use of any assistive technology. In shorter terms: all *graded* work is done in-person and students are back to paper and pencil, while any ungraded work doesn't leave the "classroom" area. 
+To counter problems with technology and AI, a teacher may resort to eliminating virtually all technology and doing in-person, handwritten tests and other materials at the school, in a monitored area, without the use of any assistive technology. In shorter terms: all *graded* work is done in-person and students are back to paper and pencil, while any ungraded work doesn't leave the "classroom" area. Granted, you do need all of the necessary resources to support this approach effectively.
 - I find it ironic reverting technological progress for education is a solution, but this solution *does* work despite its drawbacks.
 
 A second solution is a simpler approach. Rather than purchase and implement new software and technology, such as an AI detector, have the student read and interpret the work they did, then translate and explain it back to their educator. The major downside is doing this for each student, or groups of students, is time-intensive. It can, however, expose information gaps quickly for students and make it apparent something, even if AI wasn't used, doesn't add up.
@@ -433,6 +437,8 @@ If you want to try a different twist: you could create an assignment requiring A
 2. Law, R., Guan, X. (2026, February 4). *Update: AI Overviews Reduce Clicks by 58%. SEO Blog by Ahrefs.* [https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/)
 
 3. Leath, M., & Geho, L. (2025, November 6). *Password to Louvre’s video surveillance system was “Louvre”, according to employee.* ABC News. [https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297)
+
+4. López, C. (2020, March 5). *6 tech executives who raise their kids tech-free or seriously limit their screen time.* In Business Insider. [https://www.businessinsider.com/tech-execs-screen-time-children-bill-gates-steve-jobs-2019-9](https://www.businessinsider.com/tech-execs-screen-time-children-bill-gates-steve-jobs-2019-9)
 
 4. PCI Security Standards Council. (2024). *PCI Security Standards Overview.* PCI Security Standards Council. [https://www.pcisecuritystandards.org/standards/](https://www.pcisecuritystandards.org/standards/)
 

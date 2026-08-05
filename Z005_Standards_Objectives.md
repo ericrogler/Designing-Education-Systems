@@ -22,7 +22,7 @@ Standards for learning depend on what, where, and how you teach. There may be ma
 **Your main goal with standards is to sufficiently meet (or exceed) all of the relevant items imposed in them.**
 - Despite this goal, sometimes what matters more is not the material in the curriculum, but how you present the material in the curriculum.
 
-What should be common knowledge, if it is not already, is teachers have a widely varying range of autonomy on which standards to follow and how they implement their curricula. Some teachers have a nonexistent level of autonomy which means they follow a chosen curriculum as is, without significant modification, including dotting all the i's and crossing the t's. Other teachers have near 100% professional autonomy and are free to do what they need/want so long as it satisfies any established standards (i.e. "meets the baseline"). Teacher autonomy goes anywhere from nonexistent to ever present.
+What should be common knowledge, if it is not already, is teachers have a widely varying range of autonomy on which standards to follow and how they implement their curricula. The same applies to the level of support and resources they're provided as well. Some teachers have a nonexistent level of autonomy which means they follow a chosen curriculum as is, without significant modification, including dotting all the i's and crossing the t's. Other teachers have near 100% professional autonomy and are free to do what they need/want so long as it satisfies any established standards (i.e. "meets the baseline"). Teacher autonomy goes anywhere from nonexistent to ever present.
 - This isn't to say all standardization is *bad*, but it does trade off differentiation.
 
 If you're transitioning or changing into new standards or curricula, be aware you typically cannot solve every problem by doing so. Any change, however, should solve at least *some* of your major pain points.
@@ -36,9 +36,9 @@ Can you question and go against established standards? Of course.
 
 *Should* you? If you have the time, effort, and resources (like money) required to see it through, or there's a legitimate concern about said standards, then maybe so. You could further develop a case doing it *your* way is more effective, but that requires data collection and convincing other people to adhere to that viewpoint.
 
-Regardless, **do not cut corners with standards and objectives for any education system!** Having *some* expectations and covering the core subjects and concepts are important. There are several reasons why:
+Remember though: **do not cut corners with standards and objectives for any curriculum!** Having at least *some* expectations and covering the core subjects and concepts are important. There are several reasons why:
 
-- It's hard to build a good curriculum, or learning experience in general, without standards
+- It's hard to build a good curriculum, or a learning experience in general, without any standards or plan
 - Some educational materials may not align with standards, which adds noise when you need signals
 - Not adequately covering standards may risk trouble like non-renewal and potential legal and ethical issues
 
@@ -52,7 +52,7 @@ In both cases, as well as homeschooling, you may still be constrained by a State
 
 As for independent teachers and instructors not creating content for public and private schools, they should expect to handle most, if not all, setup by themselves.
 
-For people in the United States, if you're unsure how to find state education standards, look for and start with your state's Department of Education website (Colorado Department of Education, 2025a, 2025b, 2025c). For this example, I'll use Colorado's DoE website and search for K-12 academic standards.
+For people in the United States, if you're unsure how to find state education standards, look for and start with your state's Department of Education or equivalent organization (Colorado Department of Education, 2025a, 2025b, 2025c). For this example, I'll use Colorado's DoE website and search for K-12 academic standards.
 
 1. Go to the State's DoE website (Colorado = CDE)
     - E.g. [https://www.cde.state.co.us/](https://www.cde.state.co.us/)  

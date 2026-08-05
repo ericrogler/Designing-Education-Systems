@@ -16,14 +16,14 @@ nav_order: 10
 ---
 
 **When people are not held to standards, they will not perform to standards.** Enforce rules like a pilot in aviation: no room for surprises and no tolerance for tomfoolery. It's better to be overly cautious than to not seriously adher to any safety standards here.
-- Much like how you'd likely trust a pilot captain's "gut feeling" something is wrong, even when everything seems perfectly fine.
+- Much like how you'd likely trust an experienced pilot captain's "gut feeling" something is wrong, even when everything seems perfectly fine.
 
-**The more people you have to manage, the more likely something can go wrong.** Anything that can go wrong *will* go wrong. More people also means more opportunities for distractions that deny educational opportunities for every student.
+**The more people you have to manage, the more likely something can go wrong.** Assume anything that can go wrong *will* go wrong. More people also means more opportunities for distractions that deny educational opportunities for all students involved.
 
 **In my experience, you can fix most (80-90%+) classroom management issues with three actions:** 
 1. Consistently (and actually) enforcing discipline and consequences for actions
 2. Allowing students to fail
-3. Limiting the size of classrooms/number of students instructors manage
+3. Limiting classroom size/number of students instructors manage
 
 While educator competence and ensuring a safe and secure environment are also important aspects, this chapter is focusing on *management* problems.
 
@@ -49,9 +49,9 @@ What seems normal and reasonable everywhere else for management is normally not 
 
 Across many of these policies is the need for structure. Having no structure is writing a recipe for disaster, even within "good" education systems. You could have the best lesson plans and content in the world, but it means nothing if there's not a structure to handle punishments for students (i.e. consequences for actions) and write referrals. You also need structure to scale up systems to accommodate thousands, tens of thousands, hundreds of thousands, and even millions or billions of students at once.
 
-**"Strong classroom management" requires enforcing rules and consequences instead of elimiating rules and consequences *at every level in an education system*.** Good management can *mitigate* risk and issues, but not fully eliminate the chance of them occurring and fully deter out-of-control factors. Positive intervention practices (e.g. PBIS) are one method to mitigate issues in the present and future, but you still need other methods to handle serious infractions and when "Plan A" falls through.
+**"Strong classroom management" requires enforcing rules and consequences instead of eliminating rules and consequences *at every level in an education system*.** Good management can *mitigate* risk and issues, but not fully eliminate the chance of them occurring and fully deter any out-of-control factors. Positive intervention practices (e.g. PBIS) are one method to mitigate issues in the present and future, but you still need other methods to handle serious infractions and when "Plan A" falls through.
 
-Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. Perhaps they become simpler or more boring too, which is fine as long as it works positively. You could also have people that are easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
+Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment. Perhaps they become simpler or more boring too, which is fine as long as it works positively. You could also have people easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
 - E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
 
 Additionally, **while a student may have their own rights and be entitled to an education, they're not entitled to deny other students with those same rights an education either.** If someone has an issue with a student being kicked out of a classroom for being a nuisance getting behind in education, they also cannot reasonably overlook how that same disruptive student is "leaving behind" and denying 30+ (or however many) other students an education. For dedicated research on the impact of what students can do, there is a body of research available spanning decades, such as Carrell et al.'s *The Long-Run Effects of Disruptive Peers* (2016) and Burgress et al.'s *The Influence of Social Contagion Within Education: A Motivational Perspective* (2018).
@@ -78,7 +78,7 @@ The first thing is most energy from educators may be focused on *managing* stude
 
 One thing that *is* similar to management in other systems inside education is going into education does not automatically qualify you to teach in education or be an expert in pedagogy. It's similar to a typical manager lacking technical knowledge as they cannot truly understand what's happening within their own project(s). Being skilled at a particular subject also doesn't automatically qualify you as being a good educator of that subject. Think of it as the difference between intelligence and charisma: intelligence is your subject matter knowledge whereas charisma is your ability to communicate. You might know everything there is about cakes, but your students won't learn about cakes if you cannot effectively communicate that knowledge!
 
-Another thing similar to managers in other systems is educators are usually first in line when things break. If something goes wrong, they're on the hook and have to communicate the issue, any impacts or problems it's causing, and solutions to anyone above and below them. It may not matter if a student caused it either and the educator blames a student; the administration and skip-levels might place blame on the educator anyways.
+Similar to managers in other systems is educators are usually first in line when things break. If something goes wrong, they're on the hook and have to communicate the issue, any impacts or problems it's causing, and solutions to anyone above and below them. It may not matter if a student caused it either and the educator blames a student; the administration and skip-levels might place blame on the educator anyways.
 
 Next in similarities is interruptions. Inside of education systems and in roles dealing directly with students, you may be juggling around multiple, constantly appearing interruptions that can derail "work" at any time. This also includes the constant stream of questions, and *especially* off-topic questions and conversations, that can "break" the flow of direct instruction, activities, and other education. You may experience this outside of education in management as direct reports, external contacts, and more may pop in and interrupt you while you are in the middle of something.
 
@@ -86,28 +86,56 @@ Regardless of where you operate, you cannot brute force a solution inside of a b
 
 Some people inside of education systems may view education as a customer service. Therefore, someone may acquiesce to customer demands to "keep" a customer rather than lose a customer, because losing a customer may mean less money going into the "business." The same could be said for non-education systems.
 
-Management almost always equals daycare, even when you intentionally design a system to *not* have that happen. Even adults can act like children might and force you into a "babysitter" role and perhaps even a "therapist" role. Even "good" teams may have these types of people too. They may moan, cause tantrums, complain, pout, be unprofessional in general, have "stupid" confidence, and so on. People may even think you're bullying them when asking them to do a basic task *that is explictly part of their job.* Age is, surprisingly, an inaccurate indicator of how difficult someone is to manage, as children could be easier compared to adults and vice versa. Despite how age factors in here, there's still methods better suited for children and methods better suited for adults.
+Management almost always equals daycare, even when you intentionally design a system to *not* have that happen, inside and outside of education. Even adults can act like children might and force you into a "babysitter" role and perhaps even a "therapist" role. Even "good" teams may have these types of people too. They may moan, cause tantrums, complain, pout, be unprofessional in general, have "stupid" confidence, and so on. People may even think you're bullying them when asking them to do a basic task *that is explictly part of their job.* Age is, surprisingly, an inaccurate indicator of how difficult someone is to manage, as children could be easier compared to adults and vice versa. Despite how age factors in here, there's still methods better suited for children and methods better suited for adults.
 
 Burnout is far more likely to happen faster when you must manage people detrimental to management, even if you do everything correctly *on your end*, much like a well-made shield can only withstand the full, concentrated power of the Sun for so long.
 
-Lastly, there is a great deal of multitasking involved. It's not simply delivering education to students; it's managing every other factor in the environment that could affect that delivery on top of it. It's also why putting up mirrors in a classroom provides an extra pair of eyes for teachers to watch out for potential issues and may mitigate troublesome behaviors from their students.
+There is also a great deal of multitasking involved. It's not simply delivering education to students; it's managing every other factor in the environment that could affect that delivery on top of it. It's also why putting up mirrors in a classroom provides an extra pair of eyes for teachers to watch out for potential issues and may mitigate troublesome behaviors from their students.
+
+Lastly, but probably more importantly, what may get you into significant legal trouble, criminal charges, arrested, and put into prison for, a student in an education system may only get a relative "slap on the wrist" instead. This depends largely on the age, as minors may have additional protections, but also considers various factors including jurisdiction, intent and scale, and the degree of harm.
+
+### **Classroom Size & Effective Teachers**
+
+In previous management chapters, I've shown how many systems deliberately limit the number of direct reports any given director, manager, executive, handles. This is to mitigate issues with communication, workload, task execution, relationship management, and countless other variables. In cases where more responsibility and freedom is foistered onto subordinates/direct reports themselves, and the role/task complexity involved is lower, number of direct reports may be increased at the expense of *exponentially* increasing complexity and cost. 
+- For reference, this "optimal" ratio is about 5-7 direct reports per 1 manager in more traditional organizations and about 10-15 direct reports per 1 manager in flatter organizations. 
+
+In education, this "optimal" ratio is, candidly speaking, quite often thrown out the window at light speed. Classroom sizes can range anywhere from 1 student, to 50 students, to several hundred plus students *all under a single instructor.* This number multiplies when that same instructor handles multiple classes instead of a single class.
+
+Though research may indicate a trivial, or nonsignificant, correlation on the size of classrooms and teacher *effectiveness*, that is not the issue we're addressing here. We're talking teacher *management*, as well as the processes and invisible costs, involved.
+
+Let's say you're a manager in general, not just an educator, and you have a lot of direct reports compared to a few direct reports. This will affect your ability to do many things, such as:
+- Conducting any 1-on-1 meetings
+- Providing attention & feedback towards specific individuals
+- Establishing rapport with individuals
+- Devoting time towards working (or learning) instead of managing
+- Managing disruptions and the potential for chaos
+- Handling how individuals utilize and navigate any physical/virtual spaces
+- Communcating with individuals and related parties (e.g. parents/guardians in education)
+- Mitigating burnout and stress from higher workloads and responsibilities
+- Overseeing and reviewing the work of direct reports (e.g. grading/assessment in education)
+- Allocating resources towards individuals and groups of individuals
+
+**Replace direct reports here with students and *the exact same issues still exist.***  Span of control issues were never exclusive to education systems, so solutions to these problems don't need to always come from education. It does not matter if they're students or not because it's still managing *people.*
+
+Why then, might classroom sizes not be reduced despite any issues? That answer is simple:
+1. Profit maximization
+2. Resource constraints (e.g. teacher and money shortages)
+3. Systems don't *have* to (outside of any legal restrictions).
 
 ### **One Plan to Rule Them All**
 
 Your ideal goal is one plan to handle every student. 
 
-That ideal goal is rarely, if ever, met in practice.
+That ideal goal is rarely, if ever, met in practice. Have a Plan B.
 
 Even if you did develop one perfect management strategy, you may be forced to adapt it to your environment. The *major* exceptions are students with legal documents or accommodations with legal backings, such as IEPs or 504s, where a change is mandated. 
 
-In practice, while a better option is to design a plan to accommodate as many people as possible, there are cases you cannot do that and you may make minor edits to accommodate certain students.
-- This may mean one plan for everything is infeasible. If that's true, the new goal is *minimizing* the number of different plans.
-- One example in practice limiting a single plan may also be the sheer range of abilities and habits across students in a classroom, which means maybe only a small group get the full effect of learning at an appropriate level.
+In practice, while a better option is to design a plan to accommodate as many people as possible, there are cases you cannot do that and you may need edits to accommodate certain students. One example in practice limiting a single plan may also be the sheer range of abilities and habits across students in a classroom, which means maybe only a small group get the full effect of learning at an appropriate level.
+- Therefore, the new goal is *minimizing* the number of plans you need.
 
-Ironically, while these accommodations may satisfy legal requirements, some cases, like emotional and behavioral deficiencies, pose a higher risk to classroom management and a general education student's learning experience while also affecting the available resources you have to effectively teach.
-- E.g. a student may question why they have to follow your rules while another student gets to do "whatever they want," which may give the thought that they may not have to follow your rules as well.
+Ironically, while these accommodations may satisfy legal requirements, some cases, like emotional and behavioral deficiencies, pose a higher risk to classroom management and a general education student's learning experience. A student may question why they have to follow your rules while another student gets to do "whatever they want," which may give the thought that they may not have to follow your rules as well. Accommodations also affect the available resources you have to effectively teach in a given classroom setting.
 
-Any good classroom management plan accomplishes one task exceptionally well: A simple, consistent, and fair way to manage a class. It's objective, fair, appropriately designed, covers what to do and not to do, defines rules and consequences, and is willing to be followed.
+Any good classroom management plan accomplishes one task exceptionally well: a simple, consistent, and fair way to manage a class. It's reasonably objective, fair, appropriately designed, covers what to do and not to do, defines rules and consequences, and is willing to be followed.
 
 **Your management plan doesn't need to be too extensive nor does it have to answer *every* edge case initially either.** It only needs to cover, at a minimum, what ensures a functional classroom setting. While a complicated list may work, aim for fewer steps when reasonable.
 
@@ -190,7 +218,7 @@ Research into suspensions, as well as short-term and long-term student removals 
 
 Many education systems and schools implement some form of MTSS (Multi-Tiered Systems of Support) and/or PBIS (Positive Behavioral Interventions and Supports) to remedy disciplinary issues. MTSS is generally effective at an international level, but still has room for improvement due to its complexity (Nitz et al., 2023). PBIS is also consistently showing, across multiple studies, how it reduces exclusionary discipline practices (María et al., 2023). By reducing the needs for issuing harsher punishments, it can positively influence attendance, grades, and culture within education systems.
 
-Despite effectiveness with existing approaches, one must ensure issuing these punishments adheres to any classroom rules and school rules established, or else it may be perceived as unfair and turned against you. You'd also want to avoid certain suspension types for behavior that is troublesome, but not violent and actively threatening or disrupting other students. The suspension is also ineffective if it isn't something the student wants to avoid or the student doesn't care about the suspension anyway.
+Despite effectiveness with existing approaches, one must ensure issuing these punishments adheres to any classroom rules and school rules established, or else it may be perceived as unfair and turned against you. You'd also want to avoid certain punishments for behavior that is troublesome, but not violent and actively threatening or disrupting other students. The suspension is also ineffective if it isn't something the student wants to avoid or the student doesn't care about the suspension anyway.
 
 Students that are suspended once have a higher probability of experiencing and causing issues when they get back into the classroom once again (National Institute of Justice, 2021). They may not have kept up with school, which means not keeping up with the class and its curriculum. Because they're behind, they may disrupt the class again, the suspension process may repeat, and perpetuate a cycle.
 
@@ -200,7 +228,7 @@ Two common forms of suspensions are ISS (in-school suspension) and OSS (out-of-s
 
 ISS, on the other hand, requires *removing* the student away from a classroom and sent to a secure location on campus under the purview of the education system. This requires additional resources, such as a space and staff to overview it, which may strain systems with already low resources available. The same problems with OSS appear in ISS as well, if the punishment isn't taken seriously by the student(s), there's no remediation done to mitigate future problematic behaviors, and if they're rewarded instead of punished for taking away learning and opportunities from other students.
 
-### **Address Student Accommodations?**
+### **Addressing Student Accommodations**
 
 When students see their peers get something they don't, they'll question why that is the case whether it is out loud or kept to themselves. Frankly speaking, there's no perfect answer that works in every scenario while also complying with confidentiality laws like HIPAA and FERPA. It's also difficult when the accommodation is clearly visible and actively in use in the presence of other students, because you, as the teacher, still likely cannot say anything breaking those laws.
 
@@ -210,9 +238,9 @@ You don't need to say much here. Something like: "Some of you might have differe
 
 If it's an issue *after* something like the above is mentioned, then you can always recount back to the classroom management plan you set beforehand and went over with students. This allows you to firmly inform the student (assumingly) their role is on their own work you gave, not the work of others, and is therefore not a responsibility of theirs to decide how supports are managed.
 
-### **Talking to Students?**
+### **Talking to Students**
 
-It depends upon your audience. One group of students may favor one approach and another group of students may favor another approach. Nevertheless, the goal is to figure out what is, generally speaking, the "best" way to address students in general. Sometimes that is blunt, direct, and straight to the point like an Army Drill Sergeant. Other times that is soft spoken, but still delivering the content as intended.
+It depends upon your audience. One group of students may favor one approach and another group of students may favor another approach. Nevertheless, the goal is to figure out what is, generally speaking, the "best" way to address students in general. Sometimes that is blunt, direct, and straight to the point like an Army drill sergeant. Other times that is soft spoken, but still delivering the content as intended.
 
 Many points I'll make here are from me making a mistake in my own classroom and realizing "oh I should have done that" or from points I found elsewhere.
 

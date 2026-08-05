@@ -22,23 +22,22 @@ Just because your passporting and information transfer procedures, especially wi
 
 ## **Long Answer**
 
-Many people in an education system can be extremely cliquey or selective on who they interact with.
+Many people in an education system can be extremely cliquey or selective on who they interact with. If you get into teaching or instructing, or are currently a teacher, educator, or instructor, your experiences may vastly differ depending on the environment you operate in. 
 
-Don't be cliquey on this part. A good mentor today means a better educator (and education) tomorrow. 
-
-Or at least lower risk in a "descendant" messing up everything their predecessors worked towards. However you wish to view it.
+Don't be cliquey on this part. A good mentor today means a better educator (and education) tomorrow. Or at least lower risk in a "descendant" messing up everything their predecessors worked towards. However you wish to view it.
 
 In a position (e.g. teacher, educator, and instructor) where you often need all the help you can get, it's surprisingly hard to get that help. It may be for a multitude of reasons, such as:
-- It took someone else a lot of effort to set up and create everything they use for education, so may be reluctant to pass it off
-- Someone wants to sell their curriculum or teaching materials and get reward for their effort
-- They're not willing to work with other people out of habit, pride, or similar disposition
-    - By extension, they may make it *more difficult* for you as well
-- They may not be well prepared, like yourself, so cannot assist you meaningfully even if they want to
-- They are unable or unwilling to serve in a mentor role
+- It took someone else a lot of effort to set up and create everything they use for education, so may be reluctant to pass it off. That's less an issue with mentorship though and more "they made something and own it, so can do what they want with it."
+- Someone wants to sell their curriculum or teaching materials and get a "reward" for their effort.
+    - It's possible to earn significant enough wealth doing so too.
+- They're not willing to work with other people out of habit, pride, or similar disposition.
+    - By extension, they may make it *more difficult* for you as well.
+- They cannot assist you, despite any desire to do so, due to a capacity problem with lacking time and/or expertise.
+- They are unable or unwilling to serve in a mentor role.
 
-If you get into teaching or instructing, or are currently a teacher, educator, or instructor, your experiences may vastly differ depending on the environment you operate in. 
+Passporting isn't exclusive to education systems. The health of a community may be determined by its willingness to help out and bring on newcomers. Any toxic or bad community, fan base, group, organization, system, etc. can stagnate future growth and therefore invalidate their own complaints about them not keeping people around and getting new people in. 
 
-Moving forward, let's assume you are the teacher/educator here dealing with various people.
+Moving forward in this chapter, let's assume you are the teacher/educator here dealing with various people.
 
 ### **Teacher-to-Administrator**
 

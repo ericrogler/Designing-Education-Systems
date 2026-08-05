@@ -50,20 +50,20 @@ Paraprofessionals, as well as teaching assistants, don't technically have qualif
 
 They are what their name implies: assistants for a teacher or professor. The requirement for a TA generally is someone, like a past student, with a high success rate/performance in the material they're assisting with. They could do entire lectures, grading, proctoring, lab assistance, answering questions about material, and more. TAs are meant to ease the teacher's workload, but often aren't as familiar with all content as the teacher may be.
 
-Depending on policy, TAs may not host a class or lab on their own without the presence of a teacher of record (you, or an applicable substitute teacher in secondary/primary education).
+Depending on policy, TAs may not be allowed to host a class or lab on their own without the presence of a teacher of record (you, or an applicable substitute teacher in secondary/primary education).
 - Exceptions may occur, but are dependent on the policies of the institution the TA is teaching at, requiring explicit approval from instructor/department, and other education laws.
-- Even with exceptions, a Master's degree, PhD, or prior significant teaching experience may be required for approval in higher education.
+- Even with exceptions, a Master's degree or PhD in a relevant field, or prior significant teaching experience, may be required for approval in higher education.
 
 Depending on the subject(s), your TAs may need licenses and certifications to assist you in the classroom. Check with any relevant authorities or administrative bodies before bringing on a TA.
 
-### **Co-teachers** 
+### **Co-teachers**
 
 They are licensed teachers assisting with multiple parts of a classroom. Of the categories listed in this chapter, they're also typically required to have a teaching license alongside the primary teacher/teacher of record. They may share or split teaching duties, work alongside the special needs students, and help with more specialized tasks like meeting accommodations or translating lessons across different languages. Co-teachers may have different backgrounds or similar background as the primary teacher, so they may not be as familiar with your content knowledge but still allowed to assist you in classrooms.
-- Something that is difficult, but necessary, with co-teachers is for the primary teacher to lose the "lead" part and treat them tloser to what they would a co-worker at the same level.
+- Something that is difficult, but necessary, with co-teachers is for the primary teacher to lose the "lead" part and treat them closer to how they would treat a co-worker at the same level.
 
 ### **Student Teachers** 
 
-The name matches their role: students. If you're the primary teacher, however, they're not *your* students but more like an intern you're overseeing at work. They're usually college, university, or graduate students who are under supervision of an existing, certified teacher (or in infrequent cases, a substitute/guest teacher). Student teachers are similar to co-teachers and share responsibilities in duties a teacher normally does, like grading, lesson planning, teaching, and so on. The major difference between co-teachers and student teachers is co-teachers *are* certified/licensed whereas student teachers are not, so a student teacher *cannot* be left alone within many education systems.
+The name matches their role: students. If you're the primary teacher, however, they're not *your* students but more like an intern you're overseeing at work. The squire to a knight. They're usually college, university, or graduate students who are under supervision of an existing, certified teacher (or in infrequent cases, a substitute/guest teacher). Student teachers are similar to co-teachers and share responsibilities in duties a teacher normally does, like grading, lesson planning, teaching, and so on. The major difference between co-teachers and student teachers is co-teachers *are* certified/licensed whereas student teachers are not, so a student teacher *cannot* be left alone within many education systems.
 
 Assuming you are a current educator reading this, it is safe to assume student teachers are one step below new teachers. It is also safe to assume they may not have much *management* experience like a typical teacher may need to do the role. They'll eventually be in the position current educators are, so your main goal is ensuring they aren't messing up *too* badly, able to mesh into the education system and the environment they operate in, and offering advice when reasonable to do so.
 - And yes, they *will* mess up. It's a matter of when and figuring out how to fix it when they do.

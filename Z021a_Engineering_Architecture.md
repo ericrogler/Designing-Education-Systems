@@ -54,7 +54,7 @@ This section is where we peek into one of technology's many black boxes. If you'
 
 Let's pretend you want to look up something. It could be anything really, but I'll focus on one specific example for this section: searching for candidates. You have a database, or an ATS (Applicant Tracking System), and you submit "queries" (i.e. ask a question) to that database. This database is *exceedingly specific* about how it'll respond. For example, it may think you want an *exact* term when you wanted *similar* terms, but you didn't specify that. If you submit even a slightly wrong query, you could get an answer you didn't expect or didn't want and spend more time searching!
 
-For this example, say I have a list of thousands, if not tens of thousands, of candidates for a role I posted. I want to search for one with multiple skills I need in their resume, as I'm hiring a data specialist. Perhaps everything I need to make my decision with is put inside of a single table too as another group designed the backend to handle most the data ingestion, cleanup, and organization. A small, illustrative sample of this table may look something like this going in:
+For this example, say I have a list of 5000+ candidates who applied for a role I posted. I want to search for one with multiple skills I need in their resume, as I'm hiring a data specialist. Perhaps all the relevant info was put together in a table before by another group designing the backend to handle most the data ingestion, cleanup, and organization. A sample of this table may look something like this going in:
 
 | candidate_id | title | years_experience | location | skill |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ For this example, say I have a list of thousands, if not tens of thousands, of c
 | 5 | Data Specialist | 1 | United States | SQL |
 | 5 | Data Specialist | 1 | United States | Tableau |
 
-In a query, I may just type "SQL AND Python AND Airflow" and the database does its work for me. I'm searching for specific fields here, which is easier to do for someone without any technical whereabout. If I were to put it in code, it may actually do something like this:
+In a query, I may just type "SQL AND Python AND Airflow" and the database does its work for me. I'm searching for specific fields here, which is easier to do for non-technical people in this case. If I were to put it in code, it may actually do something like this behind the scenes:
 
 ```SQL
 -- SQL Example
@@ -99,7 +99,7 @@ Method #2 is essentially changing what you type into the search engine. Perhaps 
 
 Method #3 is where the concept of "weights" comes in. Perhaps you value more experience higher than less experience, so candidates with 10+ years get a better score *in that category* compared to candidates with 3+ years.
 
-...Let's pretend I do *all* of that in a single query this time. A non-technical approach would be opening up my search bar, typing in something like "Senior Data Specialist, SQL AND Python AND Airflow AND Tableau, 5 years experience, United States." In a code example (which will look quite messy), and assuming I *only* want candidates that perfectly meet all of specifications *and* score highly, it may look like this:
+Let's pretend I do *all* of that in a single query this time. A non-technical approach would be opening up my search bar, typing in something like "Senior Data Specialist, SQL AND Python AND Airflow AND Tableau, 5 years experience, United States." In a code example (which may look messy to some readers below), and assuming I *only* want candidates that perfectly meet all of specifications *and* score highly, it may look like this:
 
 ```SQL
 -- SQL Example (with CTE (Common Table Expression))
@@ -125,11 +125,13 @@ WHERE skill_match_count = 4
 ORDER BY score DESC;
 ```
 
-As an aside, adding a score here may initially seem unnecessary. I kept a score here in case I wanted to scale up or down the number of criteria or ease up on how *strict* I wanted my search to be. For example, maybe I still want all of these skills, but I'll consider people with lower experience so my score threshold is lowered to not filter them out automatically.
+This time I get 15 candidates out of my original 5000 candidates who meet every criteria I specified. That's a lot of potential candidates automatically "rejected" due to a filter I established with a single query to find the "dream" candidate(s) I desired. The more incoming candidates there are, or simply "the more data there is to look through" to put it another way, I may be more selective and approve stricter filtering/ranking as a result since I have *choices*. If I were limited on available choices, however, then I'd probably either spend more time waiting or loosen up my search criteria.
 
-This time I get 15 candidates out of my original 5000 candidates who meet every criteria I specified. I *ranked* candidates alongside my filters and returned only those who passed both checks. 15 resumes is a far more reasonable number I can go through in a timely manner. At this point, human eyes and intuition verify any other details, such as "is this actually a human writing it," and parse through it to decide who goes into interviews.
+I *ranked* candidates alongside my filters and returned only those who passed both checks. 15 resumes is a far more reasonable number I can go through in a timely manner. At this point, human eyes and intuition verify any other details, such as "is this actually a human writing it," and parse through it to decide who goes into interviews.
 
 There are also times where you'll need to manually check through everything as well. The output may not match what is needed and/or expected, so you, the human, dig deeper to find what's invisible, make it visible, and fix it. For example, maybe "PostgresSQL" was on someone's resume and you would like someone with that skill, but you didn't push it through because your filter worked on "SQL" instead. As another example, you have AI or other technology implemented to automate most the legwork for you here, but you find it's messing things up so you need to either fix it or get rid of it.
+
+As an aside, adding a score here may initially seem unnecessary. I kept a score here in case I wanted to scale up or down the number of criteria or ease up on how *strict* I wanted my search to be. For example, maybe I still want all of these skills, but I'll consider people with lower experience so my score threshold is lowered to not filter them out automatically.
 
 The lesson is simple: **Learn and understand how search engines work, at least on a basic level. Search engines can both work for you and against you.** These systems may be stupider than you think, but can greatly alter how things operate. 
 

@@ -23,6 +23,8 @@ Sometimes you may have to give homework due to an administrative policy. This is
 
 ## **Long Answer**
 
+The first rule of "homework" (and most work students do in general) in education is simple: you don't have to grade everything you collect from students.
+
 Recall the previous section where I talked about blockers to student learning and the ability to teach.
 
 I've personally seen schools implement "no homework" policies in the mid-2010s and use the rule of thumb of 10 minutes per grade level. Nevertheless, it's difficult to determine the "optimal" time to dedicate to homework (Guo et al., 2024). 

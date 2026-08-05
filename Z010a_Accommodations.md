@@ -365,7 +365,7 @@ What is a "check" though depends on the specifics of the accommodation, so doubl
 
 ### **"Nothing below a 60 (Grade Floors)"**
 
-Short answer: Don't do this please, even if it's with the best intentions.
+Short answer: Don't do this please, even if it's with the best intentions. You may also see this masked with another term, such as a "no-fail policy" or "standards-based learning (SBL)" in an education system.
 
 Long answer:
 
@@ -433,7 +433,7 @@ Extended time also opens the door to a student asking for, and getting, an exten
 
 This may be an "edge case," but still worth highlighting. The accommodation deals with *equity* of time, not equality of time.
 
-This accommodation is easy to abuse and has plenty of incentive behind it to abuse. For high-stakes testing and tests intentionally designed with time constraints, time extensions are a substantial advantage for anyone "gaming" the system. How well someone scores determines scholarship money, cost of tuition, opportunities for success, access to higher tier colleges, what programs you can pursue, and more.
+This accommodation is easy to abuse and has plenty of incentive behind it to fuel that abuse. For high-stakes testing and tests intentionally designed with time constraints, time extensions are a substantial advantage for anyone "gaming" the system. How well someone scores determines scholarship money, cost of tuition, opportunities for success, access to higher tier colleges, what programs you can pursue, and more.
 
 It's possible the system can be abused and it's possible diagnoses from medical professionals for conditions warranting extra time may not be accurate or precise. It's why there may be restrictions and requirements in place before those accommodations are provided. It's also a reason why a request for an accommodation in one test, class, etc. may not guarantee those accommodations elsewhere.
 
@@ -441,7 +441,7 @@ I don't think the risk or danger of abuse is enough to warrant banning or disreg
 
 ### **Assistive Technology**
 
-This is a "it depends" scenario.
+This is a "it depends" scenario on reasonability.
 
 In some cases, totally fine and encouraged. Student's blind and needs to use a screen reader or Braille? Go for it. 
 
@@ -453,9 +453,11 @@ In other cases, this is easy to abuse and misuse. As an example, assistive techn
 
 ### **Written (and Visual) Directions and Assignments**
 
-This is pretty reasonable to accommodate and teachers may already do it anyways for all students. Visual could also mean written.
+This is pretty reasonable to accommodate and teachers may already do it anyways for all students.
 
-To give an example: Say you're giving a lab safety demonstration and going over the various tools and how to use them. Chances are, you probably prepared a script beforehand that is *written.* You could give said student with accommodations this script so they can follow along with your verbal explanation to the rest of the class.
+To give an example: Say you're giving a lab safety demonstration and going over the various tools and how to use them. Chances are, you probably prepared a script beforehand that is *written.* You could give said student with accommodations this script so they can follow along with your verbal explanation given to the entire class.
+
+There *are* times certain content needs to be explicitly written or vocalized, which means there's edge cases for it being unreasonable, but they're uncommon.
 
 ### **Food/Drink Allergies**
 
@@ -464,7 +466,7 @@ Pretty reasonable accommodation, but it adds a risk management and liability iss
 One student, or multiple students, with one allergy? Manageable. For example, staff can bring in an alternative item, like gluten free pizza, for the student(s) or restrict one type of item, like peanuts, from being brought into the classroom. 
 
 Multiple students with different allergies in the same classroom? Potentially unreasonable. If there's an event involving the class, or a group of students, it limits what anyone can bring into the classroom. If there's too many allergies to account for, it may actually reach the point where the only food/drink allowed is water.
-- If an edge case occurs where someone is allergic to water, [like aquagenic urticaria](https://www.uptodate.com/contents/physical-inducible-urticaria) (Dice & Gonzalez-Reyes, 2025)? That could mean no food/drink available to any students *period.*
+- If an edge case occurs where someone is allergic to water, [like aquagenic urticaria](https://www.uptodate.com/contents/physical-inducible-urticaria) (Dice & Gonzalez-Reyes, 2025)? That could mean no food/drink available given to any students *period.*
 
 Keep in mind, even if the problematic food/drink wasn't distributed by the teacher, the teacher is *still* accountable for what happens to students in their classroom.
 

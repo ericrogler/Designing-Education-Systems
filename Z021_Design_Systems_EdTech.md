@@ -45,6 +45,8 @@ A complex design is always worse than a simple design if they perform at the sam
 
 **First impressions are powerful and affect the rest of the experience.**
 
+Users are dumb, but a user is smart. Users have ways to both disappoint and surprise you no matter what you do.
+
 People eat with their eyes too. It's likely you've experienced a cue when seeing visually appealing food. Presentation is powerful and research covers how food's appearance affects human's brains (Spence et al., 2016).
 
 Beyond food, "design" is present in many fields. You could design a house, a software application, a piece of art, and plenty more. Many concepts rooted in, or brought over to, design are cross-disciplinary, though certain design concepts work better in some fields over others.

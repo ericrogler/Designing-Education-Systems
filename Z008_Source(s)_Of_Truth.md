@@ -9,9 +9,9 @@ nav_order: 16
 
 ## **Short Answer**
 
-> "Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest."
+> "It is such a quiet thing, to fall. But far more terrible is to admit it."
 
-- Soho Takuan to Musashi Miyamoto, *Vagabond* (2003; Japanese to English Translation)
+- Kreia, *Star Wars Knights of the Old Republic II: The Sith Lords* (2004)
 
 > "Absence of evidence is not evidence of absence"
 
@@ -27,7 +27,7 @@ Last, but not least, your education system very likely doesn't need a shiny new 
 
 ## **Long Answer**
 
-Despite this being a book on education systems (and education in general) and any experience in the field of education, I'll admit, as the author writing this, I've read more books across *non-education* fields compared to education-specific books to help write this book. 
+I believe it a fool's errand to seek to improve education by *only* looking within education. Despite this being a book on education systems (and education in general) and any experience in the field of education, I'll admit, as the author writing this, I've read more materials across *non-education* fields compared to education-specific materials to help write this book. 
 
 Funny how that works.
 
@@ -37,7 +37,7 @@ I'd also reasonably assume education will gradually try to move away from hard c
 You'll also find many rules don't apply universally for determining a standard of quality. For example, academia follows the rules of academia and internally conducts peer reviews, citation standards, accreditations, and holds authority in its own jurisdiction. Many of these rules exist to protect the people inside of them. It cannot, however, readily enforce products and services outside of that academia jurisdiction; those products and services are often subject to different rules in the environments they're active in.
 - That'd be like the United States using its federal laws to enforce what happens in the European Union.
 
-Lastly, a single textbook will typically not cover everything you need for purposes, such as designing a curriculum, so expect to utilize multiple sources to meet your goals. Even this book will not cover everything.
+Lastly, a single textbook, article, manual, etc. is quite unlikely to cover everything you need for your purposes, such as designing a curriculum. Even this book will not cover everything. Expect to utilize multiple sources to meet your goals.
 
 ### **What are Sources of Truth?**
 
@@ -136,7 +136,7 @@ Despite Wikipedia's benefits and drawbacks, a student may inevitably use it, if 
     - [https://guides.lib.k-state.edu/c.php?g=181829&p=1195993](https://guides.lib.k-state.edu/c.php?g=181829&p=1195993) (my alma mater!)
     - [https://usingsources.fas.harvard.edu/evaluating-sources-0](https://usingsources.fas.harvard.edu/evaluating-sources-0)
 
-To emphasize again: I find Wikipedia better suited as a reference *after* you have base knowledge of topics, or exploring topics related to what you already know, rather than a resource for learning new material. The website's goal is not on pedagogy, or even andragogy; it's an encyclopedia (which are not ideal for *learning* new topics).
+To emphasize again: I find Wikipedia better suited as a reference *after* you have base knowledge of topics, or exploring topics related to what you already know, rather than a resource for learning new material. That's what an encyclopedia is good for.
 - From personal experience, with some bias, on my end: Wikipedia for mathematics. You're better off reading a textbook, or another resource outlining a defined path, and doing math rather than reading about math on Wikipedia for *learning* purposes.
 
 ### **The Dark Side of the Moon**
@@ -145,22 +145,30 @@ To emphasize again: I find Wikipedia better suited as a reference *after* you ha
 
 Despite a perception that science is a shining beacon of perfection, the real world is very much imperfect in many ways. Additionally, what works well in practice may only work in one specific situation or the research/study is simply non-repeatable. Despite that primary issue, methods may be pushed to be the next best thing since sliced bread because there's wealth (and resources) involved somewhere in some way.
 
-Research in general, and academia by extension, operates under controlled settings and takes into account many assumptions, such as good-faith effort on students (if they're part of the group tested for research). It's precisely *because* it's controlled conditions, which can be replicated and reproduced for veracity, it's considered valid as research. This goes for just about every field and study in the past, present, and future.
+Research in general, and academia by extension, operates under controlled settings and takes into account many assumptions, such as good-faith effort on students (if they're part of the group tested for research) in educational research. That doesn't mean the research itself is perfect. Analyses can be flawed and experimental designs inaccurate for a variety of reasons. Researchers who made a study before can, and should, refute their findings if future evidence disproves their earlier works, even if it means an admitting there were errors.
 
-That doesn't mean the research itself is perfect. Analyses can be flawed and experimental designs inaccurate. Even researchers who made one study can, and should, refute their findings if future evidence disproves their earlier works.
+Replicating research and studies is an entirely different matter. For more nuance and details regarding replicability, consult specialized materials such as *Reproducibility and Replicability in Science* (National Academies of Sciences, Engineering, and Medicine, 2019). In modern times, you face issues such as:
+- The sheer quantity of research being outputted
+- The money and effort involved to replicate studies/research
+- The available time to dedicate towards replication when your own research needs attention
+- The infeasibility of replicate studies that have been done due to various other factors
+- A study requiring multiple people
+- Ethics approvals (and other regulation approvals), or degrees of oversight required
 
-As for how *old* research can be while remaining relevant, it's a somewhat complicated answer. I've seen methods around for several decades that, quite frankly, still work well but have relatively dated sources. I've also seen new research crop up as a "fad" before fading away from existence as a mistake to hopefully not repeat again. It's also dependent on the field; a math book from 100+ years ago *could* still be relevant today, pending some minor changes to its explanations, whereas some science books could be made irrelevant tomorrow if a major discovery comes out of nowhere.
+At the same time, if attempts at replication fail that doesn't mean the original study is immediately invalidated. You still must consider the body of research in a given field, topic, etc. Even if replication is not done or feasible, other people may use this research, conduct follow-up studies, and publish competing (or affirming) results around it. 
+
+As for how *old* research can be while remaining relevant, it's a somewhat complicated answer. I've seen methods around for several decades that, quite frankly, still work well but have relatively dated sources. I've also seen new research crop up as a "fad" before fading away from existence in less than a few years as a mistake to hopefully not repeat again. It's also dependent on the field. A math book from 100+ years ago *could* still be relevant today, pending some minor changes to its explanations, whereas some science books could be made irrelevant tomorrow if a major discovery comes out of nowhere.
 - This may be formally referred to as part of the Lindy Effect (Taleb, 2012).
 
-Because the conditions are controlled, however, this may lead to "Luxury Beliefs" which is ideas suitable for people with resources vs people without enough resources, or upper class vs lower class (Henderson, 2022). Research is always at risk of being divorced from reality and this extends *beyond* education across multiple fields. The same policies and ideas may have positive effects in one environment, but drastically negative effects in another environment, which runs counter against providing consistent equity for education in the first place!
+Applying the results of research to an education system may have various effects. For example, this may lead to "Luxury Beliefs" or ideas suitable for people with resources vs people without enough resources, or upper class vs lower class (Henderson, 2022). Research is always at risk of being divorced from reality and this extends *beyond* education across multiple fields. The same policies and ideas may have positive effects in one environment, but drastically negative effects in another environment, and threaten consistent equity for education.
 
 Within research, there may also be issues with p-hacking, replication failures, variable control, correlation, and bias (to name just a few) inserted into the research (Ulrich & Miller, 2020). There may also be business incentives and programs affecting the research to showcase "the next best thing" and create evidence for it to generate a profit on. This can also mean "hunting" for studies supporting existing opinions and bias to push forward a policy or method.
 
-Additionally, some people conducting the research on education and classrooms may have never *taught* in a classroom before, which may remove vital context and domain knowledge to inform their findings and draw conclusions. This lack of context may or may not be their fault either; acquiring data on students in education has many barriers and ethical concerns attached which may dilute the research. What that means is they may acquire samples either too small for statistical significance or unrepresentative of populations to reproduce and verify research methods.
+**Questioning science also requires you to have understanding of the science itself first.** Some people conducting research on education may have never *taught* in a classroom or education before, which may remove vital context and domain knowledge to inform their findings and draw conclusions. This lack of context may or may not be their fault either and may, in practice, only be a minor barrier to research. Acquiring data on students in education has many barriers and ethical concerns attached which may dilute the research, afterall. What that means is there's the possibility they acquire samples either too small for statistical significance or unrepresentative of populations to reproduce and verify research methods.
 
-All the theory in the world cannot fully correct problems at a real-life, systemic level. At its best, the theory is implemented and can solve a *set* of problems in a class, but not the entire classroom system as a whole at varying success. At its worst, the theory falls apart completely, or is adjusted to suit the interests of its implementers, and may make the classroom environment much worse.
+All the theory in the world cannot fully correct problems at a real-life, systemic level. At its best, the theory is implemented and can solve a *set* of problems in a class, but not the entire classroom system as a whole at varying success. This is why applying the results and methods in research broadly across education systems, students, other systems, and so on is a fundamentally flawed approach. If the environment does not have the same resources and leniency in policies/rules to see it through, you cannot reasonably expect to get the same results as the research you're referencing! At its worst, the theory falls apart completely, or is adjusted to suit the interests of its implementers, and may make the classroom environment much worse.
 
-Not all educational research is bad. Some research is good and research on how to make a more effective and efficient classroom is something each party should have an interest in, including teachers. Nevertheless, be mindful of how research is conducted and how well it translates to real-life scenarios.
+Not all educational research is bad. Some research is good and research on how to make a more effective and efficient classroom is something each party, including teachers, should have an interest in. Nevertheless, be mindful of how research is conducted and how well it translates when applied to real-life scenarios.
 
 ### **The Many Authors Problem**
 
@@ -204,9 +212,6 @@ You should accept subject matter experts into helping design an education system
 
 7. Henderson, R. (2022, June 12). *Luxury Beliefs are Status Symbols.* www.robkhenderson.com. [https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 
-1. Inoue, T. (2003). *Vagabond* (Vol. 4). VIZ Media LLC. (Original work published 1999). ISBN: 978-1-56931-854-6
-    - Translation from Japanese to English.
-
 7. Kansas State University Libraries. (n.d.). *Evaluate Sources.* [https://guides.lib.k-state.edu/c.php?g=181829&p=1195993](https://guides.lib.k-state.edu/c.php?g=181829&p=1195993)
 
 8. Knaflic, C. N. (2025). *Storytelling with data.* [https://www.storytellingwithdata.com/](https://www.storytellingwithdata.com/)
@@ -217,7 +222,12 @@ You should accept subject matter experts into helping design an education system
 
 11. McCandless, D., et al. (n.d.). *Information is beautiful.* [https://informationisbeautiful.net/](https://informationisbeautiful.net/)
 
+12. National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and Replicability in Science.* In www.ncbi.nlm.nih.gov. National Academies Press (US). [https://www.ncbi.nlm.nih.gov/books/NBK547524/](https://www.ncbi.nlm.nih.gov/books/NBK547524/)
+
 13. Oakley, B., Rogowsky, B., & Sejnowski, T. (2021). *Uncommon sense teaching: Practical insights in brain science to help students learn.* TarcherPerigee.
+
+14. Obsidian Entertainment. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. LucasArts.
+    - Lead Writer is Chris Avellone.
 
 14. Python Graph Gallery. (n.d.). *The Python graph gallery.* [https://www.python-graph-gallery.com/](https://www.python-graph-gallery.com/)
 

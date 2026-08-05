@@ -43,39 +43,54 @@ Goals can greatly differ amongst peers as well. For example, with two people in 
 
 Teachers and instructors, or any particular person/group, are not exempt from *also* being the problem. Every person can cause issues, but rarely does every person cause issues simultaneously. 
 
-A lot of advice assumes people are rational and not crazy. In practice, that's rarely the case. Read many things with a grain of salt.
+A lot of advice assumes people are rational and not crazy. In practice, that's rarely the case. Read many things with a grain of salt. Remember to always put things in writing and establish a record.
+- This includes following up "calls" and meetings with documentation, like an email or note about it afterwards.
+- *Especially* put things in writing and maintain a record/paper trail for anyone that's "difficult" to deal with.
 
-Lastly, professional development is only good if it isn't a waste of time.
+Lastly, professional development is only good if it isn't a waste of time for the people receiving it.
 
 ## **Long Answer**
 
 *Notice: This chapter is written from the perspective of an educator/instructor.*
 
-You may find many people don't always know what they're doing. They could simply be muddling through life, faking it until they make it, and/or "winging it" (i.e. improvising) with whatever tools and knowledge they have and it somehow gets them by just fine. Knowing this may be what you need to boost your own confidence.
+Guess what: you need social skills. 
+
+There, I said it. Let's move on.
+
+We've talked about the golden rule of management before: don't be an asshole.
+
+There's a *second* golden rule as well: Be an asshole, *only* when there is no other method to do what's needed allowed by the system. False politeness and toxic positivity can harm relationships, which is why this rule exists as an exception. Navigating that second rule is far more difficult, however, hence why I dedicate *an entire chapter* to relationships here.
+
+If there's any one thing a fantasy villain may be right about, it's that anyone, or anything, with unchecked power and zero oversight is a significant problem. Often *how* they address that problem is, ironically, part of what leads to their undoing. They may still be wrong, even with the best of intentions, and they themselves are not immune to that same problem. How far someone is willing to go to be good may also incite evil.
+- Therefore, *anyone* mentioned here could be part of the problem in a faulty system. Not everything is solely the teacher's fault.
+
+Moving away from villanry, however, you may find many people in general don't always know what they're doing. They could simply be muddling through life, faking it until they make it, and/or "winging it" (i.e. improvising) with whatever tools and knowledge they have and it somehow gets them by just fine. Knowing this may be what you need to boost your own confidence.
 
 You'll also discover education systems don't have just educator problems. They have *everyone* problems and plenty of issues found in logistics, as each individual and group involved in education systems has responsibilities to follow through on.
 
-This chapter is also where we acknowledge socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service any neglect any social contracts embedded within these systems.
+This chapter is also where we acknowledge socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service and neglect any social contracts embedded within these systems.
 - E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems that help students get a quality education they can control.
 - E.g. A school can provide a clean facility, competent staff, and appropriate learning materials, but cannot resolve a student's housing crisis, crippling debt, or income stream issues.
 
-Every person is different. Knowing how relations work amongst people, and the ability to navigate "politics" amongst people within systems, provides you a layer of protection. There are as many rattlesnakes wanting to inject venom into you as there are golden retriever dogs wanting to hug you, so to speak. That said, you could also be the sort to view no one as your enemy as well. 
+Every person is different. Knowing how relations work amongst people, and the ability to navigate "politics" amongst people within systems, provides you a layer of protection. There are as many rattlesnakes wanting to inject venom into you as there are golden retriever dogs wanting to hug you, so to speak. That said, you could also be the sort to view no one as your enemy as well.
 
 You might get by just fine without these skills, as being a social butterfly is not a requirement to being likeable with other people. You could also get by (and keep your job/role/position/etc.) by keeping your head down, shutting up, documenting issues to protect yourself, and making your leadership look good.
 
 ### **Likeability**
 
-Have you ever seen an uncharismatic person propose a genuinely good idea or solution, but people don't care for it (or even actively go against it)? 
+The majority of people you may encounter in life *aren't bad.* If you think everyone is bad, then you might be the problem.
 
-Likeability can help fix that. It's like your Charisma attribute. If you get rid of the person everyone likes? People may follow after them.
+Outside of that, have you ever seen an uncharismatic person propose a genuinely good idea or solution, but people don't care for it (or even actively go against it)? What about when someone tolerates you, but never chooses you, and switches to a "polite" attitude with zero warmth behind it?
 
-People care about other human beings being decent human beings. In interviews and conversations, one way to verify this is the "airport test" (Indeed Editorial Team, 2025). You decide from one of many people with equal capabilities, status, etc. based on if you want to be stuck together with them in an airport for a long period of time. Succeeding here could simply be that someone else, or a group of people, didn't hate working with you and/or being around you.
+Likeability can help fix these issues. **Remember though, that likeability is only a force multiplier.** Likeability without any substance or meaning behind it is tantamount to manipulation or performance and may only mask problems rather than solve them. It is not a replacement for respect. It's basically your Charisma attribute. You may not get things done *on your own*, but with a party of people? Perhaps a community or entire movement of people? Things are far more likely to get done with more people on the same page. It can also help combat the silent killer of relationships that is contempt, or the quiet erosion of respect. 
+
+People care about other human beings being decent human beings. In interviews and conversations, one way to verify this is the "airport test" (Indeed Editorial Team, 2025). You decide from one of many people with equal capabilities, status, etc. based on if you want to be stuck together with them in an airport for a long period of time. Succeeding here could simply be that someone else, or a group of people, didn't hate working with you and/or being around you. If you get rid of the person everyone likes? People may follow after them, so you want to find out who is someone people will like and stay around.
 - **I have personally seen people, even the most competent and reliable people, not be hired, or fired, purely because they were difficult to work with and/or could not acclimate to the environment they operate in.**
 
 When dealing with people, it's often easier to get along with someone you like instead of someone you hate. Maybe even the enemy of your enemy is your friend too. You may interview, date, or hang around someone who has all the skills and capabilities you need, but reject them because you don't want to be around, or work with, this person (especially on a daily basis!). You might non-renew or eliminate someone from a position depending on if you like them too. The ability to collaborate and work together is important afterall!
 - Phrases you may've heard before, such as "culture fit" or "marry your best friend," also relate back to this concept.
 
-While being likeable is important, as people often cannot choose who they get to work with or even be around, there's two other aspects to consider: trustworthiness and competence. Trustworthiness means you can trust someone to go through with what they say they'll do. Trust leads to reliability, which should in turn lead to less risk. Many business relationships are also built upon trust; the kind where you can expect someone to work without watching them and/or not have them backstab you.
+While being likeable is important, as people often cannot choose who they get to work with or even be around, there's two other aspects to consider: trustworthiness and competence. Remember how I said likeability cannot replace respect? This is where it applies. Trustworthiness means you can trust someone to go through with what they say they'll do. Trust leads to reliability and respect, which should in turn lead to less risk. Many business relationships are also built upon trust; the kind where you can expect someone to work without watching them and/or not have them backstab you.
 
 Competence, while a valid measure of technical skills and experience, can almost always be taught to newcomers into a profession. Sometimes being the smartest person in the room may not be as valuable as being the person who can get things done right, and on time, or get people together to accomplish greater things. While there are cases where you explicitly need someone with prior experience and high competence coming in, there may not be an environment where they can gain that experience. Thus, you need to rely heavily on the other aspects, in addition to technical knowledge, instead of only experience and competence.
 - For example, you cannot reasonably ask for someone with 8+ years of experience in a tool, subject, software, etc. if that same tool, subject, software, etc. only existed for 2 years *at most* OR cannot be used outside the organization you're bringing them into.
@@ -151,9 +166,9 @@ Though I may bastardize Newton's Laws of Motion here, the concept of "an object 
 
 ### **At the Frontlines**
 
-Teachers and instructors in an education system are quite likely to receive complaints directly from students, parents, and other "downstream" stakeholders.
+Teachers and instructors in an education system are quite likely to receive complaints directly from students, parents, administrators, and other "downstream" stakeholders.
 
-These employees are accessible targets for feedback and represent the front-facing, interface layer users engage with. Instructors/teachers are in the same position here. Both help create the content you interact with, but neither likely holds full control of the education process and final product students interface with. Some users may investigate further and figure out upstream issues, but that usually requires deeper knowledge of how the system(s) functions.
+These employees are "easy," or accessible, targets for feedback and criticism and represent the front-facing, interface layer users engage with. Instructors/teachers are in the same position here. Both help create the content you interact with, but neither likely holds full control of the education process and final product students interface with. Some users may investigate further and figure out upstream issues, but that usually requires deeper knowledge of how the system(s) functions.
 
 Within both simple and complex systems, complaints flow downstream to the most visible participant in a system even if they're not responsible. This isn't limited to only instructors and developers either; any front-facing role may face these same issues.
 
@@ -163,9 +178,9 @@ When evaluating claims about consequences, rigor, and standards in education, th
 
 You could include "higher ups" here if you wish. I won't mind and it's likely close enough anyways. You could also view them as people who don't "do the work," but can block any work done, if you prefer a negative connotation instead.
 
-A stakeholder, investor, or donator here can be either individuals or organizations from inside or outside education systems, but have at least committed (hopefully in writing) resources towards education. 
+A stakeholder, investor, or donator here can be either individuals or organizations from inside or outside education systems, but have at least committed (hopefully in writing) resources towards education.
 
-Stakeholders can include a broad and diverse group of people. In the context of this book, these are generally people who can influence education without being directly integrated into an education system. Stakeholders may also include decision makers often far removed from typical classroom settings (i.e. the "frontlines"). This may include politicians, members of the State, consumer organizations, district-level employees like superintendents and directors, and more. They often hold the authority to make decisions affecting those classrooms, schools, education systems, etc. for better or worse. This includes, but is not limited to, imposing budgeting decisions like eliminating hot lunches or limiting/increasing resources for the next fiscal year in certain regions and facilities.
+Stakeholders can include a broad and diverse group of people. In the context of this book, these are generally people who can influence education without being directly integrated into an education system. Stakeholders may also include decision makers often far removed from typical classroom settings (i.e. the "frontlines"). This may include politicians, members of the State, consumer organizations, district-level employees like superintendents and directors, testing organizations, vendors, school boards, publishers, and more. They often hold the authority to make decisions affecting those classrooms, schools, education systems, etc. for better or worse. This includes, but is not limited to, imposing budgeting decisions like eliminating hot lunches or limiting/increasing resources for the next fiscal year in certain regions and facilities.
 
 They may also be the people who push for, enforce, and develop sweeping reforms for education as a whole and handle the entangled politics behind it. Even if there *is* something you could do regarding this group of people, it may take years, if not decades, to reach fruition and see the results. Those methods are outside the scope of this book and require investigation on the reader's end into how to interact with them, whether through government websites, the Internet in general, or other digital/physical methods.
 
@@ -181,24 +196,24 @@ Say, for example, you're trying to secure funds for an education system. Investo
 
 ### **Administrators**
 
-Administrators manage educators and staff directly, but students indirectly. That's a roundabout way to say they handle certain problems educators cannot, and should not, handle and get rid of blockers they, and the educators, have to carry out student education. This may include verifying students meeting the proper prerequisites before going into a particular class, meeting and vetting "clients" (i.e. students and parents), handling security issues, overseeing the health and repairs of a facility, stamping out student discipline problems, and more. They also handle things teachers may not want to deal with as well, like most complaints from "clients" as mentioned before, threats of litigation, and multiple meetings. 
-
-There may be some overlap between administrators and traditional educators, but administrators lean far more into being *managers* rather than educators. They also may have never taught, or at least taught recently enough for accurate context, in a classroom/educational setting, which can categorize them as non-technical managers. 
-
-Whether or not there is a lack of classroom management skills, if that's a concern, administrators need to focus on managing many other parts of education systems. A byproduct of this focus is they may cause friction with any professionals reporting to them if they cannot support and maintain conditions favorable for education systems to thrive. It doesn't render their own decisions and perspectives completely invalid though, as each party in an education system focuses on different aspects of that system.
-- E.g. Administration should focus on solving "What do you need to do your job well?" and eliminating blockers while avoiding "Here's how to do your job" outside specific circumstances.
-- As covered before in this book: excessive micromanagement is *bad* and quite often goes against the goals of a manager.
-
-Much like how employees have bosses/managers, if you're a teacher/instructor and have a good administrator, you'll just "know." It's hard to describe the sensation in text and is something you'll have to experience yourself to fully understand, but you will appreciate a good "boss" when they're there. Good administration *alone* is significant enough, though sadly uncommon, to determine what educators and other staff may tolerate in a given environment. If you have a bad administrator, however, a lack of administrative support is a significant reason why educators leave. People quit managers, not jobs, so to speak.
+Administrators manage educators and staff directly, but students indirectly. That's a roundabout way to say they handle certain problems educators cannot, and should not, handle and get rid of blockers to carry out student education. *Improvement* is the goal they should have, not necessarily change. This may include verifying students meeting the proper prerequisites before going into a particular class, meeting and vetting "clients" (i.e. students and parents), handling security issues, overseeing the health and repairs of a facility, stamping out student discipline problems, and more. They also handle things teachers may not want to deal with as well, like most complaints from "clients" as mentioned before, threats of litigation, and multiple meetings. 
 
 Principals, deans, and assistant principals are your "boss" if you were an instructor/teacher. They're similar to middle management, like directors, or maybe even the top level executive in a small enough education system. They oversee school performance, budgets, staffing, policies, public relations, personnel management, and more while typically under the jurisdiction of a District and a state/federal Department of Education. 
 - i.e. they're not easily replaced because they work with *people* and relationship management.
 
-Administrators have a lot of real, tangible power to affect education systems, but also often have their hands tied on issues beyond their control. Reasons may include blockers like state and federal regulations and strict legal consequences for many actions. It shouldn't be a complete surprise if they have to enforce a decision they, and their direct reports, disagree with and know is foolish, but is mandated regardless from an "outside" authority.
+There may be some overlap between administrators and traditional educators, but administrators lean far more into being *managers* rather than educators. They also may have never taught, or at least taught recently enough for accurate context, in a classroom/educational setting, which can categorize them as non-technical managers. 
+
+Whether or not there is a lack of classroom management skills, if that's a concern, administrators need to focus on managing many other parts of education systems. A byproduct of this focus is they may cause friction with any professionals reporting to them if they cannot support and maintain conditions favorable for education systems to thrive. It doesn't render their own decisions and perspectives completely invalid though, as each party in an education system focuses on different aspects of that system.
+- E.g. Administration should focus on solving "What do you need to do your job well?" problems and eliminating blockers while avoiding "Here's how to do your job" outside specific circumstances.
+- As covered before in this book: excessive micromanagement is *bad* and quite often goes against the goals of a manager.
+
+Much like how employees have bosses/managers, if you're a teacher/instructor and have a good administrator, you'll just "know." It's hard to describe the sensation in text and is something you'll have to experience yourself to fully understand, but you will appreciate a good "boss" when they're there. Good administration *alone* is significant enough, though sadly uncommon, to determine what educators and other staff may tolerate in a given environment. If you have a bad administrator, however, a lack of administrative support is a significant reason why educators leave. People quit managers, not jobs, so to speak.
+
+Administrators have a lot of real, tangible power to affect education systems, but also often have their hands tied on issues beyond their control. They may recognize where things need, and should, be changed but the problems are systemic and outside their personal control. Perhaps they're not allowed to be honest about the problems either at risk of removal. Other reasons may include blockers like state and federal regulations and strict legal consequences for many actions. It shouldn't be a complete surprise if they have to enforce a decision they, and their direct reports, disagree with and know is foolish, but is mandated regardless from an "outside" authority.
 
 As for signs of a bad administrator, usually an administrator that gets hired in and immediately works towards changing things is a red flag. This goes for any manager+ in general, but it's generally better to observe and understand first how each part of the current system works for a long period of time. After that initial observation, *then* it's figuring out what the real problems are and implementing solutions. It allows time to ask questions, collect data, and verify circumstances.
 
-A primary goal of administration is to ensure good PR (public relations) for the education system they manage and avoiding litigation and lawsuits. This may also mean acquiescing to demands both reasonable and unreasonable. They ideally want their part of the education system to perform well as they hold a large responsibility for its success or failure. A district, or even the state or federal Department of Education above them, have a vested interest and want good returns on the investment they put into that education system.
+A primary goal of administration is to ensure good PR (public relations) for the education system they manage and avoiding litigation and lawsuits. The districts and stakeholders above them may also push efforts to look good on paper as well. This may, however, mean acquiescing to demands both reasonable and unreasonable. They ideally want their part of the education system to perform well as they hold a large responsibility for its success or failure. A district, or even the state or federal Department of Education above them, have a vested interest and want good returns on the investment they put into that education system.
 
 For smaller schools, you may need only a single principal and the teachers could pitch in to cover deficiencies. For larger schools, you'll still have one "principal," but many roles are divided or partitioned out amongst multiple people, such as assistant principals or deans. These roles assume some duties similar to a principal, but focus on specific duties (such as discipline), groups of students (such as finance major students), or specialized administrative tasks (such as Legal Counsel and HR Manager). The principal may still have a hand in the affairs of everything at the school.
 
@@ -219,19 +234,23 @@ As a teacher or instructor, your role, in their eyes, is to meet the standards e
 
 Another interesting reality about teachers and principals is potentially misaligned goals. A teacher may, validly, focus their goal on educating students. A principal may focus on meeting graduation rates and test scores as their goal. The goals, despite both parties working towards student education as a whole, will probably not align and you'll have conflicts over methodologies and the education system as a result. Expect and prepare for when that happens.
 
+In regards to specifically pedagogial/classroom management critique, avoid criticizing performance you cannot demonstrate yourself (i.e. "walk the walk"). That is one of the quickest ways to label yourself to your own direct reports, not just the one you critize, as an ineffective administrator. For example, if you berate a teacher about how they run their classroom, but you cannot show effectively enough how it should be done, you've fallen into a trap. This is why I stated in the management chapters for managers to *not* neglect technical knowledge. Though demonstrating competence may get you out of this trap and dismiss later excuses, it may not get full buy-in.
+
+Said teachers will more than likely request this "modeling" from you in an email or written correspondance to set up a paper trail and keep evidence of an unmet request if you fail to follow through. You should find ways to document interactions from your end too so it isn't a one-sided trail. At the same time, an administrator can validly critique other issues though, such as a teacher's chronic lateness to work, not meeting contract hours, or inability to perform basic functions of their jobs.
+
 ### **Parents & Guardians**
 
-Parents (and guardians) are like apple trees. 
+Parents (and guardians) are like apple trees. Students are often mirrors of their parents/guardians as well, so good parents often leads to good students and bad parents often leads to bad students.
 
-An apple tree will experience many difficulties to produce high quality apples and is working 24/7, every day of the year, to do so unlike the gardeners who tend to the tree and its fruit.
+An apple tree will experience many difficulties to produce high quality apples and is working 24/7, every day of the year, for these apples. The gardeners help tend to the tree and its fruit alongside many other trees in that garden. Apple trees should also have structures and rules in place *in their own environments*, much like how the garden as a whole is defined by structures and rules to function. Too many, or too few, of these structures and rules risks negatively affecting the tree's apples. If the tree's effects results in damage to the rest of the garden, gardeners may need to assess the potential  risk of that tree's health to inform what they should do, whether it's simple fixes, like trimming the tree, to drastic fixes, like removing the tree entirely. This intervention may be done by the gardeners despite any damage to that tree and its apples in service to protecting the garden.
 
 With that devotion to time and presence, parents have a significant influence on all students you're dealing with and almost certainly spend far more time with them than any one educator might. If parents don't care about education, then it's more than likely their own children (i.e. students) also won't care about education. This is probably still true today and will remain true in the future. Essentially: Parents earn the children they want.
 
-Much like apple trees, you'll want the first interaction with them to be positive or at least neutral. Think of the "positive interaction" as like planting the tree in good soil and providing it enough water to settle its roots down during the transplant (i.e. "honeymoon") phase. For K-12 education in particular (i.e. pre-college/university), you can do this through a variety of ways, such as a classroom open house to explain procedures, and put a name to a face, one-on-one communications like emails, or the cold "positive" call to a parent detailing positive things about students to them. Your goal here is to give the impression you're nice (not *say* you are nice, that's different), until you need to *not* be nice.
+Much like apple trees, you'll want the first interaction with them to be positive or at least neutral. You cannot reasonably expect to plant a tree down in the ground and perform magic, afterall. Think of this "positive interaction" like planting the tree in good soil and providing it enough water to settle its roots down during the transplant (i.e. "honeymoon") phase. For K-12 education in particular (i.e. pre-college/university), you can do this through a variety of ways, such as a classroom open house to explain procedures, and put a name to a face, one-on-one communications like emails, or the cold "positive" call to a parent detailing positive things about the student to them. Your goal here is to give the impression you're nice (not *say* you are nice, that'll give the opposite effect), until you need to *not* be nice. You'll never get every parent on board, but things can get easier when more of them are on your side.
 
-Education systems are *not* daycares or facilities where entitlement should thrive or parents can disregard their parental responsibilities and shirk them onto educators and administrators. In case there are issues here, hopefully the education system, especially with K-12 education, has a clause such as requiring a contact "who shall be asked to come to the school and attend to the student’s needs without delay," to cite a regulation from Anne Arundel County Public Schools as an example (2026).
+Education systems are *not* daycares or facilities where entitlement should thrive or parents can disregard their parental responsibilities and shirk them onto educators and administrators. Education systems cater towards *every* student under their care, not simply a particular student, and thus design policies to handle that scale. In case there are issues here, hopefully the education system, especially with K-12 education, has a clause such as requiring a contact "who shall be asked to come to the school and attend to the student’s needs without delay," to cite a regulation from Anne Arundel County Public Schools as an example (2026).
 
-Parents are the closest thing education systems have to "customers." If anyone is likely to treat education as customer service, it's probably this group.
+Parents are probably the closest thing education systems have to "customers." If anyone is likely to treat education as customer service, it's probably this group. You'll have good ones, crazy ones, lazy ones, and types from all over the spectrum of behaviors involved here.
 - "The customer is always right" is ironic here because learning requires the possibility of being corrected. If they're never wrong, they're only validated instead of educated.
 
 Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll side with parents to appease complaints or keep the peace. It depends on the administrator and it's less something you, if an educator, can easily change.
@@ -273,7 +292,9 @@ Lastly, the ideal scenario is a parent's child, the teacher's student, is never 
 
 ### **Other Teachers/Instructors**
 
-It's easy to spot a bad teacher/instructor. They think they're amazing. The worst teachers are those who are authoritarian figures, strict to be strict, strict so they just don't have to deal with students, or overall just mean. They usually don't understand you can, and should, maintain authority without being authoritarian. They may also not even have appropriate knowledge of the material they're teaching. It can be many things, but these indicators I find stand out the most.
+Though teachers, educators, etc. provide services for students, they don't work *exclusively* for students or necessarily adher to "it's for the kids" logic. It's not customer service here. They may form rapport and professional relationships with individuals, but their goal is preparing students for a future within society. They need to advocate for *every* student under their care instead of 1 or a few particular students. 
+
+Fortunately, it's easy to spot a bad teacher/instructor. They think they're amazing. The worst teachers are those who are authoritarian figures, strict to be strict, strict so they just don't have to deal with students or any of their own work, or overall just mean. They're the kind likely wearing the "asshole" badge openly too. They also usually don't understand you can, and should, maintain authority without being authoritarian. They may also not even have appropriate knowledge of the material they're teaching. It can be many things, but these indicators I find stand out the most.
 
 The good teachers I've seen and worked with have an air of humility behind them. They think their work is flawed in some way, but still strive to improve in areas they believe they're lacking in. By allowing themselves to view their own work with some negativity (not *complete* negativity; there's a difference), they can spot problems and design solutions an overoptimistic, or perhaps arrogant, teacher may not catch and further improve education for themselves and their students.
 
@@ -298,35 +319,35 @@ Lastly, if you're planning events for teachers where they receive something or g
 
 ### **Adult Students**
 
-Much like parents, this category of students is the next closest thing you'll get to customers in an education system. Adult students have similar dynamics to parents, but may act towards advancing their own interests instead of another person's, or dependent's, interests.
+Much like parents, this category of students is the next closest thing you'll get to customers in an education system. Adult students have similar dynamics to parents, but may act towards advancing their own interests instead of another person's, or dependent's, interests. In many ways, adult students are similar to parents/guardians in how they should be approached and treated professionally and personally.
 
-For adult learners, treat them as students and not friends. You aren't as age-restricted on what you can say and there's generally a lot more leeway, but everyone, teacher and student, have more legal responsibility and freedom compared to younger students. Boundaries and professional demeanor still matters. *Both* teacher and student can face adult consequences for their actions. These students are also old enough to sign off on and hold responsibility for their own decisions, documents, agreements, etc. without a parent or guardian, which results in more autonomy.
+For adult learners, treat them as students and not friends. You aren't as age-restricted on what you can say and there's generally a lot more leeway, but everyone, teacher and student, have more legal responsibility and freedom compared to younger students. Boundaries and professional demeanor still matters. *Both* teacher and student can face adult consequences for their actions. These students are also old enough to sign off on and hold responsibility for their own decisions, documents, agreements, etc. without a parent or guardian, which results in more autonomy *but* also more reponsibility for their own actions.
 
 Compared to younger students, adult students may vary even more widely in demographic features, such as age, gender, and more. There may also be a technology gap, such as one group of adult students not even knowing what tech savvy means and another group who eat and breathe the latest technology for breakfast *together in the same class*. Said technology gap may be a blocker to *how* you deliver education to those students.
 
 Their motivations are generally more towards achieving a specific goal. This may include passing a standardized test, career advancement, or working towards earning a license, certification, etc. Many adult students *want* to be in the classroom and are pre-disposed towards learning new things, because they want to derive value from whatever they're learning. Their inclination towards learning may also be motivated financially by them directly paying, with some type of currency, for the opportunity to learn something valuable.
 
-### **Non-adult Students**
+### **Non-adult Students (Minors)**
 
-**Why do these students also fall under clients? It's because they also receive educational services!** 
+**Why do these students fall under clients? It's because they also receive educational services!** 
 
 You might think only parents are "stakeholders" for their children/the students. That's not quite the case. The education system has society as a whole as the student's stakeholders. Education, especially *public* education, provides learning opportunities to individuals so they can contribute back to society later in their lives. Considering "society" encompasses the entire human population, society should have a vested interest in a student's education and ensuring resources are available for students.
 
 That's where the comparison to clients stops with them, because this section talks about students strictly considered children (i.e. minors) under the legal, adult age in a jurisdiction.
 
-Minors don't follow all the same rules as adults when it comes to education systems. Many younger students also genuinely do not know any better because they haven't been *taught* any better; you're often working with a (mostly) blank canvas as an educator.
+Minors and non-adult students don't follow all the same rules as adults when it comes to education systems. Students may be genuinely wonderful and doing things beyond your expectations. Students may also be "assholes" to adults too, even if said adults display and show nothing but kindness and care towards these students. Don't be afraid to get higher, legal authorities involved if that's the case and they truly cause issues. Remember, however, many younger students genuinely do not know any better because they haven't been *taught* any better. This is why it's important for educators to establish any procedures and rules for their students *from the beginning.*
 
 There are some consistent patterns I observed with students (young *and* adult) in classes as an educator:
 1. The best students are held accountable at school, home, *and* outside of school in general.
 2. Students may lie to avoid doing "work" and to avoid consequences.
-    - One major reason why I say to collect evidence and document events and interactions.
+    - One major reason why I say to maintain records, collect evidence, and document events and interactions.
 3. They deal with many of the same problems you had as a child (assuming the reader is an adult here), but with somewhat different mechanisms depending on their environment.
 4. Students (i.e. Minors) cannot control whether or not they come to school. Parents and legal mandates do.
 5. Students are always testing you.
 
-If anyone tells you a student is an angel, or smart, or some similar comment about how they never cause trouble, don't believe them at first. That type of comment is typically a red flag. If a student were truly smart or benevolent, they'd also know not to cause behavioral issues. I've also seen cases where people were extremely good at manipulation of staff, peers, etc. to get what they want too.
+If anyone tells you a student is an angel, or smart, or some similar comment about how they never cause trouble, don't believe them at first. If a student were truly smart or benevolent, they'd also know not to cause behavioral issues. I've also seen cases where people were extremely good at manipulation of staff, peers, etc. to get what they want too.
 
-As for managing students in the shoes of an educator, teacher, etc. I may sound harsh here, but **don't smile until Christmas.** That doesn't mean don't literally smile or be an asshole, but instead maintain structures, routines, and high expectations with students. You shouldn't be overly friendly with students, because all it takes is one uncomfortable student (or someone telling someone else that'd be uncomfortable with it) and that can end an educator's career pretty quickly. If you don't want a comment, action, or conversation plastered over social media or the news that affects your livelihood, *you should probably avoid it.*
+As for managing students in the shoes of an educator, teacher, etc. I may sound harsh here, but **don't smile until Christmas.** That doesn't mean don't literally smile or be an asshole, but instead maintain structures, routines, and high expectations with students. You shouldn't be "friends" with students, because all it takes is one uncomfortable student (or someone telling someone else that'd be uncomfortable with it) and that can end an educator's career pretty quickly. If you don't want a comment, action, or conversation plastered over social media or the news that affects your livelihood, *you should probably avoid it.*
 
 Additionally, the more things students are kept busy with or doing inside of a classroom, the fewer behavior problems they might cause because you're redirecting their attention. It's harder to cause issues elsewhere when they're dealing with "problems" right in front in them, so to speak.
 
@@ -366,7 +387,9 @@ Lastly, remember to be friendly, but keep professional boundaries between you an
 
 ### **Support Staff**
 
-Last, but certainly not least, are your fellow support staff. These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or even a fellow educator. They often handle the tasks and jobs that indirectly support an education system, or "the invisible work" that quickly becomes visible when it's not done.
+Last, but certainly not least, are your fellow support staff. These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or even a fellow educator. They often handle the tasks and jobs that indirectly support an education system, or "the invisible work" that quickly becomes visible when it's not done. You might not even fully understand all of what they do, but you'd more than likely feel the effects if they didn't do it.
+
+Sometimes, the support staff, like a secretary, is *also* an administrator like the principal or dean. In this case, I'd defer you to the advice from the administrator section rather than here.
 
 **Get on good terms with these people.** You don't have to be "friends," but treat them well or expect bad conditions and more work very quickly for you.
 
@@ -474,7 +497,7 @@ One indication of adulthood, and maturity/wisdom, is one's ability to know when 
 
 Let's say your engineer buddy comes around and they start talking about Google Cloud Platform, Amazon Web Services, and Azure (as purely examples). Chances are, you probably are not familiar with any of these things.
 
-This is a case where you don't know enough to make an informed decision or even an informed opinion. All it takes to fix this is asking said buddy about what they are and how they're different. You may not be an expert in your buddy's field, but you might catch a few things, like similar metrics and concepts used, you happen to have knowledge of.
+This is a case where you don't know enough to make an informed decision or even an informed opinion. All it takes to fix this is asking said buddy about what they are and how they're different. You may not be an expert in your buddy's field, but you might catch a few things, like similar metrics and concepts used, you do happen to have knowledge of.
 
 From there, you can ask about tradeoffs, try and translate that back into what they're talking about, and go from there. You could also take that information and figure out something else to implement or create as well.
 
@@ -482,20 +505,22 @@ It'll take practice, but simply put: it's like having a conversation and you don
 
 ### **Professional Developments (PD)**
 
-I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here and on the opinion of someone who is, or was, an educator. 
+I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here and using the opinion of someone who is, or was, an educator. 
 
-**PD is good if it isn't a waste of time.** In practice, PD is very often a waste of time for many professionals.
+**PD is good if it isn't a waste of time.** That's my "metric of success" here. In practice, PD is very often a waste of time for many professionals. 
 
-The main exceptions to this are any mandated trainings per law(s), such as mandated reporter, shooter responses, workplace harassment, etc., but they may be separate from PD in some systems. The other noteable exceptions are PDs directly leading into a pay/salary/reward increase and "the system must do this to not be liable and/or protect themselves legally" types of trainings personnel go through.
+Alternatively, just let educators choose the PDs they want to attend. They probably have a good idea what tools, methods, and knowledge they need to help solve their problems. Add some caveats, sure, but at least *permit an opportunity for the choice.*
+
+The main exceptions for PD are any mandated trainings per law(s), such as mandated reporter, shooter responses, workplace harassment, etc., but they may already be separate from PD in some systems. The other noteable exceptions are PDs directly leading into a pay/salary/reward increase and "the system must do this to not be liable and/or protect themselves legally" types of trainings personnel go through.
 
 In every professional development, I want the person *to just get to the point.* There's no need for "icebreakers," or introductions, especially when everyone already knows each other, and even then said icebreakers should be as quick as possible. There's no reason to infantilize *other adults* as students, or minors, rarely, if ever, attend these events. Learning methods applied to PD should cater towards adults and not minors/children. The last thing you need to do is make PD become PTSD (post-traumatic stress order) for the people you're "professionally developing."
-- It's why every chapter has a "Short Answer" section at the top in this book. I try to (reasonably) get to the point for those who want it! It's useful and desired!
+- It's why every chapter has a "Summary" section included. I try to (reasonably) get to the point for those who want it or simply need a recap. It's useful and desired!
 
 Professional development are typically electives/continuing education for *professionals* across multiple fields (i.e. teachers, support staff, contractors, etc.) and seen inside and outside of education systems. Depending on the field and type of PD/CE, you may have to pay out-of-pocket yourself or have the system reimburse the cost. 
 
 Teachers/instructors usually need X number of "hours" or sufficient credits to maintain a certificate, license, etc. PD is (hopefully) based around andragogy, or adult learning, rather than the pedagogy teachers may do for their students. Nevertheless, if you do go to a PD, the golden rule still applies: don't be an asshole.
 
-On one hand, some PDs and trainings are extremely valuable to teachers and instructors. They could be also be designed by people with actual classroom/teaching experience, so they understand the context (i.e. have the technical knowledge) of those environments reasonably well too. They also focus *on the content* and avoid unneccessary fluff.
+On one hand, some PDs and trainings are extremely valuable to teachers and instructors. They could be also be designed by people with actual classroom/teaching experience, so they understand the context (i.e. have the technical knowledge) of those environments reasonably well too. Another example may be a PD going over legal IEP goals, taught by an active professional attorney and legal advocate with extensive domain knowledge in the law. They also focus *on the content* and avoid unneccessary fluff.
 - Sadly, in practice, these types are the *exception.*
 
 On the other hand, the PD sessions (not necessarily the presenters) are typically the bane of my existence, and perhaps other educators existences, for a variety of reasons:

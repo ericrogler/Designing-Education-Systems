@@ -9,10 +9,9 @@ nav_order: 28
 
 ## **Short Answer**
 
-> “It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.” 
+> "When I joined the Corps, we didn't have any fancy-shmancy tanks. We had sticks! Two sticks, and a rock for the whole platoon - and we had to share the rock! Buck up, boy, you're one very lucky Marine!"
 
-- Warren Buffet
-    - It's an attribution.
+- Sgt. Avery Johnson, *Halo 3* (Bungie, 2007)
 
 ---
 
@@ -44,21 +43,13 @@ If you're trying to teach a student about wealth, consider going over the follow
 
 *Notice: There is no financial or legal advice offered to the reader in this chapter. Assume everything here is informational and educational in nature only.*
 
-Moving forward on wealth, you may discover many questions have a simple answer or at least one commonality behind their answer: wealth/money.
+Moving forward on wealth, you may discover many questions have a simple answer or at least one commonality behind their answer: wealth/money. Uncontrolled lifestyle creep, or spending more money as you make more money, is one such way to quickly eliminate any savings, investments, and wealth for the future by spending it away in the present.
 
-You may be considered foolish, or dumb, to not take advantage of the resources available to you. This includes accepting help and whatever doors that help opens for you. It doesn't devalue you as a person to take advantage of them, so long as you acknowledge honestly you *did* take advantage of said resources, use whatever you receive for good in return (i.e. contributing back to society), and don't be an asshole about it. The problems come when someone is selfish, antagonistic, and/or pretends they did everything on their own and completely disregards the people and supports helping them along the way. If you want the benefits, you still have to accept any responsibility attached to those benefits. I cannot blame someone for circumstances of their birth and upbringing, but I can blame them for the actions they take.
-
-**A lot of things happen due to wealth. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing the money itself.** If there were ever any "war" undoubtedly affecting an education system, it would be a class war. Having the resources available for a proper education is simply that important for an education system's survival.
-
-For example, when working with people in business, you can do anything they want. The only question is how much money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no simple toaster for bread in your workplace. You also might have no money for equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. 
-
-You could even buy intangible assets like silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology with enough wealth. You might also see policies and incidents get handwaved away because there's financial implications (i.e. loss of funding) if you go through with them and/or enforce consequences instead. 
+You may also be considered foolish, or dumb, to not take advantage of the resources available to you. This includes accepting help and whatever doors that help opens for you. It doesn't devalue you as a person to take advantage of them, so long as you acknowledge honestly you *did* take advantage of said resources, use whatever you receive for good in return (i.e. contributing back to society), and don't be an asshole about it. The problems come when someone is selfish, antagonistic, and/or pretends they did everything on their own and completely disregards the people and supports helping them along the way. If you want the benefits, you still have to accept any responsibility attached to those benefits. I cannot blame someone for circumstances of their birth and upbringing, but I can blame them for the actions they take.
 
 Nevertheless, anything's possible with enough money, but there's likely a reason behind why certain things are the way they are. For example, a successful person may be successful purely because of the environment they were in and they had the means (i.e. wealth) to afford said success. In a way, nobody does anything without help.
 
-In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still. As a hypothetical example, the billionaire may haggle over only 2000 dollars, but the working class with little money handles that same 2000 dollars with no questions asked.
-
-While I did talk about monetary blockers briefly before, I'm creating a separate chapter on it because money permeates almost every facet of education, either directly or indirectly. When able, you want to find out, or at least think about, who controls the budget(s) and wealth because time can kill deals and opportunities.
+In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still. As a hypothetical example, the billionaire may haggle over only 2000 dollars, but the working class with little money handles that same 2000 dollars with no questions asked. While I did talk about monetary blockers briefly before, I'm creating a separate chapter on it because money permeates almost every facet of education, either directly or indirectly. When able, you want to find out, or at least think about, who controls the budget(s) and wealth because time can kill deals and opportunities.
 
 **If teachers are "managers," then each class is like a project, campaign, or initiative with its own budget they're overseeing.** To draw parallels:
 
@@ -103,6 +94,12 @@ Money is what buys you time and happiness, up to a certain point, but also affor
 You may be in a situation where employers don't want you, or employees in general, to talk about salary. That's because if you find out how much other people make, *especially* people in the same role as you, you may use that as leverage against them. For many people, gaining leverage is as easy as talking about wealth.
 - You may even have protected rights to do just that too (NLRB, 2024).
 
+**A lot of things happen due to wealth. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing the money itself.** If there were ever any "war" undoubtedly affecting an education system, it would be a class war. Having the resources available for a proper education is simply that important for an education system's survival.
+
+For example, when working with people in business, you can do anything they want. They have the resources to leverage for their decisions, afterall. The only question now is how much money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no simple toaster for bread in your workplace. You also might have no money for equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. 
+
+You could even buy intangible assets like silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology with enough wealth. You might also see policies and incidents get handwaved away because there's financial implications (i.e. loss of funding) if you go through with them and/or enforce consequences instead. 
+
 The other part of wealth and money as leverage is better illustrated with an example. Imagine if you need only to make 50,000 dollars every year as a salary to have a "comfortable" lifestyle. You get all of your basic needs met, can dedicate money into retirement accounts to stop working once you get old and maintain that lifestyle, and not have to worry about your recurring bills like power, taxes, and utility. You may even consider protecting what wealth you have and look into legal arrangements such as trusts to decide how it's spent in life and distributed after death (FINRAD, 2026).
 
 This is also when you may see the Law of Diminishing Marginal Utility (or simply "marginal utility") become more prominent (Britannica, 2016). You may care greatly about 1 ring if that's all you have, but 1 ring may not matter when you have 100+ rings similar to it already. After a certain point, getting "more" or subsequent units of something, in this case money, may bring less satisfaction as you use and acquire more of it.
@@ -128,8 +125,6 @@ Say I were to play a video game, board game, etc. In that game, if there's a way
 Imagine now if that "score" was a certain number of "fake" money/currency you may acquire and exchange for goods and services. Say you can comfortably meet all of your needs with only 70000 kangaroo bucks. Meanwhile John Doe is sitting on 100 million kangaroo bucks; far more than what they may ever spend across the life of the game. John Doe is no longer restricted by money here and can buy just about whatever they pleases. You with only 70000 kangaroo bucks need more prudence on what you spend it on. John Doe could also continue chasing an even higher amount of currency over time if they wanted to showcase how much wealth he *can* acquire too or just "make big number bigger."
 
 You and John Doe are, in a way, playing two different games (with potentially different rules affecting each of you) *while also playing the same game.*
-
-
 
 ### **How to Make Money**
 
@@ -395,6 +390,8 @@ Lastly, if another person, entity, organization, etc. asks about why you don't h
 2. *Born to Win, Schooled to Lose.* (2019, May 15). CEW Georgetown. [https://cew.georgetown.edu/cew-reports/schooled2lose/](https://cew.georgetown.edu/cew-reports/schooled2lose/)
 
 2. Britannica, T. Editors of Encyclopaedia (2016, March 20). *Marginal Utility.* Encyclopedia Britannica. [https://www.britannica.com/money/marginal-utility](https://www.britannica.com/money/marginal-utility)
+
+2. Bungie. (2007). *Halo 3* (Xbox 360 version) [Video game]. Microsoft Game Studios.
 
 2. Colorado Department of Education. (2025, July 14). *Colorado Charter Schools Frequently Asked Questions.* CDE. [https://www.cde.state.co.us/cdechart/faq](https://www.cde.state.co.us/cdechart/faq)
 
