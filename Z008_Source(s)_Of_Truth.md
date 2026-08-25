@@ -126,18 +126,15 @@ There are also reasons why I criticize using it as a source for essays and paper
 
 Additionally, **a Wikipedia article does not hold the same weight as another primary source, *even if they have the exact same information*, because you normally shouldn't cite encyclopedias anyway.** Nevertheless, I'd prefer a Wikipedia citation over an AI-generated (or similar technology) citation.
 
-While you're not *supposed* to cite encyclopedias over original research and other primary sources, at least Wikipedia has revision histories, discussion methods, and is checked quite often by humans (as of originally writing this on December 2025).
+However, while you're not *supposed* to cite encyclopedias over original research and other primary sources, at least Wikipedia has revision histories, discussion methods, and is checked quite often by humans (as of originally writing this on December 2025).
 
-Despite Wikipedia's benefits and drawbacks, a student may inevitably use it, if not at least look at it. To counter this, consider implementing the following for work where students do research:
+Despite Wikipedia's benefits and drawbacks, a student may inevitably use it, like they would any other encyclopedia, if not at least look at it. To counter this, consider implementing the following for work where students do research:
 
-- If you look at Wikipedia, search the page/article and look for headers like "References" and "External Links." Use the information from *those* sources as research and citations.
+- If you look at Wikipedia, search the page/article and look for headers like "References" and "External Links." Trace the information from *those* sources and cite the research it comes from directly.
 - Wikipedia is OK as a starting point, but no further.
 - Ensure you're able to evaluate sources properly through critical thinking (Harvard Library, n.d.; Kansas State University Libraries, n.d.). 
     - [https://guides.lib.k-state.edu/c.php?g=181829&p=1195993](https://guides.lib.k-state.edu/c.php?g=181829&p=1195993) (my alma mater!)
     - [https://usingsources.fas.harvard.edu/evaluating-sources-0](https://usingsources.fas.harvard.edu/evaluating-sources-0)
-
-To emphasize again: I find Wikipedia better suited as a reference *after* you have base knowledge of topics, or exploring topics related to what you already know, rather than a resource for learning new material. That's what an encyclopedia is good for.
-- From personal experience, with some bias, on my end: Wikipedia for mathematics. You're better off reading a textbook, or another resource outlining a defined path, and doing math rather than reading about math on Wikipedia for *learning* purposes.
 
 ### **The Dark Side of the Moon**
 

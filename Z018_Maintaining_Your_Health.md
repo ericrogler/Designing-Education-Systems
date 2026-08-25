@@ -17,7 +17,9 @@ nav_order: 27
 
 ***Disclaimer: All items in this chapter are not medical advice nor should be interpreted as such.*** 
 
-Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
+Nothing in this world is immortal. Your well-being won't stay well unless you maintain it.
+
+Whether or not you take any of what's said in this chapter into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health, despite lacking any credentials to practice medicine.
 
 If possible, have a nice day. Enjoy your life when you can. Many things in life you shouldn't take personally either, as knowing when to *not* care makes dealing with those things a lot easier. Even if you don't know what you're doing, try to act like you do, walk like you know where you're going, and get things done at a primary location instead of going to a secondary location. It may just save your life.
 
@@ -47,7 +49,7 @@ As for any students reading this: yes, your educators have lives and interests o
 
 ### **The Untold Cost of Academia**
 
-I'm going to let you in on a little secret for teaching. The kind that may stop this book from getting published. It's not a bad line of work, but it's a line of work that takes over your life in ways you expect and do not expect.
+Education is a line of work that takes over your life in ways you expect and do not expect. Your ability to handle adversity and work through the negative experiences is paramount, as well as your ability to choose which "battles" you take on. You certainly won't do everything perfectly and will encounter inadequacy.
 
 Academia will suck the soul out of you. 50/50 chance based on anecdotal evidence. 
 
@@ -149,7 +151,7 @@ In an educator role, your brain is processing multiple things at once, such as:
 - Maintaining a "high alert" state the entire class period, multiple hours at once, or even the entire day without pause or rest
 - How to not undergo a sensory overload
 
-All of these things happening at the same time simultaneously, and for an extended period of time, leads to mental exhaustion and decision fatigue. It's like your brain is at near constant utilization with little downtime, if any, at any given time on a workday. What this lack of downtime means is you may suppress many emotions because you don't have time to process them. When a break does occur, you may want to vent out and decompress as soon as possible. Even then, your current location may not be ideal for decompressing. You might wait for a later opportunity again, likely at the end of the day when you're back home from work.
+All of these things happening at the same time simultaneously, and for an extended period of time, leads to mental exhaustion and decision fatigue. Many people underestimate, or at least do not understand, how it feels to be "on" all the time. It's like your brain is at near constant utilization with little to no downtime at any given time on any given day. You may suppress many emotions because you won't have time to process them. When a break does occur, you may want to vent out and decompress as soon as possible. Even then, your current location may not be ideal for decompressing. You might wait for a later opportunity again, likely at the end of the day when you're back home from work.
 
 These occurrences aren't exclusive to teachers and professionals in education systems. High-stress, high-stakes roles such as firefighters, police, military, doctors, air traffic controllers, and nurses may have similar experiences and situations, though across vastly different contexts, scenarios, and conflicts. Your actions may not affect whether someone lives or dies (except for when that's your job!), but the environment you're in places a higher amount of stress than you may first expect.
 - This applies to a lot of workers in general too. 65% of U.S. workers (from 2019-2021) surveyed by OSHA equate work as a significant stress factor (2023).

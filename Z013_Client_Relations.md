@@ -66,7 +66,7 @@ If there's any one thing a fantasy villain may be right about, it's that anyone,
 
 Moving away from villanry, however, you may find many people in general don't always know what they're doing. They could simply be muddling through life, faking it until they make it, and/or "winging it" (i.e. improvising) with whatever tools and knowledge they have and it somehow gets them by just fine. Knowing this may be what you need to boost your own confidence.
 
-You'll also discover education systems don't have just educator problems. They have *everyone* problems and plenty of issues found in logistics, as each individual and group involved in education systems has responsibilities to follow through on.
+You'll also discover education systems don't have just educator problems, so excessive blame towards educators is itself a fallacy. They have *everyone* problems and plenty of issues found in logistics, as each individual and group involved in education systems has responsibilities to follow through on.
 
 This chapter is also where we acknowledge socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service and neglect any social contracts embedded within these systems.
 - E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems that help students get a quality education they can control.
@@ -82,7 +82,7 @@ The majority of people you may encounter in life *aren't bad.* If you think ever
 
 Outside of that, have you ever seen an uncharismatic person propose a genuinely good idea or solution, but people don't care for it (or even actively go against it)? What about when someone tolerates you, but never chooses you, and switches to a "polite" attitude with zero warmth behind it?
 
-Likeability can help fix these issues. **Remember though, that likeability is only a force multiplier.** Likeability without any substance or meaning behind it is tantamount to manipulation or performance and may only mask problems rather than solve them. It is not a replacement for respect. It's basically your Charisma attribute. You may not get things done *on your own*, but with a party of people? Perhaps a community or entire movement of people? Things are far more likely to get done with more people on the same page. It can also help combat the silent killer of relationships that is contempt, or the quiet erosion of respect. 
+Likeability can help fix these issues. **While likeability is important, remember it is a multiplier to whatever competence and skills you have.** It's basically your Charisma attribute. It is not a replacement for respect or competency. Likeability without any substance or meaning behind it is tantamount to manipulation or performance and may only mask problems rather than solve them. You may not get things done *on your own*, but with a party of people? Perhaps a community or entire movement of people? Things are far more likely to get done with more people on the same page who like, or at least tolerate, each other. It can also help combat the silent killer of relationships that is contempt, or the quiet erosion of respect. 
 
 People care about other human beings being decent human beings. In interviews and conversations, one way to verify this is the "airport test" (Indeed Editorial Team, 2025). You decide from one of many people with equal capabilities, status, etc. based on if you want to be stuck together with them in an airport for a long period of time. Succeeding here could simply be that someone else, or a group of people, didn't hate working with you and/or being around you. If you get rid of the person everyone likes? People may follow after them, so you want to find out who is someone people will like and stay around.
 - **I have personally seen people, even the most competent and reliable people, not be hired, or fired, purely because they were difficult to work with and/or could not acclimate to the environment they operate in.**
@@ -113,15 +113,15 @@ How rejection is handled determines how relationships, and systems, are handled 
 
 ### **The Successful Environment**
 
-Successful people rarely, if ever, achieve success on their own. They are products of their environment. The same could be said for tools of destruction. They may believe they are that way only because that's all they've ever known and how they've ever been used. A hammer can both destroy and build, but be viewed only as destructive thanks to its wielders.
+Successful people rarely, if ever, achieve success on their own. They are products of their environment. The same could be said for tools of destruction. They may believe they are that way only because that's all they've ever known and how they've ever been used. A hammer can both destroy and build, but be viewed only as destructive as that's how it was used.
 
 Distractions, such as office-based distractions, play a part in establishing a "successful" environment. Organizational productivity increases when distractions are heavily limited, if not outright eliminated. For example, you likely can get a lot more work done in 2 hours in a quiet environment rather than 2 hours in a loud environment.
 
 Another aspect includes the people you interact with that "wield" power and authority in an education system. The same is true of education systems in general, as they require multiple people with the willingness and ability/means to do work together to be successful. If there's a tangible benefit to client relations, it'd be the chance to receive goods and services previously unavailable to you. For example, maybe someone in your friend group knows how solve your construction problems and can do it for a reduced price or even free. If you didn't know about this, or ever have the friend in the first place, you'll likely pay another service full price instead to do the necessary work.
 
-It is also not solely an education system's fault a student fails in education. Do not disproportionately place blame on educators, teachers, professors, etc. for *everything* wrong with existing education systems as there's many moving parts besides them influencing student outcomes. There's plenty of other parties, including the students themselves, with responsibility here as "public" education reflects the public. **Every stakeholder holds responsibility and accountability in an education system. All of them.**
+It is also not solely an education system's fault a student fails in education. Do not disproportionately place blame on educators, teachers, professors, etc. for *everything* wrong with existing education systems. It takes a village to raise students for a better future and there's many moving parts besides educators influencing student outcomes. There's plenty of other parties, including the students themselves, with responsibility here as "public" education reflects the public. **Every stakeholder involved holds responsibility and accountability in an education system. All of them.**
 
-Lastly, and perhaps more importantly: **politics affect you even when you think they don't.** For example, a decision made at a federal level (or, in a company, at the C-Suite or executive level) may not have a massive impact on an educator's role at the school level, but its effects will likely trickle downstream and affect certain processes, standards, and so on. **Mind what is happening around you, or be left stranded by those around you. Be careful of your surroundings.**
+Lastly, and perhaps more importantly: **politics affect you even when you think they don't.** For example, a decision made at a federal level (or, in a company, at the C-Suite or executive level) may not have a massive impact on an educator's role at the school level, but its effects will likely trickle downstream and affect certain processes, standards, and so on. **Mind your surroundings, or be left stranded by those around you.**
 
 ### **Additional Blockers**
 
@@ -176,11 +176,13 @@ When evaluating claims about consequences, rigor, and standards in education, th
 
 ### **External Stakeholders and Investors/Donators**
 
+An educator may call stakeholders (and administrators) "fireflies" or people who wear a suit inside an office all day, hence their suits are shiny and fresh.
+
 You could include "higher ups" here if you wish. I won't mind and it's likely close enough anyways. You could also view them as people who don't "do the work," but can block any work done, if you prefer a negative connotation instead.
 
 A stakeholder, investor, or donator here can be either individuals or organizations from inside or outside education systems, but have at least committed (hopefully in writing) resources towards education.
 
-Stakeholders can include a broad and diverse group of people. In the context of this book, these are generally people who can influence education without being directly integrated into an education system. Stakeholders may also include decision makers often far removed from typical classroom settings (i.e. the "frontlines"). This may include politicians, members of the State, consumer organizations, district-level employees like superintendents and directors, testing organizations, vendors, school boards, publishers, and more. They often hold the authority to make decisions affecting those classrooms, schools, education systems, etc. for better or worse. This includes, but is not limited to, imposing budgeting decisions like eliminating hot lunches or limiting/increasing resources for the next fiscal year in certain regions and facilities.
+Stakeholders can include a broad and diverse group of people. In the context of this book, these are generally people who can influence education without being directly integrated into an education system. Stakeholders may also include decision makers often far removed from typical classroom settings (i.e. the "frontlines"). This may include politicians, members of the State, government officials, consumer organizations, district-level employees like superintendents and directors, testing organizations, vendors, school boards, publishers, and more. They often hold the authority to make decisions affecting those classrooms, schools, education systems, etc. for better or worse. This includes, but is not limited to, imposing budgeting decisions like eliminating hot lunches or limiting/increasing resources for the next fiscal year in certain regions and facilities.
 
 They may also be the people who push for, enforce, and develop sweeping reforms for education as a whole and handle the entangled politics behind it. Even if there *is* something you could do regarding this group of people, it may take years, if not decades, to reach fruition and see the results. Those methods are outside the scope of this book and require investigation on the reader's end into how to interact with them, whether through government websites, the Internet in general, or other digital/physical methods.
 
@@ -290,9 +292,12 @@ Lastly, the ideal scenario is a parent's child, the teacher's student, is never 
 - If there is no structure, consequences, and expectations for students, don't be surprised when a child/student cannot function independently later in life.
 - This scenario also does not immediately mean said student is being "targeted." The Earth revolves around the Sun, not the parent or the student, and teachers have to balance this one student with every other student and moving piece in the classroom.
 
-### **Other Teachers/Instructors**
+### **Teachers, Educators, & Professors**
 
-Though teachers, educators, etc. provide services for students, they don't work *exclusively* for students or necessarily adher to "it's for the kids" logic. It's not customer service here. They may form rapport and professional relationships with individuals, but their goal is preparing students for a future within society. They need to advocate for *every* student under their care instead of 1 or a few particular students. 
+Though teachers, educators, etc. provide services for students, they don't work *exclusively* for students or necessarily adher to "it's for the kids" logic. It's not customer service here. They may form rapport and professional relationships with individuals, but their goal is preparing students for a future within society. They need to advocate for *every* student under their care instead of 1 or a few particular students.
+
+Earlier in the book, we talked about learned helplessness and incompetence. A poor and/or lazy educator can contribute to that and make those issues worse on their students.
+- To put it more crudely, "this could've been a letter/email" but for an entire class.
 
 Fortunately, it's easy to spot a bad teacher/instructor. They think they're amazing. The worst teachers are those who are authoritarian figures, strict to be strict, strict so they just don't have to deal with students or any of their own work, or overall just mean. They're the kind likely wearing the "asshole" badge openly too. They also usually don't understand you can, and should, maintain authority without being authoritarian. They may also not even have appropriate knowledge of the material they're teaching. It can be many things, but these indicators I find stand out the most.
 
@@ -300,6 +305,8 @@ The good teachers I've seen and worked with have an air of humility behind them.
 
 The great teachers I've seen are a balanced combination of fair but strict. They balance the line between being strict enough to not tolerate misconduct or learning disruptions, but also remain perceptive enough to know when they should ease up, be flexible, read the room, and lighten the mood. If they're strict and teach in a way students understand and stay quiet so every student can focus, then they're *really* great. While great teachers can be chill or casual in their tone and approach towards students, that only works well if they can also maintain consequences for actions and discipline within their classrooms. Because they're managing students well, they may devote more time to education, which means even more opportunities and improvements for student learning.
 - All of this includes what I said about good teachers before too.
+
+Remember, however, that a "hated" teacher doesn't necessarily correlate to a bad teacher. For example, students could hate me simply because I expect them to do the work assigned, act in an orderly fashion, and not cause any issues to other students. I'm still doing the same things a good teacher does here.
 
 You'll almost certainly work with teachers and educators inside of education systems across many roles and *especially* if you're a teacher yourself. If the school is small, you may be the only teacher present for a particular grade or field of expertise. If the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
 
@@ -320,6 +327,8 @@ Lastly, if you're planning events for teachers where they receive something or g
 ### **Adult Students**
 
 Much like parents, this category of students is the next closest thing you'll get to customers in an education system. Adult students have similar dynamics to parents, but may act towards advancing their own interests instead of another person's, or dependent's, interests. In many ways, adult students are similar to parents/guardians in how they should be approached and treated professionally and personally.
+
+In terms of classroom management, educators may even be allowed to let adult students "dig their own graves" so to speak. They're likely paying for their own tuition and education costs, so if they lack any maturity and foresight to treat that investment seriously, that's a student issue. In this case, educators fulfill their roles by giving students the materials and means to succeed, but put the responsibility of achieving that success squarely on the students.
 
 For adult learners, treat them as students and not friends. You aren't as age-restricted on what you can say and there's generally a lot more leeway, but everyone, teacher and student, have more legal responsibility and freedom compared to younger students. Boundaries and professional demeanor still matters. *Both* teacher and student can face adult consequences for their actions. These students are also old enough to sign off on and hold responsibility for their own decisions, documents, agreements, etc. without a parent or guardian, which results in more autonomy *but* also more reponsibility for their own actions.
 
@@ -505,9 +514,9 @@ It'll take practice, but simply put: it's like having a conversation and you don
 
 ### **Professional Developments (PD)**
 
-I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here and using the opinion of someone who is, or was, an educator. 
+I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here and using the opinion of someone who is, or was, an educator. **If you wish to save your education systems millions (if not even billions) of dollars (in USD at 2026 rates), it's as easy as saying "remember your why" and "be a walnut tree, not a marigold."** A calling to be an educator is often only meaningful if it puts food on the table afterall.
 
-**PD is good if it isn't a waste of time.** That's my "metric of success" here. In practice, PD is very often a waste of time for many professionals. 
+**Overall, PD is good if it isn't a waste of time.** That's my "metric of success" here. In practice, PD is very often a waste of time (and money) for many professionals. 
 
 Alternatively, just let educators choose the PDs they want to attend. They probably have a good idea what tools, methods, and knowledge they need to help solve their problems. Add some caveats, sure, but at least *permit an opportunity for the choice.*
 

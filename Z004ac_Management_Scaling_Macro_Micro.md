@@ -29,6 +29,8 @@ The optimal ratio of micro vs macro depends on your environment, but it is rarel
 
 This chapter may seem foreign to readers unfamiliar with video games. For those familiar with video games, you're more likely to pick up some concepts presented here. Because of this imbalance, I'll avoid being overly technical, but except multiple new terms to show up.
 
+**The main lesson of this chapter is relatively straightforward: balance your micromanagement and macromanagement.** Don't enable dependency by doing the work for other people all the time, even if it gets things done faster and more cleanly, and also delegate the work necessary to complete your goals within any constraints you have.
+
 If you've ever played a RTS (real-time strategy) or city builder video game before, then many of the concepts there apply to management. If you've ever been a raid leader in a MMORPG, many of those concepts in this chapter also apply to management. If you read the last chapter on operations and milsims, any leadership position there also counts!
 
 For most of this chapter, I'll write from the viewpoint of a RTS/strategy game player. In this scenario, the ideal manager is someone who's decisive, blunt, explicit, and direct with what needs to be done. They know the capabilities of their team and know the strategies and tactics to meet their goals (i.e. "winning" the game). We want to minimize muddling around, ambiguity, and confusion as it causes issues frequently.

@@ -43,6 +43,8 @@ Having a reason does not equal having permission. Even if a student explains wit
 
 *Notice: This is its own dedicated "chapter" as there are many ways to establish classroom management and procedures. The chapter is also placed after the other Management chapters because concepts from there can directly translate to classroom and behavior management.*
 
+One way to manage people, and students, is with *la chancla*." Unfortunately, this book is constrained to less trauma-inducing methods. 
+
 If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now. If you told a typical teacher/instructor in a physical school setting (K-12 type education, in this example) they had 40 students (their version of "direct reports"), they'd probably ask "total or per class" like it's another Tuesday.
 
 What seems normal and reasonable everywhere else for management is normally not the case in many education systems, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You cannot implement one solution and expect perfection; the environment and students will change, which means revisiting the drawing board each cycle. You may also have affinity with a particular type of student, or students, or just be "good" across all disciplines and student types; it varies a lot person-to-person. Perhaps more importantly, educators *will* encounter behavior issues in every education system with the students they manage. What matters is how you handle behaviors and if an education system permits you handling them appropriately.

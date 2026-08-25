@@ -54,9 +54,11 @@ Lastly, if you see any educational statistic about how reading levels, literacy 
 
 ### **Why Metrics of Success?**
 
-If you're dealing with other professionals in a business, they may care about how you save them time and make them money. Metrics of success help you prove that.
+Metrics are measures to reveal whether your current system performs as intended and/or requires changes. They help you determine success or failure. 
 
-Even if you're not in business or finance, there are terms from those fields you should know. Metrics are measures to reveal whether your current system performs as intended and/or requires changes. Metrics also apply to educational systems to determine implementation effectiveness based on outcomes (U.S. Department of Education, 2025).
+If someone, or something, is successful, you may want to emulate that success. Even if you don't have the resources in their own system to properly support whatever processes they utilize to achieve it. 
+
+If you're dealing with other professionals in a business, they may care about how you save them time and make them money. Just about every field and profession has ways to measure "success." Some may be present across multiple fields while others are specific to one field. Even if you're not in business or finance, there are terms from those fields you should know. Metrics also apply to educational systems to determine implementation effectiveness based on outcomes (U.S. Department of Education, 2025).
 
 You want to choose the right metrics to gauge success. A single metric, however, risks becoming a target to aim for. Using multiple metrics reduces (*not* eliminates) that risk while simultaneously monitoring many areas. What those metrics are depends on the goals of the individual and/or organization using them. Goals may include maximizing outcomes (scores and pass rates), cultivating qualitative aspects (engagement or relationships), or encouraging growth (attitudes, perspectives, or character). It could also be a mix of any of these or just simply "did I make it to the next day" from an overworked professional.
 

@@ -11,7 +11,7 @@ nav_order: 19
 
 > "Be careful of charity and kindness, lest you do more harm with open hands than with a clenched fist."
 
-- Kreia, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
+- Kreia, *Star Wars Knights of the Old Republic II: The Sith Lords* (2004)
 
 ---
 
@@ -32,6 +32,7 @@ Not all accommodations are feasible. Even if accommodations are feasible, if the
 
 **Lastly, and this is the ONE takeaway every reader should remember if nothing else: Accommodations (and safeguards) in educational systems do not mean anything outside of them.**
 - i.e. they won't be protected from the "find out" stage of "fuck around and find out."
+    - Aside: this book has only one mention of the F-word and I *chose* to say it here.
 - Additionally, accommodations you may get in K-12 type education you may not in university/college education.
 - For parents specifically: accommodations do not compensate for any lack of parental responsibilities.
 

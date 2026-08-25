@@ -20,13 +20,15 @@ There's a lot of things to consider when designing educational systems.
 
 Many things have solutions you can find in the fields engineering and architecture. You may deal with physical buildings with physical humans, but also see concepts from these fields useful to improving processes inside these systems.
 
-As a more "personal" note, or you happen to be a student reading this right now. If you want to be an engineer, architect, or technical professional (including an educator), expect to go above and beyond learning only what is taught in a classroom, video lecture, etc. and *genuinely* invest into your own education. That means you cannot shirk off any of the creativity, critical thinking, problem solving, and ingenuity required to succeed.
+As a more "personal" note, or if you happen to be a student reading this right now. If you want to be an engineer, architect, or technical professional (including an educator), expect to go above and beyond learning only what is taught in a classroom, video lecture, etc. and *genuinely* invest into your own education. That means you cannot shirk off any of the creativity, critical thinking, problem solving, and ingenuity required to succeed.
 
 ## **Long Answer**
 
 Remember: It's not stupid if it works. 
 
 Even if it is stupid.
+
+Also remember that the whole point of engineering is solving problems, not forcing every user to become the next best engineer since sliced bread. Keep it simple.
 
 This chapter is going to have many technical terms. That's intentional. This is the chance for me to talk about a lot of engineering and architecture concepts I have education and experience with. Think of this chapter as various topics to reference to better design education systems. You may see some overlap and "repetition" of concepts here compared to other chapters as well.
 - Expect me to highlight Industrial Engineering concepts in particular because that subset of engineering is exceedingly versatile, specializes in complex systems and logistics, and many of its concepts could apply to nearly any industry to at least moderate effect.

@@ -40,13 +40,13 @@ Last, but not least: **the best managers are the ones who know when to pick thei
 
 ## **Long Answer**
 
+Though a common solution is smacking about someone with a large trout, more civilized approaches are necessary for rapport and management.
+
 The vast majority of education is actually management and paperwork. If the Legality chapter showcased what you *may* do in education systems and some restrictions involved, the management chapters peer into what you *can* do with the people you work with, including students. We'll look at management in many ways to help you inform practices in education, such as management in general, scaling systems, handling operations, and management at the classroom level.
 
 If a good manager leaves, good people under them may follow soon after. Good leadership is hard to find and can be the one thing keeping people around even during hard times.
 
-If a manager makes a mistake, a manager makes a mistake. Not the people under them. 
-
-Sadly, that same mistake may mean significant losses an system may have to recoup. Recouping losses takes many different forms and can have devastating affects on other people's livelihoods, like laying off a significant number of staff from an organization. You could also affect someone else's life for no reason at all for a mistake *you* made as a manager.
+If a manager makes a mistake, a manager makes a mistake. Not the people under them. Sadly, that same mistake may mean significant losses an system may have to recoup. Recouping losses takes many different forms and can have devastating affects on other people's livelihoods, like laying off a significant number of staff from an organization. You could also affect someone else's life for no reason at all for a mistake *you* made as a manager.
 
 **Management often involves your ability to be supportive, recognize when something needs your attention, and if you can assist others *without* sacrificing your own tasks, duties, deadlines, etc.** It also includes your ability to handle what happens when you go off-track and still deliver what you're accountable for, as well as when you should escalate situations to higher authorities and delegate responsibilities. It even includes determining if something is a one-time event vs a recurring event as well as resource allocation to solve problems. If you wish to move up through the layers and not remain stuck in a particular role, people skills are far more useful than technical skills as you need to manage, well, people. Nevertheless, it is no excuse to neglect any technical knowledge related to the people you'll be managing.
 

@@ -9,9 +9,7 @@ nav_order: 4
 
 ## **Introduction**
 
-**Let me officially start this book by saying I am one of the dumbest people I have ever known in my entire life.** Nevertheless, I wanted to write about what you will read within here as I at least know a thing or two about improving systems. Education is one of many systems (which also has many other "systems" embedded into it), so it's fair game to talk about.
-
-Now then, imagine I want to get a new teacher, instructor, presenter, educator etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also peer behind the curtains. 
+I want to get a new teacher, instructor, presenter, educator etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also peer behind the curtains. 
 
 **That's my problem here to solve and this book is my solution. It serves as an introduction, or starting point, towards education systems and examines multiple topics broadly.**
 
@@ -70,6 +68,8 @@ I'm assuming some familiarity with the United States education system for some c
 I shall bring up concepts more familiar to readers with math and science backgrounds. I may also bring in technical terminology you have never seen before. I'll try to explain in the text if it is reasonable (and short enough) to do so, but may otherwise redirect you to more comprehensive resources. Outside of this book, there are many free and open-source resources, such as code repositories, websites, videos, and so on.
 
 If you have no familiarity at all with education systems, my suggestion to you is to read through this book, take note of the high-level ideas, and look into additional resources when appropriate. You are free, and encouraged, to look up information as you get stuck or confused to fill gaps in your understanding. Education and research is exploring and learning from many sources of knowledge afterall!
+
+**Lastly, just remember: see the big picture, but start with the details.**
 
 ### **What You'll [Hopefully] Learn**
 

@@ -209,6 +209,7 @@ Despite what I've talked about with design system, system design, and design pat
 ### **Things to Keep in Mind**
 
 You may love to design as a hobby. If you're designing professionally, however, you cannot forget you're designing to solve business problems. You may have to make things you might not be fully satisfied with, but are considered "good enough" for the problems of today. Sometimes, it's ok if it just works. Simple can still be complicated, even without introducing scale and maintenance, and you may not want to constantly think about edge cases and problems.
+- For example, no need to build a massive dam yourself when you can "throw" (i.e. import) beavers at the problem to improve the ecosystem for everyone.
 
 You need to not limit yourself by tools whenever possible. You need an alternative, or at least an escape plan, in case some technology doesn't work out as every tool has some level of "lock-in," or more commonly known as technology lock-in. A company making a technology or tool you use has a business case to earn money from it, so will find ways to make you dependent on it. Despite this dependence risk, it is almost always a foolish endeavor to not rely upon tools and existing infrastructure and do everything yourself.
 

@@ -58,11 +58,24 @@ Lastly, teaching, and by extension education, *isn't* just teaching. It's also m
 
 ### **"Office Politics" Primer**
 
-**Your goal is *survival.* Smile more and trust, but verify.** You're going to make mistakes. It's just a matter of when and how you deal with them.
+**Your goal is *survival.* Smile more and trust, but verify.** 
+
+There are four critical parts to help ensure survival:
+1. Figure out what's legal and illegal.
+    - For education specifically, this includes SPED, intervention protocols, and accommodations.
+2. Establish management and procedures.
+3. Do the roles you're supposed to do.
+4. If given a week to do something, use that whole week.
+
+You're going to make mistakes. It's only a matter of when and how you deal with them, such as a mage carrying mana potions when they run out of mana: a resource to cast spells.
 
 Remember that first impressions are important. You're being *professional* here. It is critical you do not bite the hand that feeds you in the beginning. If you establish likeability early on, it is easier to maintain it. One small, half-second burst of uncontrolled anger or rage could even ruin your entire life afterall.
 
-For your own security, always assume whatever you say *and* do could be traced back to you. This is especially true if it's done through technology or on an anonymous platform, survey, etc. where you may utilize a "fake name" like a username or handle. Platforms often store information to later identify exactly who says and does something on their platform. When deemed necessary, such as through voluntary disclosures, providing government access to records, tracking IP addresses, and digital identity verification, this information can become available to others. People, namely bad actors, could also conduct data breaches and gain access to this information too, and even correlate your activity across your accounts. There's two risks from institutional traceability *and* adversarial exposure to watch out for.
+For your own security, always assume whatever you say *and* do could be traced back to you. This is especially true if it's done through technology or on an anonymous platform, survey, etc. where you may utilize a "fake name" like a username or handle. Platforms often store information to later identify exactly who says and does something on their platform. For example, if you were to post the contents of an email as-is on an online platform, even on an "anonymous" platform, the details within could be traced back to you. You never know who is capable of extrapolating and putting together the pieces to find out exactly is involved here, so err on the side of caution.
+
+When deemed necessary, such as through voluntary disclosures, providing government access to records, tracking IP addresses, and digital identity verification, this information can become disclosed to others. People, namely bad actors, could also conduct security breaches, gain access to this information, and even correlate your activity across any seemingly unrelated accounts. That's two risks from institutional traceability *and* adversarial exposure to watch out for.
+- For example, if you're using a system's technologies to perform tasks, those technologies could track and record nearly everything you do with them.
+- This information can *still* be found even after you delete all the data, backups, logs, records, etc. through human trails, the infrastructure itself, and outside the system.
 
 For the first year at least, assuming you are starting in a new position or as a new teacher in general, you need to quickly learn when to listen and stay quiet. The realities of life versus whatever you may've been taught are likely drastically different. This is a time for you to *observe* how things work, figure out how to navigate the environment, and learn when to say "yes" or "no" to something or someone. While you may have a million ideas for how to improve the system coming in, see how the system works and establish context *before* implementing those ideas rather than sticking to any false confidence.
 

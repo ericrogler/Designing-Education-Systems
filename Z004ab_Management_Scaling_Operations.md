@@ -117,7 +117,9 @@ For a classroom parallel, MOS training is like reviewing rules and requirements 
 
 ### **Detachment Training**
 
-Setting up a detachment up and its selection/training process requires more clearances, permissions, and oversights approved first compared to Basic/MOS training. The organization was based largely around one (or simply limited) methods of operating, while adding a detachment effectively offers a "new" method for consideration. Detachments may also be a different solution to an existing pain point, but still require that same level of consideration and scrutiny before they're implemented.
+To be more accurate, detachment "trainings" may be consider as "selections" instead and a series of tests. I'll interchangably use the words *training* and *selection* here.
+
+Setting up a detachment and its selection process requires more clearances, permissions, and oversights approved first compared to Basic/MOS training. Afterall, you're creating a sub-organization with parts deviating from what the organization usually can do. The organization was based largely around one (or simply limited) methods of operating, while adding a detachment effectively offers a "new" method for consideration. Detachments may also be a different solution to an existing pain point, but still require that same level of consideration and scrutiny before they're implemented.
 - As an education parallel, imagine a "detachment" is like adding an entirely new college under a university's umbrella. 
 
 Detachment training is but one part of this process and these detachments commonly have stricter entry requirements and performance standards. Detachments consist of personnel assigned to specific tasks and roles within the milsim organization as a whole, which means receiving different trainings for their missions and equipment. They are also intentionally limited in size as smaller numbers are generally better suited for "special" or unconventional operations rather than general/conventional milsim operations. 
@@ -138,7 +140,7 @@ After initial approval is received comes further changes to how the training is 
 - How to interpret maps, terrain, symbols, landmarks, and so on
 - How to complete multiple tasks thousands of meters away from objectives
 
-If the force reconnaissance selection process and trainings included advanced weapon systems and scenarios like engagements over extreme long ranges, that also means sufficiently covering certain applications of mathematics and science relevant to those systems. In a milsim organization where civilians may be involved in the training process, this may be referencing declassified materials accessible to those civilians, such as the following:
+If the force reconnaissance selection process and trainings included advanced weapon systems and scenarios like engagements over extreme long ranges, that also means sufficiently covering certain applications of mathematics and science relevant to those systems. In a milsim organization where civilians may be involved in the training process, this may be referencing declassified materials accessible to those civilians, such as materials for learning competition shooting and hunting, like the following:
 - *Long Range Shooting Handbook* by Cleckner (2016)
 - *Advanced Long Range Shooting* by Cleckner (2025)
 - *Applied Ballistics For Long-Range Shooting* by Litz (2015)

@@ -29,6 +29,8 @@ Blockers depend on things like whether you teach in person/online, equipment you
 
 In a teaching environment, you'll experience several types of blockers I'll address below. Some blockers are manageable while other blockers may partially or entirely restrict different ways to reach your goals. For simplicity's sake, I'll sort blockers into several categories.
 
+The path of least resistance is tempting. If there's a way to do something quickly and achieve the same result compared to another method, someone may opt for the quicker method to do less work overall.
+
 ### **Technical Blockers**
 
 Some education systems are made in a garage or a shed. Other education systems are given a sizeable grant to conduct research on (and possibly make a business out of teaching said system). Then there's systems with more barriers to success compared to other schools, whether it'd be from the students, staff, or resources available.

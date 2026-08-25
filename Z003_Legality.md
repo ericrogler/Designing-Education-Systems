@@ -34,13 +34,15 @@ Tertiary education (colleges, universities, etc.) and secondary education offeri
 
 *Repeat Notice: All information in this chapter is NOT legal advice.*
 
+If you must ask why a solution is not implemented, despite it being an obvious solution, that's when you need to look into the environment and underlying causes. Consider it may've been thought of and discarded before. Many policies you will see and implement, despite any extra work they make, are there to "cover your ass" ("CYA"). In case something goes wrong, you can point back to them and establish a defense in case of issues.
+
 Before we go into education itself, we must explore and address many of the underlying nuances and details hidden beneath the surface of education. Only then can you truly make any meaningful changes towards the future of education. Teaching students is just a miniscule part of the whole. Of these parts, the first I address is legality as it constrains what you *may* do, not just *can* do.
 
 **Generally speaking, laws related to education systems are rights-based and regulatory, which typically means one of two things (or even both things at once):**
 1. Provide protections and accommodations to people within them (students, staff, organizations, etc.)
 2. Enforce and determine how education and educational content should be handled.
 
-It doesn't matter if you're a teacher, an administrator, or a non-education role working with education systems. There's a *lot* of laws to get familiar with.
+It doesn't matter if you're a teacher, an administrator, or a support role working within education systems. There's a *lot* of laws to get familiar with.
 
 **Legality involves *everyone* involved in an education system.**
 

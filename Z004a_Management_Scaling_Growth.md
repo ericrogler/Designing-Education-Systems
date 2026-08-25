@@ -79,7 +79,9 @@ You also need to choose technologies useful for today, but reasonably plan for t
 
 Addressing these issues above help solve an early scaling problem and identify what you want from your employees, and yourself, as part of your business. Properly building a foundation is key to success, makes it easier to scale up as the organization grows, and generally avoids a lot of issues in the future. Keep it simple.
 
-For the rest of this chapter, pretend you are the CEO/owner of this newfound company as I go through those breakpoints from before and *why* I find them applicable and relevant from my own experiences looking into companies.
+For the rest of this chapter, pretend you are the CEO/owner of this newfound company as I go through those breakpoints from before and *why* I find them applicable and relevant from my own experiences looking into companies. After certain points, you'll find your organization dabbling in things you definitely did not expect to deal with in the beginning. Who knows, perhaps a washing machine company will have a military division in the future.
+
+Lastly, as you become more "important" in your organization, you may also become more isolated from negative feedback and pushback, even if you're doing a terrible job, due to fear of *tangible* retaliation. Be mindful of how you handle dissent, lest you be branded a tyrant and your organization crumble underneath you.
 
 ### **Business Breakpoint 1: ~15 People**
 
@@ -317,7 +319,7 @@ Some leadership may do significantly less "physical" work and instead go through
 
 As people "climb up the ladder;" they tend to spend less time on production/labor tasks and more time in managing. That's a trait consistent across multiple roles and companies, where you "work" less, but your brain works harder. Some days could be 2 hours of smooth sailing and other days 12+ hours of putting out (almost) literal fires. This is further exacerbated by how a high level leadership mistake can have vastly greater consequences than a low level employee mistake.
 
-Lastly, some leadership roles are in a position they *can* influence their wealth, whereas the vast majority of people *cannot* influence their wealth as easily. I'm not fully equipped to discuss or debate beyond this, however, but history is consistent on giving out more wealth to people higher on the ladder compared to people on the bottom.
+Lastly, some leadership roles are in a position they *can* influence their own wealth, whereas the vast majority of people *cannot* influence their wealth as easily. I'm not fully equipped to discuss or debate beyond this, however, but history is consistent on what happens to high wealth inequalities between the upper and lower classes.
 
 ### **The Bureaucratic Spiral**
 
@@ -351,7 +353,7 @@ Remember that information, which includes requirements, gets filtered as you tra
 
 While the majority of information makes it through, there's more wiggle room for incompetence to settle down. That incompetence risks creating an environment where incoming candidates are good at getting into roles, but not necessarily doing those roles. In a less-than-ideal situation, you may create a department heavily ingrained within the hiring process holding excess authority and final say on decisions, but without any competence or ideas to function as intended.
 
-Recruiting is one aspect of a business you don't need experience in a given role to hire people into that role. That issue *alone* causes many issues with assessing incoming candidates for that particular role.
+Recruiting is one aspect of a business you don't need experience in a given role to hire people into that role. That issue *alone* causes many issues with accurately, and precisely, assessing incoming candidates to fulfill that particular role.
 
 Anyone you off-load hiring/recruiting responsibilities to must have some technical competency in what they're hiring for or you risk implementing an ineffective "filter" to bring in new people. For example, if you're hiring a math teacher, the people in the hiring process should have familiarity with math to catch people who aren't actually good at math. As another example, if you're working in a construction company, the people hiring should have some knowledge about the construction process. If the person screening a candidate doesn't know about these things, they may pass along a false positive and potentially waste resources as a result.
 

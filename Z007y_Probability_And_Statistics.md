@@ -121,9 +121,9 @@ You may *still* be wondering why a book on education dedicated so much real esta
 
 Outside of author bias, the actual reason is simple: you need to understand math to interpret the research which influences policies and decisions affecting the field of education and, well, just about *every other field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, if you're an educator anyways.
 
-The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind any charts and numbers though, which is why learning math and acquiring domain knowledge is important.
+The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind any charts and numbers though, which is why learning math and acquiring domain knowledge is important. 
 
-The bad news about data analysis is you need math skills to get the most out of data and generate effective results of your own. Thankfully, you don't need a lot of hard data for every problem; that's costly and unrealistic for many cases.
+The bad news about data analysis is you need math skills to get the most out of data and generate effective results of your own. **Simply having the data doesn't magically make you statistically literate and able to understand that data.** Thankfully, you don't need a lot of hard data for every problem; that's costly and unrealistic for many cases.
 
 ### **Data Analysis Primer**
 
@@ -157,6 +157,8 @@ Depending on what type of analysis you're doing, spreadsheets alone may not suff
 Let's say you're a teacher or instructor and I give you information on the students you're teaching next year. It may contain what you'd expect to see, like names, grades in subjects, behavioral notes, emails, and so on.
 
 That same information may also contain multiple formatting issues, missing values, consistency with capitalization errors, spacing problems, and a slew of countless other formatting issues. If you want to work with the information in the future without questioning your sanity, you'll have to *clean* it.
+
+Many issues can be mitigated early on by controlling *how* data is submitted into a system by users. This is part of "data validation" (or "sanitizing" inputs) and should be implemented when reasonable and feasible. For example, if you need to record data in a specific way, you could have users only submit it through an electronic form and limit what, and how, that information may be submitted, such as only numbers for zip codes and only letters for names. 
 
 You may not ever work with a coding language in your life or very seldomly do. You may also work with coding languages extensively. In either case, the majority of all analysis work is cleaning data; the process of fixing or removing data. Much data and information you deal with isn't going to be neatly packaged for you. You'll have to mess with it and package it up yourself to do anything meaningful with it. This process is also extremely time consuming and cleaning is most of the work needed.
 - In practice, this is often done by specialists, such as data scientists, data engineers, and software architects, rather than the general populace because of data cleaning's perception as "menial work."

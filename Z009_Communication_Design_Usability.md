@@ -44,7 +44,7 @@ This isn't a means to dissuade you from creativity or teaching. It's a reality a
 
 Did a search and found your goal? Take a closer look, see how they did the topic, then guesstimate if you can do a better job than they did. What if you found something, but of poor quality, or you didn't find your topic? That's when you can flex your ability and creativity.
 
-**If you don't need to reinvent the wheel to teach your topic(s), then don't reinvent the wheel.** That's me trying to save you some time.
+**If you don't need to reinvent the wheel to teach your topic(s), then don't reinvent the wheel.** I'm trying to save you time. To reiterate from the Legality chapter earlier: if you must ask why a solution is not implemented, despite it being an obvious solution, that's when you need to look into the environment and underlying causes.
 
 If someone did something extremely well for a topic you're covering, it may be OK to use that and apply it in your setting. It's valid and reasonable, in the interest of time, to stand upon the shoulders of giants. You can still cover that same topic if your approach is objectively better or increases accessibility.
 

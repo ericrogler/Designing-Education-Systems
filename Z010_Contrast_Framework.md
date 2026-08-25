@@ -116,7 +116,7 @@ For example, if you have 10 parts of time, you determine how many of those 10 pa
 
 With any distribution of time, keep in mind the following:
 
-1. You may lose some instructional days unpredictably for reasons outside your control. It's possible, but difficult, to plan for losses like these, but you'll likely only decently prepare lessons 1-2 weeks out at a time.
+1. You may lose some instructional days unpredictably for reasons outside your control. It's possible, but difficult, to plan for losses like these, but you'll likely only decently prepare lessons 1-2 weeks out at a time. It's a tradeoff you must balance between adjusting instruction for learners and advanced preparation.
 2. 1 or 2 week periods for each unit work best from personal observation, because you won't go too in-depth when you should summarize instead and are less likely to get behind on schedule. Nevertheless, assess what works best for *your* environment.
 
 Some parts in each content area I can summarize and explain fully in just a few sentences. Other parts require significantly more depth or methods where typical text or verbal explanations alone were insufficient.

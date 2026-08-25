@@ -14,10 +14,12 @@ nav_order: 28
 - Sgt. Avery Johnson, *Halo 3* (Bungie, 2007)
 
 ---
+There are three things you should take away from this chapter, if nothing else:
+1. **Time is a resource only the dead have plenty of.** It is a precious resource.
+2. **Money affords mistakes.**
+3. **It's easy to want, or do, something when you're not the one paying the bills for it.**
 
-**Money affords mistakes.** The kind of mistakes that'd make even a loan shark give you money advice, like slowing down on gambling. The closer you are to truly being wealthy, the more you value what opportunities wealth provides you instead of the wealth itself.
-
-**If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases, or even reveal it's a scam.** Remember, the goal of a business (and financial operations) is *making* money, not saving money.
+If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases, or even reveal it's a scam. Remember, the goal of a business (and financial operations) is *making* money, not saving money.
 - Alternatively, think about how you might sell shovels when people say there's a gold rush.
 
 If you're deciding between two or more options to spend money on, the following factors should be examined for tie-breakers:
@@ -38,6 +40,7 @@ If you're trying to teach a student about wealth, consider going over the follow
 - Instilling self-awareness about their own wealth and any privilege/opportunities they're given due to it.
     - If they grew up wealthy, they need to face that fact and admit it.
     - They also cannot admit it with shame or defensiveness; they have to acknowledge it and the responsibility with it.
+- How the closer you are to truly being wealthy, the more you value what opportunities wealth provides you instead of the wealth itself.
 
 ## **Long Answer**
 

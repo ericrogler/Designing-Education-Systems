@@ -15,19 +15,6 @@ nav_order: 20
 
 ---
 
-**Heutagogy:** Learners directly control what's worth learning about, and why, as well as their goals and any strategies and outcomes to meet those goals.
-- E.g. Selecting what books, courses, etc. to take rather than someone else deciding for you.
-- I hear the term "self-determined learning" more than heutagogy from personal experience, but the latter is a form of the former.
-
-**Andragogy:** Learning and theories related to instruction catered towards adult, college/university, postgraduate, and professional audiences.
-- E.g. Professional development and continuing education.
-- This book is an example of andragogy.
-- From personal experience, I rarely hear this term outside of talking to other adults in education, so expect me to use "pedagogy" in place of it often.
-
-**Pedagogy:** Learning and theories related to instruction catered towards children, adolescent, and *sometimes* college/university undergraduate audiences.
-- E.g. Primary and secondary education.
-- Pedagogy is often used in place of andragogy as pedagogy is more commonly known.
-
 It is in the nature of learning to get confused along the journey and expend some level of *effort* towards learning. *That's normal.*
 
 In general:
@@ -72,9 +59,26 @@ Before we dive into further topics, I want to emphasize one point: **It is signi
 - It's less taxing on employees to maintain one version of an application rather than developing backwards compatibility and/or cross-functionality on multiple, different operating systems.
 - Assembly lines are easily configured to optimize production on one product compared to setting up multiple production lines for multiple products.
 
+### **The "Gogys"**
+
+Before continuing, I want to highlight a few terms and their definitions below. You may see this often, or not too often, across education.
+
+**Heutagogy:** Learners directly control what's worth learning about, and why, as well as their goals and any strategies and outcomes to meet those goals.
+- E.g. Selecting what books, courses, etc. to take rather than someone else deciding for you.
+- I hear the term "self-determined learning" more than heutagogy from personal experience, but the latter is a form of the former.
+
+**Andragogy:** Learning and theories related to instruction catered towards adult, college/university, postgraduate, and professional audiences.
+- E.g. Professional development and continuing education.
+- This book is an example of andragogy.
+- From personal experience, I rarely hear this term outside of talking to other adults in education, so expect me to use "pedagogy" in place of it often.
+
+**Pedagogy:** Learning and theories related to instruction catered towards children, adolescent, and *sometimes* college/university undergraduate audiences.
+- E.g. Primary and secondary education.
+- Pedagogy is often used in place of andragogy as pedagogy is more commonly known.
+
 ### **What About Homeschooling?**
 
-*Notice: This section primarily aimed at parents/guardians.*
+*Notice: This section primarily aimed at parents/guardians regarding K-12 education.*
 
 To state *my*, the author's, opinion? I'm normally against homeschooling. I've also never been through homeschooling myself, but I should still address it in this kind of book.
 
@@ -158,19 +162,21 @@ Differentiation here is great on paper and often poorly implemented in practice.
 
 There's just "one teensy-weensy but ever-so-crucial little tiny detail" as Hades from *Hercules* (1997) might put it: MANY EDUCATION SYSTEMS AREN'T SUPPORTED FOR IT!
 
-Having *the teacher/instructor* deal with all differentiation for every student risks further placing your education system onto a single point of failure. What happens when the teachers/instructors are no longer there? Do the other staff in the education system cover instruction sufficiently? Do the students police themselves into learning? It's unlikely, even in the case of student-centered learning, as an educator is also a facilitator.
+To use a non-education example: imagine someone else putting a grandmaster in the same class as an initiate who started two hours ago you have to teach. The types of education they require are *vastly* different. What becomes one subject is now effectively two subjects, doubles the workload, and halves the "proper" instructional time a teacher may reasonably provide for these two students. It's less of an issue if the gap between all students involved is minimized.
 
-A conventional classroom may have 1 adult educator, around 25-30+ students, and a surprisingly large skill spread among students. Imagine a group of students where there's 3 different IEPs, 4 ESL students, 1 student trying to start a literal fire because they're bored with your material, and 4 504 plans together in that group. You've all of a sudden went from 1 way to designing your education to 12+ ways instead, plus more energy spent towards *managing* students instead of *educating* students. A solution designed for an individual rarely perform wells as a solution for an entire group or classroom, which means we're dealing with systemic issues here.
+Having *the educator* deal with all differentiation for every student also risks further placing your education system onto a single point of failure. What happens when the teachers/instructors are no longer there? Do the other staff in the education system cover instruction sufficiently? Do the students police themselves into learning? It's unlikely, even in the case of student-centered learning, as an educator is also a facilitator.
 
-If you're trying to hold students to *one* consistent standard, but are differentiating content in *multiple* ways, meeting that standard is far harder, if not nigh impossible, and takes significantly more time, resources, and effort to accomplish. Instead of tracking and ensuring one method adheres to quality education, you now have multiple methods to do that for. It scales terribly, can fall apart at the slightest touch, and maintaining it is painful. All of that makes standardization a go-to solution because it works with limited resources. Additionally, standardization and differentiation are antonyms and will face tradeoffs; you cannot invest into one aspect without sacrificing the other.
+A conventional classroom may have 1 adult educator, around 25-30+ students, and a surprisingly large skill spread among students. Imagine a group of students where there's 3 different IEPs, 4 ESL students, 1 student trying to start a literal fire because they're bored with your material, and 4 504 plans together in that group. You've all of a sudden went from 1 way to educate all of your students to 12+ ways instead, plus more energy spent towards *managing* students instead of *educating* students. A solution designed for an individual rarely perform wells as a solution for an entire group or classroom, which means we're dealing with systemic issues here.
+
+If you're trying to hold students to *one* consistent standard, but are differentiating content in *multiple* ways, then meeting that standard is far harder, if not nigh impossible, and takes significantly more time, resources, and effort to accomplish. Instead of tracking and ensuring one method adheres to quality education, you now have multiple methods to do that for. It scales terribly, can fall apart at the slightest touch, and maintaining it is painful. All of that makes standardization a go-to solution because it works with limited resources. Additionally, standardization and differentiation are antonyms and will face tradeoffs; you cannot invest into one aspect without sacrificing the other.
 
 ### **Differentiation As Flexible Instruction**
 
-Where differentiation works exceedingly well is in tutoring or one-on-one instruction, or differentiation as flexible instruction, with the resources to support it. In this case, there's one teacher to one student, so a teacher only needs to create one distinct (i.e. "differentiated") method of teaching optimized for that one student's learning. Designing scaffolds to get students participating is also significantly less complex. The likelihood of accomplishing multiple differentiations in general classrooms decreases quickly as the number of students to accommodate increases.
+Where differentiation does work exceedingly well is in tutoring or one-on-one instruction, or differentiation as flexible instruction, provided you have the resources to support it. In this case, there's one teacher to one student, so a teacher only needs to create one distinct (i.e. "differentiated") method of teaching optimized for that one student's learning. Designing scaffolds to get students participating is also significantly less complex. The likelihood of accomplishing multiple differentiations in general classrooms decreases quickly as the number of students to accommodate increases.
 
-Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation with each student is often still out of reach. It could be because it's financially infeasible, or too costly, for systems to handle reliably and maintain at scale. Because of this infeasibility, it's why modern differentiation may appear closer to methods of group instruction aiming to be as close to effective as possible to one-on-one instruction.
+Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation with each student is often still out of reach. It could be because it's financially infeasible, or too costly, for systems to handle reliably and maintain at scale. Because of this infeasibility, it's why differentiation may look more like group instruction aiming to be as close to effective as possible to one-on-one instruction.
 
-To further explore one potential solution to the above problem, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look into other similar resources (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're still *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility at the forefront, but also destandardizes the learner by taking their personal considerations into the design.
+To further explore one potential solution to the above problem at the time of this book's writing, Universal Design Learning (UDL) may replace differentiation with benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look into other similar resources (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're still *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility at the forefront, but also destandardizes the learner by taking their personal considerations into the design.
 
 The biggest benefits are you get a framework where everyone gets the same accommodations under one curriculum and it's accessible to as many students as possible. With this setup, you're able to improve outcomes for *all* learners from the start. It's also compatible with other teaching methods and frameworks, such as direct instruction and the framework I talked about previously. To list some examples of UDL:
 - Subtitles/closed captions for videos
@@ -183,6 +189,14 @@ Universal Design Learning *should* work well, because it already has parts "good
 However, like with every other methodology or framework (even the ones I made!), you cannot throw UDL into a system and expect it to perform a miracle. There's still a point you cannot reasonably accommodate students several levels too low for a given subject matter, class, and/or grade with UDL. It still has the same resource/time problems like other systems where, if sufficient supports cannot be provided with the resources available, it will still not work as intended. 
 
 Designing with UDL may also not cover legal obligations for accommodations like IEP/504/etc. or other legally required accommodations, even if an UDL-aligned curriculum is intended and designed to cover those accommodations anyway. It's a philosophy for everyone's education and not a legal mandate for an individual's education. An accommodation you may think is reasonable may no longer become reasonable depending on what the environment provides. 
+
+### **"Why Didn't My Teacher Teach Me This?"**
+
+While many curriculums strive for a good education, an education system perfectly optimizing the "value" for *every* student going through it is akin to getting penguins to fly. You can certainly get close to flight, such as letting penguins pilot airplanes, but true flight is an ever-moving goalpost.
+
+The real answer is as I've stated before and demonstrated in the sections and chapters before. *Teaching* is a minor part of education. The vast majority of effort and attention is towards *management.*
+
+If an education system must physically manage multiple students, all at the same time, it risks taking away the reward and effort towards any learning. This is why alternative means or platforms where an educator can solely focus on teaching students *seems* like a better learning experience, as you can isolate countless distractions and effectively ignore many difficulties with managing students.
 
 ### **A "Secret" for Students**
 
