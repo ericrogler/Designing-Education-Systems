@@ -27,6 +27,8 @@ nav_order: 29
 
 ---
 
+**Technology is a capability multiplier.**
+
 **If you think you need the newest technology implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.** Said processes can include focused changes like better oversight and coordination instead of implementing an entirely new productivity system. 
 
 Just because a tool, or technology, is accessible is not sufficient reason to deploy it for use in your systems regardless of your available resources. This is further restricted by some technologies only working well for certain groups of people, such as young students vs old students. In the case of "dangerous" technologies, there are three common brakes stopping them: treaties and laws defining what's prohibited, officials with oversight to verify compliance, *and* a costly penalty to deter misuse of said technologies. Ideally, you want *all three* of these brakes implemented.
@@ -60,22 +62,23 @@ Views on technology introduced less than 5 years ago, or at any point in time re
 - Maybe the timeline for full implementation is not 5 years, but 10+ years.
 - Many assumptions about how it could affect roles and positions in society.
 
-As further examples, I may say we will see a slow, but quite certain, creep in the reduction to a person's right to privacy and the increase of unwarranted surveillance (perhaps ironically done in the name of "safety" too). There may also be a shift from ownership to subscription, where consumers "rent" nearly everything instead of owning something under their name/title. Another assumption may be newer technologies are inducing an unprecendented level of addiction amongst the human populace. One more assumption may be we are 10 years away before technology is sufficiently advanced enough to erode any trust in anything you see or hear on the Internet (or at least not see/hear in person). 
+As further examples, I may say we will see a slow, but quite certain, creep in the reduction to a person's right to privacy and the increase of unwarranted surveillance (perhaps ironically done in the name of "safety" too). There may also be a shift from ownership to subscription, where consumers "rent" nearly everything instead of owning something under their name/title. Another assumption may be newer technologies are inducing an unprecendented level of addiction amongst the human populace. One more assumption may be we are 10 years away before technology is sufficiently advanced enough to erode any trust in anything you don't see or hear in person. 
 - These are all horrifying assumptions, to be sure, but they may or may not be fully realized, or simply exaggerated, in the near and distant future.
-- In the case of "dangerous" technologies, there are three common brakes stopping them: treaties and laws defining what's prohibited, officials with oversight to verify compliance, *and* a costly penalty to deter misuse of said technologies. Ideally, you want *all three* of these brakes implemented.
+- In the case of "dangerous" technologies, there are three common brakes stopping them: treaties and laws defining what's prohibited, officials with oversight to verify compliance, *and* a costly penalty to deter misuse of said technologies. Ideally, you want *all three* of these brakes implemented for mitigation.
 
 ### **A Technology Overview**
 
 Perhaps alluding to *Fahrenheit 451* by Ray Bradbury (1953) is the way to start this section.
  
 I want you to imagine what happens when people choose, of their own free will, to dumb themselves down and offload thinking, become ignorant, and desire a constant preoccupation of their minds. All of that without any censorship or declaration from a third party involved forcing their hands. 
-- Perhaps the real message was people should avoid constantly staring at screens.
+
+Perhaps the real message was people should avoid constantly staring at screens.
 
 While technology is generally a good thing, there can also be too much, or misuse, of a good thing. What can easily undermine technology, and "magic" you may see in fantasy, is a failure to process the implications. **Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, garage door springs, trampolines, social media, and a sniper rifle.**
 - Even some "tech" executives and billionaires, that people might consider successful in society, actively shield their own children from *excessive* technology and the products they may've helped develop (López, 2020).
 - You could extend this comparison to other technologists, like people working in IT, also taking proactive approaches to limiting technology use.
 
-Many people use various technologies like computers, phones, etc. all day, every day, and perhaps even every waking hour, and *still* not know how the underlying technology works. Even at the smallest issue or roadblock, their mind can go blank or they don't know how to find and implement a solution, which can lead to an unpleasant experience for anyone trying to help them. Having too many technologies (such as microservices) to the point where no one knows what they do anymore is a sign you've likely chosen technology implementations poorly.
+Many people use various technologies all day, every day, and perhaps even every waking hour, yet *still* not know how the underlying technology works. Even at the smallest issue or roadblock, their mind can go blank or they don't know how to find and implement a solution, which can lead to an unpleasant experience for anyone trying to help them. Having too many technologies (such as microservices) to the point where no one knows what they do anymore is a sign you've likely chosen technology implementations poorly.
 
 Additionally, a surprisingly large number of systems are held together through duct tape and temporary fixes, which can ironically turn into "permanent" fixes, due to limited resources like time and money. You also might not want to know about the mental capacity and sleep deprivation of a health professional near the end of their 12-hour shift either. There's many things the public may not be comfortable knowing about and technology is *full* of those things.
 
@@ -113,21 +116,23 @@ To give an example of this permeation: a school may provide every student with t
 
 A student device above can cover almost all use cases in an education system and simplify the logistics of resource management. It's also a trade-off on resources and reduction in capacity/lot-sizing; though you can now manage fewer physical resources, providing technology may require additional overhead and other direct/indirect costs like licensing, device management systems, connectivity, internet providers, and equity concerns.
 
-With relation to student-issued devices, as well as organization-issued devices, you should be vigilant of "non-approved" or unsanctioned activities. It is entirely possible, if not probable, the organization issuing you the device, or piece of technology, to use added mechanisms and installed software to track *everything* that happens on that particular device. The same could be said of connecting to networks; if you take a device and connect it to a secure network, that network can track your activity during the period you're accessing it.
+With relation to student-issued devices, as well as organization-issued devices, you should be vigilant of "non-approved" or unsanctioned activities. It is entirely possible, if not probable, the organization issuing you the device, or piece of technology, to use added mechanisms and installed software to track *everything* that happens on that particular device. The same could be said of connecting to networks. If you take a device and connect it to a secure network, that network can track your activity during the period you're accessing it.
 - Basically: keep work stuff to work devices and personal stuff to personal devices.
 - While someone may not be always looking at what you do 24/7, they could still take a closer look at what you *have* done with their resources if given reason to.
 
-Not *all* technology is perceived as great or necessary as preferences exist. People may vastly prefer a physical medium to doing work on vs an electronic medium. It may also be an accommodation to provide a physical medium vs an electronic medium. There's also cases where certain activities cannot be substituted with technology (currently), so it still requires physical resources.
+Not *all* technology is perceived as great or necessary as preferences exist. People may vastly prefer a physical medium for work vs an electronic medium. It may also be an accommodation to provide a physical medium vs an electronic medium. Certain activities cannot be sufficiently substituted with technology (currently), so it requires other resources.
 
 ### **[Cyber]Security in Technology**
 
-In the Legality chapter, we covered the importance of know what you may and may not do. In cybersecurity, we face a major exception to that rule. Security often cannot supercede any business operations inside a system, as someone in a security/cybersecurity role is a subordinate to a manager, director, or executive. Security's role here is risk identification and documentation, mitigation, and communication to other stakeholders/parties. You can tell people what they *should* do, but not be allowed to do what's needed without authorization. Fortunately, you can still CYA with contingencies like risk acceptance letters (RALs) where people explicitly acknowledge they accept a risk instead of mitigating/avoiding a risk. Highlighting and documentation are important here, just like in other parts of education systems.
+In the Legality chapter, we covered the importance of knowing what you may and may not do. In security, as well as cybersecurity, we face a major exception to that rule. 
+
+Security often cannot supercede any business operations inside a system, as someone in a security/cybersecurity role is a subordinate to a manager, director, or executive. Security's role here is risk identification and documentation, mitigation, and communication to other stakeholders/parties. You can tell people what they *should* do, but not be allowed to do what's needed without authorization. Fortunately, you can still CYA with contingencies like risk acceptance letters (RALs) where people explicitly acknowledge they accept a risk instead of mitigating/avoiding a risk. Highlighting and documentation are important here, just like in other parts of education systems.
 
 Technology, like computers and cell phones, can be misused by students *and* non-students, including jailbreaking, installing unauthorized software, and damaging hardware. The human element is almost always the easiest way to bypass any technology's security system to cripple it. To illustrate that point:
 - Example 1: A post-it note with your password on it next to a workplace computer.
 - Example 2: Sharing your password with someone else so they can use your device or a school provided device in general.
 - Example 3: Keeping the default settings, which are easy to find out about, for a username/password to an administrator account.
-- Example 4: Making "12345" the combination to your luggage.
+- Example 4: Making "12345" or "password" the password to your account.
 - Example 5: [Working at the Louvre with the password set to "Louvre" for your surveillance system](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297) (Leath & Geho, 2025). 
     - While that's easy to remember, that's just as easy to guess and cause havoc with.
 
@@ -163,7 +168,7 @@ In the case above, negative thinking lets you explore what bad things could happ
 
 ### **What About Computer (or Similar Technology) Safety?**
 
-Computers, and the contents on them, are *mostly* safe and secure... until you give them access to the Internet (or its equivalent if it changes in the future) or until human gives the keys away like we've seen above. A computer without any Internet is simply an "airgapped" system and is physically isolated.
+Computers, and the contents on them, are *mostly* safe and secure... until you give them access to the Internet (or its equivalent technology in the future) or until a human gives the keys away like we've seen above. A computer without any Internet is simply an "airgapped" system and is physically isolated and safeguarded from many human hands.
 
 To use a low-technology analogy: a house is a lot harder to break into without any windows or doors. That's a computer without the Internet. You can still "break" into it, but the means to do so (e.g. remotely connect) are far more limited and you'll need more specialized methods (e.g. malware on a USB stick plugged into the computer). You add the Internet and all of a sudden there's a lot more "holes" for the architecture to support by adding more doors and windows. All it takes is one of those to open and you could compromise the entire interior.
 

@@ -305,11 +305,11 @@ There are various examples where this could apply. Sometimes it's as easy as pro
 
 ### **Sit Near a Helpful Peer**
 
-You want *another student* who has no legal obligations to assist and ensure I, the teacher with the legal responsibility, am satisfying the accommodation? 
+In my opinion, this can be a terrible idea. 
 
-In my opinion, that is a terrible idea. The student peer isn't a professional like a school or district employee; they're a *student.* They don't have to follow all the same rules as teachers and staff, but the blame can ultimately fall back on the teacher at the end of the day.
+The student peer is often not a professional like a school or district employee; they're a *student.* They have no legal obligations to assist and ensure I, the teacher with the legal responsibility, am satisfying the accommodation. They don't have to follow all the same rules as teachers and staff, but the blame can ultimately fall back on the teacher at the end of the day.
 
-In the absolute, but improbable, best case, this works out fine without issues.
+In the absolute, yet improbable, best case, peer support works out fine without issues and mitigates overreliance on paraprofessionals. There's also a distinct difference between randomly assigning students and specifically designed peer-support arrangements, yet you're still making the choice to enforce one method or another.
 
 In practice, however, this places undue stress and threatens the learning environment of the "peer" they sit next to in addition to any other students. Essentially, the accommodation asks me to assign extra labor to a student with risk of educational harm. That harm affects *multiple* people now: the peer and the student requiring the accommodation, with more students affected by proximity.
 

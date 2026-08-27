@@ -63,6 +63,8 @@ Surprisingly though, it has more benefits than expected:
 
 A reasonable attempt by the author was made throughout this repository to ensure all references utilized are compatible with CC-BY 4.0 copyright. If there is a source that *is not* compatible, please inform them directly so it may be fixed.
 
+**Remember: You are reading an unofficial manuscript.** Don't be terribly surprised if a lot of things change and you're citing inaccurately all of a sudden.
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a

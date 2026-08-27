@@ -1,9 +1,9 @@
 ---
-title: 26. Money and Budget Management
+title: 26. Money, Wealth, & Budgets
 layout: default
 nav_order: 28
 ---
-# Money and Budget Management
+# Money, Wealth, & Budgets
 
 ### [Previous Chapter](Z018_Maintaining_Your_Health.html)
 
@@ -28,11 +28,11 @@ If you're deciding between two or more options to spend money on, the following 
 - Performance (how well does it work and handle failure/delays)
 - Cost (is it affordable in the short/long term)
 
-The typical goal of an organization is to improve performance (effectiveness) and/or cut costs (efficiency). Money/wealth is a large motivator behind that decision making. 
+The typical goal of an organization is to make money (effectiveness) and/or cut costs (efficiency). It is a large motivator behind decision making. 
 
 If selling products or services, it's typically better to offer incentives towards customers to buy something rather than force customers to buy something.
 
-One of the biggest risks to your own wealth is you, the reader. I often joke about hiring an attorney if I won the lottery or got a large inheritance because of this, but it's risk management and you making a stupid decision, on accident or on purpose, is *a very real and dangerous risk.*
+One of the biggest risks to your own wealth is you, the reader. I often joke about hiring an attorney if I won the lottery or got a large inheritance because of this, but it's risk management. You making a stupid decision, on accident or on purpose, is *a very real and dangerous risk.*
 
 If you're trying to teach a student about wealth, consider going over the following:
 - How to be humble and gracious.

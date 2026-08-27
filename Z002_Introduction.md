@@ -9,9 +9,9 @@ nav_order: 4
 
 ## **Introduction**
 
-I want to get a new teacher, instructor, presenter, educator etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also peer behind the curtains. 
+I want to get a new teacher, instructor, presenter, educator etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also peer behind the curtains.
 
-**That's my problem here to solve and this book is my solution. It serves as an introduction, or starting point, towards education systems and examines multiple topics broadly.**
+
 
 **The very first thing people looking into education should know? Education is 90% *not* teaching and 10% teaching. This book explores that 90% *and* the 10%.**
 
@@ -19,25 +19,27 @@ The second thing, or *things*, you should know going in:
 - It's going to take you a long time to become an expert and you still need to learn the basics.
 - Will this book go against some conventional wisdom on education and teaching? Yes. 
 - Will this book support certain existing, tried-and-true, education methodology? Also yes.
-- Might this book be considered a controversial book to some readers? Very much so.
+- Might this book be considered controversial to some readers? Very much so.
 - Will this book often state the obvious that still need to be stated anyways? Quite so. What may be obvious to one reader may not be to another reader.
-- Will some of this book not be perfect or 100% correct? Yes. This won't solve all your problems and you'd be bold for assuming I know *all* the solutions and edge cases involved. Improving education is an iterative process, afterall, even if that process loops back in "old" solutions to "new" problems.
 - Do you need to agree with *everything* presented here? No, and you don't have to either. Your situation may even *demand* you to not follow something presented here.
 
-**Overall, think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
+Will some of this book not be perfect or 100% correct? Yes. This won't solve all your problems and you'd be bold for assuming I know *all* the solutions and edge cases involved. Improving education is an iterative process, afterall, even if that process loops back in "old" solutions to "new" problems. If I were to give a generous estimate about how many of these problems this book could solve? At least 99% of them. That remaining 1% is still a countless number of problems though!
+
+**Overall, think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic(s) to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
 - Granted, I'm also going to cater what products and services I provide, i.e. information and opinions on topics presented to you.
     - At the very least, I'll be the person that will speak to you frankly, filter through things, and attempt an honest assessment, which many powerful creatives should have.
-    - It also means you should still read the contents of this book with a grain of salt, even with any good advice. Your current situation may require modifications of what's suggested here.
+    - It also means you should still read the contents of this book with a grain of salt, even with any good advice presented within. Your current situation may require modifications of what's suggested here and context will inform what you *should* do over many other factors.
 
 An educator exists in many different forms and they come from many backgrounds to cover a vast array of topics. A data engineer may create a guide discussing ETL (Extract, Transform, and Load). A designer may touch upon Gestalt Principles and accessibility. An architect may explain why they use a 2x6 wall instead of a 2x4 wall on bathroom walls where the shower line is installed (hint: it's easy for plumbing and weather-proofing).
 
-While everyone can teach, people should be trained, or at least spend time figuring out, on how to educate or else you'll get a blind leading the blind situation. The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up their learning journey. That may mean removing a problematic student to save the education of every other student in a classroom, as well as failing students and holding them back if they're not ready to move onto the next stage of their journey.
+While everyone can teach, people should be trained, or at least spend time figuring out, on how to educate students or else you'll get a blind leading the blind situation. The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up their learning journey. That may mean removing a problematic student to save the education of every other student in a classroom, as well as failing students and holding them back if they're not ready to move onto the next stage of their journey.
 
-### **What's The Goal?**
+### **What's The Goal Of This Book?**
 
 1. To increase the probability of success for professionals navigating a new or existing education system.
 2. To explain some of the nuances and practicalities present in education systems.
 3. To help others design their own education systems by drawing upon education and other professional disciplines.
+4. To explore some of the background and knowledge needed to understand the research and methodology shaping and influencing education.
 
 ### **What The Book Isn't**
 
@@ -73,7 +75,7 @@ If you have no familiarity at all with education systems, my suggestion to you i
 
 ### **What You'll [Hopefully] Learn**
 
-The public interacts often with education systems, but unless they are on the "inside" (i.e. they're educators, administrators, support staff in education systems, etc.), they don't see the inner workings of what happens. Due to that lack of visibility, they may not always see how their actions, and the actions of students, affects every other student and relevant stakeholders, can affect education.
+People interact quite often with education systems, but unless they are on the "inside" (i.e. they're educators, administrators, support staff in education systems, etc.), they don't always see the inner workings. Due to that lack of visibility, they may not always see how their actions, and the actions of students, affects every other student and relevant stakeholders, can affect education.
 
 You may learn a lot of things, both expected and unexpected, but I'd say most of the following are part of the biggest takeaways:
 
@@ -92,13 +94,13 @@ You may learn a lot of things, both expected and unexpected, but I'd say most of
 
 ### **Conventions and Assumptions**
 
-**This book is intended for educational and informational purposes. I will periodically explore legal, medical, and financial topics and how they might apply in education. Under NO circumstances should you assume I am giving you legal, medical, and/or financial advice to act upon; it's a *discussion* of these topics and how I may see them apply to education systems. THIS IS YOUR FIRST MAJOR WARNING!**
+**This book is intended for educational and informational purposes. I will periodically explore legal, medical, and financial topics and discuss them here. Under NO circumstances should you assume I am giving you professional legal, medical, and/or financial advice to act upon; it's a *discussion* of these topics and how I may see them apply to education systems. THIS IS YOUR FIRST MAJOR WARNING!**
 - When in doubt, if it sounds like I contradict this statement at any time in my writing, *refer back to this clause.*
 
 Chapters are split apart by "general domain" and where I feel the information best fits. For example, Gestalt Principles would fit into a design chapter while extensive details about laws like HIPAA may better fit into a legality chapter.
 
-Some statements and information may not be independently verifiable because they rely on internal evidence unavailable to the public like specific student grades, timelines, surveys, and more. Please understand there's a significant amount of information related to education I cannot openly share. Omitting personal identifying information is a major part of this effort. Many "results" I present here are based on direct observation and estimations rather than controlled observations. From personal experience, it's hard to do data collection and the work of a scientist/researcher while teaching simultaneously.
-    - Additionally, student data may introduce two types of bias from non-probability sampling: voluntary response and convenience.
+Some statements and information may not be independently verifiable because they rely on internal evidence unavailable to the public like specific student grades, timelines, surveys, and more. Please understand there's a significant amount of information related to any students I taught I cannot openly share. Omitting personal identifying information is a major part of this effort. Many "results" I present here are based on direct observation and estimations rather than controlled observations. From personal experience, it's hard to do data collection and the work of a scientist/researcher while teaching simultaneously.
+    - Additionally, selective student data may introduce two types of bias from non-probability sampling: voluntary response and convenience.
 
 If you're in education or an educator, I'll assume you're at least dealing with reasonable students capable of completing assigned work. While disabilities and adverse students are considered, only up to minor to moderate disabilities and accommodations will be covered. Any frameworks and systems written here are primarily designed for technical subjects (math, engineering, science, etc.), but can apply elsewhere with some adjustments.
 

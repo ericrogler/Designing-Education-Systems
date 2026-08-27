@@ -22,8 +22,7 @@ Being the "best" is simply a title based on a specific situation and circumstanc
 
 Being "good" is, pragmatically speaking, simply being better than others. It could also mean someone that doesn't cause issues or a person pointed at something and called it "good" one day, so that's the standard. Perhaps it simply means if someone recognizes your efforts, then that's good enough.
 
-Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to evaluate performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results (see "Cobra Effect" below). If a metric has no influence on answering someone's question or drives a real decision, it's probably a useless metric.
-- The Cobra Effect: A solution unintentionally makes a problem worse (Siebert, 2001).
+Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to evaluate performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results. This is the Cobra Effect, where a solution unintentionally makes a problem worse (Siebert, 2001). If a metric has no influence on answering someone's question or drives a real decision, it's probably a useless metric.
 
 When academics are a primary measure of a student's worth, especially when tied to funding, a system may treat that student like a commodity. If grades are also a metric of success, a teacher/instructor, given their current position and power, can only reasonably grade work they receive. Interpret that as you will.
 

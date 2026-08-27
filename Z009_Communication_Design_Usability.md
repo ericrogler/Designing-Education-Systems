@@ -32,7 +32,7 @@ When in doubt, design for clarity and simplicity over consistency. Designing goe
 
 ## **Long Answer**
 
-Every role requires communication skills. Education *especially* requires communication skills. The perfect curriculum falls apart when it cannot be communicated in simple enough terms, afterall.
+Every role requires communication skills. Even the ones where communication *seems* sidelined in technical jobs, such as programming, analysis, and engineering. Education *especially* requires communication skills. Curricula fall apart when it cannot be communicated in simple enough terms, afterall.
 
 **Before continuing, recognize that:**
 1. Someone else probably did what you want to do before.
